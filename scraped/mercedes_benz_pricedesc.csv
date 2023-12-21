@@ -1,0 +1,894 @@
+url,name,model,price,1,2,3,6,7,8,9,10,11,12,13,14
+/ad/30139312,Mercedes-Benz B Class,1.8 B180 CDI BLUEEFFICIENCY SE 5d 109 BHP MPV,"1,099,900",2014,Automatic,64.2 mpg,Diesel,2014,1796cc,"18,700 miles",Diesel,Automatic,GREY,MPV,64.2 mpg
+/ad/29726901,Mercedes-Benz SLR Mclaren,ROADSTER. BELIEVED TO BE 1 OF 9 UK SUPPLIED CARS. BOSE. 19'' TURBINE WHEELS. Convertible,"379,995",2007,Automatic,19.5 mpg,Petrol,2007,5439cc,"12,038 miles",Petrol,Automatic,Silver,Convertible,19.5 mpg
+/ad/30869662,Mercedes-Benz G Class,BRABUS WIDESTAR 800 HP 4.0 G63 V8 BiTurbo AMG SUV,"359,995",2023,Automatic,21.4 mpg,Petrol,2023,3982cc,100 miles,Petrol,Automatic,Black,SUV,21.4 mpg
+/ad/30738632,Mercedes-Benz G Class,BRABUS WIDESTAR 700HP 4.0 G63 V8 BiTurbo AMG SUV,"329,995",2023,Automatic,21.4 mpg,Petrol,2023,3982cc,80 miles,Petrol,Automatic,Black,SUV,21.4 mpg
+/ad/28457300,Mercedes-Benz SLR Mclaren,LOW MILEAGE. A UNIQUE MKB COLLECTABLE EXAMPLE. 19'' TURBINE ALLOY WHEELS Coupe,"279,995",2005,Automatic,19.1 mpg,Petrol,2005,5439cc,"4,242 miles",Petrol,Automatic,Silver,Coupe,19.1 mpg
+/ad/30855749,Mercedes-Benz GLS Class,BRABUS 800 HP 4.0 GLS63h V8 BiTurbo AMG Night Edition (Executive) Other,"249,995",2023,Automatic,21.9 mpg,Other,2023,3982cc,100 miles,Other,Automatic,Black,Other,21.9 mpg
+/ad/29947639,Mercedes-Benz SL Class,4.0 AMG SL 63 4MATICPLUS PREMIUM PLUS 2d 577 BHP Convertible,"239,999",2023,Automatic,21.9 mpg,Petrol,2023,3982cc,350 miles,Petrol,Automatic,BLACK,Convertible,21.9 mpg
+/ad/30869655,Mercedes-Benz GLE Class,BRABUS 700 HP 4.0 GLE63 V8 BiTurbo AMG S Coupe Coupe,"229,995",2023,Automatic,22.8 mpg,Other,2023,3982cc,100 miles,Other,Automatic,Black,Coupe,22.8 mpg
+/ad/29100498,Mercedes-Benz G Class,4.0 AMG G 63 4MATIC 5d 577 BHP Estate,"220,000",2022,Automatic,21.4 mpg,Petrol,2022,3982cc,"6,450 miles",Petrol,Automatic,GREEN,Estate,21.4 mpg
+/ad/30625641,Mercedes-Benz G Class,4.0 AMG G 63 4MATIC 5d 577 BHP Estate,"220,000",2021,Automatic,21.4 mpg,Petrol,2021,3982cc,"10,400 miles",Petrol,Automatic,BLACK,Estate,21.4 mpg
+/ad/30956007,Mercedes-Benz G Class,G63 AMG Brabus Edition 4Matic 4.0 V8 BiTurbo 9G-Tronic ( 585 bhp ) Other,"214,995",2023,Automatic,21.4 mpg,Petrol,2023,3982cc,"1,800 miles",Petrol,Automatic,BLACK,Other,21.4 mpg
+/ad/30792055,Mercedes-Benz G Class,4.0 AMG G 63 4MATIC 5d AUTO 577 BHP Estate,"210,000",2023,Automatic,21.4 mpg,Petrol,2023,3982cc,466 miles,Petrol,Automatic,GREY,Estate,21.4 mpg
+/ad/30645063,Mercedes-Benz G 63,CARBON EDITION 4 SUV,"200,000",2023,Automatic,17.7 mpg,Petrol,2023,470 miles,Petrol,Automatic,Black,SUV,17.7 mpg,
+/ad/27422767,Mercedes-Benz AMG GT,4.0 AMG GT,"199,999",2020,Automatic,22.1 mpg,Petrol,2020,3982cc,"1,500 miles",Petrol,Automatic,WHITE,Coupe,22.1 mpg
+/ad/30261933,Mercedes-Benz G Class,4.0 AMG G 63 4MATIC 5DR 577 BHP+PERFORMANCE PK+NIGHT PK+MORE+ Estate,"199,791",2023,Automatic,21.4 mpg,Petrol,2023,3982cc,995 miles,Petrol,Automatic,BLACK/BLACK,Estate,21.4 mpg
+/ad/29412359,Mercedes-Benz G Class,AMG STATION WAGON SUV,"198,995",2022,Automatic,21.4 mpg,Petrol,2022,3982cc,"2,000 miles",Petrol,Automatic,Black,SUV,21.4 mpg
+/ad/30743791,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG Magno Edition SpdS+9GT 4WD Euro 6 (s/s) 5dr 22s,"198,000",2023,Automatic,Tax: n/a,2023,3982cc,"2,000 miles",Petrol,Automatic,Black,SUV,,
+/ad/30218658,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG SUV 5dr Petrol SpdS+9GT 4WD Euro 6 (s/s) (585 ps) Estate,"198,000",2022,Automatic,21.4 mpg,Petrol,2022,3982cc,"2,400 miles",Petrol,Automatic,BLACK,Estate,21.4 mpg
+/ad/30772734,Mercedes-Benz G Class,G63 5dr 9G-Tronic SUV,"194,499",2023,Semi-Auto,21.4 mpg,Petrol,2023,4L,50 miles,Petrol,Semiauto,Black,SUV,21.4 mpg
+/ad/30839022,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG Carbon Edition SpdS+9GT 4WD Euro 6 (s/s) 5dr SUV,"189,995",2023,Automatic,17.7 mpg,Petrol,2023,3982cc,"5,000 miles",Petrol,Automatic,Black,SUV,17.7 mpg
+/ad/30908938,Mercedes-Benz G Class,G63 Magno Edition 5dr 9G-Tronic SUV,"189,995",2023,Automatic,17.2 mpg,Petrol,2023,3982cc,"3,941 miles",Petrol,Automatic,Grey,SUV,17.2 mpg
+/ad/27024833,Mercedes-Benz SLS,SLS,"189,950",2012,Automatic,21.4 mpg,Petrol,2012,6208cc,"16,982 miles",Petrol,Automatic,Blue,Coupe,21.4 mpg
+/ad/30901875,Mercedes-Benz G Class,G63 5dr 9G-Tronic SUV,"184,999",2023,Semi-Auto,21.4 mpg,Petrol,2023,4L,"1,096 miles",Petrol,Semiauto,Black,SUV,21.4 mpg
+/ad/30478127,Mercedes-Benz G Class,Amg G63 4matic Carbon Edition (18201) Other,"182,994",2023,Automatic,17.7 mpg,Petrol,2023,0L,119 miles,Petrol,Automatic,Green,Other,17.7 mpg
+/ad/27296223,Mercedes-Benz G Class,SUV,"180,000",2020,Automatic,21.4 mpg,Petrol,2020,3982cc,"1,876 miles",Petrol,Automatic,Black,SUV,21.4 mpg
+/ad/30360040,Mercedes-Benz G Class,VAT Q 4.0 AMG G 63 4MATIC 5d 577 BHP Estate,"179,995",2023,Automatic,21.4 mpg,Petrol,2023,3982cc,23 miles,Petrol,Automatic,BLACK,Estate,21.4 mpg
+/ad/28867508,Mercedes-Benz G Class,Estate,"179,995",2021,Automatic,21.4 mpg,Petrol,2021,4000cc,"14,100 miles",Petrol,Automatic,White,Estate,21.4 mpg
+/ad/30869659,Mercedes-Benz S Class,BRABUS 3.0 S580Le V6 AMG Line (Executive Premium Plus) Saloon,"179,995",2023,Automatic,353.1 mpg,Other,2023,2999cc,100 miles,Other,Automatic,Black,Saloon,353.1 mpg
+/ad/30223007,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG SpdS+9GT 4WD Euro 6 (s/s) 5dr 22s,"176,000",2023,Automatic,21.4 mpg,Petrol,2023,3982cc,252 miles,Petrol,Automatic,Blue,SUV,21.4 mpg
+/ad/29584181,Mercedes-Benz G Class,4.0 AMG G 63 4MATIC 5d 577 BHP Estate,"175,000",2023,Automatic,21.4 mpg,Petrol,2023,3982cc,120 miles,Petrol,Automatic,BLACK,Estate,21.4 mpg
+/ad/30197731,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG Magno Edition SpdS+9GT 4WD Euro 6 (s/s) 5dr 22s,"175,000",2022,Automatic,17.2 mpg,Petrol,2022,3982cc,"4,000 miles",Petrol,Automatic,Black,SUV,17.2 mpg
+/ad/28011833,Mercedes-Benz G Class,4.0 AMG G 63 4MATIC 5d 577 BHP Estate,"174,995",2021,Automatic,24.1 mpg,Petrol,2021,3982cc,"13,000 miles",Petrol,Automatic,BLACK,Estate,24.1 mpg
+/ad/30671526,Mercedes-Benz AMG,G 63 4MATIC Estate,"174,500",2023,Automatic,21.4 mpg,Petrol,2023,3982cc,40 miles,Petrol,Automatic,Obsidian Black,Estate,21.4 mpg
+/ad/30797961,Mercedes-Benz G Class,4.0 AMG G 63 4MATIC 5d 577 BHP Estate,"174,495",2021,Automatic,21.4 mpg,Petrol,2021,3982cc,"23,400 miles",Petrol,Automatic,GREY,Estate,21.4 mpg
+/ad/30917087,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG Magno Edition SpdS+9GT 4WD Euro 6 (s/s) 5dr AMG Night Pack SUV,"172,995",2023,Automatic,17.2 mpg,Petrol,2023,3982cc,"7,061 miles",Petrol,Automatic,Black,SUV,17.2 mpg
+/ad/30128785,Mercedes-Benz G Class,G63 5dr 9G-Tronic SUV,"169,950",2022,Automatic,Tax: n/a,2022,3982cc,"12,000 miles",Petrol,Automatic,White,SUV,,
+/ad/30892506,Mercedes-Benz SL Class,SL 63 4Matic+ Performance 2dr Auto Convertible,"167,123",2023,Semi-Auto,22.1 mpg,Petrol,2023,4L,360 miles,Petrol,Semiauto,Black,Convertible,22.1 mpg
+/ad/30721480,Mercedes-Benz G Class,G63 5dr 9G-Tronic SUV,"166,111",2022,Semi-Auto,21.4 mpg,Petrol,2022,4L,"8,878 miles",Petrol,Semiauto,Blue,SUV,21.4 mpg
+/ad/28243370,Mercedes-Benz G Class,4.0 AMG G 63 4MATIC 5d 577 BHP Estate,"164,985",2021,Automatic,0.1 mpg,Petrol,2021,3982cc,"36,000 miles",Petrol,Automatic,BLACK,Estate,0.1 mpg
+/ad/30573998,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG SpdS+9GT 4WD Euro 6 (s/s) 5dr 23s,"160,000",2021,Automatic,21.4 mpg,Petrol,2021,3982cc,"34,627 miles",Petrol,Automatic,Grey,SUV,21.4 mpg
+/ad/30679434,Mercedes-Benz G Class,4.0 AMG G 63 4MATIC 5d 577 BHP Estate,"160,000",2021,Automatic,21.4 mpg,Petrol,2021,4L,"10,929 miles",Petrol,Automatic,Black,Estate,21.4 mpg
+/ad/29269836,Mercedes-Benz G Class,URBAN G63 AMG 4MATIC 5d 577 BHP Estate,"159,995",2019,Automatic,21.4 mpg,Petrol,2019,3982cc,"26,500 miles",Petrol,Automatic,BLACK,Estate,21.4 mpg
+/ad/26959874,Mercedes-Benz AMG,GTC 4.0 Edition 50 Convertible,"159,911",2018,Automatic,24.8 mpg,Petrol,2018,39820cc,30 miles,Petrol,Automatic,Matt Graphite Grey Magno,Convertible,24.8 mpg
+/ad/29247015,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG SpdS+9GT 4WD Euro 6 (s/s) 5dr 24s,"156,000",2019,Automatic,21.4 mpg,Petrol,2019,3982cc,"10,656 miles",Petrol,Automatic,Black,SUV,21.4 mpg
+/ad/28391458,Mercedes-Benz G Class,4.0 AMG G 63 4MATIC 5d 577 BHP Estate,"155,000",2021,Automatic,21.4 mpg,Petrol,2021,3982cc,"13,000 miles",Petrol,Automatic,GREY,Estate,21.4 mpg
+/ad/27467707,Mercedes-Benz G Class,G63 5dr 9G-Tronic SUV,"150,000",2020,Automatic,17.3 mpg,Petrol,2020,3982cc,"27,845 miles",Petrol,Automatic,Silver,SUV,17.3 mpg
+/ad/30811882,Mercedes-Benz G Class,G63 5dr 9G-Tronic SUV,"149,999",2020,Semi-Auto,21.4 mpg,Petrol,2020,4L,"22,023 miles",Petrol,Semiauto,Black,SUV,21.4 mpg
+/ad/30781251,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG SUV,"149,950",2022,Automatic,21.4 mpg,Petrol,2022,3982cc,"12,880 miles",Petrol,Automatic,Silver,SUV,21.4 mpg
+/ad/29726913,Mercedes-Benz AMG GT,GT 63 S 4Matic + Premium plus 4dr Auto Coupe,"147,990",2022,Automatic,22.1 mpg,Petrol,2022,3982cc,"2,691 miles",Petrol,Automatic,Grey,Coupe,22.1 mpg
+/ad/30634865,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG SpdS+9GT 4WD Euro 6 (s/s) 5dr SUV,"141,950",2020,Automatic,21.4 mpg,Petrol,2020,3982cc,"34,000 miles",Petrol,Automatic,Black,SUV,21.4 mpg
+/ad/30931954,Mercedes-Benz G Class,AMG STATION WAGON SUV,"139,995",2020,Automatic,21.4 mpg,Petrol,2020,3982cc,"20,500 miles",Petrol,Automatic,Black,SUV,21.4 mpg
+/ad/30907522,Mercedes-Benz unassigned,230 SL Pagoda Convertible,"139,950",1966,Automatic,Tax: n/a,1966,2306cc,"28,091 miles",Petrol,Automatic,White,Convertible,,
+/ad/30919708,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG SUV 5dr Petrol SpdS+9GT 4WD Euro 6 (s/s) (585 ps) SUV,"139,900",2021,Automatic,21.4 mpg,Petrol,2021,3982cc,"17,900 miles",Petrol,Automatic,Black,SUV,21.4 mpg
+/ad/30947536,Mercedes-Benz G Class,G63 5dr 9G-Tronic SUV,"139,880",2021,Automatic,21.4 mpg,Petrol,2021,3982cc,"13,716 miles",Petrol,Automatic,Black,SUV,21.4 mpg
+/ad/30379203,Mercedes-Benz G Class,G400d AMG Line Premium Plus 5dr 9G-Tronic SUV,"139,000",2023,Automatic,26.4 mpg,Diesel,2023,2925cc,50 miles,Diesel,Automatic,Silver,SUV,26.4 mpg
+/ad/30624687,Mercedes-Benz G Class,4.0 V8 BiTurbo AMG SUV 5dr Petrol SpdS+9GT 4WD Euro 6 (s/s) (585 ps) SUV,"138,950",2019,Automatic,21.4 mpg,Petrol,2019,3982cc,"30,000 miles",Petrol,Automatic,Blue,SUV,21.4 mpg
+/ad/30702869,Mercedes-Benz G Class,AMG G 63 4MATIC. PREMIUM PACK. AMG NIGHT PACK. WINTER PACK. Estate,"134,995",2019,Automatic,21.4 mpg,Petrol,2019,3982cc,"50,100 miles",Petrol,Automatic,Black,Estate,21.4 mpg
+/ad/30949178,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG SpdS+9GT 4WD Euro 6 (s/s) 5dr SUV,"132,995",2020,Automatic,21.4 mpg,Petrol,2020,3982cc,"48,000 miles",Petrol,Automatic,White,SUV,21.4 mpg
+/ad/29803462,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG SpdS+9GT 4WD Euro 6 (s/s) 5dr 22s,"131,000",2019,Automatic,21.4 mpg,Petrol,2019,3982cc,"29,725 miles",Petrol,Automatic,White,SUV,21.4 mpg
+/ad/30757865,Mercedes-Benz GLE Class,GLE 63 S 4Matic+ Premium Plus 5dr TCT SUV,"130,380",2023,Semi-Auto,22.8 mpg,Hybrid,2023,4L,"4,000 miles",Hybrid,Semiauto,White,SUV,22.8 mpg
+/ad/30955646,Mercedes-Benz G Class,G 400 D 4MATIC AMG LINE PREMIUM PLUS. 1 OWNER FROM NEW. Estate,"129,995",2023,Automatic,26.4 mpg,Diesel,2023,2925cc,"5,500 miles",Diesel,Automatic,Black,Estate,26.4 mpg
+/ad/30307687,Mercedes-Benz G Class,4.0 G63 V8 BiTurbo AMG SpdS+9GT 4WD Euro 6 (s/s) 5dr SUV,"129,995",2020,Automatic,21.4 mpg,Petrol,2020,3982cc,"19,850 miles",Petrol,Automatic,Silver,SUV,21.4 mpg
+/ad/30874310,Mercedes-Benz SLS,6.2 SLS,"129,990",2011,Automatic,21.4 mpg,Petrol,2011,6208cc,"17,714 miles",Petrol,Automatic,GREY,Convertible,21.4 mpg
+/ad/30509550,Mercedes-Benz SLS,SLS,"129,950",2012,Automatic,21.4 mpg,Petrol,2012,6208cc,"11,800 miles",Petrol,Automatic,White,Other,21.4 mpg
+/ad/30553500,Mercedes-Benz EQS,AMG 53 4Matic+ Night Edition 5dr Hatchback,"129,888",2023,Automatic,Tax: £0,2023,500 miles,Electric,Automatic,Black,Hatchback,,,
+/ad/29900087,Mercedes-Benz SLS,6.3 V8 AMG ROADSTER-CARBON INTERIOR PACK-AMG RIDE CONTROL-FULL MB SERVICE HISTORY Convertible,"129,850",2011,Automatic,21.4 mpg,Petrol,2011,6208cc,"15,090 miles",Petrol,Automatic,Obsidian Black,Convertible,21.4 mpg
+/ad/28529121,Mercedes-Benz S Class,Saloon,"125,000",2022,Automatic,0.8 mpg,Other,2022,3000cc,15 miles,Other,Automatic,Red,Saloon,0.8 mpg
+/ad/30862577,Mercedes-Benz G Class,G63 5dr 9G-Tronic SUV,"124,999",2018,Semi-Auto,21.4 mpg,Petrol,2018,4L,"25,987 miles",Petrol,Semiauto,Grey,SUV,21.4 mpg
+/ad/30865458,Mercedes-Benz G Class,AMG G 63 4MATIC Estate,"124,990",2019,Automatic,21.4 mpg,Petrol,2019,3982cc,"42,000 miles",Petrol,Automatic,Black,Estate,21.4 mpg
+/ad/30607943,Mercedes-Benz S Class,2.9 S 350 D L AMG LINE PREMIUM PLUS EXECUTIVE 4d 282 BHP Saloon,"124,794",2023,Automatic,39.2 mpg,Diesel,2023,2925cc,"9,800 miles",Diesel,Automatic,BLACK,Saloon,39.2 mpg
+/ad/29984751,Mercedes-Benz GL Class,GLS 63 4Matic+ Night Edition 5dr TCT SUV,"123,890",2021,Automatic,22.1 mpg,Other,2021,3982cc,"19,754 miles",Other,Automatic,Black,SUV,22.1 mpg
+/ad/30545656,Mercedes-Benz G Class,2.9 G 400 D 4MATIC AMG LINE PREMIUM HUGE SPEC 5d 326 BHP Estate,"121,990",2022,Automatic,26.4 mpg,Diesel,2022,2925cc,"16,000 miles",Diesel,Automatic,BLACK,Estate,26.4 mpg
+/ad/29927791,Mercedes-Benz SL Class,230 SL PAGODA Convertible  Convertible,"120,000",1964,Manual,Tax: n/a,1964,2306cc,"33,504 miles",Petrol,Manual,SILVER,Convertible,,
+/ad/28867517,Mercedes-Benz GLE Class,Estate,"119,995",2021,Automatic,Tax: n/a,2021,4000cc,"2,700 miles",Petrol,Automatic,White,Estate,,
+/ad/30947540,Mercedes-Benz S Class,S580e L AMG Line Prem + Executive 4dr 9G-Tronic Saloon,"119,990",2023,Automatic,353.1 mpg,Hybrid,2023,2999cc,537 miles,Petrol Plugin Hybrid,Automatic,Black,Saloon,353.1 mpg
+/ad/29052092,Mercedes-Benz S Class,Saloon,"119,890",2022,Automatic,31.7 mpg,Other,2022,3000cc,38 miles,Other,Automatic,Black,Saloon,31.7 mpg
+/ad/30430885,Mercedes-Benz AMG GT,AMG GT,"119,000",2020,Automatic,22.1 mpg,Petrol,2020,3982cc,"12,326 miles",Petrol,Automatic,Grey,Coupe,22.1 mpg
+/ad/30468841,Mercedes-Benz G Class,2.9 G400d AMG Line (Premium Plus) G-Tronic 4WD Euro 6 (s/s) 5dr 21s,"118,000",2021,Automatic,26.4 mpg,Diesel,2021,2925cc,"27,400 miles",Diesel,Automatic,White,SUV,26.4 mpg
+/ad/30573470,Mercedes-Benz Vito,TOURER SELECT L3 MPV,"115,000",2023,Automatic,Tax: n/a,2023,15 miles,Electric,Automatic,MPV,,,,
+/ad/30703768,Mercedes-Benz EQS,EQS,"112,500",2022,Automatic,Tax: £0,2022,"1,200 miles",Other,Automatic,White,Saloon,,,
+/ad/30720549,Mercedes-Benz G Class,2.9 G400d AMG Line (Premium Plus) G-Tronic 4WD Euro 6 (s/s) 5dr 20s,"112,000",2021,Automatic,26.4 mpg,Diesel,2021,2925cc,"40,999 miles",Diesel,Automatic,Black,SUV,26.4 mpg
+/ad/30414799,Mercedes-Benz AMG GT,AMG GT,"109,995",2021,Automatic,22.1 mpg,Petrol,2021,3982cc,"7,000 miles",Petrol,Automatic,Grey,Coupe,22.1 mpg
+/ad/30432945,Mercedes-Benz AMG,E 63 S 4MATICPLUS FINAL EDITION Saloon,"109,950",2023,Automatic,23.3 mpg,Petrol,2023,3982cc,400 miles,Petrol,Automatic,Grey,Saloon,23.3 mpg
+/ad/30049422,Mercedes-Benz AMG GT,GT 63 S 4Matic + 4dr Auto Coupe,"107,995",2020,Automatic,22.1 mpg,Petrol,2020,3982cc,"9,936 miles",Petrol,Automatic,Grey,Coupe,22.1 mpg
+/ad/30663491,Mercedes-Benz S Class,S580e L AMG Line Prem + Executive 4dr 9G-Tronic Saloon,"107,971",2022,Semi-Auto,353.1 mpg,Hybrid,2022,3L,"8,714 miles",Hybrid,Semiauto,Blue,Saloon,353.1 mpg
+/ad/30831202,Mercedes-Benz S Class,S500L 4Matic AMG Line Prem + Exec 4dr 9G-Tronic Saloon,"107,400",2023,Automatic,31.7 mpg,Petrol,2023,2999cc,"9,800 miles",Petrol,Automatic,Blue,Saloon,31.7 mpg
+/ad/29449204,Mercedes-Benz S Class,S65 2dr Auto Convertible,"105,000",2017,Automatic,23.5 mpg,Petrol,2017,5980cc,"6,996 miles",Petrol,Automatic,Black,Convertible,23.5 mpg
+/ad/30766835,Mercedes-Benz S Class,3.0 S500Lh MHEV AMG Line (Executive Premium Plus) G-Tronic+ 4MATIC Euro 6 (s/s) 4dr Saloon,"104,999",2021,Automatic,31.7 mpg,Hybrid,2021,3L,"19,800 miles",Hybrid,Automatic,Black,Saloon,31.7 mpg
+/ad/29955611,Mercedes-Benz S Class,S350d L AMG Line Prem + Executive 4dr 9G-Tronic Saloon,"104,995",2022,Automatic,39.2 mpg,Diesel,2022,2925cc,"20,039 miles",Diesel,Automatic,Black,Saloon,39.2 mpg
+/ad/30890355,Mercedes-Benz G Class,G350d AMG Line 5dr 9G-Tronic SUV,"103,999",2020,Semi-Auto,Tax: £180,2020,3L,"19,630 miles",Diesel,Semiauto,Black,SUV,,
+/ad/30856466,Mercedes-Benz GL Class,4.0 AMG GLS 63 4MATICPLUS NIGHT EDITION EXECUTIVE MHEV 5d 604 BHP Estate,"102,000",2021,Automatic,21.9 mpg,Other,2021,3982cc,"42,500 miles",Other,Automatic,GREY,Estate,21.9 mpg
+/ad/30237239,Mercedes-Benz S Class,2.9 S350d AMG Line (Premium) G-Tronic+ Euro 6 (s/s) 4dr Saloon,"99,999",2021,Automatic,40.4 mpg,Diesel,2021,2.93L,"43,899 miles",Diesel,Automatic,Black,Saloon,40.4 mpg
+/ad/30250515,Mercedes-Benz S Class,S500LH MHEV 4M AMG Line Premium Plus Executive Petrol Auto PAN ROOF/VAT Q Saloon,"99,995",2022,Automatic,32.1 mpg,Other,2022,2999cc,"8,000 miles",Other,Automatic,Blue,Saloon,32.1 mpg
+/ad/29733418,Mercedes-Benz SL Class,230 SL Convertible,"99,993",1964,Manual,Tax: n/a,1964,2300cc,"34,000 miles",Petrol,Manual,Blue,Convertible,,
+/ad/30784183,Mercedes-Benz G Class,G 350 D 4MATIC AMG LINE PREMIUM 2020 MODEL 9 SPEED AUTO Estate,"99,948",2019,Automatic,Tax: n/a,2019,2925cc,"24,000 miles",Diesel,Automatic,Green,Estate,,
+/ad/30752618,Mercedes-Benz AMG GT 63,4.0 63 V8 BiTurbo S Edition 1 SpdS MCT 4MATIC+ Euro 6 (s/s) 4dr 21s,"99,500",2019,Automatic,22.1 mpg,Petrol,2019,3982cc,"10,300 miles",Petrol,Automatic,Grey,Coupe,22.1 mpg
+/ad/30916355,Mercedes-Benz V Class,V220 d AMG Line 5dr 9G-Tronic [Long] [7 Seats] Convertible,"99,450",2022,Semi-Auto,12.3 mpg,Petrol,2022,2L,"5,351 miles",Petrol,Semiauto,Black,Convertible,12.3 mpg
+/ad/30534138,Mercedes-Benz S Class,2.9 S 350 D AMG LINE PREMIUM 4d 282 BHP Saloon,"99,000",2023,Automatic,40.4 mpg,Diesel,2023,2925cc,"6,227 miles",Diesel,Automatic,SILVER,Saloon,40.4 mpg
+/ad/30589327,Mercedes-Benz S Class,3.0 S500Lh MHEV AMG Line (Executive,"97,000",2022,Automatic,31.7 mpg,Hybrid,2022,2999cc,"12,674 miles",Petrol Hybrid,Automatic,Black,Saloon,31.7 mpg
+/ad/27004065,Mercedes-Benz GLC Class,4.0 AMG GLC 63 S 4MATIC EDITION 1 5d 503 BHP Other,"95,999",2019,Automatic,26.4 mpg,Petrol,2019,3982cc,"16,000 miles",Petrol,Automatic,GREY,Other,26.4 mpg
+/ad/29591550,Mercedes-Benz V Class,0.0 V 300 D AMG LINE XL 5d 236 BHP MPV,"95,988",2022,Automatic,36.2 mpg,Diesel,2022,1950cc,10 miles,Diesel,Automatic,RED,MPV,36.2 mpg
+/ad/30346967,Mercedes-Benz SL Class,SL 43 Premium 2dr Auto Convertible,"95,000",2023,Automatic,31.0 mpg,Petrol,2023,1991cc,"1,800 miles",Petrol,Automatic,Grey,Convertible,31 mpg
+/ad/30929871,Mercedes-Benz CLA Class,CLA 250 e AMG Line Premium Coupe Coupe,"95,000",2023,Automatic,Tax: n/a,2023,1332cc,"3,000 miles",Diesel Hybrid,Automatic,Red,Coupe,,
+/ad/30876093,Mercedes-Benz AMG GT,4.0 AMG GT,"93,600",2020,Automatic,30.1 mpg,Petrol,2020,3982cc,"36,464 miles",Petrol,Automatic,GREY,Convertible,30.1 mpg
+/ad/29426331,Mercedes-Benz AMG GT,4.0 AMG GT,"91,995",2017,Automatic,24.8 mpg,Petrol,2017,3982cc,"35,000 miles",Petrol,Automatic,GREEN,Coupe,24.8 mpg
+/ad/30817665,Mercedes-Benz EQS,EQS,"89,995",2022,Automatic,Tax: £0,2022,"6,000 miles",Other,Automatic,Grey,Saloon,,,
+/ad/30896814,Mercedes-Benz V Class,V 220 D AMG LINE XL 5d 161 BHP MPV,"89,988",2023,Automatic,36.7 mpg,Diesel,2023,1950cc,335 miles,Diesel,Automatic,BLACK/BLACK,MPV,36.7 mpg
+/ad/30856536,Mercedes-Benz S Class,3.0 S 500 4MATIC L AMG LINE PREMIUM PLUS EXECUTIVE MHE 4d 430 BHP Saloon,"89,500",2021,Automatic,31.7 mpg,Other,2021,2999cc,"21,000 miles",Other,Automatic,BLACK,Saloon,31.7 mpg
+/ad/30763881,Mercedes-Benz SL Class,SL 43 Premium Plus 2dr Auto Convertible,"87,980",2023,Semi-Auto,30.4 mpg,Petrol,2023,2L,"3,221 miles",Petrol,Semiauto,Black,Convertible,30.4 mpg
+/ad/30871592,Mercedes-Benz S Class,3.0 S500Lh MHEV AMG Line (Executive,"87,000",2022,Automatic,32.1 mpg,Hybrid,2022,2999cc,"17,979 miles",Petrol Hybrid,Automatic,Black,Saloon,32.1 mpg
+/ad/28484865,Mercedes-Benz G Class,G63 5dr Tip Auto SUV,"86,995",2017,Automatic,20.5 mpg,Petrol,2017,5461cc,"19,600 miles",Petrol,Automatic,Grey,SUV,20.5 mpg
+/ad/30959489,Mercedes-Benz GLS Class,GLS 400d 4Matic Night Ed Exec 5dr 9G-Tron SUV,"85,999",2023,Semi-Auto,32.1 mpg,Diesel,2023,3L,316 miles,Diesel,Semiauto,Black,SUV,32.1 mpg
+/ad/30515269,Mercedes-Benz SL Class,SL 43 Premium Plus 2dr Auto Convertible,"85,995",2023,Semi-Auto,30.4 mpg,Petrol,2023,2L,"3,815 miles",Petrol,Semiauto,Silver,Convertible,30.4 mpg
+/ad/30470746,Mercedes-Benz G Class,5.5 G63 V8 BiTurbo AMG SpdS+7GT 4WD Euro 5 (s/s) 5dr SUV,"85,000",2014,Automatic,20.5 mpg,Petrol,2014,5461cc,"29,000 miles",Petrol,Automatic,Grey,SUV,20.5 mpg
+/ad/30548065,Mercedes-Benz SL Class,SL 43 Touring Plus 2dr Auto Convertible,"84,999",2023,Automatic,30.1 mpg,Petrol,2023,1991cc,810 miles,Petrol,Automatic,Black,Convertible,30.1 mpg
+/ad/30286187,Mercedes-Benz S Class,2.9 S 350 D L AMG LINE PREMIUM 4d 282 BHP Saloon,"84,995",2021,Automatic,39.8 mpg,Diesel,2021,2.89L,"22,770 miles",Diesel,Automatic,Black,Saloon,39.8 mpg
+/ad/30869443,Mercedes-Benz S Class,AMG SALOON Saloon,"84,995",2020,Automatic,32.1 mpg,Petrol,2020,3982cc,"39,800 miles",Petrol,Automatic,Black,Saloon,32.1 mpg
+/ad/30877105,Mercedes-Benz S Class,S400d L 4Matic AMG Line Premium Plus 4dr 9G-Tronic Saloon,"84,995",2022,Automatic,38.2 mpg,Diesel,2022,2925cc,"44,260 miles",Diesel,Automatic,High-Tech Silver Metallic,Saloon,38.2 mpg
+/ad/30468273,Mercedes-Benz S Class,Saloon,"84,990",2021,Automatic,32.1 mpg,Other,2021,2999cc,"65,271 miles",Other,Automatic,Black,Saloon,32.1 mpg
+/ad/30881700,Mercedes-Benz SL Class,SL 43 Premium Plus 2dr Auto Convertible,"84,600",2023,Semi-Auto,30.4 mpg,Petrol,2023,2L,576 miles,Petrol,Semiauto,Grey,Convertible,30.4 mpg
+/ad/30829109,Mercedes-Benz S Class,3.0 S500Lh MHEV AMG Line (Premium) G-Tronic+ 4MATIC Euro 6 (s/s) 4dr 20s,"84,500",2022,Automatic,32.5 mpg,Hybrid,2022,2999cc,"21,882 miles",Petrol Hybrid,Automatic,Black,Saloon,32.5 mpg
+/ad/30760729,Mercedes-Benz AMG GT,4.0 AMG GT,"84,500",2018,Automatic,24.8 mpg,Petrol,2018,3982cc,"50,648 miles",Petrol,Automatic,GREY,Coupe,24.8 mpg
+/ad/30878115,Mercedes-Benz SL Class,SL 43 Premium Plus 2dr Auto Convertible,"84,500",2023,Semi-Auto,30.4 mpg,Petrol,2023,2L,"4,230 miles",Petrol,Semiauto,Black,Convertible,30.4 mpg
+/ad/30539606,Mercedes-Benz SL Class,SL 43 Touring Plus 2dr Auto Convertible,"84,400",2023,Automatic,30.1 mpg,Petrol,2023,1991cc,501 miles,Petrol,Automatic,Black,Convertible,30.1 mpg
+/ad/30715271,Mercedes-Benz GL Class,2.9 GLS 400 D 4MATIC AMG LINE PREMIUM PLUS 5d 326 BHP Estate,"83,999",2020,Automatic,30.4 mpg,Diesel,2020,2925cc,"11,000 miles",Diesel,Automatic,WHITE,Estate,30.4 mpg
+/ad/30870176,Mercedes-Benz SL Class,SL 43 Premium Plus 2dr Auto Convertible,"83,980",2023,Semi-Auto,30.4 mpg,Petrol,2023,2L,"1,731 miles",Petrol,Semiauto,White,Convertible,30.4 mpg
+/ad/30908937,Mercedes-Benz EQS,450+ 245kW AMG Line Premium+ 108kWh 4dr Auto Saloon,"83,880",2023,Automatic,Tax: £0,2023,807 miles,Electric,Automatic,Black,Saloon,,,
+/ad/30539607,Mercedes-Benz SL Class,SL 43 Touring Plus 2dr Auto Convertible,"83,400",2023,Automatic,30.1 mpg,Petrol,2023,1991cc,"1,214 miles",Petrol,Automatic,Blue,Convertible,30.1 mpg
+/ad/27994313,Mercedes-Benz GT,4.0 AMG GT,"82,995",2019,Automatic,30.4 mpg,Petrol,2019,3982cc,"15,000 miles",Petrol,Automatic,BLACK,Coupe,30.4 mpg
+/ad/29729464,Mercedes-Benz SL Class,SL65 AMG Convertible,"82,995",2013,Automatic,24.4 mpg,Petrol,2013,5980cc,"28,000 miles",Petrol,Automatic,Blue,Convertible,24.4 mpg
+/ad/30935396,Mercedes-Benz GLS Class,GLS 400d 4Matic Night Ed Exec 5dr 9G-Tron SUV,"82,990",2023,Semi-Auto,32.1 mpg,Diesel,2023,3L,"2,102 miles",Diesel,Semiauto,Black,SUV,32.1 mpg
+/ad/30163813,Mercedes-Benz AMG GT 63,4.0 63 V8 BiTurbo S SpdS MCT 4MATIC+ Euro 6 (s/s) 4dr 20s,"82,750",2020,Automatic,22.1 mpg,Petrol,2020,3982cc,"44,078 miles",Petrol,Automatic,Black,Coupe,22.1 mpg
+/ad/30331553,Mercedes-Benz GLE Class,4.0 AMG GLE 63 S 4MATICPLUS MHEV 5d 604 BHP Estate,"82,250",2021,Automatic,22.8 mpg,Other,2021,3982cc,"40,837 miles",Other,Automatic,GREY,Estate,22.8 mpg
+/ad/29991138,Mercedes-Benz S Class,2.9 S350d AMG Line G-Tronic+ Euro 6 (s/s) 4dr Saloon,"81,995",2021,Automatic,42.8 mpg,Diesel,2021,2925cc,"14,000 miles",Diesel,Automatic,Black,Saloon,42.8 mpg
+/ad/30801706,Mercedes-Benz E Class,4.0 AMG E 63 S 4MATICPLUS NIGHT EDITION PREMIUM PLUS 4d 604 BHP Saloon,"81,990",2021,Automatic,23.2 mpg,Petrol,2021,3982cc,"7,000 miles",Petrol,Automatic,WHITE,Saloon,23.2 mpg
+/ad/30829884,Mercedes-Benz SL Class,SL 43 Premium 2dr Auto Convertible,"80,565",2023,Semi-Auto,31.0 mpg,Petrol,2023,2L,"2,020 miles",Petrol,Semiauto,White,Convertible,31 mpg
+/ad/30863534,Mercedes-Benz C Class,C200 Exclusive Luxury 5dr 9G-Tronic Estate,"80,000",2023,Automatic,41.5 mpg,Petrol,2023,1496cc,25 miles,Petrol,Automatic,White,Estate,41.5 mpg
+/ad/30947539,Mercedes-Benz EQC,400 300kW AMG Line Premium Plus 80kWh 5dr Auto SUV,"80,000",2023,Automatic,Tax: n/a,2023,35 miles,Electric,Automatic,Blue,SUV,,,
+/ad/30947546,Mercedes-Benz GLA Class,200 AMG Line Executive 5dr Auto Hatchback,"80,000",2023,Automatic,1.1 mpg,Petrol,2023,1332cc,"6,000 miles",Petrol,Automatic,Black,Hatchback,1.1 mpg
+/ad/30879280,Mercedes-Benz Sprinter,519CDI 9G-TRONIC L2 H2 RWD 13 Seater Minibus 190PS EU6,"79,999",2023,Automatic,Tax: £180,2023,1950cc,420 miles,Diesel,Automatic,Arctic White,Other,,
+/ad/28887249,Mercedes-Benz E Class,4.0 AMG E 63 S 4MATICPLUS NIGHT EDITION PREMIUM PLUS 4d 604 BHP Saloon,"79,995",2021,Automatic,23.2 mpg,Petrol,2021,3982cc,"14,000 miles",Petrol,Automatic,BLUE,Saloon,23.2 mpg
+/ad/30821480,Mercedes-Benz AMG GT,GT C 50 Edition 2dr Auto Coupe,"79,000",2017,Automatic,24.8 mpg,Petrol,2017,3982cc,"28,827 miles",Petrol,Automatic,Grey,Coupe,24.8 mpg
+/ad/30794049,Mercedes-Benz S Class,3.0 S500Lh MHEV AMG Line (Executive,"79,000",2021,Automatic,32.1 mpg,Hybrid,2021,2999cc,"32,336 miles",Petrol Hybrid,Automatic,Black,Saloon,32.1 mpg
+/ad/30820749,Mercedes-Benz AMG,AMG,"78,995",2020,Automatic,23.2 mpg,Petrol,2020,3982cc,"9,000 miles",Petrol,Automatic,Grey,Coupe,23.2 mpg
+/ad/29726912,Mercedes-Benz GLE Class,GLE 53 4Matic+ Premium Plus 5dr TCT SUV,"78,990",2021,Automatic,26.2 mpg,Other,2021,2999cc,"13,278 miles",Other,Automatic,Black,SUV,26.2 mpg
+/ad/29573928,Mercedes-Benz X Class,3.0 X350 D 4MATIC POWER 4d 255 BHP Other,"78,000",2020,Automatic,31.4 mpg,Diesel,2020,2987cc,"36,000 miles",Diesel,Automatic,GREY,Other,31.4 mpg
+/ad/30721287,Mercedes-Benz S Class,S500L 4Matic AMG Line Premium Plus 4dr 9G-Tronic Saloon,"77,999",2021,Semi-Auto,32.1 mpg,Hybrid,2021,3L,"43,000 miles",Hybrid,Semiauto,Black,Saloon,32.1 mpg
+/ad/30861590,Mercedes-Benz GLE Class,3.0 GLE53h BiTurbo MHEV AMG (Premium Plus) SpdS TCT 4MATIC+ Euro 6 (s/s) 5dr Coupe,"77,995",2022,Automatic,26.2 mpg,Petrol,2022,2999cc,"24,000 miles",Petrol,Automatic,Grey,Coupe,26.2 mpg
+/ad/30075566,Mercedes-Benz V Class,MPV,"77,950",2022,Automatic,34.9 mpg,Diesel,2022,1950cc,"9,864 miles",Diesel,Automatic,Black,MPV,34.9 mpg
+/ad/30887210,Mercedes-Benz GLE Class,GLE 400e 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"77,596",2023,Semi-Auto,1.1 mpg,Hybrid,2023,2L,"3,826 miles",Hybrid,Semiauto,Silver,SUV,1.1 mpg
+/ad/30960584,Mercedes-Benz V Class,WHEELCHAIR ACCESSIBLE V 300 GRANDE AMG LINE D AUTO MPV,"76,995",2022,Automatic,36.2 mpg,Diesel,2022,1950cc,"6,149 miles",Diesel,Automatic,Silver,MPV,36.2 mpg
+/ad/30814991,Mercedes-Benz GLE Class,GLE 53 4Matic+ Prem + 5dr 9G-Tronic [7 Seats] SUV,"76,490",2023,Semi-Auto,25.9 mpg,Hybrid,2023,3L,"2,911 miles",Hybrid,Semiauto,White,SUV,25.9 mpg
+/ad/30841057,Mercedes-Benz GLS Class,GLS 400d 4Matic Night Ed Exec 5dr 9G-Tron SUV,"76,120",2022,Semi-Auto,32.1 mpg,Diesel,2022,3L,"16,511 miles",Diesel,Semiauto,Blue,SUV,32.1 mpg
+/ad/30909589,Mercedes-Benz GLE Class,GLE 53 4Matic+ Prem + 5dr 9G-Tronic [7 Seats] SUV,"75,990",2023,Semi-Auto,25.9 mpg,Hybrid,2023,3L,"9,136 miles",Hybrid,Semiauto,Black,SUV,25.9 mpg
+/ad/30636007,Mercedes-Benz GLE Class,GLE 53 4Matic+ Premium Plus 5dr TCT SUV,"75,780",2023,Semi-Auto,26.2 mpg,Hybrid,2023,3L,"3,139 miles",Hybrid,Semiauto,Black,SUV,26.2 mpg
+/ad/30904849,Mercedes-Benz GLE Class,GLE 53 4Matic+ Prem + 5dr 9G-Tronic [7 Seats] SUV,"75,529",2023,Semi-Auto,25.9 mpg,Hybrid,2023,3L,"8,164 miles",Hybrid,Semiauto,Black,SUV,25.9 mpg
+/ad/30929746,Mercedes-Benz GLE Class,GLE 53 4Matic+ Prem + 5dr 9G-Tronic [7 Seats] SUV,"75,373",2023,Semi-Auto,25.9 mpg,Hybrid,2023,3L,"8,909 miles",Hybrid,Semiauto,Black,SUV,25.9 mpg
+/ad/30930555,Mercedes-Benz GLE Class,GLE 53 4Matic+ Prem + 5dr 9G-Tronic [7 Seats] SUV,"75,284",2023,Semi-Auto,25.9 mpg,Hybrid,2023,3L,"9,330 miles",Hybrid,Semiauto,Black,SUV,25.9 mpg
+/ad/30794048,Mercedes-Benz S Class,3.0 S500Lh MHEV AMG Line (Premium) G-Tronic+ 4MATIC Euro 6 (s/s) 4dr 20s,"75,000",2021,Automatic,32.5 mpg,Hybrid,2021,2999cc,"30,578 miles",Petrol Hybrid,Automatic,Black,Saloon,32.5 mpg
+/ad/30770485,Mercedes-Benz G Class,5.5 AMG G 63 4MATIC 5d 563 BHP COLOUR EDITION Estate,"75,000",2018,Automatic,20.5 mpg,Petrol,2018,5461cc,"58,000 miles",Petrol,Automatic,WHITE,Estate,20.5 mpg
+/ad/30846147,Mercedes-Benz G63 AMG,V8 4MATIC 7 SPEED AUTO Estate,"74,948",2018,Automatic,20.5 mpg,Petrol,2018,5461cc,"48,000 miles",Petrol,Automatic,Grey,Estate,20.5 mpg
+/ad/29940284,Mercedes-Benz GLS Class,2.9 GLS 400 D 4MATIC NIGHT EDITION EXECUTIVE 5d 326 BHP Estate,"74,945",2022,Automatic,32.1 mpg,Diesel,2022,2925cc,"24,500 miles",Diesel,Automatic,Black,Estate,32.1 mpg
+/ad/30652647,Mercedes-Benz C Class,C63 S Final Edition 2dr MCT Coupe,"74,490",2022,Semi-Auto,25.7 mpg,Petrol,2022,4L,"3,091 miles",Petrol,Semiauto,Grey,Coupe,25.7 mpg
+/ad/30922521,Mercedes-Benz GLS Class,GLS 400d 4Matic Night Ed 5dr 9G-Tronic SUV,"74,480",2023,Semi-Auto,32.1 mpg,Diesel,2023,3L,"5,362 miles",Diesel,Semiauto,Grey,SUV,32.1 mpg
+/ad/30887002,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"74,118",2023,Semi-Auto,34.0 mpg,Diesel,2023,2.9L,"1,892 miles",Diesel,Semiauto,Silver,SUV,34 mpg
+/ad/30947489,Mercedes-Benz GLE Class,3.0 GLE53 BiTurbo MHEV AMG (Premium Plus) SpdS TCT 4MATIC+ Euro 6 (s/s) 5dr (7 Seat) BLACK 22s,"74,000",2023,Automatic,25.9 mpg,Hybrid,2023,2999cc,"3,458 miles",Petrol Hybrid,Automatic,Red,SUV,25.9 mpg
+/ad/30937748,Mercedes-Benz 350,S D AMG LINE PREMIUM Saloon,"73,750",2021,Automatic,40.4 mpg,Diesel,2021,2925cc,"21,000 miles",Diesel,Automatic,Selanite Grey,Saloon,40.4 mpg
+/ad/30809788,Mercedes-Benz AMG GT,GT 522 S Premium 2dr Auto Reserve Online Coupe,"73,500",2019,Automatic,30.1 mpg,Petrol,2019,3982cc,"7,036 miles",Petrol,Automatic,Grey,Coupe,30.1 mpg
+/ad/30849246,Mercedes-Benz V Class,V300 d AMG Line 5dr 9G-Tronic [Long] MPV,"73,480",2023,Semi-Auto,36.2 mpg,Diesel,2023,2L,"4,005 miles",Diesel,Semiauto,Black,MPV,36.2 mpg
+/ad/30647796,Mercedes-Benz G Class,5.5 G63 V8 BiTurbo AMG SUV,"72,995",2015,Automatic,20.5 mpg,Petrol,2015,5461cc,"23,073 miles",Petrol,Automatic,Grey,SUV,20.5 mpg
+/ad/30900113,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"72,995",2023,Semi-Auto,34.0 mpg,Diesel,2023,2.9L,"3,510 miles",Diesel,Semiauto,Black,SUV,34 mpg
+/ad/30117774,Mercedes-Benz G Class,5.5 G63 V8 BiTurbo AMG G-Tronic+ 4WD Euro 5 (s/s) 5dr SUV,"72,990",2014,Automatic,20.5 mpg,Petrol,2014,5461cc,"40,000 miles",Petrol,Automatic,Grey,SUV,20.5 mpg
+/ad/30134279,Mercedes-Benz AMG GT,4.0 AMG GT,"72,950",2019,Automatic,30.1 mpg,Petrol,2019,3982cc,"22,000 miles",Petrol,Automatic,BLACK,Coupe,30.1 mpg
+/ad/30497970,Mercedes-Benz V Class,2.0 V 220 D SPORT L 5d 161 BHP MPV,"72,900",2022,Automatic,37.2 mpg,Diesel,2022,1950cc,"29,000 miles",Diesel,Automatic,BLACK,MPV,37.2 mpg
+/ad/30871269,Mercedes-Benz V Class,V 220d Sport Marco Polo 2.0 9 Speed Auto SUV,"72,000",2022,Automatic,35.8 mpg,Diesel,2022,1950cc,"15,298 miles",Diesel,Automatic,Dark Graphite Grey Metallic,SUV,35.8 mpg
+/ad/29836978,Mercedes-Benz Maybach S Class,6.0 S650 V12 Maybach G-Tronic+ Euro 6 (s/s) 4dr 20s,"72,000",2017,Automatic,22.2 mpg,Petrol,2017,5980cc,"51,350 miles",Petrol,Automatic,Black,Saloon,22.2 mpg
+/ad/30956995,Mercedes-Benz V Class,V300 d AMG Line 5dr 9G-Tronic [Long] MPV,"71,999",2023,Semi-Auto,36.2 mpg,Diesel,2023,2L,"3,848 miles",Diesel,Semiauto,Black,MPV,36.2 mpg
+/ad/30562129,Mercedes-Benz V Class,2.0 V 300 D SPORT XLWB 5d 236 BHP MPV,"71,987",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"7,000 miles",Diesel,Automatic,BLUE,MPV,36.7 mpg
+/ad/30908858,Mercedes-Benz GLC Class,4.0 GLC63 V8 BiTurbo AMG S (Premium Plus) SpdS MCT 4MATIC+ Euro 6 (s/s) 5dr 21s,"71,000",2023,Automatic,21.9 mpg,Petrol,2023,3982cc,"11,559 miles",Petrol,Automatic,Silver,Coupe,21.9 mpg
+/ad/30805512,Mercedes-Benz V Class,V300 d 237 AMG Line 5dr 9G-Tronic [Long] Reserve Online MPV,"71,000",2023,Automatic,36.2 mpg,Diesel,2023,1950cc,"5,740 miles",Diesel,Automatic,Black,MPV,36.2 mpg
+/ad/30892804,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"70,999",2023,Automatic,34.0 mpg,Diesel,2023,2925cc,"2,782 miles",Diesel,Automatic,White,SUV,34 mpg
+/ad/30817664,Mercedes-Benz EQS,EQS,"70,995",2022,Automatic,Tax: £0,2022,"8,980 miles",Other,Automatic,White,Saloon,,,
+/ad/30378842,Mercedes-Benz G Class,5.5 G63 AMG 5d 544 BHP Estate,"70,000",2017,Automatic,20.5 mpg,Petrol,2017,5461cc,"38,000 miles",Petrol,Automatic,GREY,Estate,20.5 mpg
+/ad/29647236,Mercedes-Benz C Class,AMG C 63 S PREMIUM PLUS Coupe,"69,999",2019,Automatic,28.0 mpg,Petrol,2019,3982cc,0 miles,Petrol,Automatic,Black,Coupe,28 mpg
+/ad/30959466,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"69,999",2023,Semi-Auto,34.0 mpg,Diesel,2023,2.9L,929 miles,Diesel,Semiauto,Red,SUV,34 mpg
+/ad/30959627,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"69,999",2023,Semi-Auto,34.0 mpg,Diesel,2023,2.9L,"2,184 miles",Diesel,Semiauto,Green,SUV,34 mpg
+/ad/30796752,Mercedes-Benz CLS Class,CLS 400d 4Matic AMG Line Ngt Ed Pr + 4dr 9G-Tronic Saloon,"69,995",2023,Automatic,38.7 mpg,Diesel,2023,2925cc,"11,445 miles",Diesel,Automatic,Graphite Grey Metallic,Saloon,38.7 mpg
+/ad/30801754,Mercedes-Benz G Class,5.4 G55 AMG 5d 500 BHP Estate,"69,990",2010,Automatic,17.8 mpg,Petrol,2010,5439cc,"13,500 miles",Petrol,Automatic,BLACK,Estate,17.8 mpg
+/ad/29617727,Mercedes-Benz GLC Class,AMG GLC 63 S 4MATIC PLUS PREMIUM SUV,"69,990",2019,Automatic,21.6 mpg,Petrol,2019,3982cc,"15,000 miles",Petrol,Automatic,White,SUV,21.6 mpg
+/ad/30609701,Mercedes-Benz E Class,E63 S 4Matic+ Edition 1 9G-Tronic LIMITED EDITION MAGNO BLACK 1000 BHP OVER 50K SPEND CARBON BUCKETS Saloon,"69,990",2017,Automatic,31.0 mpg,Petrol,2017,3982cc,"35,000 miles",Petrol,Automatic,Black,Saloon,31 mpg
+/ad/30621484,Mercedes-Benz V Class,V220 d AMG Line 5dr 9G-Tronic [Extra Long] MPV,"69,990",2023,Semi-Auto,36.7 mpg,Diesel,2023,2L,"10,662 miles",Diesel,Semiauto,Black,MPV,36.7 mpg
+/ad/28469304,Mercedes-Benz G Class,5.5 G63 V8 BiTurbo AMG SpdS+7GT 4WD Euro 5 (s/s) 5dr Euro 5 2015 SUV,"69,780",2015,Automatic,Tax: n/a,2015,5461cc,"51,000 miles",Petrol,Automatic,Gold,SUV,,
+/ad/30954659,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"69,718",2023,Semi-Auto,34.0 mpg,Diesel,2023,2.9L,499 miles,Diesel,Semiauto,Black,SUV,34 mpg
+/ad/29226977,Mercedes-Benz EQC,0.0 EQC,"69,594",2022,Automatic,Tax: £0,2022,1L,"1,500 miles",Other,Automatic,WHITE,Estate,,
+/ad/30734209,Mercedes-Benz V Class,2.0 V220d AMG Line G-Tronic+ XLWB Euro 6 (s/s) 5dr 8 Seat XLWB 19s,"69,500",2022,Automatic,Tax: n/a,2022,1950cc,"13,577 miles",Diesel,Automatic,Black,MPV,,
+/ad/30688862,Mercedes-Benz V Class,2.0 V220d AMG Line G-Tronic+ Euro 6 (s/s) 5dr 8 Seat XLWB 19s,"69,500",2022,Automatic,Tax: n/a,2022,1950cc,"15,380 miles",Diesel,Automatic,Black,MPV,,
+/ad/30573993,Mercedes-Benz V Class,2.0 V300d AMG Line G-Tronic+ Euro 6 (s/s) 5dr 8 Seat XLWB 19s,"69,500",2022,Automatic,36.2 mpg,Diesel,2022,1950cc,"20,490 miles",Diesel,Automatic,Black,MPV,36.2 mpg
+/ad/30516291,Mercedes-Benz V Class,2.0 V220d AMG Line G-Tronic+ Euro 6 (s/s) 5dr 8 Seat LWB 19s,"69,500",2023,Automatic,36.2 mpg,Diesel,2023,1950cc,"3,500 miles",Diesel,Automatic,Black,MPV,36.2 mpg
+/ad/30478536,Mercedes-Benz V Class,2.0 V300d AMG Line G-Tronic+ Euro 6 (s/s) 5dr 8 Seat XLWB 19s,"69,500",2022,Automatic,36.2 mpg,Diesel,2022,1950cc,"19,133 miles",Diesel,Automatic,Black,MPV,36.2 mpg
+/ad/30837372,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"69,490",2023,Semi-Auto,34.0 mpg,Diesel,2023,2.9L,"8,643 miles",Diesel,Semiauto,Black,SUV,34 mpg
+/ad/30573990,Mercedes-Benz GLE Class,3.0 GLE53 MHEV AMG (Premium Plus) SpdS TCT 4MATIC+ Euro 6 (s/s) 5dr 22s,"69,250",2021,Automatic,26.2 mpg,Hybrid,2021,2999cc,"18,500 miles",Petrol Hybrid,Automatic,Green,Coupe,26.2 mpg
+/ad/30927270,Mercedes-Benz GLS Class,GLS 400d 4Matic Night Ed Exec 5dr 9G-Tron SUV,"68,990",2022,Semi-Auto,32.1 mpg,Diesel,2022,3L,"37,072 miles",Diesel,Semiauto,Black,SUV,32.1 mpg
+/ad/30887091,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"68,904",2023,Semi-Auto,34.0 mpg,Diesel,2023,2.9L,"1,253 miles",Diesel,Semiauto,Red,SUV,34 mpg
+/ad/30858486,Mercedes-Benz V Class,V220 d AMG Line 5dr 9G-Tronic (Extra Long) People Carrier,"68,900",2023,Automatic,36.7 mpg,Diesel,2023,1950cc,"9,474 miles",Diesel,Automatic,Silver,People Carrier,36.7 mpg
+/ad/30859387,Mercedes-Benz GLE Class,GLE 53 4Matic+ Premium Plus 5dr TCT SUV,"68,634",2021,Semi-Auto,26.2 mpg,Hybrid,2021,3L,"17,434 miles",Hybrid,Semiauto,Red,SUV,26.2 mpg
+/ad/30945853,Mercedes-Benz GLE Class,2.0 GLE300d MHEV AMG Line (Premium) G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) 21s,"68,000",2023,Automatic,37.7 mpg,Hybrid,2023,1993cc,"1,035 miles",Diesel Hybrid,Automatic,Red,SUV,37.7 mpg
+/ad/30945855,Mercedes-Benz GLE Class,2.0 GLE300d MHEV AMG Line (Premium) G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) VAT Q,"68,000",2023,Automatic,37.7 mpg,Hybrid,2023,1993cc,"1,271 miles",Diesel Hybrid,Automatic,Black,SUV,37.7 mpg
+/ad/30945854,Mercedes-Benz GLE Class,2.0 GLE300d MHEV AMG Line (Premium) G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) VAT Q,"68,000",2023,Automatic,37.7 mpg,Hybrid,2023,1993cc,"2,146 miles",Diesel Hybrid,Automatic,White,SUV,37.7 mpg
+/ad/30947486,Mercedes-Benz GLE Class,3.0 GLE53 BiTurbo MHEV AMG (Premium Plus) SpdS TCT 4MATIC+ Euro 6 (s/s) 5dr (7 Seat) BLACK 22s,"68,000",2022,Automatic,25.9 mpg,Hybrid,2022,2999cc,"3,982 miles",Petrol Hybrid,Automatic,Silver,SUV,25.9 mpg
+/ad/30339749,Mercedes-Benz V Class,2.0 V 220 D AMG LINE L 5d AUTO 161 BHP MPV,"67,999",2022,Automatic,36.2 mpg,Diesel,2022,2L,"12,392 miles",Diesel,Automatic,Black,MPV,36.2 mpg
+/ad/30848729,Mercedes-Benz V Class,V300 d AMG Line 5dr 9G-Tronic [Extra Long] MPV,"67,999",2023,Semi-Auto,36.2 mpg,Diesel,2023,2L,"25,653 miles",Diesel,Semiauto,Black,MPV,36.2 mpg
+/ad/30932272,Mercedes-Benz V Class,2.0 V300d AMG Line G-Tronic+ Euro 6 (s/s) 5dr 8 Seat LWB MPV,"67,995",2022,Automatic,36.2 mpg,Diesel,2022,1950cc,"9,150 miles",Diesel,Automatic,Black,MPV,36.2 mpg
+/ad/28867516,Mercedes-Benz GLC Class,Estate,"67,995",2019,Automatic,26.4 mpg,Petrol,2019,4000cc,"24,000 miles",Petrol,Automatic,White,Estate,26.4 mpg
+/ad/29948549,Mercedes-Benz V Class,V250 BlueTEC Sport 5dr Auto [Extra Long] Estate,"67,995",2016,Automatic,44.8 mpg,Diesel,2016,2143cc,"80,000 miles",Diesel,Automatic,Black,Estate,44.8 mpg
+/ad/30625861,Mercedes-Benz GLE Class,3.0 AMG GLE 53 4MATICPLUS PREMIUM PLUS MHEV 4d 430 BHP Coupe,"67,990",2021,Automatic,26.2 mpg,Other,2021,2999cc,"30,000 miles",Other,Automatic,WHITE,Coupe,26.2 mpg
+/ad/30123272,Mercedes-Benz S Class,S63 2dr Auto Other,"67,975",2017,Automatic,28.0 mpg,Petrol,2017,5500cc,"22,390 miles",Petrol,Automatic,Silver,Other,28 mpg
+/ad/30897443,Mercedes-Benz S Class,S350d AMG Line 4dr 9G-Tronic Saloon,"67,889",2021,Automatic,42.8 mpg,Diesel,2021,2925cc,"16,361 miles",Diesel,Automatic,Grey,Saloon,42.8 mpg
+/ad/30775352,Mercedes-Benz GL Class,2.9 GLS 400 D 4MATIC AMG LINE PREMIUM PLUS 5d 326 BHP Estate,"67,500",2020,Automatic,30.4 mpg,Diesel,2020,2925cc,"26,500 miles",Diesel,Automatic,GREY,Estate,30.4 mpg
+/ad/30850301,Mercedes-Benz GLC Class,GLC 63 S 4Matic+ Premium Plus 5dr MCT SUV,"67,499",2022,Semi-Auto,21.6 mpg,Petrol,2022,4L,"11,000 miles",Petrol,Semiauto,Black,SUV,21.6 mpg
+/ad/30940257,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"67,480",2023,Semi-Auto,34.0 mpg,Diesel,2023,2.9L,"3,428 miles",Diesel,Semiauto,Red,SUV,34 mpg
+/ad/30009818,Mercedes-Benz GLS Class,GLS 400d 4Matic AMG Line Prem + Exec 5dr 9G-Tronic SUV,"67,280",2020,Semi-Auto,30.4 mpg,Diesel,2020,3L,"20,773 miles",Diesel,Semiauto,Grey,SUV,30.4 mpg
+/ad/29842114,Mercedes-Benz EQS,EQS,"67,000",2021,Automatic,Tax: £0,2021,"8,892 miles",Electric,Automatic,Grey,Hatchback,,,
+/ad/30219754,Mercedes-Benz AMG GT,4.0 V8 BiTurbo S (Premium) Coupe 2dr Petrol SpdS DCT Euro 6 (s/s) (522 ps) Coupe,"66,995",2018,Automatic,30.1 mpg,Petrol,2018,3982cc,"11,237 miles",Petrol,Automatic,WHITE,Coupe,30.1 mpg
+/ad/30634292,Mercedes-Benz S Class,AMG COUPE Coupe,"66,995",2018,Automatic,31.7 mpg,Petrol,2018,3982cc,"34,500 miles",Petrol,Automatic,White,Coupe,31.7 mpg
+/ad/30958101,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"65,999",2023,Semi-Auto,32.5 mpg,Diesel,2023,2.9L,"3,958 miles",Diesel,Semiauto,White,SUV,32.5 mpg
+/ad/30783928,Mercedes-Benz V Class,V220 d AMG Line 5dr 9G-Tronic [Long] MPV,"65,995",2023,Semi-Auto,36.2 mpg,Diesel,2023,2L,"21,698 miles",Diesel,Semiauto,Black,MPV,36.2 mpg
+/ad/30629197,Mercedes-Benz V Class,V220 d AMG Line 5dr 9G-Tronic (Long) People Carrier,"65,900",2023,Automatic,36.2 mpg,Diesel,2023,1950cc,"5,308 miles",Diesel,Automatic,Red,People Carrier,36.2 mpg
+/ad/30832613,Mercedes-Benz GLS Class,GLS 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"65,499",2020,Semi-Auto,30.4 mpg,Diesel,2020,3L,"35,815 miles",Diesel,Semiauto,Grey,SUV,30.4 mpg
+/ad/30946187,Mercedes-Benz AMG GT,GT S Premium 2dr Auto Coupe,"65,000",2016,Semi-Auto,30.1 mpg,Petrol,2016,4L,"32,946 miles",Petrol,Semiauto,Grey,Coupe,30.1 mpg
+/ad/27014080,Mercedes-Benz G Class,5.5 G63 AMG 5d 544 BHP Estate,"64,995",2014,Automatic,Tax: n/a,2014,5461cc,"79,620 miles",Petrol,Automatic,BLACK,Estate,,
+/ad/30838920,Mercedes-Benz GL Class,2.9 GLS400d AMG Line (Premium Plus,"64,995",2019,Automatic,30.4 mpg,Diesel,2019,2925cc,"52,000 miles",Diesel,Automatic,Black,SUV,30.4 mpg
+/ad/30784575,Mercedes-Benz GLE Class,53 4Matic+ Premium 5dr 9G-Tronic (7 Seats) SUV,"64,990",2022,Automatic,26.2 mpg,Petrol,2022,2999cc,"8,537 miles",Petrol,Automatic,Blue,SUV,26.2 mpg
+/ad/29878251,Mercedes-Benz SL Class,4.2 2dr FABULOUS 2 OWNER EXAMPLE Convertible,"64,990",1988,Automatic,Tax: £325,1988,4196cc,"18,500 miles",Petrol,Automatic,Green,Convertible,,
+/ad/28796143,Mercedes-Benz C Class,4.0 AMG C 63 S PREMIUM PLUS 2d 503 BHP Coupe,"64,990",2019,Automatic,28.0 mpg,Petrol,2019,3982cc,"24,700 miles",Petrol,Automatic,GREY,Coupe,28 mpg
+/ad/30336446,Mercedes-Benz V Class,MPV,"64,990",2019,Automatic,45.6 mpg,Diesel,2019,2143cc,"63,901 miles",Diesel,Automatic,Silver,MPV,45.6 mpg
+/ad/30713688,Mercedes-Benz GLE Class,2.9 GLE 400 D 4MATIC AMG LINE PREMIUM PLUS 5d AUTO 326 BHP Estate,"64,984",2021,Automatic,32.5 mpg,Diesel,2021,2925cc,"19,708 miles",Diesel,Automatic,BLUE,Estate,32.5 mpg
+/ad/30935044,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"64,890",2023,Semi-Auto,32.5 mpg,Diesel,2023,2.9L,895 miles,Diesel,Semiauto,Silver,SUV,32.5 mpg
+/ad/30832220,Mercedes-Benz GLS Class,GLS 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"64,480",2020,Semi-Auto,30.4 mpg,Diesel,2020,3L,"15,115 miles",Diesel,Semiauto,Grey,SUV,30.4 mpg
+/ad/30819164,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"64,299",2023,Semi-Auto,32.5 mpg,Diesel,2023,2.9L,"6,482 miles",Diesel,Semiauto,Grey,SUV,32.5 mpg
+/ad/30819168,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"64,299",2023,Semi-Auto,32.5 mpg,Diesel,2023,2.9L,"10,110 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30588453,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"64,280",2023,Semi-Auto,32.5 mpg,Diesel,2023,2.9L,"5,216 miles",Diesel,Semiauto,Red,SUV,32.5 mpg
+/ad/30556462,Mercedes-Benz GLC Class,4.0 AMG GLC 63 S 4MATIC PLUS PREMIUM 4d 503 BHP Coupe,"63,995",2021,Automatic,22.1 mpg,Petrol,2021,3982cc,"17,275 miles",Petrol,Automatic,SILVER,Coupe,22.1 mpg
+/ad/29726910,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium Plus 5dr 9G-Tronic SUV,"63,990",2023,Automatic,36.7 mpg,Other,2023,1999cc,"1,980 miles",Other,Automatic,Black,SUV,36.7 mpg
+/ad/30388656,Mercedes-Benz G Class,5.5 G63 AMG 5DR Automatic Estate,"63,990",2013,Automatic,20.5 mpg,Petrol,2013,5461cc,"66,000 miles",Petrol,Automatic,Black,Estate,20.5 mpg
+/ad/30635878,Mercedes-Benz V Class,V220 d AMG Line 5dr 9G-Tronic [Extra Long] MPV,"63,980",2023,Semi-Auto,36.7 mpg,Diesel,2023,2L,"11,569 miles",Diesel,Semiauto,Silver,MPV,36.7 mpg
+/ad/30744474,Mercedes-Benz V Class,V220 d AMG Line 5dr 9G-Tronic [Extra Long] MPV,"63,980",2023,Semi-Auto,36.7 mpg,Diesel,2023,2L,"14,361 miles",Diesel,Semiauto,Silver,MPV,36.7 mpg
+/ad/30804668,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"62,999",2023,Semi-Auto,32.5 mpg,Diesel,2023,2.9L,"6,138 miles",Diesel,Semiauto,Grey,SUV,32.5 mpg
+/ad/30266385,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"62,995",2022,Automatic,34.0 mpg,Diesel,2022,2925cc,"10,829 miles",Diesel,Automatic,Selenite Grey Metallic,SUV,34 mpg
+/ad/30746415,Mercedes-Benz S Class,4.0 S63L V8 AMG (Executive) SpdS MCT Euro 6 (s/s) 4dr Saloon,"62,994",2019,Automatic,32.1 mpg,Petrol,2019,3982cc,"43,600 miles",Petrol,Automatic,Black,Saloon,32.1 mpg
+/ad/30760896,Mercedes-Benz EQS,EQS,"62,949",2022,Automatic,Tax: £0,2022,1L,"21,000 miles",Other,Automatic,BLACK,Saloon,,
+/ad/30936366,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"62,580",2023,Semi-Auto,32.5 mpg,Diesel,2023,2.9L,"10,137 miles",Diesel,Semiauto,Grey,SUV,32.5 mpg
+/ad/30114582,Mercedes-Benz EQS,EQS,"62,500",2022,Automatic,Tax: £0,2022,"21,483 miles",Electric,Automatic,Grey,Hatchback,,,
+/ad/30799858,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"62,499",2023,Semi-Auto,32.5 mpg,Diesel,2023,2.9L,"7,964 miles",Diesel,Semiauto,Red,SUV,32.5 mpg
+/ad/30715421,Mercedes-Benz V Class,2.1 V 250 D AMG LINE XL 5d 188 BHP MPV,"62,388",2019,Automatic,44.8 mpg,Diesel,2019,2143cc,"33,000 miles",Diesel,Automatic,BLUE,MPV,44.8 mpg
+/ad/30550850,Mercedes-Benz AMG GT,4.0 AMG GT,"62,145",2018,Automatic,30.1 mpg,Petrol,2018,3982cc,"35,061 miles",Petrol,Automatic,BLUE,Coupe,30.1 mpg
+/ad/30039309,Mercedes-Benz A Class,AMG A 45 S 4MATICPLUS PLUS Hatchback,"62,000",2022,Automatic,32.5 mpg,Petrol,2022,1991cc,0 miles,Petrol,Automatic,White,Hatchback,32.5 mpg
+/ad/30958224,Mercedes-Benz GLC Class,GLC 300de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"61,999",2023,Semi-Auto,Tax: £170,2023,2L,937 miles,Hybrid,Semiauto,Silver,SUV,,
+/ad/27163914,Mercedes-Benz C Class,4.0 AMG C 63 S PREMIUM PLUS 4d 503 BHP Saloon,"61,995",2019,Automatic,28.5 mpg,Petrol,2019,3982cc,"9,845 miles",Petrol,Automatic,BLACK,Saloon,28.5 mpg
+/ad/30913238,Mercedes-Benz GLS Class,GLS 400 D 4MATIC AMG LINE PREMIUM 5d 326 BHP Estate,"61,995",2020,Automatic,30.4 mpg,Diesel,2020,2.9L,"26,472 miles",Diesel,Automatic,Estate,30.4 mpg,
+/ad/30819485,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"61,980",2023,Semi-Auto,32.5 mpg,Diesel,2023,2.9L,"7,252 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30824931,Mercedes-Benz GLE Class,GLE 53 4Matic+ Prem + 5dr 9G-Tronic [7 Seats] SUV,"61,962",2020,Semi-Auto,25.9 mpg,Hybrid,2020,3L,"26,558 miles",Hybrid,Semiauto,White,SUV,25.9 mpg
+/ad/30864505,Mercedes-Benz 450,GLE 4MATIC AMG LINE PREMIUM PLUS Estate,"61,950",2022,Automatic,29.5 mpg,Petrol,2022,2999cc,"4,000 miles",Petrol,Automatic,Selenite Grey Metallic,Estate,29.5 mpg
+/ad/30844981,Mercedes-Benz AMG GT,4.0 V8 BiTurbo S (Premium) SpdS DCT Euro 6 (s/s) 2dr Coupe,"61,950",2016,Automatic,30.1 mpg,Petrol,2016,3982cc,"18,000 miles",Petrol,Automatic,White,Coupe,30.1 mpg
+/ad/30771524,Mercedes-Benz GLS Class,400d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"61,900",2020,Automatic,30.4 mpg,Diesel,2020,2925cc,"23,584 miles",Diesel,Automatic,Blue,SUV,30.4 mpg
+/ad/30802098,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"61,499",2023,Semi-Auto,32.5 mpg,Diesel,2023,2.9L,"8,170 miles",Diesel,Semiauto,Silver,SUV,32.5 mpg
+/ad/30331608,Mercedes-Benz E Class,4.0 AMG E 63 S 4MATIC 4d 604 BHP Saloon,"61,499",2019,Automatic,31.0 mpg,Petrol,2019,3982cc,"32,800 miles",Petrol,Automatic,GREY,Saloon,31 mpg
+/ad/30889106,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"61,495",2022,Automatic,40.4 mpg,Diesel,2022,1993cc,"11,139 miles",Diesel,Automatic,Selenite Grey Metallic,SUV,40.4 mpg
+/ad/30832937,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"61,310",2022,Semi-Auto,32.5 mpg,Diesel,2022,2.9L,"12,037 miles",Diesel,Semiauto,Grey,SUV,32.5 mpg
+/ad/30887218,Mercedes-Benz GLC Class,GLC 300e 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"61,242",2023,Semi-Auto,35.3 mpg,Hybrid,2023,2L,"3,986 miles",Hybrid,Semiauto,Blue,SUV,35.3 mpg
+/ad/30886984,Mercedes-Benz E Class,E53 4Matic+ Night Edition Prem+ 4dr TCT Saloon,"61,012",2023,Semi-Auto,29.7 mpg,Hybrid,2023,3L,955 miles,Hybrid,Semiauto,White,Saloon,29.7 mpg
+/ad/28867507,Mercedes-Benz GLE Class,Estate,"60,995",2019,Automatic,32.5 mpg,Diesel,2019,3000cc,"13,550 miles",Diesel,Automatic,Blue,Estate,32.5 mpg
+/ad/30959058,Mercedes-Benz C Class,4.0 C63 V8 BiTurbo AMG S (Premium Plus) SpdS MCT Euro 6 (s/s) 2dr Coupe,"60,995",2020,Automatic,28.0 mpg,Petrol,2020,3982cc,"16,400 miles",Petrol,Automatic,Grey,Coupe,28 mpg
+/ad/30947537,Mercedes-Benz GLC Class,300de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"60,990",2023,Automatic,Tax: £170,2023,1993cc,"1,404 miles",Diesel Plugin Hybrid,Automatic,Blue,SUV,,
+/ad/30887001,Mercedes-Benz E Class,E53 4Matic+ Night Edition Prem+ 4dr TCT Saloon,"60,954",2023,Semi-Auto,29.7 mpg,Hybrid,2023,3L,"1,194 miles",Hybrid,Semiauto,White,Saloon,29.7 mpg
+/ad/30842405,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"60,932",2022,Semi-Auto,32.5 mpg,Diesel,2022,2.9L,"8,140 miles",Diesel,Semiauto,Grey,SUV,32.5 mpg
+/ad/30720598,Mercedes-Benz GLE Class,53 4Matic+ Prem + 5dr 9G-Tronic (7 Seats) SUV,"60,900",2020,Automatic,25.9 mpg,Petrol,2020,2999cc,"18,313 miles",Petrol,Automatic,White,SUV,25.9 mpg
+/ad/30887023,Mercedes-Benz E Class,E53 4Matic+ Night Edition Prem+ 4dr TCT Saloon,"60,442",2023,Semi-Auto,29.7 mpg,Hybrid,2023,3L,"1,546 miles",Hybrid,Semiauto,White,Saloon,29.7 mpg
+/ad/30652076,Mercedes-Benz V Class,2.0 V300d Sport G-Tronic+ XLWB Euro 6 (s/s) 5dr 8 Seat XLWB 19s,"60,250",2021,Automatic,36.7 mpg,Diesel,2021,1950cc,"37,277 miles",Diesel,Automatic,Silver,MPV,36.7 mpg
+/ad/30922039,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"60,117",2022,Semi-Auto,32.5 mpg,Diesel,2022,2.9L,"17,077 miles",Diesel,Semiauto,Blue,SUV,32.5 mpg
+/ad/30629942,Mercedes-Benz C Class,C63 S Premium Plus 2dr MCT Convertible,"60,106",2020,Semi-Auto,27.2 mpg,Petrol,2020,4L,"10,475 miles",Petrol,Semiauto,Black,Convertible,27.2 mpg
+/ad/30809537,Mercedes-Benz GLE Class,2.9 GLE400d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr 22s,"60,000",2022,Automatic,34.0 mpg,Diesel,2022,2925cc,"14,674 miles",Diesel,Automatic,Grey,Coupe,34 mpg
+/ad/30954951,Mercedes-Benz GLE Class,400d 4Matic AMG Line Prem + 5dr 9G-Tron (7 St) SUV,"59,999",2022,Automatic,32.5 mpg,Diesel,2022,2925cc,"5,330 miles",Diesel,Automatic,Black,SUV,32.5 mpg
+/ad/30904526,Mercedes-Benz GLC Class,300de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"59,998",2023,Automatic,Tax: £170,2023,1993cc,"1,964 miles",Diesel Plugin Hybrid,Automatic,Blue,SUV,,
+/ad/28995602,Mercedes-Benz EQE,350+ 215kW Exclusive Luxury 90kWh 4dr Auto Saloon,"59,998",2022,Automatic,Tax: £0,2022,"13,500 miles",Electric,Automatic,Silver,Saloon,,,
+/ad/30484166,Mercedes-Benz E Class,E53 AMG Night Edition Premium Plus Bi-Turbo 4M+ MHEV Petrol Coupe PPF WRAP Coupe,"59,995",2023,Automatic,30.1 mpg,Petrol,2023,2999cc,"4,900 miles",Petrol,Automatic,Black,Coupe,30.1 mpg
+/ad/30717346,Mercedes-Benz GLE Class,GLE400d AMG Line SUV,"59,995",2022,Automatic,32.5 mpg,Diesel,2022,2900cc,"10,665 miles",Diesel,Automatic,Grey,SUV,32.5 mpg
+/ad/30471735,Mercedes-Benz EQC,90kWh Sport Auto 5dr MPV,"59,995",2022,Automatic,Tax: £0,2022,0L,"11,800 miles",Other,Automatic,Silver,MPV,,
+/ad/30775344,Mercedes-Benz AMG GT,4.0 AMG GT,"59,995",2016,Automatic,30.4 mpg,Petrol,2016,3982cc,"12,000 miles",Petrol,Automatic,BLACK/BLACK,Coupe,30.4 mpg
+/ad/30331338,Mercedes-Benz C Class,4.0 AMG C 63 S PREMIUM PLUS 2d 503 BHP Coupe,"59,995",2020,Automatic,28.0 mpg,Petrol,2020,3982cc,"13,000 miles",Petrol,Automatic,BLUE,Coupe,28 mpg
+/ad/27081053,Mercedes-Benz E Class,4.0 AMG E 63 S 4MATIC 4d 604 BHP Saloon,"59,995",2019,Automatic,31.0 mpg,Petrol,2019,3982cc,"19,186 miles",Petrol,Automatic,BLACK,Saloon,31 mpg
+/ad/30658633,Mercedes-Benz AMG GT,4.0 AMG GT,"59,995",2016,Automatic,30.1 mpg,Petrol,2016,3982cc,"23,372 miles",Petrol,Automatic,GREY,Coupe,30.1 mpg
+/ad/30468279,Mercedes-Benz V Class,2.0 V 300 D AUTO AMG LINE WESTFALIA MARCO POLO 5d 236 BHP LONG Other,"59,995",2019,Automatic,34.9 mpg,Diesel,2019,1950cc,"27,000 miles",Diesel,Automatic,SILVER,Other,34.9 mpg
+/ad/30464732,Mercedes-Benz S Class,AMG SALOON Saloon,"59,995",2018,Automatic,32.1 mpg,Petrol,2018,3982cc,"32,727 miles",Petrol,Automatic,Black,Saloon,32.1 mpg
+/ad/30844241,Mercedes-Benz GLE Class,GLE 300d 272 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"59,995",2022,Automatic,40.4 mpg,Diesel,2022,1993cc,"8,730 miles",Diesel,Automatic,Obsidian Black Metallic,SUV,40.4 mpg
+/ad/30781439,Mercedes-Benz E Class,3.0 AMG E 53 4MATICPLUS NIGHT EDITION PREMIUM PLUS MHE 2d AUTO 430 BHP Convertible,"59,990",2023,Automatic,29.4 mpg,Other,2023,2999cc,"1,600 miles",Other,Automatic,BLUE,Convertible,29.4 mpg
+/ad/28316437,Mercedes-Benz 380,3.8 SL 2dr STUNNING 2 OWNER EXAMPLE Convertible,"59,990",1984,Automatic,Tax: n/a,1984,3839cc,"18,000 miles",Petrol,Automatic,Red,Convertible,,
+/ad/30947538,Mercedes-Benz EQC,400 300kW AMG Line Premium Plus 80kWh 5dr Auto SUV,"59,990",2023,Automatic,Tax: n/a,2023,35 miles,Electric,Automatic,Red,SUV,,,
+/ad/30851785,Mercedes-Benz Vito,119 BlueTec Pro 8-Seater 7G-Tronic MPV,"59,989",2023,Automatic,39.2 mpg,Diesel,2023,2.1L,"11,451 miles",Diesel,Automatic,Silver,MPV,39.2 mpg
+/ad/30717417,Mercedes-Benz V Class,2.0 V300d AMG Line G-Tronic+ Euro 6 (s/s) 5dr 7 Seat MPV,"59,989",2020,Automatic,Tax: n/a,2020,1950cc,"21,600 miles",Diesel,Automatic,Black,MPV,,
+/ad/30746292,Mercedes-Benz AMG GT,4.0 V8 BiTurbo S Premium - AMG Dynamic Plus Package - Factory Magno Paint - Huge Spec Coupe,"59,980",2015,Automatic,30.1 mpg,Petrol,2015,3982cc,"28,587 miles",Petrol,Automatic,Grey,Coupe,30.1 mpg
+/ad/30746292,Mercedes-Benz AMG GT,4.0 V8 BiTurbo S Premium - AMG Dynamic Plus Package - Factory Magno Paint - Huge Spec Coupe,"59,980",2015,Automatic,30.1 mpg,Petrol,2015,3982cc,"28,587 miles",Petrol,Automatic,Grey,Coupe,30.1 mpg
+/ad/29934342,Mercedes-Benz G Class,5.5 AMG G 63 4MATIC EDITION 463 5d 563 BHP Estate,"59,950",2016,Automatic,20.5 mpg,Petrol,2016,5461cc,"79,782 miles",Petrol,Automatic,WHITE,Estate,20.5 mpg
+/ad/30728380,Mercedes-Benz EQC,400 300kW AMG Line Premium Plus 80kWh 5dr Auto SUV,"59,900",2022,Automatic,Tax: £0,2022,"8,599 miles",Electric,Automatic,Black,SUV,,,
+/ad/30478620,Mercedes-Benz EQE,300 180kW AMG Line Premium Plus 89kWh 4dr Auto Saloon,"59,900",2022,Automatic,Tax: £0,2022,"13,000 miles",Electric,Automatic,Black,Saloon,,,
+/ad/30559061,Mercedes-Benz EQE,300 180kW AMG Line Premium Plus 89kWh 4dr Auto Saloon,"59,900",2022,Automatic,Tax: £0,2022,"17,103 miles",Electric,Automatic,White,Saloon,,,
+/ad/30935041,Mercedes-Benz GLE Class,GLE 450 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"59,890",2023,Semi-Auto,29.5 mpg,Hybrid,2023,3L,215 miles,Hybrid,Semiauto,Black,SUV,29.5 mpg
+/ad/30917979,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line 5dr 9G-Tronic SUV,"59,850",2022,Semi-Auto,256.8 mpg,Hybrid,2022,2L,"13,812 miles",Hybrid,Semiauto,Blue,SUV,256.8 mpg
+/ad/30904429,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"59,545",2023,Semi-Auto,32.5 mpg,Diesel,2023,3L,"5,144 miles",Diesel,Semiauto,Grey,SUV,32.5 mpg
+/ad/28302032,Mercedes-Benz AMG GT,AMG GT,"59,495",2015,Automatic,30.1 mpg,Petrol,2015,3982cc,"20,499 miles",Petrol,Automatic,Blue,Coupe,30.1 mpg
+/ad/29499394,Mercedes-Benz AMG GT,4.0 V8 BiTurbo (Premium) SpdS DCT Euro 6 (s/s) 2dr Coupe,"59,440",2016,Automatic,30.4 mpg,Petrol,2016,3982cc,"46,798 miles",Petrol,Automatic,Grey,Coupe,30.4 mpg
+/ad/30589333,Mercedes-Benz GLC Class,4.0 GLC63 V8 BiTurbo AMG S (Premium Plus) SpdS MCT 4MATIC+ Euro 6 (s/s) 5dr 20s,"59,000",2020,Automatic,21.6 mpg,Petrol,2020,3982cc,"18,763 miles",Petrol,Automatic,Blue,SUV,21.6 mpg
+/ad/30652075,Mercedes-Benz V Class,2.0 V300d Sport G-Tronic+ XLWB Euro 6 (s/s) 5dr 8 Seat XLWB 19s,"59,000",2021,Automatic,36.7 mpg,Diesel,2021,1950cc,"48,669 miles",Diesel,Automatic,Silver,MPV,36.7 mpg
+/ad/30856465,Mercedes-Benz V Class,2.1 V 250 D AMG LINE XL 5d AUTO 188 BHP MPV,"59,000",2018,Automatic,44.8 mpg,Diesel,2018,2143cc,"77,000 miles",Diesel,Automatic,BLACK,MPV,44.8 mpg
+/ad/30776613,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"58,999",2022,Semi-Auto,34.0 mpg,Diesel,2022,2.9L,"25,582 miles",Diesel,Semiauto,Blue,SUV,34 mpg
+/ad/30679574,Mercedes-Benz GLC Class,300d 4Matic AMG Line Premium Pls 5dr 9G-Tronic SUV,"58,998",2023,Automatic,48.7 mpg,Diesel,2023,1993cc,"3,500 miles",Diesel,Automatic,Blue,SUV,48.7 mpg
+/ad/30924011,Mercedes-Benz GLE Class,2.9 GLE400d AMG Line 2021 (71 reg) PAN ROOF SUV,"58,995",2021,Automatic,32.5 mpg,Diesel,2021,2925cc,"17,000 miles",Diesel,Automatic,Black,SUV,32.5 mpg
+/ad/30524421,Mercedes-Benz AMG GT,GT 476 Premium 2dr Auto Coupe,"58,995",2017,Semi-Auto,30.4 mpg,Petrol,2017,4L,"34,000 miles",Petrol,Semiauto,Silver,Coupe,30.4 mpg
+/ad/30738985,Mercedes-Benz GLC Class,4.0 GLC63 V8 BiTurbo AMG S (Premium Plus) SpdS MCT 4MATIC+ Euro 6 (s/s) 5dr Coupe,"58,995",2019,Automatic,22.1 mpg,Petrol,2019,3982cc,"37,000 miles",Petrol,Automatic,Blue,Coupe,22.1 mpg
+/ad/28452671,Mercedes-Benz A Class,AMG A 45 S 4MATICPLUS PLUS Hatchback,"58,995",1970,Automatic,32.5 mpg,Petrol,1970,1991cc,0 miles,Petrol,Automatic,Beige,Hatchback,32.5 mpg
+/ad/30462354,Mercedes-Benz GLE Class,3.0 GLE53 MHEV AMG (Premium) SpdS TCT 4MATIC+ Euro 6 (s/s) 5dr (7 Seat) 21s,"58,500",2021,Automatic,26.2 mpg,Hybrid,2021,2999cc,"31,121 miles",Petrol Hybrid,Automatic,Blue,SUV,26.2 mpg
+/ad/29929261,Mercedes-Benz GLC Class,GLC 63 S 4Matic+ Premium Plus 5dr MCT SUV,"58,495",2019,Automatic,21.6 mpg,Petrol,2019,3982cc,"43,500 miles",Petrol,Automatic,Grey,SUV,21.6 mpg
+/ad/29442562,Mercedes-Benz GL Class,2.9 GLS 400 D 4MATIC AMG LINE PREMIUM PLUS 5d 326 BHP Estate,"58,390",2019,Automatic,30.4 mpg,Diesel,2019,2925cc,"73,850 miles",Diesel,Automatic,GREY,Estate,30.4 mpg
+/ad/30006114,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"58,093",2021,Semi-Auto,32.5 mpg,Diesel,2021,2.9L,"12,883 miles",Diesel,Semiauto,Grey,SUV,32.5 mpg
+/ad/30960953,Mercedes-Benz V Class,V300 d AMG Line 5dr 9G-Tronic [Extra Long] MPV,"58,000",2020,Semi-Auto,36.2 mpg,Diesel,2020,2L,"20,903 miles",Diesel,Semiauto,Black,MPV,36.2 mpg
+/ad/30959796,Mercedes-Benz CLA Class,CLA 45 S 4Matic+ Plus 4dr Tip Auto Coupe,"57,999",2023,Semi-Auto,31.7 mpg,Petrol,2023,2L,14 miles,Petrol,Semiauto,Grey,Coupe,31.7 mpg
+/ad/30958013,Mercedes-Benz CLA Class,CLA 45 S 4Matic+ Plus 4dr Tip Auto Coupe,"57,999",2023,Semi-Auto,31.7 mpg,Petrol,2023,2L,100 miles,Petrol,Semiauto,Yellow,Coupe,31.7 mpg
+/ad/30245547,Mercedes-Benz C Class,C63 S Premium Plus 2dr MCT Other,"57,995",2019,Automatic,27.2 mpg,Petrol,2019,3982cc,"15,994 miles",Petrol,Automatic,Black,Other,27.2 mpg
+/ad/30272140,Mercedes-Benz GL Class,5.5 GLS63 V8 GPF AMG SpdS+7GT 4MATIC Euro 6 (s/s) 5dr SUV,"57,995",2019,Automatic,23.0 mpg,Petrol,2019,5461cc,"31,750 miles",Petrol,Automatic,White,SUV,23 mpg
+/ad/30494318,Mercedes-Benz GL Class,Coupe,"57,995",2020,Automatic,22.1 mpg,Petrol,2020,3982cc,"41,000 miles",Petrol,Automatic,Grey,Coupe,22.1 mpg
+/ad/30787568,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"57,995",2021,Semi-Auto,34.0 mpg,Diesel,2021,2.9L,"15,960 miles",Diesel,Semiauto,Blue,SUV,34 mpg
+/ad/30919736,Mercedes-Benz SL Class,5.5 AMG SL 63 2d 577 BHP Convertible,"57,990",2019,Automatic,28.0 mpg,Petrol,2019,5461cc,"16,700 miles",Petrol,Automatic,BLACK,Convertible,28 mpg
+/ad/30866103,Mercedes-Benz GLC Class,4.0 GLC63 V8 BiTurbo AMG S SpdS MCT 4MATIC+ Euro 6 (s/s) 5dr Coupe,"57,490",2020,Automatic,22.1 mpg,Petrol,2020,3982cc,"49,400 miles",Petrol,Automatic,Black,Coupe,22.1 mpg
+/ad/30623842,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"57,202",2023,Semi-Auto,32.5 mpg,Diesel,2023,3L,"5,641 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30950296,Mercedes-Benz SLK,250 CDI BlueEFFICIENCY AMG Sport 2dr Tip Auto SUV,"57,000",2023,Automatic,Tax: n/a,2023,2143cc,"20,650 miles",Diesel,Automatic,Silver,SUV,,
+/ad/28294923,Mercedes-Benz GLC Class,AMG GLC 63 S 4MATIC PLUS PREMIUM Coupe,"56,999",2020,Automatic,22.1 mpg,Petrol,2020,3982cc,"24,000 miles",Petrol,Automatic,Red,Coupe,22.1 mpg
+/ad/30898794,Mercedes-Benz GLE Class,GLE 400 d 4MATIC AMG Line Premium 7 Seat SUV,"56,995",2022,Automatic,32.5 mpg,Diesel,2022,2925cc,"11,986 miles",Diesel,Automatic,Obsidian Black Metallic,SUV,32.5 mpg
+/ad/30943757,Mercedes-Benz V Class,2.0 V220d Sport G-Tronic+ Euro 6 (s/s) 5dr 8 Seat XLWB MPV,"56,950",2020,Automatic,37.7 mpg,Diesel,2020,1950cc,"14,800 miles",Diesel,Automatic,Black,MPV,37.7 mpg
+/ad/30929041,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"56,799",2022,Semi-Auto,32.5 mpg,Diesel,2022,2.9L,"7,078 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30652077,Mercedes-Benz V Class,2.0 V220d Sport G-Tronic+ LWB Euro 6 (s/s) 5dr 8 Seat LWB 19s,"56,500",2021,Automatic,37.2 mpg,Diesel,2021,1950cc,"39,322 miles",Diesel,Automatic,Silver,MPV,37.2 mpg
+/ad/30849058,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"56,495",2023,Semi-Auto,32.5 mpg,Diesel,2023,3L,"10,819 miles",Diesel,Semiauto,Grey,SUV,32.5 mpg
+/ad/30344087,Mercedes-Benz C Class,C43 4Matic Premium Plus 5dr 9G-Tronic Estate,"56,490",2023,Semi-Auto,31.0 mpg,Hybrid,2023,2L,119 miles,Hybrid,Semiauto,Black,Estate,31 mpg
+/ad/30935740,Mercedes-Benz V Class,V300 d Marco Polo Horizon AMG Line 4dr 9GT [Long] MPV,"56,490",2020,Semi-Auto,34.9 mpg,Diesel,2020,2L,"21,358 miles",Diesel,Semiauto,Black,MPV,34.9 mpg
+/ad/30532240,Mercedes-Benz E Class,E53 4Matic+ Night Ed Premium Plus 2dr TCT Coupe,"56,380",2023,Semi-Auto,30.1 mpg,Hybrid,2023,3L,"6,242 miles",Hybrid,Semiauto,White,Coupe,30.1 mpg
+/ad/30918831,Mercedes-Benz C Class,C43 4Matic Premium Plus 5dr 9G-Tronic Estate,"56,200",2023,Semi-Auto,31.0 mpg,Hybrid,2023,2L,606 miles,Hybrid,Semiauto,Grey,Estate,31 mpg
+/ad/30695663,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"56,164",2021,Semi-Auto,313.9 mpg,Hybrid,2021,2L,"14,800 miles",Hybrid,Semiauto,Black,SUV,313.9 mpg
+/ad/30958221,Mercedes-Benz GLC Class,GLC 300e 4Matic AMG Line 5dr 9G-Tronic SUV,"55,999",2023,Semi-Auto,35.3 mpg,Hybrid,2023,2L,"2,348 miles",Hybrid,Semiauto,Black,SUV,35.3 mpg
+/ad/30494835,Mercedes-Benz C Class,4.0 C63S V8 BiTurbo AMG + Carbon Kit + Bucket Seats + Burmiester Speakers + SPEC Convertible,"55,995",2019,Automatic,27.2 mpg,Petrol,2019,3982cc,"13,900 miles",Petrol,Automatic,Grey,Convertible,27.2 mpg
+/ad/29929231,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"55,995",2021,Automatic,35.8 mpg,Diesel,2021,1950cc,"16,600 miles",Diesel,Automatic,Grey,SUV,35.8 mpg
+/ad/30436114,Mercedes-Benz GL Class,Estate,"55,995",2020,Automatic,32.5 mpg,Diesel,2020,2925cc,"22,000 miles",Diesel,Automatic,Silver,Estate,32.5 mpg
+/ad/30954010,Mercedes-Benz GLC Class,GLC 300de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"55,988",2023,Semi-Auto,Tax: £170,2023,2L,"4,017 miles",Hybrid,Semiauto,Blue,SUV,,
+/ad/30822278,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"55,980",2023,Semi-Auto,32.5 mpg,Diesel,2023,3L,"10,449 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30954073,Mercedes-Benz GLC Class,GLC 300de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"55,978",2023,Semi-Auto,Tax: £170,2023,2L,861 miles,Hybrid,Semiauto,White,SUV,,
+/ad/30629199,Mercedes-Benz GLE Class,350de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"55,900",2022,Automatic,313.9 mpg,Hybrid,2022,1950cc,"13,056 miles",Diesel Plugin Hybrid,Automatic,Grey,SUV,313.9 mpg
+/ad/30543501,Mercedes-Benz AMG GT,4.0 V8 BiTurbo S Premium Coupe 2dr Petrol SpdS DCT Euro 6 (s/s) (510 ps) Coupe,"55,785",2015,Automatic,30.1 mpg,Petrol,2015,3982cc,"24,686 miles",Petrol,Automatic,GREY,Coupe,30.1 mpg
+/ad/30883622,Mercedes-Benz V Class,2.0 V300d AMG Line MPV 5dr Diesel G-Tronic+ Euro 6 (s/s) 7 Seat (239 ps) MPV,"55,750",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"32,996 miles",Diesel,Automatic,Black,MPV,36.7 mpg
+/ad/30849772,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"55,750",2023,Semi-Auto,32.5 mpg,Diesel,2023,3L,"16,699 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30775401,Mercedes-Benz E Class,4.0 AMG E 63 S Estate Estate,"55,500",2019,Automatic,30.1 mpg,Petrol,2019,3982cc,"38,450 miles",Petrol,Automatic,BLACK,Estate,30.1 mpg
+/ad/30957308,Mercedes-Benz GLC Class,GLC 63 S 4Matic+ Premium Plus 5dr MCT SUV,"55,499",2020,Semi-Auto,21.6 mpg,Petrol,2020,4L,"45,656 miles",Petrol,Semiauto,Black,SUV,21.6 mpg
+/ad/30869519,Mercedes-Benz GLE Class,400 AMG Line Premium+ D 4Matic Auto Estate,"55,495",2021,Automatic,32.5 mpg,Diesel,2021,2925cc,"17,700 miles",Diesel,Automatic,Black,Estate,32.5 mpg
+/ad/30870767,Mercedes-Benz GLC Class,GLC 43 4Matic Premium plus 5dr TCT SUV,"55,490",2023,Semi-Auto,26.7 mpg,Petrol,2023,3L,"1,570 miles",Petrol,Semiauto,Blue,SUV,26.7 mpg
+/ad/30934064,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"55,480",2023,Semi-Auto,32.5 mpg,Diesel,2023,3L,"17,922 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30535117,Mercedes-Benz GLE Class,2.0 GLE 300 D 4MATIC AMG LINE PREMIUM PLUS 5d 242 BHP Estate,"55,440",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"27,672 miles",Diesel,Automatic,BLACK,Estate,36.7 mpg
+/ad/30886985,Mercedes-Benz GLC Class,GLC 43 4Matic Premium plus 5dr TCT SUV,"55,327",2023,Semi-Auto,26.7 mpg,Petrol,2023,3L,"1,867 miles",Petrol,Semiauto,Black,SUV,26.7 mpg
+/ad/30589328,Mercedes-Benz V Class,2.0 V220d Sport G-Tronic+ Euro 6 (s/s) 5dr 8 Seat LWB 19s,"55,250",2021,Automatic,37.2 mpg,Diesel,2021,1950cc,"27,472 miles",Diesel,Automatic,Silver,MPV,37.2 mpg
+/ad/30871670,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Premium + 5dr 9G-Tronic SUV,"55,209",2022,Automatic,34.0 mpg,Diesel,2022,2925cc,"36,932 miles",Diesel,Automatic,Black,SUV,34 mpg
+/ad/30589335,Mercedes-Benz V Class,2.0 V220d Sport G-Tronic+ Euro 6 (s/s) 5dr 8 Seat LWB 19s,"55,000",2021,Automatic,37.2 mpg,Diesel,2021,1950cc,"32,039 miles",Diesel,Automatic,Silver,MPV,37.2 mpg
+/ad/30946592,Mercedes-Benz V Class,V300 d AMG Line 5dr 9G-Tronic [Extra Long] MPV,"55,000",2020,Semi-Auto,36.2 mpg,Diesel,2020,2L,"27,565 miles",Diesel,Semiauto,Silver,MPV,36.2 mpg
+/ad/30958228,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium Pls 5dr 9G-Tronic SUV,"54,999",2023,Semi-Auto,48.7 mpg,Diesel,2023,2L,"1,062 miles",Diesel,Semiauto,Silver,SUV,48.7 mpg
+/ad/29496139,Mercedes-Benz EQE,300 180kW AMG Line Premium 89kWh 4dr Auto Saloon,"54,998",2022,Automatic,Tax: £0,2022,"9,800 miles",Electric,Automatic,White,Saloon,,,
+/ad/30898795,Mercedes-Benz GLC Class,Class GLC 300 4Matic AMG Line Premium Plus 5dr 9G-Tronic SUV,"54,995",2023,Automatic,36.7 mpg,Petrol,2023,1999cc,"1,427 miles",Petrol,Automatic,Spectral Blue Metallic,SUV,36.7 mpg
+/ad/30925828,Mercedes-Benz C Class,C63 S Premium Plus 2dr 9G-Tronic Coupe,"54,995",2020,Automatic,28.0 mpg,Petrol,2020,3982cc,"25,701 miles",Petrol,Automatic,Obsidian Black Metallic,Coupe,28 mpg
+/ad/30622488,Mercedes-Benz AMG GT,AMG GT,"54,995",2015,Automatic,30.1 mpg,Petrol,2015,3982cc,"25,939 miles",Petrol,Automatic,Silver,Coupe,30.1 mpg
+/ad/30736954,Mercedes-Benz GLE Class,2.9 GLE 400 D 4MATIC AMG LINE PREMIUM PLUS 5d 326 BHP Estate,"54,995",2021,Automatic,32.5 mpg,Diesel,2021,2925cc,"30,300 miles",Diesel,Automatic,GREY,Estate,32.5 mpg
+/ad/30678451,Mercedes-Benz EQC,EQC,"54,995",2023,Automatic,Tax: £0,2023,"3,050 miles",Other,Automatic,Black,SUV,,,
+/ad/29731399,Mercedes-Benz E Class,Saloon,"54,990",2017,Automatic,31.0 mpg,Petrol,2017,3982cc,"19,000 miles",Petrol,Automatic,White,Saloon,31 mpg
+/ad/30538557,Mercedes-Benz V Class,2.1 V 250 D AMG LINE XLWB 5d 188 BHP MPV,"54,990",2019,Automatic,44.8 mpg,Diesel,2019,2143cc,"20,300 miles",Diesel,Automatic,SILVER,MPV,44.8 mpg
+/ad/27083686,Mercedes-Benz V Class,V250 d AMG Line 5dr Auto [Long] Estate,"54,990",2017,Automatic,44.8 mpg,Diesel,2017,2143cc,"34,564 miles",Diesel,Automatic,Black,Estate,44.8 mpg
+/ad/30907248,Mercedes-Benz AMG GT,AMG GT,"54,990",2015,Automatic,30.1 mpg,Petrol,2015,3982cc,"39,000 miles",Petrol,Automatic,Red,Coupe,30.1 mpg
+/ad/30866609,Mercedes-Benz E Class,4.0 AMG E 63 4MATIC 5d 564 BHP Estate,"54,950",2019,Automatic,30.1 mpg,Petrol,2019,3982cc,"20,000 miles",Petrol,Automatic,GREY,Estate,30.1 mpg
+/ad/30561822,Mercedes-Benz C Class,AMG C 63 S NIGHT EDITION PREMIUM PLUS Convertible,"54,950",2021,Automatic,25.0 mpg,Petrol,2021,3982cc,"21,000 miles",Petrol,Automatic,Black,Convertible,25 mpg
+/ad/30943081,Mercedes-Benz GLA Class,GLA 45 S 4Matic+ Plus 5dr Auto SUV,"54,890",2023,Semi-Auto,28.8 mpg,Petrol,2023,2L,915 miles,Petrol,Semiauto,Red,SUV,28.8 mpg
+/ad/30078934,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"54,880",2022,Semi-Auto,32.5 mpg,Diesel,2022,3L,"14,536 miles",Diesel,Semiauto,Blue,SUV,32.5 mpg
+/ad/30758183,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium Pls 5dr 9G-Tronic SUV,"54,873",2023,Semi-Auto,48.7 mpg,Diesel,2023,2L,"1,466 miles",Diesel,Semiauto,Silver,SUV,48.7 mpg
+/ad/30954668,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium Pls 5dr 9G-Tronic SUV,"54,871",2023,Semi-Auto,48.7 mpg,Diesel,2023,2L,510 miles,Diesel,Semiauto,Silver,SUV,48.7 mpg
+/ad/30788594,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium Plus 5dr 9G-Tronic Estate,"54,750",2023,Automatic,36.7 mpg,Petrol,2023,1999cc,"5,000 miles",Petrol,Automatic,Grey,Estate,36.7 mpg
+/ad/30959615,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium Plus 5dr 9G-Tronic SUV,"54,699",2023,Semi-Auto,36.7 mpg,Hybrid,2023,2L,"1,003 miles",Hybrid,Semiauto,Red,SUV,36.7 mpg
+/ad/30578539,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] Estate,"54,575",2022,Automatic,35.8 mpg,Diesel,2022,1950cc,"26,000 miles",Diesel,Automatic,Blue,Estate,35.8 mpg
+/ad/30916892,Mercedes-Benz V Class,2.0 V 300 D AMG LINE XL 5d 236 BHP VAT QUALIFYING  MPV,"54,500",2020,Automatic,36.2 mpg,Diesel,2020,2L,"18,771 miles",Diesel,Automatic,Black,MPV,36.2 mpg
+/ad/30468836,Mercedes-Benz GLE Class,2.9 GLE400d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) 22s,"54,500",2021,Automatic,32.5 mpg,Diesel,2021,2925cc,"21,026 miles",Diesel,Automatic,Blue,SUV,32.5 mpg
+/ad/29763980,Mercedes-Benz EQC,EQC,"54,495",2022,Automatic,Tax: £0,2022,0L,"10,000 miles",Other,Automatic,Grey,SUV,,
+/ad/30865059,Mercedes-Benz GLE Class,2.9 GLE400d AMG Line (Premium) G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) SUV,"54,450",2022,Automatic,32.5 mpg,Diesel,2022,2925cc,"23,446 miles",Diesel,Automatic,Grey,SUV,32.5 mpg
+/ad/28035861,Mercedes-Benz V Class,2.1 V 250 D AMG LINE MARCO POLO L 5d AUTO 188 BHP Other,"54,450",2017,Automatic,44.1 mpg,Diesel,2017,2143cc,"31,939 miles",Diesel,Automatic,BLACK,Other,44.1 mpg
+/ad/30778050,Mercedes-Benz GLE Class,GLE 63 S 4Matic Night Edition 5dr 7G-Tronic SUV,"54,400",2019,Automatic,23.7 mpg,Petrol,2019,5461cc,"27,029 miles",Petrol,Automatic,Grey,SUV,23.7 mpg
+/ad/30758181,Mercedes-Benz CLA Class,CLA 45 S 4Matic+ Plus 4dr Tip Auto Coupe,"54,109",2023,Semi-Auto,31.7 mpg,Petrol,2023,2L,806 miles,Petrol,Semiauto,Black,Coupe,31.7 mpg
+/ad/30925557,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"54,000",2021,Semi-Auto,32.5 mpg,Diesel,2021,2.9L,"17,000 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30924689,Mercedes-Benz C Class,4.0 AMG C 63 2d 469 BHP Coupe,"54,000",2020,Automatic,32.8 mpg,Petrol,2020,3982cc,"33,810 miles",Petrol,Automatic,WHITE,Coupe,32.8 mpg
+/ad/30892727,Mercedes-Benz GLC Class,4.0 GLC63 V8 BiTurbo AMG S (Premium Plus) SpdS MCT 4MATIC+ Euro 6 (s/s) 5dr 21s,"54,000",2019,Automatic,22.1 mpg,Petrol,2019,3982cc,"36,169 miles",Petrol,Automatic,Black,Coupe,22.1 mpg
+/ad/30752655,Mercedes-Benz V Class,V220 d Sport 5dr 9G-Tronic (Long) People Carrier,"53,999",2020,Automatic,37.2 mpg,Diesel,2020,1950cc,"21,979 miles",Diesel,Automatic,Black,People Carrier,37.2 mpg
+/ad/30897046,Mercedes-Benz GLC Class,GLC 63 S 4Matic Edition 1 5dr 9G-Tronic SUV,"53,999",2019,Semi-Auto,26.4 mpg,Petrol,2019,4L,"38,000 miles",Petrol,Semiauto,Grey,SUV,26.4 mpg
+/ad/27267755,Mercedes-Benz SL Class,500 R107 Convertible,"53,995",1983,Automatic,Tax: £280,1983,4973cc,"18,700 miles",Petrol,Automatic,Green,Convertible,,
+/ad/30906981,Mercedes-Benz GLE Class,2.9 GLE 350 D 4MATIC AMG LINE PREMIUM PLUS 5d 269 BHP Estate,"53,995",2021,Automatic,32.5 mpg,Diesel,2021,2925cc,"21,836 miles",Diesel,Automatic,BLACK,Estate,32.5 mpg
+/ad/30724043,Mercedes-Benz E Class,4.0 E63 V8 BiTurbo AMG S SpdS MCT 4MATIC+ Euro 6 (s/s) 4dr Saloon,"53,990",2018,Automatic,31.0 mpg,Petrol,2018,3982cc,"48,701 miles",Petrol,Automatic,Black,Saloon,31 mpg
+/ad/30935397,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium Plus 5dr 9G-Tronic SUV,"53,990",2023,Semi-Auto,36.7 mpg,Hybrid,2023,2L,"1,123 miles",Hybrid,Semiauto,Blue,SUV,36.7 mpg
+/ad/30836043,Mercedes-Benz AMG,C 63 S PREMIUM PLUS Convertible,"53,980",2019,Automatic,27.2 mpg,Petrol,2019,3982cc,"28,380 miles",Petrol,Automatic,Grey,Convertible,27.2 mpg
+/ad/30953721,Mercedes-Benz GLC Class,GLC 300e 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"53,890",2023,Semi-Auto,35.3 mpg,Hybrid,2023,2L,"2,507 miles",Hybrid,Semiauto,Silver,SUV,35.3 mpg
+/ad/30811042,Mercedes-Benz V Class,V220 BlueTEC Sport 5dr Auto [Extra Long] MPV,"53,750",2018,Semi-Auto,45.6 mpg,Diesel,2018,2.2L,"21,543 miles",Diesel,Semiauto,Black,MPV,45.6 mpg
+/ad/29978067,Mercedes-Benz AMG GT,4.0L AMG GT,"53,495",2015,Automatic,30.1 mpg,Petrol,2015,3982cc,"23,500 miles",Petrol,Automatic,SILVER,Coupe,30.1 mpg
+/ad/30266736,Mercedes-Benz G Class,3.0 G350 V6 BlueTEC G63 Bodykit SUV,"53,450",2013,Automatic,25.2 mpg,Diesel,2013,2987cc,"81,120 miles",Diesel,Automatic,Silver,SUV,25.2 mpg
+/ad/30891520,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"53,390",2020,Semi-Auto,32.5 mpg,Diesel,2020,2.9L,"14,812 miles",Diesel,Semiauto,Silver,SUV,32.5 mpg
+/ad/30726263,Mercedes-Benz EQE,EQE,"53,250",2022,Automatic,Tax: £0,2022,1L,"9,500 miles",Other,Automatic,RED,Saloon,,
+/ad/30536480,Mercedes-Benz GLE Class,2.0 GLE 300 D 4MATIC AMG LINE PREMIUM 5DR 242 BHP+21s+7 SEATS+ Estate,"53,006",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"31,108 miles",Diesel,Automatic,SILVER,Estate,36.7 mpg
+/ad/30094955,Mercedes-Benz GL Class,SUV,"53,000",2020,Automatic,32.5 mpg,Diesel,2020,2925cc,"32,854 miles",Diesel,Automatic,Black,SUV,32.5 mpg
+/ad/30589337,Mercedes-Benz V Class,2.0 V220d Sport G-Tronic+ Euro 6 (s/s) 5dr 8 Seat LWB 19s,"53,000",2021,Automatic,37.2 mpg,Diesel,2021,1950cc,"39,735 miles",Diesel,Automatic,Grey,MPV,37.2 mpg
+/ad/30931616,Mercedes-Benz GLC Class,300d 4Matic AMG Line Premium Pls 5dr 9G-Tronic SUV,"52,999",2023,Automatic,48.7 mpg,Diesel,2023,1993cc,"1,895 miles",Diesel,Automatic,Silver,SUV,48.7 mpg
+/ad/30822350,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"52,999",2021,Semi-Auto,32.5 mpg,Diesel,2021,2.9L,"30,108 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/29812038,Mercedes-Benz V Class,2.1 V 250 D SPORT MARCO POLO L 5d 188 BHP MPV,"52,999",2019,Automatic,44.1 mpg,Diesel,2019,2143cc,"38,349 miles",Diesel,Automatic,SILVER,MPV,44.1 mpg
+/ad/28995591,Mercedes-Benz EQC,400 300kW AMG Line Premium 80kWh 5dr Auto SUV,"52,998",2022,Automatic,Tax: £0,2022,"13,000 miles",Electric,Automatic,Black,SUV,,,
+/ad/30759280,Mercedes-Benz S Class,2.9 S 350 D GRAND EDITION EXECUTIVE 4d 282 BHP Saloon,"52,995",2021,Automatic,40.4 mpg,Diesel,2021,2925cc,"34,000 miles",Diesel,Automatic,Blue,Saloon,40.4 mpg
+/ad/30161536,Mercedes-Benz GLE Class,350d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] Estate,"52,995",2021,Automatic,29.4 mpg,Diesel,2021,"37,722 miles",Diesel,Automatic,Blue,Estate,29.4 mpg,
+/ad/30298854,Mercedes-Benz AMG,AMG,"52,995",2018,Automatic,30.1 mpg,Petrol,2018,3982cc,"39,000 miles",Petrol,Automatic,Grey,Estate,30.1 mpg
+/ad/30502203,Mercedes-Benz S Class,4.0 AMG S 63 L 4DR Automatic Saloon,"52,995",2018,Automatic,32.1 mpg,Petrol,2018,3982cc,"75,444 miles",Petrol,Automatic,Black,Saloon,32.1 mpg
+/ad/30592959,Mercedes-Benz V Class,V CLASS D AMG LINE AUTO MPV,"52,990",2019,Automatic,45.6 mpg,Diesel,2019,2143cc,"35,741 miles",Diesel,Automatic,Silver,MPV,45.6 mpg
+/ad/30728387,Mercedes-Benz C Class,C43 4Matic Premium Plus 5dr 9G-Tronic Estate,"52,900",2023,Automatic,31.0 mpg,Petrol,2023,1991cc,"9,627 miles",Petrol,Automatic,Black,Estate,31 mpg
+/ad/30956683,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium Plus 5dr 9G-Tronic SUV,"52,790",2023,Semi-Auto,36.7 mpg,Hybrid,2023,2L,"4,206 miles",Hybrid,Semiauto,Blue,SUV,36.7 mpg
+/ad/30886763,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"52,750",2021,Semi-Auto,313.9 mpg,Hybrid,2021,2L,"12,127 miles",Hybrid,Semiauto,Grey,SUV,313.9 mpg
+/ad/30938460,Mercedes-Benz EQE,300 AMG Line Premium FREE CUMBRIAN 4* STAY Saloon,"52,495",2022,Automatic,Tax: £0,2022,"8,192 miles",Electric,Automatic,Blue,Saloon,,,
+/ad/30806021,Mercedes-Benz C Class,C43 4Matic Premium 4dr 9G-Tronic Saloon,"52,490",2023,Semi-Auto,31.7 mpg,Hybrid,2023,2L,338 miles,Hybrid,Semiauto,Black,Saloon,31.7 mpg
+/ad/30927527,Mercedes-Benz GLC Class,GLC 300e 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"52,480",2023,Semi-Auto,35.3 mpg,Hybrid,2023,2L,"7,374 miles",Hybrid,Semiauto,Blue,SUV,35.3 mpg
+/ad/30813718,Mercedes-Benz GLE Class,2.0 GLE 350 DE 4MATIC AMG LINE PREMIUM PLUS 5d 302 BHP Estate,"52,450",2021,Automatic,313.9 mpg,Other,2021,1950cc,"32,700 miles",Other,Automatic,BLUE,Estate,313.9 mpg
+/ad/30644797,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"52,290",2022,Semi-Auto,313.9 mpg,Hybrid,2022,2L,"51,299 miles",Hybrid,Semiauto,Grey,SUV,313.9 mpg
+/ad/30953857,Mercedes-Benz E Class,E400d 4Matic AMG Line Night Ed Pre+ 2dr 9G-Tronic Coupe,"52,260",2023,Semi-Auto,39.2 mpg,Diesel,2023,3L,10 miles,Diesel,Semiauto,Black,Coupe,39.2 mpg
+/ad/30868141,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"52,060",2021,Semi-Auto,313.9 mpg,Hybrid,2021,2L,"16,100 miles",Hybrid,Semiauto,Grey,SUV,313.9 mpg
+/ad/30708347,Mercedes-Benz GLE ESTATE,GLE 350de 4Matic AMG Line Prem Plus 5dr 9G-Tronic Reserve Online SUV,"52,000",2021,Automatic,313.9 mpg,Hybrid,2021,1950cc,"40,855 miles",Diesel Plug-in Hybrid,Automatic,Grey,SUV,313.9 mpg
+/ad/30960056,Mercedes-Benz GLE Class,2.9 GLE400d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr 22s,"52,000",2021,Automatic,34.0 mpg,Diesel,2021,2925cc,"18,413 miles",Diesel,Automatic,Blue,Coupe,34 mpg
+/ad/30959464,Mercedes-Benz E Class,E300de AMG Line Night Edition Prem+ 5dr 9G-Tronic Estate,"51,999",2023,Semi-Auto,201.8 mpg,Hybrid,2023,2L,"2,171 miles",Hybrid,Semiauto,White,Estate,201.8 mpg
+/ad/30551094,Mercedes-Benz CLA Class,2.0 AMG CLA 45 S 4MATICPLUS PLUS 4d 416 BHP Coupe,"51,995",2020,Automatic,33.2 mpg,Petrol,2020,1991cc,"28,711 miles",Petrol,Automatic,WHITE,Coupe,33.2 mpg
+/ad/29920469,Mercedes-Benz S Class,3.0 S500L MHEV Grand Edition Saloon 4dr G-Tronic+ Euro 6 (s/s) (457 ps) Saloon,"51,995",2020,Automatic,34.5 mpg,Petrol,2020,2999cc,"30,000 miles",Petrol,Automatic,SILVER,Saloon,34.5 mpg
+/ad/30896880,Mercedes-Benz G Class,3.0 G350 BLUETEC 5d 211 BHP - SUN ROOF - HEATED FRONT & REAR SEATS - COOLING FRONT SEATS - REVERSE Estate,"51,991",2014,Automatic,25.2 mpg,Diesel,2014,3L,"55,913 miles",Diesel,Automatic,Black,Estate,25.2 mpg
+/ad/30960666,Mercedes-Benz GLC Class,GLC 220d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"51,990",2023,Semi-Auto,52.3 mpg,Diesel,2023,2L,"10,471 miles",Diesel,Semiauto,Black,SUV,52.3 mpg
+/ad/30913647,Mercedes-Benz E63 S AMG,4MATIC PREMIUM PLUS Estate,"51,950",2019,Automatic,30.1 mpg,Petrol,2019,4L,"51,000 miles",Petrol,Automatic,OBSIDIAN BLACK METALLIC,Estate,30.1 mpg
+/ad/30954009,Mercedes-Benz GLC Class,GLC 300e 4Matic AMG Line 5dr 9G-Tronic SUV,"51,890",2023,Semi-Auto,35.3 mpg,Hybrid,2023,2L,289 miles,Hybrid,Semiauto,Black,SUV,35.3 mpg
+/ad/30651644,Mercedes-Benz GLS Class,5.5 GLS63 V8 AMG SpdS+7GT 4MATIC Euro 6 (s/s) 5dr 21s,"51,750",2018,Automatic,23.0 mpg,Petrol,2018,5461cc,"32,650 miles",Petrol,Automatic,Grey,SUV,23 mpg
+/ad/30593174,Mercedes-Benz C Class,4.0 AMG C 63 S PREMIUM 2d 503 BHP CERAMIC BRAKES!!! Coupe,"51,599",2017,Automatic,32.8 mpg,Petrol,2017,3982cc,"20,682 miles",Petrol,Automatic,BLUE,Coupe,32.8 mpg
+/ad/30936830,Mercedes-Benz GLE Class,2.9 GLE400d AMG Line (Premium) G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) 21s,"51,500",2022,Automatic,32.5 mpg,Diesel,2022,2925cc,"13,801 miles",Diesel,Automatic,Black,SUV,32.5 mpg
+/ad/29810626,Mercedes-Benz GL Class,SUV,"51,500",2019,Automatic,29.5 mpg,Petrol,2019,2999cc,"35,854 miles",Petrol,Automatic,Silver,SUV,29.5 mpg
+/ad/30515261,Mercedes-Benz CLA Class,CLA 45 S 4Matic+ Plus 4dr Tip Auto Coupe,"51,500",2023,Semi-Auto,31.7 mpg,Petrol,2023,2L,"2,252 miles",Petrol,Semiauto,White,Coupe,31.7 mpg
+/ad/30685338,Mercedes-Benz V Class,2.2 V250d AMG Line G-Tronic+ XLWB Euro 6 (s/s) 5dr 8 Seat XLWB 19s,"51,500",2019,Automatic,Tax: n/a,2019,2143cc,"27,097 miles",Diesel,Automatic,Blue,MPV,,
+/ad/30837100,Mercedes-Benz C Class,C43 4Matic Premium Plus 4dr 9G-Tronic Saloon,"51,495",2023,Semi-Auto,31.4 mpg,Hybrid,2023,2L,"1,694 miles",Hybrid,Semiauto,White,Saloon,31.4 mpg
+/ad/30836683,Mercedes-Benz C Class,C43 4Matic Premium Plus 4dr 9G-Tronic Saloon,"51,490",2023,Semi-Auto,31.4 mpg,Hybrid,2023,2L,"5,951 miles",Hybrid,Semiauto,White,Saloon,31.4 mpg
+/ad/29071298,Mercedes-Benz C Class,4.0 C63 V8 BiTurbo AMG S (Premium Plus) SpdS MCT Euro 6 (s/s) 4dr Saloon,"51,485",2019,Automatic,28.5 mpg,Petrol,2019,3982cc,"23,000 miles",Petrol,Automatic,Black,Saloon,28.5 mpg
+/ad/30904428,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"51,469",2020,Semi-Auto,32.5 mpg,Diesel,2020,2.9L,"27,020 miles",Diesel,Semiauto,White,SUV,32.5 mpg
+/ad/30654783,Mercedes-Benz E Class,DIESEL SALOON Saloon,"51,450",2023,Automatic,39.2 mpg,Diesel,2023,2925cc,513 miles,Diesel,Automatic,Black,Saloon,39.2 mpg
+/ad/30909515,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"51,433",2021,Semi-Auto,313.9 mpg,Hybrid,2021,2L,"31,941 miles",Hybrid,Semiauto,Blue,SUV,313.9 mpg
+/ad/30960115,Mercedes-Benz GLE Class,350de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"51,400",2021,Automatic,313.9 mpg,Hybrid,2021,1950cc,"30,036 miles",Diesel Plugin Hybrid,Automatic,Grey,SUV,313.9 mpg
+/ad/30806392,Mercedes-Benz GLE Class,Gle Diesel Estate AMG Line AMG Line Estate,"51,006",2022,Automatic,41.5 mpg,Diesel,2022,1993cc,"6,100 miles",Diesel,Automatic,Black,Estate,41.5 mpg
+/ad/30185512,Mercedes-Benz S Class,2.9 S350L d Grand Edition (Executive) G-Tronic+ Euro 6 (s/s) 4dr 20s,"51,000",2020,Automatic,40.4 mpg,Diesel,2020,2925cc,"17,794 miles",Diesel,Automatic,Black,Saloon,40.4 mpg
+/ad/30688574,Mercedes-Benz GLE Class,2.0 GLE300dh MHEV AMG Line (Premium) G-Tronic 4MATIC Euro 6 (s/s) 5dr 21s,"51,000",2022,Automatic,40.4 mpg,Hybrid,2022,1993cc,"32,673 miles",Diesel Hybrid,Automatic,Grey,SUV,40.4 mpg
+/ad/30846563,Mercedes-Benz GLE Class,5.5 GLE63 V8 AMG S Night Edition SpdS+7GT 4MATIC Euro 6 (s/s) 5dr 22s,"51,000",2019,Automatic,23.7 mpg,Petrol,2019,5461cc,"45,902 miles",Petrol,Automatic,Black,Coupe,23.7 mpg
+/ad/30811605,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line 5dr 9G-Tronic SUV,"51,000",2022,Semi-Auto,313.9 mpg,Hybrid,2022,2L,"26,759 miles",Hybrid,Semiauto,Grey,SUV,313.9 mpg
+/ad/30784580,Mercedes-Benz V Class,V250 d AMG Line 5dr Auto People Carrier,"50,999",2019,Automatic,44.8 mpg,Diesel,2019,2143cc,"27,355 miles",Diesel,Automatic,Black,People Carrier,44.8 mpg
+/ad/30627806,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"50,995",2020,Semi-Auto,313.9 mpg,Hybrid,2020,2L,"20,192 miles",Hybrid,Semiauto,Red,SUV,313.9 mpg
+/ad/30884875,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"50,990",2022,Semi-Auto,32.5 mpg,Diesel,2022,3L,"22,676 miles",Diesel,Semiauto,Blue,SUV,32.5 mpg
+/ad/30814507,Mercedes-Benz AMG GT,4.0 AMG GT,"50,970",2015,Automatic,30.1 mpg,Petrol,2015,3982cc,"52,000 miles",Petrol,Automatic,WHITE,Coupe,30.1 mpg
+/ad/30887078,Mercedes-Benz E Class,E300 AMG Line Night Ed Premium Plus 2dr 9G-Tronic Coupe,"50,927",2023,Semi-Auto,35.3 mpg,Hybrid,2023,2L,"1,821 miles",Hybrid,Semiauto,Black,Coupe,35.3 mpg
+/ad/30759001,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] Estate,"50,500",2021,Automatic,32.5 mpg,Diesel,2021,2925cc,"19,050 miles",Diesel,Automatic,Silver,Estate,32.5 mpg
+/ad/30685340,Mercedes-Benz V Class,2.2 V250d AMG Line G-Tronic+ Euro 6 (s/s) 5dr 8 Seat XLWB 19s,"50,500",2019,Automatic,Tax: n/a,2019,2143cc,"32,119 miles",Diesel,Automatic,Silver,MPV,,
+/ad/30685339,Mercedes-Benz V Class,2.2 V250d AMG Line G-Tronic+ XLWB Euro 6 (s/s) 5dr 8 Seat XLWB 19s,"50,500",2019,Automatic,Tax: n/a,2019,2143cc,"34,385 miles",Diesel,Automatic,Silver,MPV,,
+/ad/30879297,Mercedes-Benz GLC Class,GLC 220d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"50,495",2023,Semi-Auto,52.3 mpg,Diesel,2023,2L,"10,834 miles",Diesel,Semiauto,Black,SUV,52.3 mpg
+/ad/30933999,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"50,490",2020,Semi-Auto,35.8 mpg,Diesel,2020,2L,"19,622 miles",Diesel,Semiauto,Grey,SUV,35.8 mpg
+/ad/30896112,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"50,490",2021,Semi-Auto,32.5 mpg,Diesel,2021,2.9L,"50,635 miles",Diesel,Semiauto,Blue,SUV,32.5 mpg
+/ad/28440611,Mercedes-Benz S Class,2.9 S 350 D L AMG LINE PREMIUM 4d AUTO 282 BHP Saloon,"50,388",2019,Automatic,52.3 mpg,Diesel,2019,2925cc,"33,034 miles",Diesel,Automatic,GREY,Saloon,52.3 mpg
+/ad/30629092,Mercedes-Benz GLS Class,3.0 GLS350d V6 Grand Edition G-Tronic 4MATIC Euro 6 (s/s) 5dr 21s,"50,250",2019,Automatic,34.0 mpg,Diesel,2019,2987cc,"14,363 miles",Diesel,Automatic,Silver,SUV,34 mpg
+/ad/30294199,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"50,225",2019,Automatic,35.8 mpg,Diesel,2019,2000cc,"24,724 miles",Diesel,Automatic,Black,SUV,35.8 mpg
+/ad/30555872,Mercedes-Benz GLE Class,2.9 GLE 400 D 4MATIC AMG LINE 5d 326 BHP Other,"50,000",2022,Automatic,32.5 mpg,Diesel,2022,2925cc,"16,729 miles",Diesel,Automatic,GREY,Other,32.5 mpg
+/ad/30789355,Mercedes-Benz V Class,V250 d AMG Line 5dr Auto [Long] Reserve Online MPV,"50,000",2019,Automatic,44.8 mpg,Diesel,2019,2143cc,"26,400 miles",Diesel,Automatic,Grey,MPV,44.8 mpg
+/ad/29616879,Mercedes-Benz A Class,2.0 A45 AMG S Plus Hatchback,"49,999",2021,Automatic,32.5 mpg,Petrol,2021,1991cc,"8,000 miles",Petrol,Automatic,White,Hatchback,32.5 mpg
+/ad/30912683,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"49,999",2021,Semi-Auto,35.8 mpg,Diesel,2021,2L,"13,929 miles",Diesel,Semiauto,Blue,SUV,35.8 mpg
+/ad/30609930,Mercedes-Benz V Class,2.1 V 250 D SPORT MARCO POLO HORIZON L 5d AUTO 188 BHP MPV,"49,999",2019,Automatic,44.1 mpg,Diesel,2019,2.1L,"18,500 miles",Diesel,Automatic,Silver,MPV,44.1 mpg
+/ad/30443647,Mercedes-Benz S Class,5.5 S63 V8 AMG S SpdS MCT Euro 6 (s/s) 2dr Coupe,"49,999",2017,Automatic,28.0 mpg,Petrol,2017,5461cc,"25,000 miles",Petrol,Automatic,Black,Coupe,28 mpg
+/ad/30958238,Mercedes-Benz E Class,E300 AMG Line Night Ed Premium Plus 2dr 9G-Tronic Coupe,"49,999",2023,Semi-Auto,35.3 mpg,Hybrid,2023,2L,"1,097 miles",Hybrid,Semiauto,Black,Coupe,35.3 mpg
+/ad/30959486,Mercedes-Benz E Class,E300 AMG Line Night Ed Premium Plus 2dr 9G-Tronic Coupe,"49,999",2023,Semi-Auto,35.3 mpg,Hybrid,2023,2L,"1,902 miles",Hybrid,Semiauto,Grey,Coupe,35.3 mpg
+/ad/29784418,Mercedes-Benz C Class,2.0 C300h MHEV AMG Line Night Edition (Premium Plus) G-Tronic+ Euro 6 (s/s) 2dr Coupe,"49,995",2022,Automatic,36.7 mpg,Petrol,2022,1991cc,"1,500 miles",Petrol,Automatic,Silver,Coupe,36.7 mpg
+/ad/30915315,Mercedes-Benz C Class,C43 4Matic Night Ed Premium Plus 2dr 9G-Tronic Coupe,"49,995",2023,Automatic,28.5 mpg,Petrol,2023,2996cc,"4,322 miles",Petrol,Automatic,Obsidian Black Metallic,Coupe,28.5 mpg
+/ad/28499323,Mercedes-Benz A Class,AMG A 45 S 4MATICPLUS PLUS Hatchback,"49,995",2021,Automatic,32.5 mpg,Petrol,2021,1991cc,"6,929 miles",Petrol,Automatic,Black,Hatchback,32.5 mpg
+/ad/30805002,Mercedes-Benz V Class,2.1 V 220 D AMG LINE 5d 161 BHP MPV,"49,995",2018,Automatic,45.6 mpg,Diesel,2018,2.1L,"9,850 miles",Diesel,Automatic,Grey,MPV,45.6 mpg
+/ad/29905486,Mercedes-Benz V Class,Other,"49,995",2005,Automatic,Tax: n/a,2005,6800cc,"14,000 miles",Petrol,Automatic,White,Other,,
+/ad/28985545,Mercedes-Benz SL Class,AMG SL 63 Used Convertible,"49,995",2015,Automatic,28.0 mpg,Petrol,2015,5461cc,"14,191 miles",Petrol,Automatic,Obsidian Black,Convertible,28 mpg
+/ad/30519282,Mercedes-Benz S Class,5.5 S63 V8 AMG S Coupe 2dr Petrol SpdS MCT Euro 6 (s/s) (585 ps) Coupe,"49,995",2016,Automatic,28.0 mpg,Petrol,2016,5461cc,"21,000 miles",Petrol,Automatic,Black,Coupe,28 mpg
+/ad/29541703,Mercedes-Benz AMG,AMG,"49,995",2019,Automatic,28.5 mpg,Petrol,2019,3982cc,"21,300 miles",Petrol,Automatic,Silver,Saloon,28.5 mpg
+/ad/30522262,Mercedes-Benz V Class,V220d Amg Line LWB (8 Seat) EURO 6 No VAT VANLUX PAN ROOF|8 SEAT|VERY LOW MILES MPV,"49,995",2019,Automatic,36.2 mpg,Diesel,2019,1950cc,"21,935 miles",Diesel,Automatic,Black,MPV,36.2 mpg
+/ad/30501218,Mercedes-Benz V Class,V250d Sport XLWB Extra Long Bluetec Auto EURO 6 No VAT VANLUX TABLE|LEATHER SEATS|CALL NOW! MPV,"49,995",2019,Automatic,44.8 mpg,Diesel,2019,2143cc,"23,300 miles",Diesel,Automatic,Silver,MPV,44.8 mpg
+/ad/29648367,Mercedes-Benz C Class,AMG C 63 Coupe,"49,995",2019,Automatic,32.8 mpg,Petrol,2019,3982cc,"27,000 miles",Petrol,Automatic,Grey,Coupe,32.8 mpg
+/ad/30248550,Mercedes-Benz GL Class,Estate,"49,995",2019,Automatic,32.5 mpg,Diesel,2019,2925cc,"30,654 miles",Diesel,Automatic,Black,Estate,32.5 mpg
+/ad/28879970,Mercedes-Benz E Class,4.0 AMG E 63 S 4MATIC 4d 604 BHP Saloon,"49,995",2018,Automatic,31.0 mpg,Petrol,2018,3982cc,"33,000 miles",Petrol,Automatic,WHITE,Saloon,31 mpg
+/ad/30759621,Mercedes-Benz C Class,4.0 C63 V8 BiTurbo AMG S (Premium Plus) Coupe 2dr Petrol SpdS MCT Euro 6 (s Coupe,"49,995",2019,Automatic,28.0 mpg,Petrol,2019,3982cc,"35,000 miles",Petrol,Automatic,Black,Coupe,28 mpg
+/ad/30807075,Mercedes-Benz GLE Class,DIESEL ESTATE SUV,"49,995",2021,Automatic,32.5 mpg,Diesel,2021,2925cc,"39,000 miles",Diesel,Automatic,White,SUV,32.5 mpg
+/ad/30542089,Mercedes-Benz V Class,2.1 V250 D SPORT 5d 188 BHP MPV,"49,995",2017,Automatic,44.8 mpg,Diesel,2017,2143cc,"45,000 miles",Diesel,Automatic,SILVER,MPV,44.8 mpg
+/ad/30592316,Mercedes-Benz GLE Class,2.0 GLE 350 DE 4MATIC AMG LINE PREMIUM 5d 302 BHP Estate,"49,995",2022,Automatic,313.9 mpg,Other,2022,1950cc,"79,995 miles",Other,Automatic,BLUE,Estate,313.9 mpg
+/ad/30823482,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"49,991",2023,Semi-Auto,37.7 mpg,Hybrid,2023,2L,"1,924 miles",Hybrid,Semiauto,Black,SUV,37.7 mpg
+/ad/30495916,Mercedes-Benz AMG,AMG,"49,990",2020,Automatic,32.8 mpg,Petrol,2020,3982cc,"14,000 miles",Petrol,Automatic,Black,Coupe,32.8 mpg
+/ad/30718568,Mercedes-Benz S Class,2.9 S350L d Grand Edition (Executive) G-Tronic+ Euro 6 (s/s) 4dr Saloon,"49,990",2020,Automatic,40.4 mpg,Diesel,2020,2925cc,"14,099 miles",Diesel,Automatic,Black,Saloon,40.4 mpg
+/ad/30888505,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"49,990",2022,Semi-Auto,313.9 mpg,Hybrid,2022,2L,"25,195 miles",Hybrid,Semiauto,Blue,SUV,313.9 mpg
+/ad/30276528,Mercedes-Benz S Class,Saloon,"49,990",2019,Automatic,52.3 mpg,Diesel,2019,2925cc,"64,964 miles",Diesel,Automatic,Silver,Saloon,52.3 mpg
+/ad/30718555,Mercedes-Benz V Class,2.2 V220d BlueTEC Sport G-Tronic+ Euro 6 (s/s) 5dr 8 Seat XLWB MPV,"49,990",2018,Automatic,45.6 mpg,Diesel,2018,2143cc,"88,000 miles",Diesel,Automatic,Black,MPV,45.6 mpg
+/ad/30600110,Mercedes-Benz S Class,4.0 S560 V8 BiTurbo AMG Line Cabriolet G-Tronic Euro 6 (s/s) 2dr 2 YEARS WARRANTY Convertible,"49,990",2019,Automatic,34.0 mpg,Petrol,2019,3982cc,"37,000 miles",Petrol,Automatic,Silver,Convertible,34 mpg
+/ad/30849569,Mercedes-Benz GLC Class,GLC 43 4Matic Premium plus 5dr TCT Coupe,"49,988",2022,Automatic,26.7 mpg,Petrol,2022,2996cc,"5,600 miles",Petrol,Automatic,Hightech Silver Metallic,Coupe,26.7 mpg
+/ad/29343129,Mercedes-Benz EQC,0.0 EQC,"49,981",2020,Automatic,Tax: £0,2020,1L,"6,043 miles",Other,Automatic,BLACK,Estate,,
+/ad/30893510,Mercedes-Benz V Class,D AMG LINE *NO VAT**7 SEATS* NAPPA LEATHER INTERIOR COMAND E/M HEATED SEATS 360 CAM MPV,"49,980",2018,Automatic,44.8 mpg,Diesel,2018,2143cc,"13,190 miles",Diesel,Automatic,BRILLIANT SILVER,MPV,44.8 mpg
+/ad/30751466,Mercedes-Benz V Class,V220 d AMG Line 5dr 9G-Tronic [Long] MPV,"49,980",2019,Semi-Auto,36.2 mpg,Diesel,2019,2L,"52,512 miles",Diesel,Semiauto,Black,MPV,36.2 mpg
+/ad/30707550,Mercedes-Benz S Class,5.5 AMG S 63 2d 577 BHP Convertible,"49,950",2017,Automatic,28.0 mpg,Petrol,2017,5461cc,"46,000 miles",Petrol,Automatic,BLACK,Convertible,28 mpg
+/ad/30935042,Mercedes-Benz V Class,V220 d Sport 5dr 9G-Tronic [Extra Long] MPV,"49,950",2019,Semi-Auto,36.7 mpg,Diesel,2019,2L,"69,403 miles",Diesel,Semiauto,Silver,MPV,36.7 mpg
+/ad/30498311,Mercedes-Benz E Class,4.0 E63 V8 BiTurbo AMG S SpdS MCT 4MATIC+ Euro 6 ss 4dr Saloon,"49,946",2018,Automatic,31.0 mpg,Petrol,2018,3982cc,"42,000 miles",Petrol,Automatic,White,Saloon,31 mpg
+/ad/30588868,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] Estate,"49,945",2021,Automatic,35.8 mpg,Diesel,2021,1950cc,"32,000 miles",Diesel,Automatic,Grey,Estate,35.8 mpg
+/ad/30887372,Mercedes-Benz E Class,E400d 4Matic AMG Line Night Ed Pre+ 2dr 9G-Tronic Coupe,"49,900",2023,Automatic,39.2 mpg,Diesel,2023,2925cc,"2,425 miles",Diesel,Automatic,Silver,Coupe,39.2 mpg
+/ad/30652656,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"49,882",2021,Semi-Auto,35.8 mpg,Diesel,2021,2L,"17,691 miles",Diesel,Semiauto,Black,SUV,35.8 mpg
+/ad/30959624,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line 5dr 9G-Tronic SUV,"49,799",2023,Semi-Auto,37.2 mpg,Hybrid,2023,2L,"2,515 miles",Hybrid,Semiauto,Black,SUV,37.2 mpg
+/ad/30751005,Mercedes-Benz GL Class,5.5 GLS63 V8 GPF AMG SpdS+7GT 4MATIC Euro 6 (s/s) 5dr SUV,"49,795",2018,Automatic,23.0 mpg,Petrol,2018,5461cc,"49,000 miles",Petrol,Automatic,Grey,SUV,23 mpg
+/ad/30876872,Mercedes-Benz CLA Class,CLA 45 S 4Matic+ Plus 4dr Tip Auto Coupe,"49,780",2021,Semi-Auto,33.2 mpg,Petrol,2021,2L,"17,735 miles",Petrol,Semiauto,Black,Coupe,33.2 mpg
+/ad/30828838,Mercedes-Benz GLE Class,GLE 450 4Matic AMG Line 5dr 9G-Tronic [7 Seats] SUV,"49,757",2020,Semi-Auto,29.5 mpg,Hybrid,2020,3L,"31,000 miles",Hybrid,Semiauto,Black,SUV,29.5 mpg
+/ad/30172821,Mercedes-Benz GL Class,SUV,"49,750",2021,Automatic,32.8 mpg,Diesel,2021,2925cc,"31,400 miles",Diesel,Automatic,Blue,SUV,32.8 mpg
+/ad/30929703,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"49,559",2023,Semi-Auto,49.6 mpg,Diesel,2023,2L,"7,382 miles",Diesel,Semiauto,Black,SUV,49.6 mpg
+/ad/30611586,Mercedes-Benz GLE Class,GLE 53 4Matic+ Premium Plus 5dr TCT SUV,"49,500",2019,Semi-Auto,29.5 mpg,Hybrid,2019,3L,"35,354 miles",Hybrid,Semiauto,Black,SUV,29.5 mpg
+/ad/30940213,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"49,450",2023,Semi-Auto,49.6 mpg,Diesel,2023,2L,"7,890 miles",Diesel,Semiauto,Black,SUV,49.6 mpg
+/ad/30940277,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"49,293",2023,Semi-Auto,49.6 mpg,Diesel,2023,2L,"8,626 miles",Diesel,Semiauto,Black,SUV,49.6 mpg
+/ad/30708093,Mercedes-Benz GLE Class,2.9 GLE350d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr 22s,"49,250",2020,Automatic,32.5 mpg,Diesel,2020,2925cc,"24,979 miles",Diesel,Automatic,Red,SUV,32.5 mpg
+/ad/30330174,Mercedes-Benz CLS Class,3.0 AMG CLS 53 4MATIC PLUS PREMIUM PLUS MHEV 4d 430 BHP Coupe,"49,194",2019,Automatic,31.7 mpg,Petrol,2019,2999cc,"35,100 miles",Petrol,Automatic,WHITE,Coupe,31.7 mpg
+/ad/29981657,Mercedes-Benz GLC Class,GLC 43 4Matic Premium plus 5dr TCT Coupe,"49,000",2021,Automatic,26.7 mpg,Petrol,2021,2996cc,"12,000 miles",Petrol,Automatic,Black,Coupe,26.7 mpg
+/ad/30839798,Mercedes-Benz GLE Class,2.9 GLE 350 D 4MATIC AMG LINE PREMIUM PLUS 5d 269 BHP Estate,"49,000",2020,Automatic,32.5 mpg,Diesel,2020,2925cc,"39,039 miles",Diesel,Automatic,BLACK,Estate,32.5 mpg
+/ad/29389127,Mercedes-Benz GLE Class,GLE 450h 3.0 EQ Boost 4MATIC AMG Line Premium Plus 9G tronic 389ps Estate,"49,000",2020,Automatic,29.5 mpg,Petrol,2020,2999cc,"39,311 miles",Petrol,Automatic,Brilliant Blue Metallic,Estate,29.5 mpg
+/ad/30867227,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"48,999",2021,Semi-Auto,32.5 mpg,Diesel,2021,3L,"16,583 miles",Diesel,Semiauto,Silver,SUV,32.5 mpg
+/ad/30752445,Mercedes-Benz V Class,2.1 V 250 D AMG LINE 5d AUTO 188 BHP MPV,"48,999",2019,Automatic,44.8 mpg,Diesel,2019,2.1L,"18,000 miles",Diesel,Automatic,White,MPV,44.8 mpg
+/ad/30958226,Mercedes-Benz E Class,E300d 4Matic AMG Line Premium 2dr 9G-Tronic Coupe,"48,999",2023,Semi-Auto,44.8 mpg,Diesel,2023,2L,"4,893 miles",Diesel,Semiauto,Black,Coupe,44.8 mpg
+/ad/30919437,Mercedes-Benz EQC,Class EQC,"48,995",2023,Automatic,Tax: £0,2023,1000cc,835 miles,Other,Automatic,Cavansite Blue Metallic,SUV,,
+/ad/30852167,Mercedes-Benz EQC,Class EQC,"48,995",2023,Automatic,Tax: £0,2023,1000cc,"1,091 miles",Other,Automatic,Graphite Grey Metallic,SUV,,
+/ad/30877109,Mercedes-Benz EQC,Class EQC,"48,995",2023,Automatic,Tax: £0,2023,1000cc,"1,301 miles",Other,Automatic,Graphite Grey Metallic,SUV,,
+/ad/30701174,Mercedes-Benz GLE Class,2.9 GLE 400 D 4MATIC AMG LINE PREMIUM PLUS 5d 326 BHP Estate,"48,995",2020,Automatic,32.5 mpg,Diesel,2020,2925cc,"53,378 miles",Diesel,Automatic,BLACK,Estate,32.5 mpg
+/ad/30735636,Mercedes-Benz GLC Class,Class GLC 300d 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"48,995",2023,Automatic,40.4 mpg,Diesel,2023,1950cc,"3,080 miles",Diesel,Automatic,Selenite Grey Metallic,SUV,40.4 mpg
+/ad/30948097,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"48,995",2020,Semi-Auto,32.5 mpg,Diesel,2020,2.9L,"17,230 miles",Diesel,Semiauto,Silver,SUV,32.5 mpg
+/ad/30939533,Mercedes-Benz GLC Class,4.0 GLC63 V8 BiTurbo AMG SpdS MCT 4MATIC+ Euro 6 (s/s) 5dr Coupe,"48,995",2019,Automatic,22.4 mpg,Petrol,2019,3982cc,"26,800 miles",Petrol,Automatic,Black,Coupe,22.4 mpg
+/ad/30955361,Mercedes-Benz 350,GLE D 4MATIC AMG LINE PREMIUM Estate,"48,995",2021,Automatic,32.8 mpg,Diesel,2021,2925cc,"31,300 miles",Diesel,Automatic,Silver,Estate,32.8 mpg
+/ad/30919437,Mercedes-Benz EQC,Class EQC,"48,995",2023,Automatic,Tax: £0,2023,1000cc,835 miles,Other,Automatic,Cavansite Blue Metallic,SUV,,
+/ad/30852167,Mercedes-Benz EQC,Class EQC,"48,995",2023,Automatic,Tax: £0,2023,1000cc,"1,091 miles",Other,Automatic,Graphite Grey Metallic,SUV,,
+/ad/30939777,Mercedes-Benz Vito,114 BlueTec Pro 8-Seater 7G-Tronic MPV,"48,995",2022,Automatic,39.8 mpg,Diesel,2022,2.1L,"21,404 miles",Diesel,Automatic,Silver,MPV,39.8 mpg
+/ad/30866095,Mercedes-Benz E Class,4.0 E63 V8 BiTurbo AMG S (Premium) SpdS MCT 4MATIC+ Euro 6 (s/s) 5dr Estate,"48,990",2018,Automatic,30.1 mpg,Petrol,2018,3982cc,"48,000 miles",Petrol,Automatic,Red,Estate,30.1 mpg
+/ad/30909207,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"48,990",2023,Semi-Auto,40.4 mpg,Diesel,2023,2L,"6,332 miles",Diesel,Semiauto,Blue,SUV,40.4 mpg
+/ad/30904724,Mercedes-Benz E Class,E63 S 4Matic+ Premium 5dr 9G-Tronic Estate,"48,990",2018,Automatic,30.1 mpg,Petrol,2018,"20,910 miles",Petrol,Automatic,Black,Estate,30.1 mpg,
+/ad/30933353,Mercedes-Benz GLE Class,2.9 GLE400d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) SUV,"48,950",2020,Automatic,32.5 mpg,Diesel,2020,2925cc,"28,000 miles",Diesel,Automatic,Blue,SUV,32.5 mpg
+/ad/30850455,Mercedes-Benz GLE Class,2.9 GLE400d AMG Line G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) SUV,"48,945",2021,Automatic,32.5 mpg,Diesel,2021,2925cc,"23,000 miles",Diesel,Automatic,Black,SUV,32.5 mpg
+/ad/30370710,Mercedes-Benz GLE Class,2.0 GLE 300 D 4MATIC AMG LINE PREMIUM PLUS 5d 242 BHP Estate,"48,890",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"49,700 miles",Diesel,Automatic,BLACK,Estate,36.7 mpg
+/ad/30509884,Mercedes-Benz GLE Class,2.0 GLE300d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr 21s,"48,750",2021,Automatic,35.8 mpg,Diesel,2021,1950cc,"25,638 miles",Diesel,Automatic,Blue,SUV,35.8 mpg
+/ad/30226572,Mercedes-Benz GL Class,SUV,"48,750",2020,Automatic,32.8 mpg,Diesel,2020,2925cc,"32,879 miles",Diesel,Automatic,Black,SUV,32.8 mpg
+/ad/30195720,Mercedes-Benz GL Class,SUV,"48,750",2019,Automatic,29.5 mpg,Petrol,2019,2999cc,"45,842 miles",Petrol,Automatic,Black,SUV,29.5 mpg
+/ad/30868907,Mercedes-Benz GLC Class,GLC 43 4Matic Premium plus 5dr TCT SUV,"48,697",2022,Semi-Auto,26.7 mpg,Petrol,2022,3L,"19,400 miles",Petrol,Semiauto,Silver,SUV,26.7 mpg
+/ad/27734508,Mercedes-Benz GLC Class,GLC 63 S 4Matic Premium 5dr 9G-Tronic Coupe,"48,695",2018,Automatic,26.4 mpg,Petrol,2018,3982cc,"24,500 miles",Petrol,Automatic,White,Coupe,26.4 mpg
+/ad/30859630,Mercedes-Benz GLC Class,GLC 43 4Matic Premium Plus 5dr TCT SUV,"48,642",2022,Semi-Auto,26.4 mpg,Petrol,2022,3L,"24,377 miles",Petrol,Semiauto,Grey,SUV,26.4 mpg
+/ad/30802185,Mercedes-Benz V Class,V250 d AMG Line 5dr Auto [Extra Long] MPV,"48,559",2019,Semi-Auto,44.8 mpg,Diesel,2019,2.2L,"19,374 miles",Diesel,Semiauto,White,MPV,44.8 mpg
+/ad/29522239,Mercedes-Benz S Class,2.9 S350L d Grand Edition (Executive) G-Tronic+ Euro 6 (s/s) 4dr 20s,"48,500",2020,Automatic,40.4 mpg,Diesel,2020,2925cc,"23,659 miles",Diesel,Automatic,Silver,Saloon,40.4 mpg
+/ad/30249065,Mercedes-Benz GL Class,SUV,"48,500",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"29,991 miles",Diesel,Automatic,Blue,SUV,36.7 mpg
+/ad/30922227,Mercedes-Benz GLE Class,2.0 GLE300d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr 21s,"48,500",2021,Automatic,35.8 mpg,Diesel,2021,1950cc,"24,760 miles",Diesel,Automatic,Black,SUV,35.8 mpg
+/ad/30788987,Mercedes-Benz GLE Class,2.0 GLE 350 DE 4MATIC AMG LINE PREMIUM PLUS 5d 302 BHP VAT QUALIFYING  Estate,"48,500",2020,Automatic,313.9 mpg,Other,2020,2L,"34,846 miles",Other,Automatic,Silver,Estate,313.9 mpg
+/ad/30947485,Mercedes-Benz GLE Class,2.0 GLE300d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr VAT Q,"48,500",2021,Automatic,35.8 mpg,Diesel,2021,1950cc,"24,579 miles",Diesel,Automatic,Blue,SUV,35.8 mpg
+/ad/29824798,Mercedes-Benz C Class,4.0 AMG C 63 S PREMIUM 2d 503 BHP Coupe,"48,495",2018,Automatic,32.8 mpg,Petrol,2018,3982cc,"34,700 miles",Petrol,Automatic,BLACK,Coupe,32.8 mpg
+/ad/30665191,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"48,490",2021,Semi-Auto,35.8 mpg,Diesel,2021,2L,"33,038 miles",Diesel,Semiauto,Black,SUV,35.8 mpg
+/ad/30910659,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"48,490",2021,Semi-Auto,32.5 mpg,Diesel,2021,2.9L,"37,188 miles",Diesel,Semiauto,Blue,SUV,32.5 mpg
+/ad/30904795,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"48,203",2021,Semi-Auto,32.8 mpg,Diesel,2021,2.9L,"22,789 miles",Diesel,Semiauto,Blue,SUV,32.8 mpg
+/ad/30172830,Mercedes-Benz GL Class,SUV,"48,000",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"19,136 miles",Diesel,Automatic,Blue,SUV,36.7 mpg
+/ad/30916995,Mercedes-Benz CLA Class,2.0 CLA45 AMG S Plus Coupe 8G-DCT 4MATIC+ Euro 6 (s/s) 4dr 19s,"48,000",2021,Automatic,33.2 mpg,Petrol,2021,1991cc,"21,389 miles",Petrol,Automatic,Black,Saloon,33.2 mpg
+/ad/29149693,Mercedes-Benz S Class,Saloon,"48,000",2019,Automatic,52.3 mpg,Diesel,2019,2925cc,"21,638 miles",Diesel,Automatic,Black,Saloon,52.3 mpg
+/ad/30830880,Mercedes-Benz GLE Class,3.0 GLE450h MHEV AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) 22s,"48,000",2020,Automatic,29.5 mpg,Petrol,2020,2999cc,"38,134 miles",Petrol,Automatic,Blue,SUV,29.5 mpg
+/ad/30871610,Mercedes-Benz GLE Class,2.0 GLE350de 31.2kWh AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr VAT Q,"48,000",2020,Automatic,313.9 mpg,Hybrid,2020,1950cc,"51,231 miles",Diesel Plug-in Hybrid,Automatic,Black,SUV,313.9 mpg
+/ad/30742761,Mercedes-Benz C Class,C63 S 4dr Auto Saloon,"47,999",2020,Semi-Auto,34.5 mpg,Petrol,2020,4L,"9,412 miles",Petrol,Semiauto,Silver,Saloon,34.5 mpg
+/ad/30102402,Mercedes-Benz CLS Class,CLS 350 AMG Line Premium Plus 4dr 9G-Tronic Coupe,"47,995",2022,Semi-Auto,31.4 mpg,Hybrid,2022,2L,"3,000 miles",Hybrid,Semiauto,Grey,Coupe,31.4 mpg
+/ad/28887252,Mercedes-Benz C Class,4.0 AMG C 63 PREMIUM PLUS 4d 470 BHP Saloon,"47,995",2019,Automatic,28.5 mpg,Petrol,2019,3982cc,"23,640 miles",Petrol,Automatic,GREY,Saloon,28.5 mpg
+/ad/30894612,Mercedes-Benz V Class,DIESEL ESTATE MPV,"47,995",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"32,000 miles",Diesel,Automatic,Silver,MPV,36.7 mpg
+/ad/27038232,Mercedes-Benz GL Class,3.0 GLS 350 D 4MATIC DESIGNO LINE 5d 255 BHP Estate,"47,995",2016,Automatic,37.2 mpg,Diesel,2016,2987cc,"45,000 miles",Diesel,Automatic,RED,Estate,37.2 mpg
+/ad/30923633,Mercedes-Benz GLE Class,2.0 GLE 300 D 4MATIC AMG LINE PREMIUM PLUS 5d 242 BHP Estate,"47,995",2021,Automatic,35.8 mpg,Diesel,2021,1950cc,"53,000 miles",Diesel,Automatic,Grey,Estate,35.8 mpg
+/ad/29840538,Mercedes-Benz A Class,A45 S 4Matic+ Plus 5dr Auto Hatchback,"47,990",2021,Semi-Auto,32.5 mpg,Petrol,2021,2L,"6,995 miles",Petrol,Semiauto,Grey,Hatchback,32.5 mpg
+/ad/30688332,Mercedes-Benz GLE Class,2.0 GLE 350 DE 4MATIC AMG LINE PREMIUM PLUS 5d 320 BHP Estate,"47,990",2020,Automatic,313.9 mpg,Other,2020,2L,"47,000 miles",Other,Automatic,Black,Estate,313.9 mpg
+/ad/29357115,Mercedes-Benz E Class,3.0 AMG E 53 4MATIC PREMIUM PLUS MHEV 2d 430 BHP *VQ* Coupe,"47,989",2019,Automatic,32.1 mpg,Petrol,2019,2999cc,"47,129 miles",Petrol,Automatic,GREY,Coupe,32.1 mpg
+/ad/29965813,Mercedes-Benz E Class,4.0 E63 V8 BiTurbo AMG S (Premium) SpdS MCT 4MATIC+ Euro 6 (s/s) 5dr FULL SERVICE HISTORY NEW MOT Estate,"47,989",2017,Automatic,30.1 mpg,Petrol,2017,3982cc,"55,000 miles",Petrol,Automatic,White,Estate,30.1 mpg
+/ad/30855130,Mercedes-Benz E Class,E53 4Matic+ Night Edition Prem+ 4dr TCT Saloon,"47,980",2021,Semi-Auto,29.7 mpg,Hybrid,2021,3L,"19,060 miles",Hybrid,Semiauto,Grey,Saloon,29.7 mpg
+/ad/29689373,Mercedes-Benz AMG,AMG,"47,950",2018,Automatic,31.0 mpg,Petrol,2018,3982cc,"30,000 miles",Petrol,Automatic,White,Saloon,31 mpg
+/ad/30139846,Mercedes-Benz GLE Class,2.9 GLE 400 D 4MATIC AMG LINE PREMIUM PLUS 5d 326 BHP Estate,"47,950",2019,Automatic,32.5 mpg,Diesel,2019,2925cc,"37,000 miles",Diesel,Automatic,BLACK,Estate,32.5 mpg
+/ad/30947548,Mercedes-Benz EQC,400 300kW AMG Line Premium Plus 80kWh 5dr Auto SUV,"47,900",2023,Automatic,Tax: n/a,2023,100 miles,Electric,Automatic,Red,SUV,,,
+/ad/30058371,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"47,890",2019,Semi-Auto,32.5 mpg,Diesel,2019,2.9L,"31,363 miles",Diesel,Semiauto,Silver,SUV,32.5 mpg
+/ad/30345848,Mercedes-Benz CLA Class,2.0 AMG CLA 45 S 4MATICPLUS PLUS 4d 416 BHP Coupe,"47,890",2020,Automatic,33.2 mpg,Petrol,2020,1991cc,"40,000 miles",Petrol,Automatic,GREY,Coupe,33.2 mpg
+/ad/30857456,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"47,888",2021,Semi-Auto,35.8 mpg,Diesel,2021,2L,"6,558 miles",Diesel,Semiauto,Blue,SUV,35.8 mpg
+/ad/30952981,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"47,800",2023,Semi-Auto,31.7 mpg,Hybrid,2023,2L,"1,416 miles",Hybrid,Semiauto,Black,SUV,31.7 mpg
+/ad/30483618,Mercedes-Benz E Class,E300d 4Matic AMG Line Night Ed Pre+ 2dr 9G-Tronic Coupe,"47,799",2023,Semi-Auto,44.1 mpg,Diesel,2023,2L,167 miles,Diesel,Semiauto,Silver,Coupe,44.1 mpg
+/ad/30661329,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"47,633",2020,Semi-Auto,35.8 mpg,Diesel,2020,2L,"16,181 miles",Diesel,Semiauto,Blue,SUV,35.8 mpg
+/ad/30864110,Mercedes-Benz Vito,119 CDI Select 9-Seater 9G-Tronic MPV,"47,570",2021,Automatic,38.7 mpg,Diesel,2021,2L,"52,543 miles",Diesel,Automatic,Black,MPV,38.7 mpg
+/ad/30627801,Mercedes-Benz C Class,C43 4Matic Night Ed Premium Plus 2dr 9G-Tronic Coupe,"47,533",2023,Semi-Auto,28.5 mpg,Petrol,2023,3L,188 miles,Petrol,Semiauto,Black,Coupe,28.5 mpg
+/ad/30932441,Mercedes-Benz SL Class,SL 63 [585] 2dr Tip Auto Convertible,"47,500",2017,Automatic,28.0 mpg,Petrol,2017,5461cc,"34,000 miles",Petrol,Automatic,SILVER,Convertible,28 mpg
+/ad/30846558,Mercedes-Benz GLE Class,2.9 GLE400d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) 20s,"47,500",2020,Automatic,32.5 mpg,Diesel,2020,2925cc,"36,000 miles",Diesel,Automatic,Blue,SUV,32.5 mpg
+/ad/30854905,Mercedes-Benz V Class,V250 d AMG Line 5dr Auto MPV,"47,500",2019,Semi-Auto,44.8 mpg,Diesel,2019,2.2L,"39,249 miles",Diesel,Semiauto,Silver,MPV,44.8 mpg
+/ad/30960530,Mercedes-Benz SL Class,SL 63 [585] 2dr Tip Auto Convertible,"47,500",2017,Automatic,28.0 mpg,Petrol,2017,5461cc,"34,132 miles",Petrol,Automatic,Iridium Silver,Convertible,28 mpg
+/ad/30760734,Mercedes-Benz S Class,2.9 S 350 D AMG LINE EXECUTIVE PREMIUM 4d 282 BHP Saloon,"47,500",2019,Automatic,52.3 mpg,Diesel,2019,2925cc,"19,780 miles",Diesel,Automatic,BLACK,Saloon,52.3 mpg
+/ad/30559046,Mercedes-Benz C Class,C300 AMG Line Premium Plus 5dr 9G-Tronic Estate,"47,498",2023,Automatic,39.2 mpg,Petrol,2023,1999cc,"5,000 miles",Petrol,Automatic,Blue,Estate,39.2 mpg
+/ad/30596138,Mercedes-Benz EQE,EQE,"47,490",2023,Automatic,Tax: £0,2023,"4,590 miles",Electric,Automatic,Grey,Saloon,,,
+/ad/30721472,Mercedes-Benz E Class,E63 S 4Matic+ 4dr 9G-Tronic Saloon,"47,480",2017,Semi-Auto,31.0 mpg,Petrol,2017,4L,"44,186 miles",Petrol,Semiauto,Grey,Saloon,31 mpg
+/ad/30953020,Mercedes-Benz GLC Class,GLC 43 4Matic Premium plus 5dr TCT SUV,"47,450",2021,Semi-Auto,26.7 mpg,Petrol,2021,3L,"19,270 miles",Petrol,Semiauto,Blue,SUV,26.7 mpg
+/ad/30777985,Mercedes-Benz GLC Class,2.0 GLC300d AMG Line (Premium Plus) G-Tronic+ 4MATIC Euro 6 (s/s) 5dr 20s,"47,250",2023,Automatic,40.4 mpg,Diesel,2023,1950cc,"7,313 miles",Diesel,Automatic,Blue,Coupe,40.4 mpg
+/ad/30887213,Mercedes-Benz E Class,E300 AMG Line Night Ed Premium Plus 2dr 9G-Tronic Convertible,"47,230",2023,Semi-Auto,33.6 mpg,Hybrid,2023,2L,"2,182 miles",Hybrid,Semiauto,Grey,Convertible,33.6 mpg
+/ad/28745266,Mercedes-Benz GLE Class,5.5 AMG GLE 63 S 4MATIC PREMIUM 4DR 577 BHP Coupe,"47,196",2017,Automatic,23.7 mpg,Petrol,2017,5461cc,"29,159 miles",Petrol,Automatic,BLACK,Coupe,23.7 mpg
+/ad/30886987,Mercedes-Benz EQC,EQC,"47,000",2023,Automatic,Tax: £0,2023,"1,043 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30886986,Mercedes-Benz EQC,EQC,"47,000",2023,Automatic,Tax: £0,2023,"1,102 miles",Electric,Automatic,Black,SUV,,,
+/ad/30886994,Mercedes-Benz EQC,EQC,"47,000",2023,Automatic,Tax: £0,2023,"1,109 miles",Electric,Automatic,Black,SUV,,,
+/ad/30886993,Mercedes-Benz EQC,EQC,"47,000",2023,Automatic,Tax: £0,2023,"1,156 miles",Electric,Automatic,Black,SUV,,,
+/ad/30886997,Mercedes-Benz EQC,EQC,"47,000",2023,Automatic,Tax: £0,2023,"1,193 miles",Electric,Automatic,Black,SUV,,,
+/ad/30886992,Mercedes-Benz EQC,EQC,"47,000",2023,Automatic,Tax: £0,2023,"1,348 miles",Electric,Automatic,Black,SUV,,,
+/ad/30886990,Mercedes-Benz EQC,EQC,"47,000",2023,Automatic,Tax: £0,2023,"1,483 miles",Electric,Automatic,Black,SUV,,,
+/ad/30777984,Mercedes-Benz GLC Class,2.0 GLC300d AMG Line (Premium Plus) G-Tronic+ 4MATIC Euro 6 (s/s) 5dr 20s,"47,000",2023,Automatic,40.4 mpg,Diesel,2023,1950cc,"8,571 miles",Diesel,Automatic,Blue,Coupe,40.4 mpg
+/ad/30610108,Mercedes-Benz GLE Class,2.0 GLE350de 31.2kWh AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr 20s,"47,000",2020,Automatic,313.9 mpg,Hybrid,2020,1950cc,"58,501 miles",Diesel Plug-in Hybrid,Automatic,Blue,SUV,313.9 mpg
+/ad/30681014,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"46,999",2022,Semi-Auto,31.7 mpg,Hybrid,2022,2L,"14,611 miles",Hybrid,Semiauto,Grey,SUV,31.7 mpg
+/ad/30500820,Mercedes-Benz E Class,E53 4Matic+ Premium 2dr 9G-Tronic Coupe,"46,999",2020,Semi-Auto,32.1 mpg,Petrol,2020,3L,"22,000 miles",Petrol,Semiauto,Black,Coupe,32.1 mpg
+/ad/30870796,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"46,999",2019,Semi-Auto,32.5 mpg,Diesel,2019,2.9L,"32,851 miles",Diesel,Semiauto,Blue,SUV,32.5 mpg
+/ad/30904527,Mercedes-Benz S Class,S350d L Grand Edition Executive 4dr 9G-Tronic Saloon,"46,999",2020,Automatic,40.4 mpg,Diesel,2020,2925cc,"48,535 miles",Diesel,Automatic,Grey,Saloon,40.4 mpg
+/ad/30959622,Mercedes-Benz E Class,E300 AMG Line Premium 2dr 9G-Tronic Convertible,"46,999",2023,Semi-Auto,34.0 mpg,Hybrid,2023,2L,"2,142 miles",Hybrid,Semiauto,Black,Convertible,34 mpg
+/ad/30284669,Mercedes-Benz EQC,EQC,"46,995",2022,Automatic,Tax: £0,2022,"11,400 miles",Other,Automatic,Black,Estate,,,
+/ad/30839732,Mercedes-Benz C Class,4.0 AMG C 63 S PREMIUM PLUS 2d 503 BHP Convertible,"46,995",2018,Automatic,27.2 mpg,Petrol,2018,3982cc,"28,000 miles",Petrol,Automatic,WHITE,Convertible,27.2 mpg
+/ad/30705873,Mercedes-Benz GLE Class,3.0 GLE 450 4MATIC AMG LINE PREMIUM PLUS 5d 363 BHP Estate,"46,995",2019,Automatic,29.5 mpg,Petrol,2019,2999cc,"34,437 miles",Petrol,Automatic,WHITE,Estate,29.5 mpg
+/ad/28460051,Mercedes-Benz SL Class,AMG SL 63 Convertible,"46,995",2016,Automatic,28.0 mpg,Petrol,2016,5461cc,"49,000 miles",Petrol,Automatic,Black,Convertible,28 mpg
+/ad/28538568,Mercedes-Benz C Class,C63 S Edition 1 4dr Auto Other,"46,995",2015,Automatic,34.5 mpg,Petrol,2015,0L,"65,000 miles",Petrol,Automatic,Grey,Other,34.5 mpg
+/ad/29484440,Mercedes-Benz GLC Class,4.0 AMG GLC 63 S 4MATIC PREMIUM 4d 503 BHP Coupe,"46,991",2018,Automatic,26.4 mpg,Petrol,2018,3982cc,"30,868 miles",Petrol,Automatic,WHITE,Coupe,26.4 mpg
+/ad/30102011,Mercedes-Benz S Class,Saloon,"46,990",2019,Automatic,48.7 mpg,Diesel,2019,2925cc,"48,744 miles",Diesel,Automatic,Black,Saloon,48.7 mpg
+/ad/30628490,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"46,990",2021,Semi-Auto,32.5 mpg,Diesel,2021,2.9L,"44,230 miles",Diesel,Semiauto,Blue,SUV,32.5 mpg
+/ad/30611566,Mercedes-Benz E Class,E300d 4Matic AMG Line Premium 2dr 9G-Tronic Convertible,"46,988",2023,Semi-Auto,42.8 mpg,Diesel,2023,2L,52 miles,Diesel,Semiauto,Black,Convertible,42.8 mpg
+/ad/30862561,Mercedes-Benz V Class,V250 d AMG Line 5dr Auto [Long] MPV,"46,980",2019,Semi-Auto,44.8 mpg,Diesel,2019,2.2L,"61,539 miles",Diesel,Semiauto,Black,MPV,44.8 mpg
+/ad/30661374,Mercedes-Benz GLE Class,GLE 450 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"46,970",2019,Semi-Auto,29.5 mpg,Hybrid,2019,3L,"33,211 miles",Hybrid,Semiauto,Silver,SUV,29.5 mpg
+/ad/30215356,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"46,950",2022,Semi-Auto,40.9 mpg,Diesel,2022,2L,"12,765 miles",Diesel,Semiauto,Blue,SUV,40.9 mpg
+/ad/30714811,Mercedes-Benz V Class,2.1 V 220 D AMG LINE L 5d 161 BHP MPV,"46,950",2018,Automatic,45.6 mpg,Diesel,2018,2143cc,"70,000 miles",Diesel,Automatic,SILVER,MPV,45.6 mpg
+/ad/30892837,Mercedes-Benz C Class,C43 4Matic Night Ed Premium Plus 2dr 9G-Tronic Coupe,"46,900",2023,Automatic,28.5 mpg,Petrol,2023,2996cc,532 miles,Petrol,Automatic,Silver,Coupe,28.5 mpg
+/ad/30540932,Mercedes-Benz S Class,2.9 S 350 D L GRAND EDITION EXECUTIVE 4d 282 BHP Saloon,"46,890",2021,Automatic,40.4 mpg,Diesel,2021,2925cc,"67,700 miles",Diesel,Automatic,WHITE,Saloon,40.4 mpg
+/ad/30887033,Mercedes-Benz EQC,EQC,"46,859",2023,Automatic,Tax: £0,2023,823 miles,Electric,Automatic,Black,SUV,,,
+/ad/30887076,Mercedes-Benz EQC,EQC,"46,852",2023,Automatic,Tax: £0,2023,815 miles,Electric,Automatic,Black,SUV,,,
+/ad/30887020,Mercedes-Benz EQC,EQC,"46,837",2023,Automatic,Tax: £0,2023,948 miles,Electric,Automatic,Black,SUV,,,
+/ad/30532257,Mercedes-Benz EQE,EQE,"46,833",2022,Automatic,Tax: £0,2022,"4,866 miles",Electric,Automatic,Silver,Saloon,,,
+/ad/30785839,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"46,816",2021,Semi-Auto,35.8 mpg,Diesel,2021,2L,"28,474 miles",Diesel,Semiauto,Grey,SUV,35.8 mpg
+/ad/30887030,Mercedes-Benz EQC,EQC,"46,801",2023,Automatic,Tax: £0,2023,"1,156 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30887094,Mercedes-Benz EQC,EQC,"46,792",2023,Automatic,Tax: £0,2023,"1,155 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30884465,Mercedes-Benz Vito,116 BlueTec Pro 8-Seater 7G-Tronic MPV,"46,789",2021,Automatic,39.2 mpg,Diesel,2021,2.1L,"32,847 miles",Diesel,Automatic,Grey,MPV,39.2 mpg
+/ad/30840365,Mercedes-Benz E Class,E300 AMG Line Night Ed Premium Plus 2dr 9G-Tronic Coupe,"46,780",2023,Semi-Auto,35.3 mpg,Hybrid,2023,2L,"2,059 miles",Hybrid,Semiauto,White,Coupe,35.3 mpg
+/ad/30887077,Mercedes-Benz EQC,EQC,"46,757",2023,Automatic,Tax: £0,2023,"1,350 miles",Electric,Automatic,Black,SUV,,,
+/ad/30887088,Mercedes-Benz EQC,EQC,"46,752",2023,Automatic,Tax: £0,2023,"1,382 miles",Electric,Automatic,Black,SUV,,,
+/ad/30785166,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"46,750",2020,Semi-Auto,32.5 mpg,Diesel,2020,2.9L,"51,349 miles",Diesel,Semiauto,White,SUV,32.5 mpg
+/ad/30887019,Mercedes-Benz EQC,EQC,"46,740",2023,Automatic,Tax: £0,2023,"1,505 miles",Electric,Automatic,Black,SUV,,,
+/ad/30887024,Mercedes-Benz EQC,EQC,"46,733",2023,Automatic,Tax: £0,2023,"1,548 miles",Electric,Automatic,Black,SUV,,,
+/ad/30887089,Mercedes-Benz EQC,EQC,"46,721",2023,Automatic,Tax: £0,2023,"1,524 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30887093,Mercedes-Benz EQC,EQC,"46,717",2023,Automatic,Tax: £0,2023,"1,577 miles",Electric,Automatic,Black,SUV,,,
+/ad/30789840,Mercedes-Benz SL Class,SL 400 Grand Edition Premium 2dr 9G-Tronic Convertible,"46,690",2020,Automatic,29.4 mpg,Petrol,2020,3L,"14,802 miles",Petrol,Automatic,Black,Convertible,29.4 mpg
+/ad/30887029,Mercedes-Benz EQC,EQC,"46,681",2023,Automatic,Tax: £0,2023,"1,841 miles",Electric,Automatic,Black,SUV,,,
+/ad/30887087,Mercedes-Benz EQC,EQC,"46,655",2023,Automatic,Tax: £0,2023,"1,925 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30887071,Mercedes-Benz EQC,EQC,"46,504",2023,Automatic,Tax: £0,2023,721 miles,Electric,Automatic,Black,SUV,,,
+/ad/30491066,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"46,500",2021,Semi-Auto,313.9 mpg,Hybrid,2021,2L,"47,626 miles",Hybrid,Semiauto,Blue,SUV,313.9 mpg
+/ad/30871806,Mercedes-Benz EQC,400 300kW AMG Line Premium 80kWh 5dr Auto Reserve Online SUV,"46,500",2023,Automatic,Tax: £0,2023,554 miles,Electric,Automatic,Black,SUV,,,
+/ad/30888431,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"46,499",2021,Semi-Auto,313.9 mpg,Hybrid,2021,2L,"44,223 miles",Hybrid,Semiauto,Black,SUV,313.9 mpg
+/ad/30781778,Mercedes-Benz GLC Class,3.0 AMG GLC 43 4MATIC PREMIUM 4d 385 BHP Coupe,"46,495",2021,Automatic,27.4 mpg,Petrol,2021,2996cc,"29,500 miles",Petrol,Automatic,BLACK,Coupe,27.4 mpg
+/ad/30828722,Mercedes-Benz E Class,E53 4Matic+ Premium 2dr TCT Convertible,"46,490",2021,Semi-Auto,29.7 mpg,Hybrid,2021,3L,"16,955 miles",Hybrid,Semiauto,Silver,Convertible,29.7 mpg
+/ad/29247904,Mercedes-Benz S Class,AMG LINE PREMIUM Coupe,"46,490",2018,Automatic,34.0 mpg,Petrol,2018,3982cc,"26,975 miles",Petrol,Automatic,DIAMOND WHITE PEARL MET,Coupe,34 mpg
+/ad/30818081,Mercedes-Benz GLE Class,GLE 63 S 4Matic Night Edition 5dr 7G-Tronic SUV,"46,480",2019,Semi-Auto,23.7 mpg,Petrol,2019,5.5L,"50,637 miles",Petrol,Semiauto,Black,SUV,23.7 mpg
+/ad/30591535,Mercedes-Benz Vito,2.0 114CDI TOURER PRO L3 5d 135 BHP MPV,"46,440",2021,Automatic,39.8 mpg,Diesel,2021,1950cc,"63,524 miles",Diesel,Automatic,SILVER,MPV,39.8 mpg
+/ad/30837120,Mercedes-Benz V Class,V250 d AMG Line 5dr Auto MPV,"46,383",2018,Semi-Auto,44.8 mpg,Diesel,2018,2.2L,"27,233 miles",Diesel,Semiauto,Blue,MPV,44.8 mpg
+/ad/30504039,Mercedes-Benz EQE,EQE,"46,280",2022,Automatic,Tax: £0,2022,"3,756 miles",Electric,Automatic,Silver,Saloon,,,
+/ad/30916992,Mercedes-Benz GLE Class,2.0 GLE300d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr 21s,"46,250",2020,Automatic,35.8 mpg,Diesel,2020,1950cc,"24,950 miles",Diesel,Automatic,Black,SUV,35.8 mpg
+/ad/30887074,Mercedes-Benz EQC,EQC,"46,227",2023,Automatic,Tax: £0,2023,"1,053 miles",Electric,Automatic,Black,SUV,,,
+/ad/30887068,Mercedes-Benz EQC,EQC,"46,225",2023,Automatic,Tax: £0,2023,"1,066 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30811458,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"46,214",2019,Semi-Auto,32.5 mpg,Diesel,2019,2.9L,"40,078 miles",Diesel,Semiauto,Silver,SUV,32.5 mpg
+/ad/30887066,Mercedes-Benz EQC,EQC,"46,200",2023,Automatic,Tax: £0,2023,"1,199 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30887212,Mercedes-Benz EQC,EQC,"46,172",2023,Automatic,Tax: £0,2023,942 miles,Electric,Automatic,Black,SUV,,,
+/ad/30887206,Mercedes-Benz EQC,EQC,"46,081",2023,Automatic,Tax: £0,2023,"1,427 miles",Electric,Automatic,Black,SUV,,,
+/ad/30887215,Mercedes-Benz EQC,EQC,"46,068",2023,Automatic,Tax: £0,2023,"1,499 miles",Electric,Automatic,Black,SUV,,,
+/ad/30887221,Mercedes-Benz EQC,EQC,"46,064",2023,Automatic,Tax: £0,2023,"1,524 miles",Electric,Automatic,Grey,SUV,,,
+/ad/29284820,Mercedes-Benz E Class,Convertible,"46,000",2019,Automatic,31.7 mpg,Petrol,2019,2999cc,"12,854 miles",Petrol,Automatic,Blue,Convertible,31.7 mpg
+/ad/30936821,Mercedes-Benz CLA Class,2.0 CLA45 AMG S Plus Coupe 8G-DCT 4MATIC+ Euro 6 (s/s) 4dr 19s,"46,000",2020,Automatic,33.2 mpg,Petrol,2020,1991cc,"17,982 miles",Petrol,Automatic,Grey,Saloon,33.2 mpg
+/ad/30819160,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"45,999",2023,Semi-Auto,40.9 mpg,Diesel,2023,2L,"4,653 miles",Diesel,Semiauto,Silver,SUV,40.9 mpg
+/ad/30619458,Mercedes-Benz A Class,2.0 AMG A 45 S 4MATICPLUS PLUS 5d 416 BHP Hatchback,"45,995",2021,Automatic,32.5 mpg,Petrol,2021,1991cc,"19,000 miles",Petrol,Automatic,GREY,Hatchback,32.5 mpg
+/ad/30432881,Mercedes-Benz V Class,2.2 d AMG Line G-Tronic+ LWB Euro 6 (s/s) 5dr 8 Seat LWB MPV,"45,995",2018,Automatic,45.6 mpg,Diesel,2018,2143cc,"70,148 miles",Diesel,Automatic,Grey,MPV,45.6 mpg
+/ad/30868333,Mercedes-Benz EQC,EQC,"45,995",2023,Automatic,Tax: £0,2023,0L,"7,612 miles",Other,Automatic,Black,Estate,,
+/ad/30619458,Mercedes-Benz A Class,2.0 AMG A 45 S 4MATICPLUS PLUS 5d 416 BHP Hatchback,"45,995",2021,Automatic,32.5 mpg,Petrol,2021,1991cc,"19,000 miles",Petrol,Automatic,GREY,Hatchback,32.5 mpg
+/ad/30627807,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Executive 5dr 9G-Tronic SUV,"45,995",2021,Semi-Auto,34.9 mpg,Diesel,2021,2.9L,"27,862 miles",Diesel,Semiauto,Blue,SUV,34.9 mpg
+/ad/30535251,Mercedes-Benz GLE Class,5.5 AMG GLE 63 S 4MATIC NIGHT EDITION 5d 577 BHP Estate,"45,995",2019,Automatic,23.9 mpg,Petrol,2019,5461cc,"50,000 miles",Petrol,Automatic,GREY,Estate,23.9 mpg
+/ad/30637721,Mercedes-Benz GLE Class,5.5 AMG GLE 63 S 4MATIC NIGHT EDITION 5d 577 BHP Estate,"45,995",2019,Automatic,Tax: n/a,2019,5461cc,"50,000 miles",Petrol,Automatic,Grey,Estate,,
+/ad/29354364,Mercedes-Benz GLC Class,2.0 GLC 300 4MATIC AMG LINE PREMIUM PLUS 5d 255 BHP Other,"45,990",2021,Automatic,31.7 mpg,Other,2021,2L,"11,000 miles",Other,Automatic,Grey,Other,31.7 mpg
+/ad/29680101,Mercedes-Benz S Class,Saloon,"45,990",2019,Automatic,48.7 mpg,Diesel,2019,2925cc,"74,211 miles",Diesel,Automatic,White,Saloon,48.7 mpg
+/ad/30166375,Mercedes-Benz EQA,SUV,"45,950",2023,Automatic,Tax: n/a,2023,261 miles,Other,Automatic,Black,SUV,,,
+/ad/30345239,Mercedes-Benz AMG,4.0 BiTurbo AMG,"45,950",2019,Automatic,28.5 mpg,Petrol,2019,3982cc,"16,500 miles",Petrol,Automatic,Obsidian Black Metallic,Saloon,28.5 mpg
+/ad/30619017,Mercedes-Benz V Class,2.2 V220d Sport MPV 5dr Diesel Long G-Tronic+ Euro 6 (s/s) 8 Seat LWB (163 ps) MPV,"45,942",2019,Automatic,45.6 mpg,Diesel,2019,2143cc,"43,200 miles",Diesel,Automatic,BLACK,MPV,45.6 mpg
+/ad/30956531,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line 5dr 9G-Tronic SUV,"45,927",2020,Semi-Auto,313.9 mpg,Hybrid,2020,2L,"23,200 miles",Hybrid,Semiauto,Black,SUV,313.9 mpg
+/ad/30778089,Mercedes-Benz GLA Class,45 S 4Matic+ 5dr Auto Hatchback,"45,900",2021,Automatic,29.7 mpg,Petrol,2021,1991cc,"7,064 miles",Petrol,Automatic,Grey,Hatchback,29.7 mpg
+/ad/30307878,Mercedes-Benz A Class,2.0 A45 AMG S Plus 8G-DCT 4MATIC+ Euro 6 (s/s) 5dr Hatchback,"45,900",2021,Automatic,32.5 mpg,Petrol,2021,1991cc,"12,800 miles",Petrol,Automatic,White,Hatchback,32.5 mpg
+/ad/30942606,Mercedes-Benz GLC Class,GLC 220d 4Matic AMG Line 5dr 9G-Tronic SUV,"45,890",2023,Semi-Auto,52.3 mpg,Diesel,2023,2L,"1,633 miles",Diesel,Semiauto,Blue,SUV,52.3 mpg
+/ad/30841160,Mercedes-Benz EQC,EQC,"45,880",2023,Automatic,Tax: £0,2023,"1,582 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30924727,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Exec 5dr 9G-Tronic [7 St] SUV,"45,799",2021,Semi-Auto,35.3 mpg,Diesel,2021,2L,"23,762 miles",Diesel,Semiauto,Black,SUV,35.3 mpg
+/ad/30900649,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"45,750",2023,Semi-Auto,32.1 mpg,Hybrid,2023,2L,133 miles,Hybrid,Semiauto,Black,SUV,32.1 mpg
+/ad/30954008,Mercedes-Benz C Class,C300e AMG Line Premium Plus 5dr 9G-Tronic Estate,"45,749",2023,Semi-Auto,478.0 mpg,Hybrid,2023,2L,"3,441 miles",Hybrid,Semiauto,Grey,Estate,478 mpg
+/ad/30904794,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"45,740",2023,Semi-Auto,40.9 mpg,Diesel,2023,2L,"6,952 miles",Diesel,Semiauto,Black,SUV,40.9 mpg
+/ad/30909578,Mercedes-Benz GLE Class,GLE 450 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"45,715",2019,Semi-Auto,32.5 mpg,Hybrid,2019,3L,"20,115 miles",Hybrid,Semiauto,Black,SUV,32.5 mpg
+/ad/30819171,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"45,699",2023,Semi-Auto,40.9 mpg,Diesel,2023,2L,"5,159 miles",Diesel,Semiauto,Black,SUV,40.9 mpg
+/ad/30145201,Mercedes-Benz S Class,5.5 S63 AMG L 4d 585 BHP Saloon,"45,599",2014,Automatic,28.0 mpg,Petrol,2014,5461cc,"66,839 miles",Petrol,Automatic,BLUE,Saloon,28 mpg
+/ad/30769726,Mercedes-Benz Vito,116 BlueTec Select 8-Seater 7G-Tronic MPV,"45,589",2021,Automatic,38.2 mpg,Diesel,2021,2.1L,"32,515 miles",Diesel,Automatic,White,MPV,38.2 mpg
+/ad/30677967,Mercedes-Benz Vito,114 BlueTec Pro 8-Seater 7G-Tronic MPV,"45,589",2021,Automatic,39.8 mpg,Diesel,2021,2.1L,"39,570 miles",Diesel,Automatic,Black,MPV,39.8 mpg
+/ad/30044216,Mercedes-Benz C Class,2.0 C 300 AMG LINE PREMIUM PLUS MHEV 4d 255 BHP Saloon,"45,500",2022,Automatic,40.4 mpg,Other,2022,1999cc,"4,122 miles",Other,Automatic,BLUE,Saloon,40.4 mpg
+/ad/30922231,Mercedes-Benz GLE Class,3.0 GLE450h MHEV AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr (7 Seat) 20s,"45,500",2019,Automatic,29.5 mpg,Petrol,2019,2999cc,"31,500 miles",Petrol,Automatic,White,SUV,29.5 mpg
+/ad/30945147,Mercedes-Benz GLE Class,2.0 GLE300d AMG Line (Premium) G-Tronic 4MATIC Euro 6 (s/s) 5dr 20s,"45,500",2021,Automatic,36.7 mpg,Diesel,2021,1950cc,"11,600 miles",Diesel,Automatic,Blue,SUV,36.7 mpg
+/ad/30884877,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"45,490",2019,Semi-Auto,32.5 mpg,Diesel,2019,2.9L,"51,112 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30588451,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"45,480",2023,Semi-Auto,32.1 mpg,Hybrid,2023,2L,350 miles,Hybrid,Semiauto,Blue,SUV,32.1 mpg
+/ad/30887083,Mercedes-Benz CLA Class,CLA 35 Premium Plus 4Matic 4dr Tip Auto Coupe,"45,440",2023,Semi-Auto,33.2 mpg,Petrol,2023,2L,"1,437 miles",Petrol,Semiauto,White,Coupe,33.2 mpg
+/ad/30521992,Mercedes-Benz GLE Class,300d 4Matic AMG Line Prem + 5dr 9G-Tron (7 St) SUV,"45,401",2020,Automatic,35.8 mpg,Diesel,2020,1950cc,"38,453 miles",Diesel,Automatic,Grey,SUV,35.8 mpg
+/ad/30708179,Mercedes-Benz V Class,V220 d AMG Line 5dr Auto (Long) People Carrier,"45,400",2019,Automatic,45.6 mpg,Diesel,2019,2143cc,"34,989 miles",Diesel,Automatic,Silver,People Carrier,45.6 mpg
+/ad/30934462,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"45,299",2020,Semi-Auto,35.8 mpg,Diesel,2020,2L,"34,716 miles",Diesel,Semiauto,Grey,SUV,35.8 mpg
+/ad/30618791,Mercedes-Benz CLS Class,3.0 CLS53 MHEV AMG Edition 1 Coupe SpdS TCT 4MATIC+ Euro 6 (s/s) 4dr Saloon,"45,295",2019,Automatic,31.7 mpg,Petrol,2019,2999cc,"52,000 miles",Petrol,Automatic,Grey,Saloon,31.7 mpg
+/ad/30783941,Mercedes-Benz EQC,EQC,"45,295",2023,Automatic,Tax: £0,2023,"5,972 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30913499,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"45,188",2023,Semi-Auto,40.9 mpg,Diesel,2023,2L,"10,849 miles",Diesel,Semiauto,Black,SUV,40.9 mpg
+/ad/30954742,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"45,075",2020,Semi-Auto,32.5 mpg,Diesel,2020,2.9L,"53,107 miles",Diesel,Semiauto,Blue,SUV,32.5 mpg
+/ad/29286998,Mercedes-Benz GL Class,SUV,"45,000",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"27,158 miles",Diesel,Automatic,Blue,SUV,36.7 mpg
+/ad/30372130,Mercedes-Benz GL Class,SUV,"45,000",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"29,515 miles",Diesel,Automatic,Blue,SUV,36.7 mpg
+/ad/29672642,Mercedes-Benz GL Class,SUV,"45,000",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"32,135 miles",Diesel,Automatic,Black,SUV,36.7 mpg
+/ad/30094938,Mercedes-Benz GL Class,SUV,"45,000",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"35,807 miles",Diesel,Automatic,Blue,SUV,36.7 mpg
+/ad/30406500,Mercedes-Benz GL Class,SUV,"45,000",2019,Automatic,36.7 mpg,Diesel,2019,1950cc,"43,714 miles",Diesel,Automatic,Red,SUV,36.7 mpg
+/ad/30829606,Mercedes-Benz V Class,V250 d AMG Line 5dr Auto [Long] MPV,"45,000",2018,Semi-Auto,44.8 mpg,Diesel,2018,2.2L,"76,013 miles",Diesel,Semiauto,Silver,MPV,44.8 mpg
+/ad/29843509,Mercedes-Benz GLE Class,2.0 GLE350de 31.2kWh AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr 20s,"45,000",2021,Automatic,313.9 mpg,Hybrid,2021,1950cc,"61,547 miles",Diesel Plug-in Hybrid,Automatic,Blue,SUV,313.9 mpg
+/ad/30902940,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line 5dr 9G-Tronic [7 Seat] SUV,"44,999",2021,Semi-Auto,32.8 mpg,Diesel,2021,2.9L,"28,599 miles",Diesel,Semiauto,Black,SUV,32.8 mpg
+/ad/30772790,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"44,999",2021,Semi-Auto,313.9 mpg,Hybrid,2021,2L,"41,840 miles",Hybrid,Semiauto,Silver,SUV,313.9 mpg
+/ad/30958220,Mercedes-Benz CLA Class,CLA 35 Premium Plus 4Matic 4dr Tip Auto Coupe,"44,999",2023,Semi-Auto,33.2 mpg,Petrol,2023,2L,47 miles,Petrol,Semiauto,Black,Coupe,33.2 mpg
+/ad/30959809,Mercedes-Benz CLA Class,CLA 35 Premium Plus 4Matic 4dr Tip Auto Coupe,"44,999",2023,Semi-Auto,33.2 mpg,Petrol,2023,2L,100 miles,Petrol,Semiauto,White,Coupe,33.2 mpg
+/ad/30958099,Mercedes-Benz CLA Class,CLA 35 Premium Plus 4Matic 4dr Tip Auto Coupe,"44,999",2023,Semi-Auto,33.2 mpg,Petrol,2023,2L,"1,514 miles",Petrol,Semiauto,Red,Coupe,33.2 mpg
+/ad/30958012,Mercedes-Benz CLA Class,CLA 35 Premium Plus 4Matic 4dr Tip Auto Coupe,"44,999",2023,Semi-Auto,33.2 mpg,Petrol,2023,2L,"1,764 miles",Petrol,Semiauto,Grey,Coupe,33.2 mpg
+/ad/30958237,Mercedes-Benz CLA Class,CLA 35 Premium Plus 4Matic 4dr Tip Auto Coupe,"44,999",2023,Semi-Auto,33.2 mpg,Petrol,2023,2L,"2,467 miles",Petrol,Semiauto,Blue,Coupe,33.2 mpg
+/ad/30926422,Mercedes-Benz E Class,E300d 4Matic AMG Line Night Ed Pre+ 2dr 9G-Tronic Coupe,"44,995",2023,Semi-Auto,44.1 mpg,Diesel,2023,2L,"1,700 miles",Diesel,Semiauto,Silver,Coupe,44.1 mpg
+/ad/30927728,Mercedes-Benz E Class,E300D 4MATIC AMG Line Night Edition Premium Plus Diesel MEHV Auto Coupe Coupe,"44,995",2023,Automatic,44.1 mpg,Petrol,2023,1992cc,"1,700 miles",Petrol,Automatic,Silver,Coupe,44.1 mpg
+/ad/29770500,Mercedes-Benz E Class,E220 DH AMG Line Night Edition Premium Plus Diesel MHEV Estate PAN ROOF/NAV Estate,"44,995",2022,Automatic,51.4 mpg,Diesel,2022,1993cc,"6,000 miles",Diesel,Automatic,Black,Estate,51.4 mpg
+/ad/29913478,Mercedes-Benz E Class,E220d 200 AMG Line Night Ed Prem+ 5dr 9G-Tronic Estate,"44,995",2022,Semi-Auto,51.4 mpg,Diesel,2022,2L,"6,000 miles",Diesel,Semiauto,Black,Estate,51.4 mpg
+/ad/30791392,Mercedes-Benz E Class,E300 AMG Line Premium Plus Petrol MHEV Auto Estate PAN ROOF/360 CAM/VAT Q Estate,"44,995",2023,Automatic,35.8 mpg,Other,2023,1991cc,"7,000 miles",Other,Automatic,Black,Estate,35.8 mpg
+/ad/30343099,Mercedes-Benz C Class,C43 4Matic Premium Plus 4dr 9G-Tronic Saloon,"44,995",2021,Automatic,28.5 mpg,Petrol,2021,3000cc,"9,953 miles",Petrol,Automatic,Red,Saloon,28.5 mpg
+/ad/27996672,Mercedes-Benz GL Class,Estate,"44,995",2021,Automatic,40.4 mpg,Diesel,2021,1950cc,"13,785 miles",Diesel,Automatic,Grey,Estate,40.4 mpg
+/ad/30803224,Mercedes-Benz C Class,4.0 C63 V8 BiTurbo AMG S - DRIVING ASSISTANCE PACKAGE - CARBON INTERIOR PACKAGE - FULL MB HISTORY Coupe,"44,995",2016,Automatic,32.8 mpg,Petrol,2016,3982cc,"16,000 miles",Petrol,Automatic,Grey,Coupe,32.8 mpg
+/ad/30571272,Mercedes-Benz E Class,AMG E 53 4MATIC Convertible,"44,995",2019,Automatic,31.7 mpg,Petrol,2019,2999cc,"20,500 miles",Petrol,Automatic,Grey,Convertible,31.7 mpg
+/ad/29565577,Mercedes-Benz SL Class,Convertible,"44,995",2015,Automatic,25.2 mpg,Petrol,2015,5461cc,"28,000 miles",Petrol,Automatic,Black,Convertible,25.2 mpg
+/ad/30919441,Mercedes-Benz C Class,Mercedes-AMG C 63 S Night Edition Coupe Coupe,"44,995",2018,Automatic,32.8 mpg,Petrol,2018,3982cc,"28,522 miles",Petrol,Automatic,Obsidian Black Metallic,Coupe,32.8 mpg
+/ad/30635739,Mercedes-Benz EQE,EQE,"44,995",2022,Automatic,Tax: £0,2022,"30,000 miles",Electric,Automatic,Silver,Saloon,,,
+/ad/27106371,Mercedes-Benz GL Class,Estate,"44,995",2017,Automatic,37.2 mpg,Diesel,2017,3000cc,"30,800 miles",Diesel,Automatic,Silver,Estate,37.2 mpg
+/ad/30388637,Mercedes-Benz EQC,0.0 EQC,"44,995",2020,Automatic,Tax: £0,2020,0L,"31,600 miles",Other,Automatic,BLACK,Estate,,
+/ad/30255090,Mercedes-Benz S Class,2.9 S 350 D L AMG LINE PREMIUM PLUS 4d 282 BHP Saloon,"44,995",2019,Automatic,52.3 mpg,Diesel,2019,2925cc,"33,000 miles",Diesel,Automatic,GREY,Saloon,52.3 mpg
+/ad/30847274,Mercedes-Benz V Class,2.2 V250d BlueTEC Sport G-Tronic+ Euro 6 (s/s) 5dr 8 Seat XLWB MPV,"44,995",2017,Automatic,Tax: n/a,2017,2143cc,"34,000 miles",Diesel,Automatic,Black,MPV,,
+/ad/30527932,Mercedes-Benz S Class,5.5 AMG S 63 L EXECUTIVE 4d 577 BHP Saloon,"44,995",2016,Automatic,28.0 mpg,Petrol,2016,5461cc,"55,612 miles",Petrol,Automatic,BLACK,Saloon,28 mpg
+/ad/30792881,Mercedes-Benz E Class,3.0 AMG E 53 4MATIC MHEV 5d 430 BHP Estate,"44,995",2020,Automatic,31.7 mpg,Petrol,2020,2999cc,"13,500 miles",Petrol,Automatic,GREY,Estate,31.7 mpg
+/ad/30927728,Mercedes-Benz E Class,E300D 4MATIC AMG Line Night Edition Premium Plus Diesel MEHV Auto Coupe Coupe,"44,995",2023,Automatic,44.1 mpg,Petrol,2023,1992cc,"1,700 miles",Petrol,Automatic,Silver,Coupe,44.1 mpg
+/ad/30926422,Mercedes-Benz E Class,E300d 4Matic AMG Line Night Ed Pre+ 2dr 9G-Tronic Coupe,"44,995",2023,Semi-Auto,44.1 mpg,Diesel,2023,2L,"1,700 miles",Diesel,Semiauto,Silver,Coupe,44.1 mpg
+/ad/30622885,Mercedes-Benz GLE Class,350d 4Matic AMG Line Prem 5dr 9G-Tronic (7 St) SUV,"44,992",2020,Automatic,32.8 mpg,Diesel,2020,2925cc,"27,695 miles",Diesel,Automatic,Black,SUV,32.8 mpg
+/ad/30761601,Mercedes-Benz GLC Class,2.0 GLC 300 4MATIC AMG LINE PREMIUM 4d 255 BHP Coupe,"44,990",2022,Automatic,32.1 mpg,Other,2022,1991cc,"14,514 miles",Other,Automatic,BLUE,Coupe,32.1 mpg
+/ad/30468417,Mercedes-Benz C Class,C43 4Matic Premium Plus 5dr 9G-Tronic Estate,"44,990",2021,Automatic,28.0 mpg,Petrol,2021,2996cc,"21,000 miles",Petrol,Automatic,Grey,Estate,28 mpg
+/ad/30322426,Mercedes-Benz C Class,4.0 AMG C 63 S PREMIUM 2d 503 BHP Coupe,"44,990",2018,Automatic,32.8 mpg,Petrol,2018,3982cc,"29,130 miles",Petrol,Automatic,WHITE,Coupe,32.8 mpg
+/ad/30852266,Mercedes-Benz CLS Class,3.0 CLS53 MHEV AMG Edition 1 Coupe SpdS TCT 4MATIC+ Euro 6 (s/s) 4dr Saloon,"44,990",2019,Automatic,23.0 mpg,Petrol,2019,2999cc,"40,000 miles",Petrol,Automatic,Grey,Saloon,23 mpg
+/ad/29940020,Mercedes-Benz S Class,4.0 S 560 AMG LINE PREMIUM 2d 463 BHP Coupe,"44,990",2018,Automatic,34.0 mpg,Petrol,2018,3982cc,"53,910 miles",Petrol,Automatic,SILVER,Coupe,34 mpg
+/ad/29691749,Mercedes-Benz G Class,5.4 G55 V8 AMG Tiptronic 4WD Euro 5 5dr EX EMBASSY FULL SPEC AMG G55 SUV,"44,990",2003,Automatic,Tax: n/a,2003,5500cc,"45,000 miles",Petrol,Automatic,Black,SUV,,
+/ad/29940020,Mercedes-Benz S Class,4.0 S 560 AMG LINE PREMIUM 2d 463 BHP Coupe,"44,990",2018,Automatic,34.0 mpg,Petrol,2018,3982cc,"53,910 miles",Petrol,Automatic,SILVER,Coupe,34 mpg
+/ad/29821885,Mercedes-Benz S Class,4.0 S 560 AMG LINE PREMIUM 2d 463 BHP Coupe,"44,990",2018,Automatic,34.0 mpg,Petrol,2018,3982cc,"63,000 miles",Petrol,Automatic,WHITE,Coupe,34 mpg
+/ad/28608387,Mercedes-Benz C Class,6.2 V8 (507 PS) C63 AMG EDITION 507 SpdS MCT 5DR + WOW !!! VERY RARE CAR !!! PRIVATE PLATE 'FA57 AM Estate,"44,990",2014,Automatic,23.2 mpg,Petrol,2014,6208cc,"82,000 miles",Petrol,Automatic,BLACK,Estate,23.2 mpg
+/ad/30935392,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"44,981",2020,Semi-Auto,32.5 mpg,Diesel,2020,3L,"30,381 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30644151,Mercedes-Benz EQE,EQE,"44,980",2022,Automatic,Tax: £0,2022,"14,752 miles",Electric,Automatic,Grey,Saloon,,,
+/ad/30795477,Mercedes-Benz S Class,S350d L Grand Edition Executive 4dr 9G-Tronic Saloon,"44,980",2020,Semi-Auto,40.4 mpg,Diesel,2020,2.9L,"36,850 miles",Diesel,Semiauto,Black,Saloon,40.4 mpg
+/ad/30832608,Mercedes-Benz C Class,C63 S Premium 5dr Auto Estate,"44,950",2018,Semi-Auto,33.6 mpg,Petrol,2018,4L,"18,328 miles",Petrol,Semiauto,Black,Estate,33.6 mpg
+/ad/30487051,Mercedes-Benz V250,D AMG LINE 7 SEATS MPV,"44,950",2019,Automatic,44.8 mpg,Diesel,2019,2.2L,"54,000 miles",Diesel,Automatic,OBSIDIAN BLACK METALLIC,MPV,44.8 mpg
+/ad/30708161,Mercedes-Benz C Class,C200 Exclusive Luxury 4dr 9G-Tronic Saloon,"44,900",2023,Automatic,43.5 mpg,Petrol,2023,1496cc,"2,250 miles",Petrol,Automatic,White,Saloon,43.5 mpg
+/ad/30959621,Mercedes-Benz CLA Class,CLA 35 Premium Plus 4Matic 4dr Tip Auto Coupe,"44,899",2023,Semi-Auto,33.2 mpg,Petrol,2023,2L,"2,231 miles",Petrol,Semiauto,Yellow,Coupe,33.2 mpg
+/ad/30866273,Mercedes-Benz E Class,4.0 E63 V8 BiTurbo AMG (Premium) SpdS MCT 4MATIC+ Euro 6 (s/s) 4dr Saloon,"44,894",2018,Automatic,32.1 mpg,Petrol,2018,3982cc,"21,000 miles",Petrol,Automatic,Black,Saloon,32.1 mpg
+/ad/30841182,Mercedes-Benz EQC,EQC,"44,890",2023,Automatic,Tax: £0,2023,"1,530 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30577866,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"44,890",2020,Semi-Auto,32.8 mpg,Diesel,2020,2.9L,"16,372 miles",Diesel,Semiauto,Blue,SUV,32.8 mpg
+/ad/30842257,Mercedes-Benz EQC,EQC,"44,880",2023,Automatic,Tax: £0,2023,"1,327 miles",Electric,Automatic,Black,SUV,,,
+/ad/30849063,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"44,869",2023,Semi-Auto,32.1 mpg,Hybrid,2023,2L,"7,324 miles",Hybrid,Semiauto,Blue,SUV,32.1 mpg
+/ad/30904525,Mercedes-Benz EQC,400 300kW AMG Line Premium 80kWh 5dr Auto SUV,"44,800",2023,Automatic,Tax: £0,2023,"1,882 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30897436,Mercedes-Benz EQC,400 300kW AMG Line Premium 80kWh 5dr Auto SUV,"44,800",2023,Automatic,Tax: £0,2023,"1,981 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30931614,Mercedes-Benz EQC,400 300kW AMG Line Premium 80kWh 5dr Auto SUV,"44,799",2023,Automatic,Tax: £0,2023,940 miles,Electric,Automatic,Grey,SUV,,,
+/ad/27427079,Mercedes-Benz GLE Class,5.5 AMG GLE 63 S 4MATIC PREMIUM 5d 577 BHP Other,"44,799",2016,Automatic,23.9 mpg,Petrol,2016,5461cc,"27,002 miles",Petrol,Automatic,WHITE,Other,23.9 mpg
+/ad/30865800,Mercedes-Benz S Class,2.9 S350L d AMG Line (Premium) G-Tronic+ Euro 6 (s/s) 4dr Saloon,"44,790",2019,Automatic,52.3 mpg,Diesel,2019,2925cc,"14,000 miles",Diesel,Automatic,White,Saloon,52.3 mpg
+/ad/30854823,Mercedes-Benz EQC,EQC,"44,780",2023,Automatic,Tax: £0,2023,"1,151 miles",Electric,Automatic,White,SUV,,,
+/ad/29611718,Mercedes-Benz CLS Class,2.0 CLS 350 AMG LINE MHEV 4d 295 BHP *VQ* Coupe,"44,635",2020,Automatic,34.9 mpg,Petrol,2020,1991cc,"19,689 miles",Petrol,Automatic,GREY,Coupe,34.9 mpg
+/ad/30881283,Mercedes-Benz GLE Class,GLE 450 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"44,633",2019,Semi-Auto,29.5 mpg,Hybrid,2019,3L,"38,033 miles",Hybrid,Semiauto,Grey,SUV,29.5 mpg
+/ad/30882640,Mercedes-Benz EQC,EQC,"44,590",2023,Automatic,Tax: £0,2023,"1,194 miles",Electric,Automatic,Black,SUV,,,
+/ad/30804669,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"44,499",2023,Semi-Auto,40.9 mpg,Diesel,2023,2L,"2,319 miles",Diesel,Semiauto,Silver,SUV,40.9 mpg
+/ad/30754528,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"44,495",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"40,899 miles",Diesel,Automatic,Brilliant Blue Metallic,SUV,36.7 mpg
+/ad/30681000,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"44,416",2020,Semi-Auto,36.7 mpg,Diesel,2020,2L,"35,080 miles",Diesel,Semiauto,Black,SUV,36.7 mpg
+/ad/30550895,Mercedes-Benz X Class,3.0 X350 D 4MATIC POWER 4d 255 BHP Other,"44,394",2018,Automatic,31.4 mpg,Diesel,2018,2987cc,"39,000 miles",Diesel,Automatic,BLACK,Other,31.4 mpg
+/ad/30167067,Mercedes-Benz EQC,0.0 EQC,"44,388",2021,Automatic,Tax: £0,2021,1L,"15,000 miles",Other,Automatic,BLUE,Estate,,
+/ad/30623793,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"44,331",2022,Semi-Auto,40.4 mpg,Diesel,2022,2L,"10,894 miles",Diesel,Semiauto,Grey,SUV,40.4 mpg
+/ad/30892542,Mercedes-Benz C Class,C300e AMG Line Premium Plus 4dr 9G-Tronic Saloon,"44,316",2023,Semi-Auto,478.0 mpg,Hybrid,2023,2L,"4,153 miles",Hybrid,Semiauto,Grey,Saloon,478 mpg
+/ad/30887080,Mercedes-Benz C Class,C300d AMG Line Premium 4dr 9G-Tronic Saloon,"44,249",2023,Semi-Auto,53.3 mpg,Diesel,2023,2L,"1,226 miles",Diesel,Semiauto,Silver,Saloon,53.3 mpg
+/ad/30924772,Mercedes-Benz CLS Class,CLS 400d 4Matic AMG Line Ngt Ed Pr + 4dr 9G-Tronic Coupe,"44,165",2021,Semi-Auto,38.7 mpg,Diesel,2021,2.9L,"10,800 miles",Diesel,Semiauto,Silver,Coupe,38.7 mpg
+/ad/30900099,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"44,130",2023,Semi-Auto,32.1 mpg,Hybrid,2023,2L,530 miles,Hybrid,Semiauto,Black,SUV,32.1 mpg
+/ad/30241516,Mercedes-Benz E Class,Estate,"44,000",2022,Automatic,Tax: £0,2022,0L,"15,500 miles",Other,Automatic,Grey,Estate,,
+/ad/30708097,Mercedes-Benz GLC Class,3.0 GLC43 V6 AMG (Premium) G-Tronic+ 4MATIC Euro 6 (s/s) 5dr 20s,"44,000",2022,Automatic,27.2 mpg,Petrol,2022,2996cc,"16,259 miles",Petrol,Automatic,Grey,SUV,27.2 mpg
+/ad/30892805,Mercedes-Benz C Class,C200 Exclusive Luxury 5dr 9G-Tronic Estate,"43,999",2023,Automatic,41.5 mpg,Petrol,2023,1496cc,"1,886 miles",Petrol,Automatic,Red,Estate,41.5 mpg
+/ad/27994606,Mercedes-Benz C Class,4.0 AMG C 63 2d 470 BHP Coupe,"43,999",2019,Automatic,28.0 mpg,Petrol,2019,3982cc,"26,655 miles",Petrol,Automatic,SILVER,Coupe,28 mpg
+/ad/30959465,Mercedes-Benz C Class,C300e AMG Line Premium 4dr 9G-Tronic Saloon,"43,999",2023,Semi-Auto,478.0 mpg,Hybrid,2023,2L,100 miles,Hybrid,Semiauto,White,Saloon,478 mpg
+/ad/30958230,Mercedes-Benz C Class,C300e AMG Line Premium Plus 4dr 9G-Tronic Saloon,"43,999",2023,Semi-Auto,478.0 mpg,Hybrid,2023,2L,740 miles,Hybrid,Semiauto,White,Saloon,478 mpg
+/ad/30754817,Mercedes-Benz SL Class,AMG SL 63 Convertible,"43,995",2016,Automatic,28.0 mpg,Petrol,2016,5461cc,"9,781 miles",Petrol,Automatic,Diamond White Metallic,Convertible,28 mpg
+/ad/30865655,Mercedes-Benz EQC,EQC,"43,995",2022,Automatic,Tax: £0,2022,"16,070 miles",Other,Automatic,Black,SUV,,,
+/ad/30232705,Mercedes-Benz GLC Class,DIESEL COUPE Coupe,"43,995",2021,Automatic,40.4 mpg,Diesel,2021,1950cc,"26,000 miles",Diesel,Automatic,Black,Coupe,40.4 mpg
+/ad/29928336,Mercedes-Benz GLC Class,4.0 AMG GLC 63 S 4MATIC PREMIUM 5d 503 BHP Estate,"43,995",2018,Automatic,26.4 mpg,Petrol,2018,3982cc,"56,792 miles",Petrol,Automatic,GREY,Estate,26.4 mpg
+/ad/30838225,Mercedes-Benz GLE Class,300 Amg Line Prem D 4 Estate,"43,990",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"43,900 miles",Diesel,Automatic,Black,Estate,36.7 mpg
+/ad/30772769,Mercedes-Benz C Class,C43 4Matic Night Ed Premium Plus 2dr 9G-Tronic Coupe,"43,990",2022,Semi-Auto,28.5 mpg,Petrol,2022,3L,"5,379 miles",Petrol,Semiauto,Silver,Coupe,28.5 mpg
+/ad/30684003,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"43,980",2020,Semi-Auto,313.9 mpg,Hybrid,2020,2L,"72,051 miles",Hybrid,Semiauto,Grey,SUV,313.9 mpg
+/ad/30876151,Mercedes-Benz GLA Class,GLA 45 S 4Matic+ Plus 5dr Auto SUV,"43,970",2020,Semi-Auto,28.8 mpg,Petrol,2020,2L,"34,059 miles",Petrol,Semiauto,Black,SUV,28.8 mpg
+/ad/30945190,Mercedes-Benz GLB Class,220d 4M AMG Line Prem + Night Ed 5dr 8G-Tronic SUV,"43,900",2023,Automatic,45.6 mpg,Diesel,2023,1950cc,"3,242 miles",Diesel,Automatic,Blue,SUV,45.6 mpg
+/ad/30701988,Mercedes-Benz V Class,V250d Amg Line LWB Long Wheel Base Auto No VAT EURO 6 VANLUX PRESTIGE EXAMPLE|CALL UPTO10PM MPV,"43,890",2017,Automatic,44.8 mpg,Diesel,2017,2143cc,"39,911 miles",Diesel,Automatic,Black,MPV,44.8 mpg
+/ad/30760356,Mercedes-Benz E Class,2.0 E 220 D AMG LINE NIGHT EDITION PREMIUM PLUS 4d AUTO 192 BHP Saloon,"43,800",2021,Automatic,47.1 mpg,Diesel,2021,1950cc,"28,444 miles",Diesel,Automatic,GREY,Saloon,47.1 mpg
+/ad/30870768,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"43,780",2020,Semi-Auto,32.8 mpg,Diesel,2020,2.9L,"35,537 miles",Diesel,Semiauto,Black,SUV,32.8 mpg
+/ad/30923147,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Prem 5dr 9G-Tronic [7 St] SUV,"43,699",2021,Semi-Auto,35.8 mpg,Diesel,2021,2L,"35,351 miles",Diesel,Semiauto,Blue,SUV,35.8 mpg
+/ad/30959463,Mercedes-Benz C Class,C300e AMG Line Premium Plus 4dr 9G-Tronic Saloon,"43,699",2023,Semi-Auto,478.0 mpg,Hybrid,2023,2L,"3,420 miles",Hybrid,Semiauto,Blue,Saloon,478 mpg
+/ad/30288163,Mercedes-Benz GLE Class,GLE 450 4Matic AMG Line 5dr 9G-Tronic [7 Seats] SUV,"43,620",2019,Semi-Auto,29.5 mpg,Hybrid,2019,3L,"29,764 miles",Hybrid,Semiauto,Grey,SUV,29.5 mpg
+/ad/30959485,Mercedes-Benz C Class,C300 AMG Line Premium Plus 4dr 9G-Tronic Saloon,"43,599",2023,Semi-Auto,40.4 mpg,Hybrid,2023,2L,415 miles,Hybrid,Semiauto,Silver,Saloon,40.4 mpg
+/ad/30887219,Mercedes-Benz C Class,C300d AMG Line Premium Plus 4dr 9G-Tronic Saloon,"43,596",2023,Semi-Auto,53.3 mpg,Diesel,2023,2L,"6,408 miles",Diesel,Semiauto,Black,Saloon,53.3 mpg
+/ad/30887018,Mercedes-Benz A Class,A35 4Matic Premium Plus 5dr Auto Hatchback,"43,462",2023,Semi-Auto,32.8 mpg,Hybrid,2023,2L,"1,427 miles",Hybrid,Semiauto,Black,Hatchback,32.8 mpg
+/ad/30760710,Mercedes-Benz A Class,2.0 AMG A 45 S 4MATIC PLUS 5d 416 BHP AERO KIT Hatchback,"43,451",2020,Automatic,32.5 mpg,Petrol,2020,1991cc,"19,700 miles",Petrol,Automatic,YELLOW,Hatchback,32.5 mpg
+/ad/30959681,Mercedes-Benz E Class,E300d 4Matic AMG Line Premium 2dr 9G-Tronic Coupe,"43,350",2023,Semi-Auto,44.8 mpg,Diesel,2023,2L,"2,296 miles",Diesel,Semiauto,Black,Coupe,44.8 mpg
+/ad/30909582,Mercedes-Benz GLE Class,GLE 350de 4Matic AMG Line Prem Plus 5dr 9G-Tronic SUV,"43,251",2020,Semi-Auto,313.9 mpg,Hybrid,2020,2L,"69,616 miles",Hybrid,Semiauto,Black,SUV,313.9 mpg
+/ad/30612700,Mercedes-Benz GLE Class,2.0 GLE300d AMG Line G-Tronic 4MATIC Euro 6 (s/s) 5dr 20s,"43,250",2021,Automatic,35.8 mpg,Diesel,2021,1950cc,"24,100 miles",Diesel,Automatic,Blue,SUV,35.8 mpg
+/ad/30841583,Mercedes-Benz V Class,2.2 V220d BlueTEC SE MPV 5dr Diesel G-Tronic+ Euro 6 (s/s) 8 Seat XLWB (163 ps) MPV,"43,194",2016,Automatic,45.6 mpg,Diesel,2016,2143cc,"39,950 miles",Diesel,Automatic,GREY,MPV,45.6 mpg
+/ad/30956326,Mercedes-Benz A Class,A35 4Matic Premium Plus 5dr Auto Hatchback,"43,099",2023,Semi-Auto,32.8 mpg,Hybrid,2023,2L,"3,143 miles",Hybrid,Semiauto,Yellow,Hatchback,32.8 mpg
+/ad/30864463,Mercedes-Benz Vito,114 BlueTec Pro 8-Seater 7G-Tronic MPV,"43,070",2021,Automatic,39.8 mpg,Diesel,2021,2.1L,"37,577 miles",Diesel,Automatic,Red,MPV,39.8 mpg
+/ad/30887335,Mercedes-Benz GLA Class,2.0 GLA45 AMG S 8G-DCT 4MATIC+ Euro 6 (s/s) 5dr 20s,"43,000",2021,Automatic,29.7 mpg,Petrol,2021,1991cc,"9,000 miles",Petrol,Automatic,White,SUV,29.7 mpg
+/ad/30113095,Mercedes-Benz GL Class,SUV,"43,000",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"38,362 miles",Diesel,Automatic,Black,SUV,36.7 mpg
+/ad/30712755,Mercedes-Benz C Class,4.0 AMG C 63 S PREMIUM 2d AUTO 503 BHP Coupe,"43,000",2017,Automatic,32.8 mpg,Petrol,2017,3982cc,"38,624 miles",Petrol,Automatic,BLACK,Coupe,32.8 mpg
+/ad/30611561,Mercedes-Benz GLC Class,GLC 43 4Matic Premium plus 5dr TCT SUV,"43,000",2020,Semi-Auto,26.7 mpg,Petrol,2020,3L,"19,224 miles",Petrol,Semiauto,White,SUV,26.7 mpg
+/ad/30011710,Mercedes-Benz S Class,2.9 S350L d Grand Edition (Executive) G-Tronic+ Euro 6 (s/s) 4dr 20s,"43,000",2020,Automatic,40.4 mpg,Diesel,2020,2925cc,"37,393 miles",Diesel,Automatic,Silver,Saloon,40.4 mpg
+/ad/30786765,Mercedes-Benz V Class,V 250 D AMG LINE XL 5-Door MPV,"42,999",2017,Automatic,44.8 mpg,Diesel,2017,2143cc,"82,400 miles",Diesel,Automatic,Black,MPV,44.8 mpg
+/ad/30959488,Mercedes-Benz C Class,C200 AMG Line Premium Plus 5dr 9G-Tronic Estate,"42,999",2023,Semi-Auto,40.4 mpg,Hybrid,2023,1.5L,500 miles,Hybrid,Semiauto,Black,Estate,40.4 mpg
+/ad/30959808,Mercedes-Benz E Class,E220d 200 AMG Line 4dr 9G-Tronic Saloon,"42,999",2023,Semi-Auto,57.7 mpg,Diesel,2023,2L,"1,766 miles",Diesel,Semiauto,Black,Saloon,57.7 mpg
+/ad/30958204,Mercedes-Benz A Class,A35 4Matic Premium Plus 5dr Auto Hatchback,"42,999",2023,Semi-Auto,32.8 mpg,Hybrid,2023,2L,"2,091 miles",Hybrid,Semiauto,Black,Hatchback,32.8 mpg
+/ad/30863807,Mercedes-Benz V Class,V250 d Sport 5dr Auto [Long] MPV,"42,995",2017,Semi-Auto,44.8 mpg,Diesel,2017,2.2L,"12,000 miles",Diesel,Semiauto,Black,MPV,44.8 mpg
+/ad/30917942,Mercedes-Benz Vito,116 CDI [2.0] Select 8-Seater 9G-Tronic MPV,"42,995",2020,Automatic,38.2 mpg,Diesel,2020,2L,"14,460 miles",Diesel,Automatic,Silver,MPV,38.2 mpg
+/ad/30341164,Mercedes-Benz A Class,2.0 S Plus 8G-DCT 4MATIC+ Euro 6 (s/s) 5dr Hatchback,"42,995",2021,Automatic,32.5 mpg,Petrol,2021,1991cc,"19,000 miles",Petrol,Automatic,Grey,Hatchback,32.5 mpg
+/ad/30005105,Mercedes-Benz C Class,C300e AMG Line Premium Plus 5dr 9G-Tronic Estate,"42,995",2022,Automatic,478.0 mpg,Hybrid,2022,1999cc,"19,400 miles",Petrol Plugin Hybrid,Automatic,Black,Estate,478 mpg
+/ad/30470023,Mercedes-Benz S Class,S350 D L AMG LINE PREMIUM 1 OWNER FROM NEW Saloon,"42,995",2019,Automatic,52.3 mpg,Diesel,2019,2925cc,"27,500 miles",Diesel,Automatic,OBSIDION BLACK METALLIC,Saloon,52.3 mpg
+/ad/30580250,Mercedes-Benz 300,GLE D 4MATIC AMG LINE Estate,"42,995",2021,Automatic,35.8 mpg,Diesel,2021,1950cc,"27,720 miles",Diesel,Automatic,Selenite Grey Metallic,Estate,35.8 mpg
+/ad/30330752,Mercedes-Benz GLE Class,2.9 GLE350d AMG Line (Premium) SUV 5dr Diesel G-Tronic 4MATIC Euro 6 (s/s) (7 Seat) (272 ps) Estate,"42,995",2019,Automatic,32.8 mpg,Diesel,2019,2925cc,"44,550 miles",Diesel,Automatic,BLUE,Estate,32.8 mpg
+/ad/30451355,Mercedes-Benz GL Class,Estate,"42,995",2018,Automatic,37.2 mpg,Diesel,2018,2987cc,"44,900 miles",Diesel,Automatic,Black,Estate,37.2 mpg
+/ad/30689394,Mercedes-Benz S Class,S350d L Grand Edition Executive 4dr 9G-Tronic Saloon,"42,995",2020,Semi-Auto,40.4 mpg,Diesel,2020,2.9L,"54,000 miles",Diesel,Semiauto,Silver,Saloon,40.4 mpg
+/ad/30637700,Mercedes-Benz S Class,2.9 S 350 D L AMG LINE PREMIUM PLUS 4d 282 BHP Saloon,"42,995",2019,Automatic,52.3 mpg,Diesel,2019,2925cc,"59,900 miles",Diesel,Automatic,Black,Saloon,52.3 mpg
+/ad/30410151,Mercedes-Benz SL Series,420 SL Convertible,"42,995",1987,Automatic,Tax: £325,1987,4.196L,"70,882 miles",Petrol,Automatic,Silver,Convertible,,
+/ad/30704510,Mercedes-Benz V Class,2.1 V 250 D AMG LINE XL 5d AUTO 188 BHP MPV,"42,995",2019,Automatic,44.8 mpg,Diesel,2019,2143cc,"86,000 miles",Diesel,Automatic,BLACK,MPV,44.8 mpg
+/ad/29354365,Mercedes-Benz GLC Class,2.0 GLC 300 4MATIC AMG LINE 5d 255 BHP Other,"42,990",2021,Automatic,33.2 mpg,Other,2021,2L,"3,000 miles",Other,Automatic,Grey,Other,33.2 mpg
+/ad/30813292,Mercedes-Benz GLE Class,2.0 GLE300d AMG Line SUV,"42,990",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"38,000 miles",Diesel,Automatic,Silver,SUV,36.7 mpg
+/ad/30678393,Mercedes-Benz V Class,2.1 V 250 D AMG LINE L 5d 188 BHP Estate,"42,990",2018,Automatic,44.8 mpg,Diesel,2018,2143cc,"74,227 miles",Diesel,Automatic,BLACK,Estate,44.8 mpg
+/ad/30944624,Mercedes-Benz E Class,E300 AMG Line Premium 2dr 9G-Tronic Coupe,"42,990",2023,Semi-Auto,35.8 mpg,Hybrid,2023,2L,"1,099 miles",Hybrid,Semiauto,Silver,Coupe,35.8 mpg
+/ad/29298149,Mercedes-Benz V Class,2.1 V 250 D AMG LINE XL 5d 188 BHP MPV,"42,990",2017,Automatic,44.8 mpg,Diesel,2017,2.1L,"59,222 miles",Diesel,Automatic,White,MPV,44.8 mpg
+/ad/30343515,Mercedes-Benz GL Class,3.0 GLS 350 D 4MATIC AMG LINE 5d 255 BHP Estate,"42,985",2019,Automatic,37.2 mpg,Diesel,2019,2987cc,"40,100 miles",Diesel,Automatic,BLUE,Estate,37.2 mpg
+/ad/30747076,Mercedes-Benz GLC Class,GLC 63 4Matic 5dr 9G-Tronic SUV,"42,980",2018,Semi-Auto,27.4 mpg,Petrol,2018,4L,"16,085 miles",Petrol,Semiauto,Grey,SUV,27.4 mpg
+/ad/30629482,Mercedes-Benz V Class,V250d Amg Line XLWB Extra Long EURO 6 No VAT VANLUX XLWB|PERFECT COLOUR COMBO|ULEZ MPV,"42,980",2018,Automatic,44.8 mpg,Diesel,2018,2143cc,"67,826 miles",Diesel,Automatic,Blue,MPV,44.8 mpg
+/ad/30880385,Mercedes-Benz C Class,4.0 C63 V8 BiTurbo AMG (Premium) SpdS MCT Euro 6 (s/s) 2dr Coupe,"42,980",2018,Automatic,32.8 mpg,Petrol,2018,3982cc,"35,307 miles",Petrol,Automatic,Grey,Coupe,32.8 mpg
+/ad/30674184,Mercedes-Benz C Class,2.0 C220dh MHEV AMG Line G-Tronic+ Euro 6 (s/s) 4dr Saloon,"42,950",2023,Automatic,61.4 mpg,Other,2023,1993cc,17 miles,Other,Automatic,White,Saloon,61.4 mpg
+/ad/30280160,Mercedes-Benz C Class,2.0 C220dh MHEV AMG Line G-Tronic+ Euro 6 (s/s) 4dr Saloon,"42,950",2023,Automatic,61.4 mpg,Other,2023,1993cc,92 miles,Other,Automatic,Black,Saloon,61.4 mpg
+/ad/30873166,Mercedes-Benz GLE Class,GLE 300d 4Matic AMG Line Premium 5dr 9G-Tronic [7 Seats] Estate,"42,950",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"29,758 miles",Diesel,Automatic,Brilliant Blue Metallic,Estate,36.7 mpg
+/ad/30882835,Mercedes-Benz V250,D AMG LINE LONG WHEEL BASE 8 SEATS NO VAT MPV,"42,950",2017,Automatic,44.8 mpg,Diesel,2017,2.2L,"47,000 miles",Diesel,Automatic,BRILLIANT SILVER METALLIC,MPV,44.8 mpg
+/ad/30743829,Mercedes-Benz V250,D AMG LINE MARCO POLO LWB MPV,"42,950",2017,Automatic,44.1 mpg,Diesel,2017,2.2L,"66,000 miles",Diesel,Automatic,OBSIDIAN BLACK METALLIC,MPV,44.1 mpg
+/ad/30705138,Mercedes-Benz E Class,2.0 E 220 D AMG LINE PREMIUM PLUS 2d AUTO 192 BHP Coupe,"42,948",2020,Automatic,70.6 mpg,Diesel,2020,1950cc,"33,865 miles",Diesel,Automatic,BLACK,Coupe,70.6 mpg
+/ad/30897967,Mercedes-Benz S Class,S560e L AMG Line 4dr 9G-Tronic Saloon,"42,920",2019,Semi-Auto,122.9 mpg,Hybrid,2019,3L,"55,635 miles",Hybrid,Semiauto,Grey,Saloon,122.9 mpg
+/ad/30887374,Mercedes-Benz C Class,C300d AMG Line Premium Plus 4dr 9G-Tronic Saloon,"42,900",2023,Automatic,53.3 mpg,Diesel,2023,1993cc,"3,980 miles",Diesel,Automatic,Black,Saloon,53.3 mpg
+/ad/30892505,Mercedes-Benz GLE Class,GLE 350d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"42,855",2019,Semi-Auto,32.5 mpg,Diesel,2019,2.9L,"58,500 miles",Diesel,Semiauto,Black,SUV,32.5 mpg
+/ad/30113996,Mercedes-Benz SL Class,SL 400 3.0 V6 AMG Line Premium 2dr 9G-Tronic Convertible,"42,850",2018,Automatic,36.7 mpg,Petrol,2018,2996cc,"27,000 miles",Petrol,Automatic,Obsidian Black Metallic,Convertible,36.7 mpg
+/ad/30623834,Mercedes-Benz CLA Class,CLA 45 S 4Matic+ Plus 4dr Tip Auto Coupe,"42,849",2020,Semi-Auto,33.2 mpg,Petrol,2020,2L,"39,001 miles",Petrol,Semiauto,Black,Coupe,33.2 mpg
+/ad/30596121,Mercedes-Benz GLC Class,GLC 63 4Matic Premium 5dr 9G-Tronic SUV,"42,825",2018,Semi-Auto,27.4 mpg,Petrol,2018,4L,"27,055 miles",Petrol,Semiauto,Grey,SUV,27.4 mpg
+/ad/30959803,Mercedes-Benz CLA Class,CLA 250e AMG Line Premium Plus 4dr Tip Auto Coupe,"42,799",2023,Semi-Auto,Tax: £170,2023,1.3L,"1,500 miles",Hybrid,Semiauto,Black,Coupe,,
+/ad/30922225,Mercedes-Benz C Class,4.0 C63 V8 BiTurbo AMG S (Premium) SpdS MCT Euro 6 (s/s) 2dr 20s,"42,750",2017,Automatic,32.8 mpg,Petrol,2017,3982cc,"24,187 miles",Petrol,Automatic,Grey,Coupe,32.8 mpg
+/ad/30959620,Mercedes-Benz C Class,C220d [197] Exclusive Luxury 4dr 9G-Tronic Saloon,"42,699",2023,Semi-Auto,61.4 mpg,Diesel,2023,2L,886 miles,Diesel,Semiauto,Black,Saloon,61.4 mpg
+/ad/30958236,Mercedes-Benz C Class,C220d [197] Exclusive Luxury 4dr 9G-Tronic Saloon,"42,599",2023,Semi-Auto,61.4 mpg,Diesel,2023,2L,"1,044 miles",Diesel,Semiauto,Blue,Saloon,61.4 mpg
+/ad/30485700,Mercedes-Benz GLC Class,GLC 220d 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"42,500",2022,Semi-Auto,44.8 mpg,Diesel,2022,2L,"15,529 miles",Diesel,Semiauto,Black,SUV,44.8 mpg
+/ad/30651649,Mercedes-Benz GLC Class,2.0 GLC300e 13.5kWh AMG Line (Premium Plus) G-Tronic+ 4MATIC Euro 6 (s/s) 5dr 20s,"42,500",2020,Automatic,97.4 mpg,Hybrid,2020,1991cc,"22,804 miles",Petrol Plug-in Hybrid,Automatic,Blue,Coupe,97.4 mpg
+/ad/30829115,Mercedes-Benz GLS Class,3.0 GLS350d V6 designo Line G-Tronic 4MATIC Euro 6 (s/s) 5dr 21s,"42,500",2017,Automatic,Tax: n/a,2017,2987cc,"38,076 miles",Diesel,Automatic,Grey,SUV,,
+/ad/30959462,Mercedes-Benz C Class,C220d [197] Exclusive Luxury 4dr 9G-Tronic Saloon,"42,499",2023,Semi-Auto,61.4 mpg,Diesel,2023,2L,"2,391 miles",Diesel,Semiauto,Black,Saloon,61.4 mpg
+/ad/30956327,Mercedes-Benz C Class,C220d [197] Exclusive Luxury 4dr 9G-Tronic Saloon,"42,499",2023,Semi-Auto,61.4 mpg,Diesel,2023,2L,"2,990 miles",Diesel,Semiauto,Black,Saloon,61.4 mpg
+/ad/30884496,Mercedes-Benz GLE Class,GLE 400d 4Matic AMG Line Prem + 5dr 9G-Tron [7 St] SUV,"42,499",2019,Semi-Auto,32.5 mpg,Diesel,2019,2.9L,"52,276 miles",Diesel,Semiauto,Silver,SUV,32.5 mpg
+/ad/30958232,Mercedes-Benz GLC Class,GLC 300 4Matic AMG Line Premium 5dr 9G-Tronic SUV,"42,499",2022,Semi-Auto,32.1 mpg,Hybrid,2022,2L,"1,038 miles",Hybrid,Semiauto,Blue,SUV,32.1 mpg
+/ad/30600514,Mercedes-Benz C Class,C63 V8 BiTurbo AMG S Coupe,"42,495",2016,Automatic,32.8 mpg,Petrol,2016,4000cc,"12,315 miles",Petrol,Automatic,Selenite Grey Metallic,Coupe,32.8 mpg
+/ad/30135789,Mercedes-Benz GLE Class,2.0 GLE 300 D 4MATIC AMG LINE 5d 242 BHP Estate,"42,490",2020,Automatic,36.7 mpg,Diesel,2020,1950cc,"39,780 miles",Diesel,Automatic,WHITE,Estate,36.7 mpg
+/ad/30954669,Mercedes-Benz E Class,E300 AMG Line Premium 2dr 9G-Tronic Coupe,"42,490",2023,Semi-Auto,35.8 mpg,Hybrid,2023,2L,"2,169 miles",Hybrid,Semiauto,Black,Coupe,35.8 mpg
+/ad/30887086,Mercedes-Benz A Class,A35 4Matic Premium Plus 5dr Auto Hatchback,"42,476",2023,Semi-Auto,32.8 mpg,Hybrid,2023,2L,"5,294 miles",Hybrid,Semiauto,White,Hatchback,32.8 mpg
+/ad/30954012,Mercedes-Benz C Class,C300d AMG Line Premium Plus 4dr 9G-Tronic Saloon,"42,472",2023,Semi-Auto,53.3 mpg,Diesel,2023,2L,989 miles,Diesel,Semiauto,Black,Saloon,53.3 mpg
+/ad/30924720,Mercedes-Benz EQC,0.0 EQC,"42,450",2021,Automatic,Tax: £0,2021,1L,"9,371 miles",Other,Automatic,GREY,Estate,,
+/ad/30954666,Mercedes-Benz C Class,C300 AMG Line Premium Plus 4dr 9G-Tronic Saloon,"42,447",2023,Semi-Auto,40.4 mpg,Hybrid,2023,2L,803 miles,Hybrid,Semiauto,Grey,Saloon,40.4 mpg
+/ad/30535202,Mercedes-Benz C Class,4.0 AMG C 63 S PREMIUM 2d 503 BHP Coupe,"42,440",2017,Automatic,32.8 mpg,Petrol,2017,3982cc,"23,053 miles",Petrol,Automatic,WHITE,Coupe,32.8 mpg
+/ad/30809540,Mercedes-Benz GLC Class,3.0 GLC43 V6 AMG (Premium) G-Tronic+ 4MATIC Euro 6 (s/s) 5dr 20s,"42,250",2021,Automatic,27.2 mpg,Petrol,2021,2996cc,"12,444 miles",Petrol,Automatic,Silver,SUV,27.2 mpg
+/ad/30926275,Mercedes-Benz GLC Class,GLC 300d 4Matic AMG Line Premium Pls 5dr 9G-Tronic SUV,"42,199",2022,Semi-Auto,40.4 mpg,Diesel,2022,2L,"11,867 miles",Diesel,Semiauto,Black,SUV,40.4 mpg
+/ad/30862629,Mercedes-Benz EQC,EQC,"42,000",2021,Automatic,Tax: £0,2021,"6,000 miles",Electric,Automatic,Blue,Estate,,,
+/ad/30712758,Mercedes-Benz GLC Class,2.0 GLC 300 D 4MATIC AMG LINE PREMIUM PLUS 5d AUTO 242 BHP Estate,"42,000",2022,Automatic,40.4 mpg,Diesel,2022,1950cc,"13,581 miles",Diesel,Automatic,GREY,Estate,40.4 mpg
+/ad/30261952,Mercedes-Benz C Class,Saloon,"42,000",2019,Automatic,34.5 mpg,Petrol,2019,3982cc,"29,293 miles",Petrol,Automatic,Grey,Saloon,34.5 mpg
+/ad/30415293,Mercedes-Benz E Class,Coupe,"42,000",2020,Automatic,32.1 mpg,Petrol,2020,2999cc,"29,745 miles",Petrol,Automatic,Black,Coupe,32.1 mpg
+/ad/30908866,Mercedes-Benz GLE Class,2.0 GLE300d AMG Line (Premium Plus) G-Tronic 4MATIC Euro 6 (s/s) 5dr 20s,"42,000",2019,Automatic,35.8 mpg,Diesel,2019,1950cc,"39,955 miles",Diesel,Automatic,White,SUV,35.8 mpg
+/ad/30036925,Mercedes-Benz SL Class,300SL R107 Convertible,"42,000",1988,Automatic,Tax: £325,1988,2962cc,"63,000 miles",Petrol,Automatic,Silver,Convertible,,
+/ad/30770486,Mercedes-Benz V Class,2.1 V220 BLUETEC SPORT 5d 161 BHP MPV,"42,000",2015,Automatic,45.6 mpg,Diesel,2015,2143cc,"82,700 miles",Diesel,Automatic,BLACK,MPV,45.6 mpg
+/ad/30809567,Mercedes-Benz E Class,E 400 d 4MATIC AMG Line Premium Saloon Saloon,"42,000",2023,Automatic,48.7 mpg,Diesel,2023,2925cc,"2,344 miles",Diesel,Automatic,Silver,Saloon,48.7 mpg
+/ad/30954747,Mercedes-Benz C Class,3.0 AMG C 43 4MATIC PREMIUM PLUS 2d AUTO 385 BHP Coupe,"42,000",2020,Automatic,Tax: n/a,2020,3L,"19,872 miles",Petrol,Automatic,Coupe,,,
+/ad/29290553,Mercedes-Benz S Class,3.0 S450L MHEV Grand Edition G-Tronic+ Euro 6 (s/s) 4dr 20s,"42,000",2019,Automatic,34.5 mpg,Petrol,2019,2999cc,"26,031 miles",Petrol,Automatic,Blue,Saloon,34.5 mpg
