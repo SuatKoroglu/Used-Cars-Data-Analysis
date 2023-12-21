@@ -1,0 +1,902 @@
+url,name,model,price,1,2,3,6,7,8,9,10,11,12,13,14
+/ad/29615448,BMW 4 Series,CSL Coupe,"148,950",2023,Automatic,28.3 mpg,Petrol,2023,2993cc,67 miles,Petrol,Automatic,Frozen Brooklyn Grey,Coupe,28.3 mpg
+/ad/30343116,BMW M3,3 3.0 M3,"148,194",2023,Automatic,27.4 mpg,Petrol,2023,2993cc,26 miles,Petrol,Automatic,BLACK,Saloon,27.4 mpg
+/ad/29038638,BMW M5,CS Saloon,"139,950",2021,Automatic,25.0 mpg,Petrol,2021,4395cc,"2,579 miles",Petrol,Automatic,Individual Frozen Brands Hatch Grey,Saloon,25 mpg
+/ad/30740113,BMW XM,5dr Auto NULL,"129,990",2023,Other,176.6 mpg,Other,2023,4395cc,"1,200 miles",NULL,NULL,Marina Bay Blue Metallic,NULL,176.6 mpg
+/ad/30740112,BMW i7,400kW xDrive60 M Sport 10 NULL,"113,990",2023,Other,Tax: £0,2023,"1,800 miles",NULL,NULL,Carbon Black,NULL,,,
+/ad/30866305,BMW M3,3 3.0 BiTurbo CS Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"112,950",2023,Automatic,27.4 mpg,Petrol,2023,2993cc,500 miles,Petrol,Automatic,Green,Saloon,27.4 mpg
+/ad/30691839,BMW 7 Series,750e xDrive M Sport Saloon,"107,950",2023,Automatic,Tax: £170,2023,2998cc,"4,000 miles",Other,Automatic,Black,Saloon,,
+/ad/30597937,BMW X5,5 XDRIVE30D M SPORT 5d AUTO 294 BHP VAT Q Estate,"100,794",2023,Automatic,37.2 mpg,Other,2023,2993cc,"2,000 miles",Other,Automatic,GREY,Estate,37.2 mpg
+/ad/30593092,BMW 8 Series,4.4 M8 COMPETITION GRAN COUPE 4d 617 BHP Coupe,"99,995",2023,Automatic,24.4 mpg,Petrol,2023,4395cc,"4,000 miles",Petrol,Automatic,GREEN,Coupe,24.4 mpg
+/ad/30186821,BMW M8,4.4 Competition Edition Auto 4WD 2dr Convertible,"98,888",2022,Automatic,25.2 mpg,Petrol,2022,4.4L,"2,800 miles",Petrol,Automatic,Brands Hatch Grey,Convertible,25.2 mpg
+/ad/30871578,BMW X7,4.4 M60i V8 Auto xDrive Euro 6 (s/s) 5dr (7 seat) 23s,"94,500",2023,Automatic,21.9 mpg,Petrol,2023,4395cc,"8,257 miles",Petrol,Automatic,Black,SUV,21.9 mpg
+/ad/28626041,BMW X5,M X5,"92,950",2022,Automatic,21.6 mpg,Petrol,2022,4395cc,"2,882 miles",Petrol,Automatic,Red,SUV,21.6 mpg
+/ad/30473542,BMW X5,5 4.4 M 5d 617 BHP IN STOCK FINANCE AVAILABLE Estate,"92,500",2023,Automatic,21.6 mpg,Petrol,2023,4395cc,"1,321 miles",Petrol,Automatic,Grey,Estate,21.6 mpg
+/ad/30504602,BMW M3,M3,"92,000",2023,Automatic,27.2 mpg,Petrol,2023,3000cc,"1,800 miles",Petrol,Automatic,Grey,Estate,27.2 mpg
+/ad/30107464,BMW X5,5 M ESTATE SUV,"91,995",2022,Automatic,21.6 mpg,Petrol,2022,4395cc,"12,000 miles",Petrol,Automatic,Blue,SUV,21.6 mpg
+/ad/30904531,BMW M5,Competition 4dr DCT Saloon,"90,990",2023,Automatic,25.2 mpg,Petrol,2023,4395cc,421 miles,Petrol,Automatic,Blue,Saloon,25.2 mpg
+/ad/30845200,BMW M3,3 3.0 M3,"89,995",2023,Automatic,27.2 mpg,Petrol,2023,2993cc,789 miles,Petrol,Automatic,GREY,Estate,27.2 mpg
+/ad/30790760,BMW X7,xDrive40d MHT M Sport 5dr NULL,"89,990",2023,Other,32.8 mpg,Diesel,2023,2993cc,"1,938 miles",Diesel,NULL,Dravit Grey Metallic,NULL,32.8 mpg
+/ad/30226360,BMW M3,3 M3,"89,990",2023,Automatic,27.2 mpg,Petrol,2023,2993cc,"4,000 miles",Petrol,Automatic,Estate,27.2 mpg,
+/ad/30803248,BMW X5,5 Series X5,"89,950",2023,Automatic,Tax: £170,2023,2998cc,"5,500 miles",Other,Automatic,Grey,SUV,,
+/ad/30702667,BMW M3,3 TOURING Estate,"88,995",2023,Automatic,27.2 mpg,Petrol,2023,2993cc,305 miles,Petrol,Automatic,Black/Red,Estate,27.2 mpg
+/ad/30360311,BMW M3,M3,"86,950",2023,Automatic,27.2 mpg,Petrol,2023,2993cc,"1,175 miles",Petrol,Automatic,Grey,Estate,27.2 mpg
+/ad/30611658,BMW M8,M8,"86,950",2023,Semi-Auto,24.8 mpg,Petrol,2023,4.4L,"1,667 miles",Petrol,Semiauto,Grey,Coupe,24.8 mpg
+/ad/30633618,BMW X7,xDrive40d M Sport SUV,"86,950",2023,Automatic,32.8 mpg,Other,2023,2993cc,"7,750 miles",Other,Automatic,Black,SUV,32.8 mpg
+/ad/30581595,BMW M3,3 M3,"85,977",2023,Automatic,27.2 mpg,Petrol,2023,2993cc,"3,645 miles",Petrol,Automatic,Grey,Estate,27.2 mpg
+/ad/30782993,BMW M3,3 M3,"85,000",2023,Semi-Auto,27.2 mpg,Petrol,2023,3L,"4,801 miles",Petrol,Semiauto,Black,Estate,27.2 mpg
+/ad/30735749,BMW M3,3 xDrive Competition M 5dr Step Auto Estate,"84,995",2023,Automatic,27.2 mpg,Petrol,2023,2993cc,"2,805 miles",Petrol,Automatic,San Marino Blue Metallic,Estate,27.2 mpg
+/ad/30678142,BMW X7,xDrive40d MHT M Sport 5dr NULL,"84,250",2023,Other,32.8 mpg,Diesel,2023,3000cc,"5,764 miles",Diesel,NULL,Black Sapphire,NULL,32.8 mpg
+/ad/30229714,BMW X5,xDrive45e M Sport SUV,"84,000",,Automatic,188.3 mpg,Hybrid,2998cc,"2,500 miles",Petrol Plugin Hybrid,Automatic,Black,SUV,188.3 mpg,
+/ad/30570058,BMW X5,5 4.4 M COMPETITION 5d 617 BHP Estate,"83,995",2021,Automatic,21.6 mpg,Petrol,2021,4395cc,"12,700 miles",Petrol,Automatic,BLACK,Estate,21.6 mpg
+/ad/30820241,BMW X7,X7,"82,950",2023,Automatic,32.8 mpg,Hybrid,2023,2993cc,"3,903 miles",Diesel Hybrid,Automatic,Grey,SUV,32.8 mpg
+/ad/30918826,BMW X7,xDrive40d MHT M Sport 5dr Step Auto SUV,"82,850",2023,Semi-Auto,32.8 mpg,Petrol,2023,3L,"2,550 miles",Petrol,Semiauto,Grey,SUV,32.8 mpg
+/ad/30355483,BMW X7,xDrive40d MHT M Sport 5dr Step Auto SUV,"82,850",2023,Semi-Auto,32.8 mpg,Petrol,2023,3L,"3,859 miles",Petrol,Semiauto,Grey,SUV,32.8 mpg
+/ad/30938617,BMW X7,xDrive40d MHT M Sport 5dr Step Auto SUV,"82,850",2023,Semi-Auto,32.8 mpg,Petrol,2023,3L,"6,060 miles",Petrol,Semiauto,Grey,SUV,32.8 mpg
+/ad/30843595,BMW X7,xDrive40d MHT M Sport 5dr Step Auto SUV,"82,850",2023,Semi-Auto,32.8 mpg,Petrol,2023,3L,"6,890 miles",Petrol,Semiauto,Grey,SUV,32.8 mpg
+/ad/30729557,BMW X5,Series X5,"82,500",2023,Automatic,Tax: £170,2023,2998cc,"8,188 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,,
+/ad/30815974,BMW M3,3.0 M3,"82,495",2023,Automatic,27.2 mpg,Petrol,2023,3L,"3,921 miles",Petrol,Automatic,Black,Estate,27.2 mpg
+/ad/30754755,BMW M3,3 M3,"81,990",2023,Automatic,27.2 mpg,Petrol,2023,2993cc,"6,518 miles",Petrol,Automatic,Black,Estate,27.2 mpg
+/ad/30805471,BMW X5,Series X5,"81,500",2023,Automatic,Tax: £170,2023,2998cc,"3,900 miles",Petrol Plug-in Hybrid,Automatic,Purple,SUV,,
+/ad/30759332,BMW M3,3 3.0 BiTurbo Competition M Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"81,499",2023,Automatic,28.0 mpg,Petrol,2023,2993cc,"5,400 miles",Petrol,Automatic,Grey,Saloon,28 mpg
+/ad/30819063,BMW X5,5 xDrive50e M Sport 5dr Auto SUV,"81,490",2023,Semi-Auto,Tax: £170,2023,3L,"1,919 miles",Hybrid,Semiauto,Green,SUV,,
+/ad/30626278,BMW X5,4.4 X5,"81,446",2021,Automatic,21.6 mpg,Petrol,2021,4395cc,"19,956 miles",Petrol,Automatic,Grey,SUV,21.6 mpg
+/ad/30752773,BMW M3,Series M3,"80,000",2023,Automatic,27.2 mpg,Petrol,2023,2993cc,242 miles,Petrol,Automatic,Grey,Estate,27.2 mpg
+/ad/30639386,BMW M3,SALOON Saloon,"79,995",2022,Automatic,27.7 mpg,Petrol,2022,2993cc,"12,000 miles",Petrol,Automatic,Tanzanite Blue,Saloon,27.7 mpg
+/ad/30872267,BMW X7,xDrive40d MHT M Sport 5dr Step Auto SUV,"79,990",2023,Semi-Auto,32.8 mpg,Petrol,2023,3L,"3,585 miles",Petrol,Semiauto,Grey,SUV,32.8 mpg
+/ad/30512485,BMW M5,M5,"79,500",2023,Other,25.2 mpg,Petrol,2023,4400cc,"1,673 miles",Petrol,NULL,Alpine White,NULL,25.2 mpg
+/ad/30740111,BMW M2,M2,"79,500",2023,Other,28.8 mpg,Petrol,2023,2993cc,"2,000 miles",Petrol,NULL,Brooklyn Grey Metallic,NULL,28.8 mpg
+/ad/30169838,BMW X5,3.0 XDRIVE40D M SPORT MHEV 5d 336 BHP AUTO MASSIVE SPEC!!! Estate,"79,495",2022,Automatic,34.9 mpg,Other,2022,3L,"12,000 miles",Other,Automatic,White,Estate,34.9 mpg
+/ad/30656912,BMW M2,Coupe Coupe,"79,000",,Automatic,28.8 mpg,Petrol,2993cc,"2,500 miles",Petrol,Automatic,Black,Coupe,28.8 mpg,
+/ad/30709886,BMW M3,3 M3,"78,999",2023,Semi-Auto,27.2 mpg,Petrol,2023,3L,"5,905 miles",Petrol,Semiauto,Grey,Estate,27.2 mpg
+/ad/30913131,BMW 8 Series,4.4 M8 COMPETITION 2d 617 BHP Convertible,"78,995",2021,Automatic,25.2 mpg,Petrol,2021,4.4L,"9,821 miles",Petrol,Automatic,Red,Convertible,25.2 mpg
+/ad/30863781,BMW X5,5 M xDrive X5,"78,995",2022,Semi-Auto,21.6 mpg,Petrol,2022,4.4L,"14,132 miles",Petrol,Semiauto,White,SUV,21.6 mpg
+/ad/27073751,BMW 4 Series,3.0 M4 GTS 2d AUTO 493 BHP AMAZING CONDITION Coupe,"78,991",2016,Automatic,33.2 mpg,Petrol,2016,2979cc,"2,100 miles",Petrol,Automatic,Grey,Coupe,33.2 mpg
+/ad/30482319,BMW M4,Competition M xDrive Coupe Coupe,"78,000",,Automatic,28.0 mpg,Petrol,2993cc,"2,500 miles",Petrol,Automatic,Red,Coupe,28 mpg,
+/ad/30695890,BMW M3,3 M3,"77,995",2023,Semi-Auto,28.0 mpg,Petrol,2023,3L,"1,093 miles",Petrol,Semiauto,Other,Saloon,28 mpg
+/ad/30792345,BMW 8 Series,4.4 M8 COMPETITION 2d 617 BHP Coupe,"77,495",2021,Automatic,25.5 mpg,Petrol,2021,4395cc,"10,001 miles",Petrol,Automatic,BLUE,Coupe,25.5 mpg
+/ad/30692077,BMW X5,5 4.4 X5,"77,495",2020,Automatic,21.6 mpg,Petrol,2020,4395cc,"26,912 miles",Petrol,Automatic,Black,SUV,21.6 mpg
+/ad/30880282,BMW X5,5 XDRIVE30D M SPORT SUV,"76,995",2023,Automatic,37.2 mpg,Diesel,2023,2993cc,"4,800 miles",Diesel,Automatic,Black,SUV,37.2 mpg
+/ad/30471732,BMW iX,50 111.5kWh M Sport Auto xDrive 5dr SUV,"76,995",2022,Automatic,Tax: £0,2022,"16,000 miles",Other,Automatic,Black,SUV,,,
+/ad/30957936,BMW M3,M3,"76,990",,Other,27.2 mpg,Petrol,3000cc,"7,248 miles",Petrol,NULL,Black Sapphire,NULL,27.2 mpg,
+/ad/30798468,BMW 4 Series,3.0L M4 COMPETITION M XDRIVE 2d AUTO 503 BHP Coupe,"76,950",2023,Automatic,28.0 mpg,Petrol,2023,2993cc,"3,500 miles",Petrol,Automatic,GREEN,Coupe,28 mpg
+/ad/30866418,BMW 8 Series,4.4 M8 Competition Coupe Coupe,"76,595",2022,Automatic,24.8 mpg,Petrol,2022,4395cc,"19,750 miles",Petrol,Automatic,Black,Coupe,24.8 mpg
+/ad/30472600,BMW X5,5 4.4 M 5d 617 BHP Estate,"76,500",2021,Automatic,21.6 mpg,Petrol,2021,4395cc,"19,500 miles",Petrol,Automatic,BLACK,Estate,21.6 mpg
+/ad/29291658,BMW X5,5 M xDrive X5,"76,000",2022,Semi-Auto,21.6 mpg,Petrol,2022,4.4L,"13,665 miles",Petrol,Semiauto,Grey,SUV,21.6 mpg
+/ad/30814809,BMW M3,3 M3,"75,999",2023,Semi-Auto,28.0 mpg,Petrol,2023,3L,"4,580 miles",Petrol,Semiauto,Other,Saloon,28 mpg
+/ad/30924782,BMW M5,5 M5,"75,999",2023,Semi-Auto,25.2 mpg,Petrol,2023,4.4L,"4,885 miles",Petrol,Semiauto,Blue,Saloon,25.2 mpg
+/ad/30812829,BMW X5,5 XDRIVE30D M SPORT SUV,"75,995",2023,Automatic,37.2 mpg,Diesel,2023,2993cc,"2,800 miles",Diesel,Automatic,Grey,SUV,37.2 mpg
+/ad/30195545,BMW X6,6 4.4i V8 Competition Auto xDrive Euro 6 (s/s) 5dr SUV,"75,995",2021,Automatic,21.9 mpg,Petrol,2021,4395cc,"5,000 miles",Petrol,Automatic,Purple,SUV,21.9 mpg
+/ad/30759409,BMW X5,5 XDRIVE30D M SPORT SUV,"75,995",2023,Automatic,37.2 mpg,Diesel,2023,2993cc,"8,320 miles",Diesel,Automatic,Black,SUV,37.2 mpg
+/ad/30778855,BMW X7,xDrive40d MHT M Sport 5dr Step Auto SUV,"75,995",2023,Semi-Auto,32.8 mpg,Diesel,2023,3L,"14,730 miles",Diesel,Semiauto,Grey,SUV,32.8 mpg
+/ad/30893165,BMW M5,4.4i V8 Competition Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"75,950",2023,Automatic,25.2 mpg,Petrol,2023,4.4l,"3,538 miles",Petrol,Automatic,Blue,Saloon,25.2 mpg
+/ad/30151210,BMW iX,xDrive50 M Sport Edition SUV,"75,000",,Automatic,Tax: £0,"2,500 miles",Electric,Automatic,Black,SUV,,,,
+/ad/30956243,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"75,000",2023,Semi-Auto,37.2 mpg,Diesel,2023,3L,"4,325 miles",Diesel,Semiauto,White,SUV,37.2 mpg
+/ad/29929769,BMW X6,6 4.4 M COMPETITION 4d 617 BHP ULTIMATE PACK - FREE DELIVERY* Coupe,"75,000",2021,Automatic,21.9 mpg,Petrol,2021,4395cc,"18,252 miles",Petrol,Automatic,BLUE,Coupe,21.9 mpg
+/ad/30685210,BMW iX,50 111.5kWh M Sport Edition SUV 5dr Electric Auto xDrive (523 ps) M Sport Bodykit,"75,000",2023,Automatic,Tax: £0,2023,"1,541 miles",Electric,Automatic,Black,SUV,,,
+/ad/28935183,BMW M3,3 M3,"74,998",2021,Automatic,27.7 mpg,Petrol,2021,2993cc,"10,398 miles",Petrol,Automatic,Black,Saloon,27.7 mpg
+/ad/30894365,BMW X5,xDrive30d MHT M Sport 5dr NULL,"74,995",2023,Other,37.2 mpg,Diesel,2023,2993cc,37 miles,Diesel,NULL,Alpine White,NULL,37.2 mpg
+/ad/29905294,BMW X5,Estate,"74,995",2022,Automatic,188.3 mpg,Other,2022,3000cc,450 miles,Other,Automatic,Grey,Estate,188.3 mpg
+/ad/30739669,BMW M3,3 3.0 M3,"74,995",2023,Automatic,28.0 mpg,Petrol,2023,2993cc,"2,295 miles",Petrol,Automatic,RED,Saloon,28 mpg
+/ad/30616816,BMW X4,3.0 M COMPETITION 4d 503 BHP Coupe,"74,995",2023,Automatic,Tax: n/a,2023,3L,"3,707 miles",Petrol,Automatic,Coupe,,,
+/ad/30469547,BMW iX,385kW xDrive50 M Sport 111.5kWh 5dr Auto SUV,"74,690",2022,Automatic,Tax: £0,2022,"9,029 miles",Electric,Automatic,Black,SUV,,,
+/ad/30745202,BMW M3,M3,"74,500",,Other,28.0 mpg,Petrol,2993cc,"1,800 miles",Petrol,NULL,Toronto Red,NULL,28 mpg,
+/ad/29847590,BMW iX,385kW xDrive50 M Sport 111.5kWh 5dr Auto SUV,"74,000",2022,Automatic,Tax: £0,2022,"4,768 miles",Electric,Automatic,Unknown,SUV,,,
+/ad/30766682,BMW M2,Coupe,"73,995",2023,Automatic,28.8 mpg,Petrol,2023,3L,"1,495 miles",Petrol,Automatic,Sapphire,Coupe,28.8 mpg
+/ad/30900859,BMW M3,3.0 BiTurbo Competition M Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"73,950",2023,Automatic,28.0 mpg,Petrol,2023,3.0l,"8,898 miles",Petrol,Automatic,Green,Saloon,28 mpg
+/ad/30863812,BMW X5,3.0 30d MHT M Sport Steptronic xDrive Euro 6 (s/s) 5dr Other,"73,950",2023,Automatic,37.2 mpg,Hybrid,2023,3.0l,"8,950 miles",Hybrid,Automatic,Grey,Other,37.2 mpg
+/ad/30467316,BMW X6,6 M xDrive X6,"73,950",2022,Semi-Auto,21.9 mpg,Petrol,2022,4.4L,"9,664 miles",Petrol,Semiauto,Green,SUV,21.9 mpg
+/ad/30611494,BMW X7,xDrive M50i Frozen Black Edition 5dr Step Auto SUV,"73,490",2022,Semi-Auto,22.1 mpg,Petrol,2022,4.4L,"11,059 miles",Petrol,Semiauto,Black,SUV,22.1 mpg
+/ad/30654352,BMW iX,385kW xDrive50 M Sport 111.5kWh 5dr Auto SUV,"72,995",2023,Automatic,Tax: £0,2023,1000cc,"4,477 miles",Other,Automatic,Phytonic Blue,SUV,,
+/ad/27999038,BMW X5,5 M Competition Estate,"72,988",2020,Automatic,21.6 mpg,Petrol,2020,4395cc,"13,379 miles",Petrol,Automatic,Black,Estate,21.6 mpg
+/ad/30475234,BMW iX,I Series iX,"72,950",2022,Automatic,Tax: £0,2022,"5,550 miles",Other,Automatic,Black,SUV,,,
+/ad/29698213,BMW X5,5 M 4.4i V8 COMPETITION XDRIVE 5d 617 BHP Estate,"72,950",2021,Automatic,21.6 mpg,Petrol,2021,4395cc,"10,000 miles",Petrol,Automatic,GREY,Estate,21.6 mpg
+/ad/30881378,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"72,000",2023,Semi-Auto,37.2 mpg,Diesel,2023,3L,"5,000 miles",Diesel,Semiauto,Grey,SUV,37.2 mpg
+/ad/30795270,BMW M3,3 M3,"71,999",2023,Semi-Auto,28.0 mpg,Petrol,2023,3L,"9,326 miles",Petrol,Semiauto,Orange,Saloon,28 mpg
+/ad/30377891,BMW 8 Series,840I M SPORT 2d 329 BHP Convertible,"71,994",2023,Automatic,32.8 mpg,Petrol,2023,2998cc,"2,822 miles",Petrol,Automatic,BLUE,Convertible,32.8 mpg
+/ad/30957557,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"71,990",2023,Semi-Auto,37.2 mpg,Diesel,2023,3L,"13,042 miles",Diesel,Semiauto,Grey,SUV,37.2 mpg
+/ad/30644755,BMW X5,5 M xDrive X5,"71,990",2022,Semi-Auto,21.6 mpg,Petrol,2022,4.4L,"9,830 miles",Petrol,Semiauto,Black,SUV,21.6 mpg
+/ad/30629210,BMW M2,3.0 BiTurbo Steptronic Euro 6 (s/s) 2dr TRACK PACK,"71,950",2023,Automatic,28.8 mpg,Petrol,2023,2993cc,80 miles,Petrol,Automatic,Black,Coupe,28.8 mpg
+/ad/28004560,BMW M3,3 BiTurbo Competition Saloon,"71,950",2021,Automatic,35.8 mpg,Petrol,2021,3000cc,"5,173 miles",Petrol,Automatic,Dravit Grey,Saloon,35.8 mpg
+/ad/30934729,BMW X5,5 M xDrive X5,"71,490",2021,Semi-Auto,21.6 mpg,Petrol,2021,4.4L,"21,525 miles",Petrol,Semiauto,Grey,SUV,21.6 mpg
+/ad/30816986,BMW iX,385kW xDrive50 M Sport 11 NULL,"71,000",2022,Other,Tax: £0,2022,"5,408 miles",Electric,NULL,Alpine White,NULL,,,
+/ad/30772260,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"70,500",2023,Semi-Auto,37.2 mpg,Diesel,2023,3L,"8,652 miles",Diesel,Semiauto,Grey,SUV,37.2 mpg
+/ad/30630118,BMW M3,3 M3,"70,490",2023,Semi-Auto,28.0 mpg,Petrol,2023,3L,"6,641 miles",Petrol,Semiauto,Grey,Saloon,28 mpg
+/ad/30863545,BMW I Series,iX xDrive50 M Sport Edition SKY LOUNGE & TOWBAR SUV,"70,000",2022,Automatic,Tax: £0,2022,"7,431 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30931361,BMW M8,M8,"70,000",2021,Automatic,25.2 mpg,Petrol,2021,4395cc,"16,900 miles",Petrol,Automatic,Purple,Saloon,25.2 mpg
+/ad/30571619,BMW 4 Series,3.0 M4 COMPETITION M XDRIVE 2d 503 BHP Convertible,"69,999",2022,Automatic,27.7 mpg,Petrol,2022,2993cc,"21,201 miles",Petrol,Automatic,GREY,Convertible,27.7 mpg
+/ad/30675464,BMW M3,3 M3,"69,999",2023,Semi-Auto,28.0 mpg,Petrol,2023,3L,"5,368 miles",Petrol,Semiauto,Red,Saloon,28 mpg
+/ad/28653200,BMW M3,3 M3,"69,995",2021,Automatic,28.0 mpg,Petrol,2021,3000cc,"7,099 miles",Petrol,Automatic,Black,Saloon,28 mpg
+/ad/30844688,BMW 4 Series,3.0 BiTurbo Competition M Steptronic xDrive Euro 6 (s/s) 2dr Convertible,"69,995",2023,Automatic,27.7 mpg,Petrol,2023,2993cc,"7,500 miles",Petrol,Automatic,Black,Convertible,27.7 mpg
+/ad/30382037,BMW X5,5 M xDrive X5,"69,995",2022,Automatic,21.6 mpg,Petrol,2022,4395cc,"19,229 miles",Petrol,Automatic,Tanzanite Blue,SUV,21.6 mpg
+/ad/30587568,BMW M3,3 3.0 M3,"69,990",2022,Automatic,28.0 mpg,Petrol,2022,2993cc,"6,600 miles",Petrol,Automatic,GREY,Saloon,28 mpg
+/ad/30517838,BMW X6,xDrive40i MHT M Sport 5dr NULL,"69,500",2023,Other,33.2 mpg,Petrol,2023,3000cc,"2,600 miles",Petrol,NULL,Black Sapphire,NULL,33.2 mpg
+/ad/30856531,BMW X6,6 M 4.4 M 4d 617 BHP Coupe,"69,500",2021,Automatic,21.9 mpg,Petrol,2021,4395cc,"12,500 miles",Petrol,Automatic,GREEN,Coupe,21.9 mpg
+/ad/30932419,BMW iX,XDrive 50,"69,400",2022,Automatic,Tax: £0,2022,"17,766 miles",Other,Automatic,Black,Other,,,
+/ad/30482317,BMW i4,M50 Hatchback,"69,000",,Automatic,Tax: £0,"2,700 miles",Electric,Automatic,Orange,Hatchback,,,,
+/ad/27010025,BMW M3,3 3.0 M3,"68,995",2022,Automatic,27.7 mpg,Petrol,2022,2993cc,"1,150 miles",Petrol,Automatic,Grey,Saloon,27.7 mpg
+/ad/30813879,BMW 4 Series,3.0 M4 COMPETITION M XDRIVE 2d 503 BHP Coupe,"68,995",2022,Automatic,28.0 mpg,Petrol,2022,2993cc,"4,048 miles",Petrol,Automatic,BLUE,Coupe,28 mpg
+/ad/30876098,BMW M3,3 3.0 M3,"68,995",2022,Automatic,28.0 mpg,Petrol,2022,2993cc,"5,254 miles",Petrol,Automatic,BLACK,Saloon,28 mpg
+/ad/30835538,BMW M2,2dr DCT Coupe,"68,990",2023,Automatic,28.8 mpg,Petrol,2023,2993cc,"7,500 miles",Petrol,Automatic,Grey,Coupe,28.8 mpg
+/ad/30487082,BMW X5,xDrive30d MHT M Sport 5dr Auto SUV,"68,990",2023,Automatic,37.2 mpg,Diesel,2023,2993cc,"11,059 miles",Diesel,Automatic,Black,SUV,37.2 mpg
+/ad/30582810,BMW X7,xDrive40d MHT M Sport 5dr Step Auto SUV,"68,990",2022,Semi-Auto,35.3 mpg,Diesel,2022,3L,"7,217 miles",Diesel,Semiauto,Black,SUV,35.3 mpg
+/ad/30498302,BMW i8,1.5 11.6kWh Roadster Auto 4WD Euro 6 ss 2dr Convertible,"68,946",2018,Automatic,Tax: n/a,2018,1499cc,"24,489 miles",Petrol,Automatic,Orange,Convertible,,
+/ad/30794144,BMW X5,X5,"68,500",2023,Automatic,34.9 mpg,Hybrid,2023,2993cc,"7,110 miles",Diesel Hybrid,Automatic,Black,SUV,34.9 mpg
+/ad/26970143,BMW 4 Series,BiTurbo CS DCT (s/s) 2dr Coupe,"68,000",2018,Automatic,33.6 mpg,Petrol,2018,2979cc,"4,800 miles",Petrol,Automatic,Blue,Coupe,33.6 mpg
+/ad/30760731,BMW X6,6 4.4 M 4d 617 BHP Coupe,"68,000",2020,Automatic,21.9 mpg,Petrol,2020,4395cc,"24,875 miles",Petrol,Automatic,BLACK,Coupe,21.9 mpg
+/ad/30845926,BMW iX,385kW xDrive50 M Sport 111.5kWh 5dr Auto SUV,"67,999",2021,Automatic,Tax: £0,2021,"10,376 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30581154,BMW M3,3 3.0 M3,"67,995",2022,Automatic,28.0 mpg,Petrol,2022,2993cc,"4,300 miles",Petrol,Automatic,BLUE,Saloon,28 mpg
+/ad/30729342,BMW M5,5 M5,"67,990",2022,Semi-Auto,25.2 mpg,Petrol,2022,4.4L,"9,901 miles",Petrol,Semiauto,Other,Saloon,25.2 mpg
+/ad/30226475,BMW M8,Series M8,"67,950",2021,Automatic,25.2 mpg,Petrol,2021,4395cc,"16,478 miles",Petrol,Automatic,Grey,Saloon,25.2 mpg
+/ad/30897475,BMW X6,X6,"67,950",2023,Automatic,28.8 mpg,Hybrid,2023,2998cc,"4,953 miles",Petrol Hybrid,Automatic,Black,SUV,28.8 mpg
+/ad/30470262,BMW M8,M8,"67,920",2021,Semi-Auto,25.5 mpg,Petrol,2021,4.4L,"10,587 miles",Petrol,Semiauto,White,Coupe,25.5 mpg
+/ad/30865206,BMW X5,5 3.0 M50d Auto xDrive Euro 6 (s/s) 5dr SUV,"67,450",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"24,000 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/30265833,BMW X3,Estate,"66,995",2021,Automatic,25.7 mpg,Petrol,2021,3000cc,"10,000 miles",Petrol,Automatic,Black,Estate,25.7 mpg
+/ad/30570010,BMW M5,5 4.4 M5,"66,995",2022,Automatic,25.2 mpg,Petrol,2022,4395cc,"10,533 miles",Petrol,Automatic,BLUE,Saloon,25.2 mpg
+/ad/30629982,BMW X6,6 M xDrive X6,"66,990",2020,Semi-Auto,21.9 mpg,Petrol,2020,4.4L,"20,579 miles",Petrol,Semiauto,Black,SUV,21.9 mpg
+/ad/27007778,BMW M5,4.4i V8 Competition Steptronic xDrive Saloon,"66,990",2018,Automatic,24.1 mpg,Petrol,2018,4395cc,"25,000 miles",Petrol,Automatic,White,Saloon,24.1 mpg
+/ad/30505721,BMW 8 Series,M850i xDrive 2dr Auto Convertible,"66,990",2022,Semi-Auto,25.9 mpg,Petrol,2022,4.4L,"9,557 miles",Petrol,Semiauto,Grey,Convertible,25.9 mpg
+/ad/30299059,BMW X5,5 Series X5,"66,950",2022,Automatic,34.9 mpg,Diesel,2022,2993cc,"6,117 miles",Diesel,Automatic,Grey,SUV,34.9 mpg
+/ad/30288757,BMW 4 Series,3.0 M4 Competition M xDrive Convertible Convertible,"66,495",2022,Automatic,27.7 mpg,Petrol,2022,2993cc,"9,500 miles",Petrol,Automatic,Purple,Convertible,27.7 mpg
+/ad/30549443,BMW M2,M2,"66,000",2023,Semi-Auto,28.8 mpg,Petrol,2023,3L,"3,571 miles",Petrol,Semiauto,Grey,Coupe,28.8 mpg
+/ad/29373134,BMW X5,5 Estate,"65,995",2022,Automatic,37.7 mpg,Diesel,2022,3000cc,882 miles,Diesel,Automatic,White,Estate,37.7 mpg
+/ad/30785232,BMW M2,M2,"65,995",2023,Semi-Auto,28.8 mpg,Petrol,2023,3L,"1,057 miles",Petrol,Semiauto,Other,Coupe,28.8 mpg
+/ad/30725290,BMW M3,3 3.0 M3,"65,995",2022,Automatic,28.0 mpg,Petrol,2022,2993cc,"14,800 miles",Petrol,Automatic,BLACK,Saloon,28 mpg
+/ad/30889019,BMW X5,5 DIESEL ESTATE SUV,"65,995",2021,Automatic,34.9 mpg,Diesel,2021,2993cc,"31,000 miles",Diesel,Automatic,San Marino Blue,SUV,34.9 mpg
+/ad/30731523,BMW X5,5 M 4.4 M 5d 617 BHP Estate,"65,995",2020,Automatic,21.6 mpg,Petrol,2020,4395cc,"34,246 miles",Petrol,Automatic,GREY,Estate,21.6 mpg
+/ad/30487804,BMW X3,3 M xDrive X3,"65,500",2023,Semi-Auto,25.7 mpg,Petrol,2023,3L,"8,470 miles",Petrol,Semiauto,Grey,SUV,25.7 mpg
+/ad/30810032,BMW X6,X6,"65,000",2023,Automatic,33.2 mpg,Hybrid,2023,2998cc,"3,709 miles",Petrol Hybrid,Automatic,Black,SUV,33.2 mpg
+/ad/30724351,BMW M3,3 3.0 BiTurbo Competition M Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"64,995",2022,Automatic,28.0 mpg,Petrol,2022,2993cc,"10,000 miles",Petrol,Automatic,Grey,Saloon,28 mpg
+/ad/30937743,BMW i8,1.5 11.6kWh Roadster 2dr Petrol Plug-in Hybrid Auto 4WD Euro 6 (s/s) (374 ps) Convertible,"64,995",2020,Automatic,141.2 mpg,Petrol,2020,1499cc,"15,985 miles",Petrol,Automatic,E-Copper With Frozen Grey Metallic,Convertible,141.2 mpg
+/ad/30865545,BMW X7,3.0 X7,"64,995",2020,Automatic,31.4 mpg,Diesel,2020,2993cc,"22,000 miles",Diesel,Automatic,Black,SUV,31.4 mpg
+/ad/30340752,BMW M4,M4,"64,990",2023,Semi-Auto,28.0 mpg,Petrol,2023,3L,"4,391 miles",Petrol,Semiauto,Blue,Coupe,28 mpg
+/ad/30134289,BMW M5,4.4 M5,"64,990",2019,Automatic,24.1 mpg,Petrol,2019,4395cc,"41,500 miles",Petrol,Automatic,BLUE,Saloon,24.1 mpg
+/ad/30881271,BMW M4,M4,"64,950",2023,Semi-Auto,27.7 mpg,Petrol,2023,3L,"6,983 miles",Petrol,Semiauto,Grey,Convertible,27.7 mpg
+/ad/30622900,BMW M4,xDrive Competition M 2dr Step Auto Convertible,"64,000",2023,Automatic,27.7 mpg,Petrol,2023,2993cc,"1,469 miles",Petrol,Automatic,Blue,Convertible,27.7 mpg
+/ad/30291833,BMW M8,Competition 2dr Step Auto Convertible,"64,000",2019,Automatic,25.2 mpg,Petrol,2019,4395cc,"10,854 miles",Petrol,Automatic,Grey,Convertible,25.2 mpg
+/ad/30194793,BMW M5,5 4.4 M5,"63,999",2021,Automatic,25.2 mpg,Petrol,2021,4395cc,"12,000 miles",Petrol,Automatic,BLUE,Saloon,25.2 mpg
+/ad/30935933,BMW X7,xDrive40d MHT M Sport 5dr Step Auto SUV,"63,999",2021,Semi-Auto,35.3 mpg,Diesel,2021,3L,"30,678 miles",Diesel,Semiauto,Grey,SUV,35.3 mpg
+/ad/30471332,BMW X5,5 DIESEL ESTATE SUV,"63,995",2023,Automatic,34.9 mpg,Other,2023,2993cc,"5,400 miles",Other,Automatic,White,SUV,34.9 mpg
+/ad/30868468,BMW X5,xDrive30d MHT M Sport 5dr Auto SUV,"63,990",2023,Automatic,37.7 mpg,Diesel,2023,2993cc,"2,909 miles",Diesel,Automatic,Blue,SUV,37.7 mpg
+/ad/30806063,BMW X6,6 xDrive40d MHT M Sport 5dr Step Auto SUV,"63,990",2023,Semi-Auto,36.2 mpg,Diesel,2023,3L,"4,106 miles",Diesel,Semiauto,Grey,SUV,36.2 mpg
+/ad/30811235,BMW X5,5 xDrive40d MHT M Sport 5dr Auto SUV,"63,990",2023,Semi-Auto,34.9 mpg,Diesel,2023,3L,"8,057 miles",Diesel,Semiauto,Grey,SUV,34.9 mpg
+/ad/26997870,BMW M8,Series M8,"63,950",2020,Automatic,25.5 mpg,Petrol,2020,4395cc,"13,000 miles",Petrol,Automatic,White,Coupe,25.5 mpg
+/ad/29932590,BMW X5,X5,"63,950",2022,Automatic,34.9 mpg,Hybrid,2022,2993cc,"8,090 miles",Diesel Hybrid,Automatic,Blue,SUV,34.9 mpg
+/ad/30938666,BMW X5,5 M xDrive X5,"63,500",2021,Semi-Auto,21.6 mpg,Petrol,2021,4.4L,"52,089 miles",Petrol,Semiauto,Blue,SUV,21.6 mpg
+/ad/30862564,BMW X5,5 xDrive40d MHT M Sport 5dr Auto SUV,"63,499",2023,Semi-Auto,34.9 mpg,Diesel,2023,3L,"5,874 miles",Diesel,Semiauto,Grey,SUV,34.9 mpg
+/ad/30819645,BMW M2,M2,"63,490",2023,Manual,28.0 mpg,Petrol,2023,3L,"2,500 miles",Petrol,Manual,Grey,Coupe,28 mpg
+/ad/30780235,BMW X3,M xDrive X3,"63,250",2022,Other,25.7 mpg,Petrol,2022,3000cc,"12,080 miles",Petrol,NULL,Grey,NULL,25.7 mpg
+/ad/30228822,BMW 4 Series,M4 xDrive Competition M 2dr Step Auto Other,"63,000",2022,Automatic,27.7 mpg,Petrol,2022,3000cc,"4,419 miles",Petrol,Automatic,Blue,Other,27.7 mpg
+/ad/30800799,BMW 4 Series,Competition 2dr Step Auto Coupe,"62,995",2023,Automatic,28.0 mpg,Petrol,2023,2993cc,"9,842 miles",Petrol,Automatic,Tanzanite Blue,Coupe,28 mpg
+/ad/29419835,BMW M5,4.4 M5,"62,995",2020,Automatic,25.2 mpg,Petrol,2020,4395cc,"26,000 miles",Petrol,Automatic,GREY,Saloon,25.2 mpg
+/ad/29880183,BMW M8,M8,"62,995",2020,Automatic,25.2 mpg,Petrol,2020,4395cc,"55,000 miles",Petrol,Automatic,Grey,Coupe,25.2 mpg
+/ad/30061429,BMW M3,3 3.0 M3,"62,995",2022,Automatic,27.7 mpg,Petrol,2022,2993cc,"2,381 miles",Petrol,Automatic,WHITE,Saloon,27.7 mpg
+/ad/30676204,BMW X6,xDrive30d MHT M Sport 5dr Step Auto SUV,"62,990",2023,Automatic,38.7 mpg,Diesel,2023,2993cc,"3,051 miles",Diesel,Automatic,Blue,SUV,38.7 mpg
+/ad/30792354,BMW X6,6 M50I 4d 523 BHP Coupe,"62,990",2023,Automatic,23.0 mpg,Petrol,2023,4395cc,"7,500 miles",Petrol,Automatic,GREY,Coupe,23 mpg
+/ad/30922080,BMW X6,6 xDrive30d MHT M Sport 5dr Step Auto SUV,"62,990",2023,Semi-Auto,39.8 mpg,Diesel,2023,3L,"10,517 miles",Diesel,Semiauto,Grey,SUV,39.8 mpg
+/ad/30944465,BMW M2,M2,"62,990",2023,Manual,28.0 mpg,Petrol,2023,3L,"4,531 miles",Petrol,Manual,Blue,Coupe,28 mpg
+/ad/30526007,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr SUV,"62,950",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"25,000 miles",Diesel,Automatic,White,SUV,33.6 mpg
+/ad/29813885,BMW X6,6 xDrive M50i 5dr Auto SUV,"62,950",2022,Semi-Auto,23.0 mpg,Petrol,2022,4.4L,"3,552 miles",Petrol,Semiauto,Grey,SUV,23 mpg
+/ad/30606308,BMW X3,M xDrive X3,"62,750",2022,Other,25.7 mpg,Petrol,2022,2993cc,"6,844 miles",Petrol,NULL,Marina Bay Blue Metallic,NULL,25.7 mpg
+/ad/30708101,BMW X5,3.0 40d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 22s,"62,500",2022,Automatic,34.9 mpg,Hybrid,2022,2993cc,"8,491 miles",Diesel Hybrid,Automatic,Black,SUV,34.9 mpg
+/ad/30936400,BMW X5,5 xDrive40d MHT M Sport 5dr Auto SUV,"62,490",2023,Semi-Auto,34.9 mpg,Diesel,2023,3L,"8,305 miles",Diesel,Semiauto,Black,SUV,34.9 mpg
+/ad/30902825,BMW X5,5 xDrive40d MHT M Sport 5dr Auto SUV,"62,390",2022,Semi-Auto,34.9 mpg,Diesel,2022,3L,"10,936 miles",Diesel,Semiauto,Black,SUV,34.9 mpg
+/ad/30880902,BMW X6,6 xDrive40d MHT M Sport 5dr Step Auto SUV,"62,290",2023,Semi-Auto,36.2 mpg,Hybrid,2023,3L,"7,195 miles",Hybrid,Semiauto,White,SUV,36.2 mpg
+/ad/30185611,BMW 8 Series,840i M Sport Convertible Convertible,"62,000",,Automatic,32.8 mpg,Petrol,2998cc,"2,500 miles",Petrol,Automatic,Grey,Convertible,32.8 mpg,
+/ad/30462383,BMW X3,M 3.0i Competition Auto xDrive Euro 6 (s/s) 5dr 20s,"62,000",2022,Automatic,25.7 mpg,Petrol,2022,2993cc,"9,146 miles",Petrol,Automatic,Yellow,SUV,25.7 mpg
+/ad/30947478,BMW M3,3.0 BiTurbo Competition M Steptronic xDrive Euro 6 (s/s) 4dr 19s,"62,000",2022,Automatic,28.0 mpg,Petrol,2022,2993cc,"8,974 miles",Petrol,Automatic,Yellow,Saloon,28 mpg
+/ad/30959059,BMW M3,3 3.0 BiTurbo Competition Steptronic Euro 6 (s/s) 4dr Saloon,"61,995",2021,Automatic,27.7 mpg,Petrol,2021,2993cc,"26,799 miles",Petrol,Automatic,Blue,Saloon,27.7 mpg
+/ad/30838981,BMW i8,1.5 11.6kWh Roadster Auto 4WD Euro 6 (s/s) 2dr Convertible,"61,990",2019,Automatic,141.2 mpg,Petrol,2019,1499cc,"3,500 miles",Petrol,Automatic,Multicolour,Convertible,141.2 mpg
+/ad/30831470,BMW X6,6 XDRIVE30D M SPORT ** URBAN GREEN + X6,"61,990",2020,Automatic,34.9 mpg,Diesel,2020,2993cc,"23,000 miles",Diesel,Automatic,Urban Green,Coupe,34.9 mpg
+/ad/30866105,BMW M3,3 3.0 BiTurbo Competition M Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"61,990",2021,Automatic,28.0 mpg,Petrol,2021,2993cc,"24,000 miles",Petrol,Automatic,Green,Saloon,28 mpg
+/ad/30930096,BMW i8,1.5 Auto 11.6kWh (374 ps) Roadster 4WD Convertible Plug-in Hybrid Euro 6 CarPlay 49.8 mpg 0-60 4.4 Convertible,"61,985",2020,Automatic,Tax: n/a,2020,1499cc,"7,800 miles",Petrol Plug-in Hybrid,Automatic,Grey,Convertible,,
+/ad/30595366,BMW M3,Competition M3,"61,950",2022,Automatic,27.7 mpg,Petrol,2022,2993cc,"17,055 miles",Petrol,Automatic,Grey,Saloon,27.7 mpg
+/ad/30565352,BMW X6,6 xDrive M50i 5dr Auto SUV,"61,900",2022,Semi-Auto,23.0 mpg,Petrol,2022,4.4L,"7,996 miles",Petrol,Semiauto,Black,SUV,23 mpg
+/ad/30536477,BMW M3,3 3.0 M3,"61,891",2021,Automatic,27.7 mpg,Petrol,2021,2993cc,"18,800 miles",Petrol,Automatic,YELLOW,Saloon,27.7 mpg
+/ad/30186842,BMW M4,3.0 Competition Edition M xDrive Auto 4WD 2dr Convertible,"61,888",2022,Automatic,27.7 mpg,Petrol,2022,3L,"11,000 miles",Petrol,Automatic,Blue,Convertible,27.7 mpg
+/ad/30859802,BMW X6,Series X6,"61,850",2023,Automatic,36.2 mpg,Hybrid,2023,2993cc,"6,004 miles",Diesel Hybrid,Automatic,Purple,SUV,36.2 mpg
+/ad/30720531,BMW M4,3.0 BiTurbo Competition M Steptronic xDrive Euro 6 (s/s) 2dr 19s,"61,500",2022,Automatic,Tax: n/a,2022,2993cc,"1,500 miles",Petrol,Automatic,Black,Coupe,,
+/ad/30892548,BMW M3,3 M3,"61,500",2021,Semi-Auto,27.7 mpg,Petrol,2021,3L,"7,851 miles",Petrol,Semiauto,Grey,Saloon,27.7 mpg
+/ad/30805368,BMW X4M,X4 M Competition HEAD UP,"61,450",2022,Automatic,24.8 mpg,Petrol,2022,2993cc,"14,303 miles",Petrol,Automatic,Blue,SUV,24.8 mpg
+/ad/30815828,BMW M2,M2,"61,290",2023,Manual,28.0 mpg,Petrol,2023,3L,"1,090 miles",Petrol,Manual,Red,Coupe,28 mpg
+/ad/30913559,BMW M2,M2,"61,000",2023,Semi-Auto,28.8 mpg,Petrol,2023,3L,"2,017 miles",Petrol,Semiauto,White,Coupe,28.8 mpg
+/ad/30548009,BMW M4,3.0 BiTurbo Competition Steptronic Euro 6 (s/s) 2dr 19/20s,"61,000",2023,Automatic,28.0 mpg,Petrol,2023,2993cc,"2,500 miles",Petrol,Automatic,Black,Coupe,28 mpg
+/ad/30783347,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"60,940",2023,Semi-Auto,37.7 mpg,Diesel,2023,3L,"5,223 miles",Diesel,Semiauto,Black,SUV,37.7 mpg
+/ad/30788227,BMW M5,5 M5,"60,590",2022,Semi-Auto,25.2 mpg,Petrol,2022,4.4L,"23,994 miles",Petrol,Semiauto,Blue,Saloon,25.2 mpg
+/ad/29954810,BMW M3,3 SALOON Saloon,"60,495",2021,Automatic,27.7 mpg,Petrol,2021,2993cc,"10,000 miles",Petrol,Automatic,Grey,Saloon,27.7 mpg
+/ad/30070788,BMW X6,xDrive30d M Sport SUV,"60,000",,Automatic,38.7 mpg,Hybrid,2993cc,"5,000 miles",Diesel Hybrid,Automatic,Black,SUV,38.7 mpg,
+/ad/29820183,BMW 1 Series,3.0 1M 2d 340 BHP Coupe,"60,000",2012,Manual,29.4 mpg,Petrol,2012,2979cc,"12,764 miles",Petrol,Manual,WHITE,Coupe,29.4 mpg
+/ad/30957518,BMW X5,5 xDrive M50i 5dr Auto SUV,"60,000",2020,Semi-Auto,23.2 mpg,Petrol,2020,4.4L,"17,159 miles",Petrol,Semiauto,Grey,SUV,23.2 mpg
+/ad/30861197,BMW X3,3 M xDrive X3,"59,995",2022,Automatic,25.7 mpg,Petrol,2022,2993cc,"7,862 miles",Petrol,Automatic,Alpine White,SUV,25.7 mpg
+/ad/30529658,BMW X4,3.0 M COMPETITION 4d 503 BHP Coupe,"59,995",2022,Automatic,26.2 mpg,Petrol,2022,2993cc,"9,870 miles",Petrol,Automatic,GREY,Coupe,26.2 mpg
+/ad/29754724,BMW i4,GRAN COUPE Coupe,"59,995",2022,Automatic,Tax: £0,2022,0L,"10,105 miles",Other,Automatic,Black,Coupe,,
+/ad/30537764,BMW M3,3 SALOON SPECIAL EDITIONS Saloon,"59,995",2019,Automatic,33.2 mpg,Petrol,2019,2979cc,"11,000 miles",Petrol,Automatic,White,Saloon,33.2 mpg
+/ad/30875273,BMW M3,3 M3,"59,995",2022,Semi-Auto,27.7 mpg,Petrol,2022,3L,"13,950 miles",Petrol,Semiauto,Grey,Saloon,27.7 mpg
+/ad/30489343,BMW X5,5 M50D - SKY LOUNGE - LASERS - MASSAGE SEATS - DRIVING ASSISTANCE PACK Estate,"59,995",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"28,000 miles",Diesel,Automatic,Blue,Estate,33.6 mpg
+/ad/30654354,BMW X7,xDrive M50d 5dr Step Auto SUV,"59,995",2019,Automatic,31.4 mpg,Diesel,2019,2993cc,"29,710 miles",Diesel,Automatic,Black Sapphire Metallic Paint,SUV,31.4 mpg
+/ad/30625463,BMW X5,5 3.0 X5,"59,995",2021,Automatic,33.6 mpg,Diesel,2021,2993cc,"31,023 miles",Diesel,Automatic,Blue,SUV,33.6 mpg
+/ad/27260092,BMW M5,4.4 M5,"59,995",2021,Automatic,97.4 mpg,Petrol,2021,4395cc,"44,000 miles",Petrol,Automatic,GREY,Saloon,97.4 mpg
+/ad/30137674,BMW X3,3 3.0 M COMPETITION 5d 503 BHP Estate,"59,995",2021,Automatic,25.7 mpg,Petrol,2021,2993cc,"9,704 miles",Petrol,Automatic,BLACK,Estate,25.7 mpg
+/ad/30679314,BMW M3,3.0 M3,"59,991",2021,Automatic,27.7 mpg,Petrol,2021,3L,"17,100 miles",Petrol,Automatic,Grey,Saloon,27.7 mpg
+/ad/29999836,BMW M3,3 COMPETITION ** FACTORY M PERFORMANCE EXHAUST ** Saloon,"59,990",2022,Automatic,27.7 mpg,Petrol,2022,2993cc,"17,000 miles",Petrol,Automatic,Satin Black,Saloon,27.7 mpg
+/ad/30359798,BMW M5,5 4.4 M5,"59,990",2021,Automatic,25.2 mpg,Petrol,2021,4395cc,"23,327 miles",Petrol,Automatic,GREY,Saloon,25.2 mpg
+/ad/26970122,BMW M3,2dr Hatchback,"59,990",1986,Manual,Tax: £280,1986,2300cc,"32,933 miles",Petrol,Manual,Black,Hatchback,,
+/ad/30080170,BMW X5,5 xDrive M50d 5dr Auto Estate,"59,990",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"47,000 miles",Diesel,Automatic,BLACK,Estate,33.6 mpg
+/ad/30693366,BMW X5,5 xDrive40d MHT M Sport 5dr Auto SUV,"59,990",2023,Semi-Auto,34.9 mpg,Diesel,2023,3L,"14,001 miles",Diesel,Semiauto,Grey,SUV,34.9 mpg
+/ad/30798569,BMW X5,5 3.0 XDRIVE40I M SPORT MHEV 5d 336 BHP Estate,"59,985",2021,Automatic,28.0 mpg,Other,2021,2998cc,"14,000 miles",Other,Automatic,BLUE,Estate,28 mpg
+/ad/30612010,BMW M2,M2,"59,950",2023,Semi-Auto,28.8 mpg,Petrol,2023,3L,"1,068 miles",Petrol,Semiauto,Blue,Coupe,28.8 mpg
+/ad/30829435,BMW X3,3.0 M40i MHT Auto xDrive Euro 6 (s/s) 5dr Other,"59,950",2023,Automatic,30.7 mpg,Hybrid,2023,3.0l,"2,093 miles",Hybrid,Automatic,Black,Other,30.7 mpg
+/ad/30929951,BMW X4,X4,"59,950",2023,Automatic,40.4 mpg,Hybrid,2023,2993cc,"6,363 miles",Diesel Hybrid,Automatic,Grey,SUV,40.4 mpg
+/ad/30534818,BMW 3 Series,M3 CS Saloon,"59,950",2019,Automatic,33.2 mpg,Petrol,2019,2979cc,"10,900 miles",Petrol,Automatic,BLACK,Saloon,33.2 mpg
+/ad/30863811,BMW X5,4.4 M50i V8 Auto xDrive Euro 6 (s/s) 5dr Other,"59,950",2021,Automatic,23.2 mpg,Petrol,2021,4.4l,"13,937 miles",Petrol,Automatic,Black,Other,23.2 mpg
+/ad/30406424,BMW 4 Series,Series M4 Competition M xDrive Coupe Coupe,"59,950",2021,Automatic,28.0 mpg,Petrol,2021,2993cc,"14,393 miles",Petrol,Automatic,Grey,Coupe,28 mpg
+/ad/30868803,BMW M3,3.0 BiTurbo Competition Steptronic Euro 6 (s/s) 4dr Saloon,"59,950",2021,Automatic,27.7 mpg,Petrol,2021,3.0l,"15,141 miles",Petrol,Automatic,Grey,Saloon,27.7 mpg
+/ad/30436239,BMW X5,5 3.0 XDRIVE45E M SPORT 5DR 389 BHP Estate,"59,875",2020,Automatic,188.3 mpg,Other,2020,2998cc,"23,090 miles",Other,Automatic,BLACK,Estate,188.3 mpg
+/ad/30851502,BMW X5,Series X5,"59,750",2022,Automatic,28.0 mpg,Hybrid,2022,2998cc,"10,723 miles",Petrol Hybrid,Automatic,Blue,SUV,28 mpg
+/ad/30203421,BMW 4 Series,3.0 M4 Competition Coupe Coupe,"59,750",2021,Automatic,28.0 mpg,Petrol,2021,2993cc,"13,000 miles",Petrol,Automatic,Grey,Coupe,28 mpg
+/ad/30853765,BMW X6,6 xDrive40d MHT M Sport 5dr Step Auto SUV,"59,590",2022,Semi-Auto,36.2 mpg,Hybrid,2022,3L,"10,030 miles",Hybrid,Semiauto,Blue,SUV,36.2 mpg
+/ad/28917393,BMW i4,0.0 M50 4d 537 BHP Coupe,"59,490",2022,Automatic,Tax: n/a,2022,1L,500 miles,Other,Automatic,BLUE,Coupe,,
+/ad/30574054,BMW X3,M xDrive X3,"59,000",2022,Automatic,25.7 mpg,Petrol,2022,2993cc,"19,250 miles",Petrol,Automatic,Grey,SUV,25.7 mpg
+/ad/30604435,BMW X7,3.0 40d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 22s,"59,000",2020,Automatic,Tax: n/a,2020,2993cc,"31,850 miles",Diesel Hybrid,Automatic,Grey,SUV,,
+/ad/29909568,BMW M5,5 Saloon,"58,999",2020,Automatic,25.2 mpg,Petrol,2020,4400cc,"26,000 miles",Petrol,Automatic,Red,Saloon,25.2 mpg
+/ad/30845631,BMW X5,5 xDrive40i MHT M Sport 5dr Auto SUV,"58,999",2023,Semi-Auto,28.0 mpg,Hybrid,2023,3L,"11,401 miles",Hybrid,Semiauto,Black,SUV,28 mpg
+/ad/30634298,BMW 4 Series,COUPE Coupe,"58,995",2021,Automatic,28.0 mpg,Petrol,2021,2993cc,"9,500 miles",Petrol,Automatic,Yellow,Coupe,28 mpg
+/ad/30861217,BMW iX,240kW xDrive40 M Sport Edition 76.6kWh 5dr Auto SUV,"58,995",2023,Automatic,Tax: £0,2023,1000cc,"11,005 miles",Other,Automatic,Black Sapphire Metallic Paint,SUV,,
+/ad/30465841,BMW X5,5 DIESEL ESTATE SUV,"58,995",2021,Automatic,34.9 mpg,Diesel,2021,2993cc,"12,731 miles",Diesel,Automatic,White,SUV,34.9 mpg
+/ad/30696285,BMW X5,5 30d MHT M Sport SUV,"58,995",2022,Automatic,37.7 mpg,Other,2022,3000cc,"22,256 miles",Other,Automatic,Black Sapphire Metallic Paint,SUV,37.7 mpg
+/ad/27576184,BMW i8,Coupe,"58,995",2017,Automatic,134.5 mpg,Other,2017,1500cc,"23,990 miles",Other,Automatic,Grey,Coupe,134.5 mpg
+/ad/30607492,BMW X5,5 3.0 M50D 5d 395 BHP Estate,"58,995",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"25,000 miles",Diesel,Automatic,BLUE,Estate,33.6 mpg
+/ad/30790070,BMW M2,M2,"58,950",2023,Manual,28.0 mpg,Petrol,2023,3L,"3,362 miles",Petrol,Manual,Grey,Coupe,28 mpg
+/ad/30711350,BMW M2,M2,"58,900",2023,Manual,28.0 mpg,Petrol,2023,3L,"3,991 miles",Petrol,Manual,Other,Coupe,28 mpg
+/ad/30932915,BMW X7,3.0 M50D 5d AUTO 395 BHP Estate,"58,900",2020,Automatic,31.4 mpg,Diesel,2020,2993cc,"28,800 miles",Diesel,Automatic,Black,Estate,31.4 mpg
+/ad/30269517,BMW 8 Series,840i M Sport Coupe Coupe,"58,500",,Automatic,33.6 mpg,Petrol,2998cc,"2,500 miles",Petrol,Automatic,Grey,Coupe,33.6 mpg,
+/ad/29492451,BMW 4 Series,3.0 M4 COMPETITION 2d 503 BHP Coupe,"58,495",2021,Automatic,28.0 mpg,Petrol,2021,2993cc,"24,100 miles",Petrol,Automatic,YELLOW,Coupe,28 mpg
+/ad/30886835,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"58,495",2022,Semi-Auto,37.7 mpg,Diesel,2022,3L,"13,915 miles",Diesel,Semiauto,Blue,SUV,37.7 mpg
+/ad/30488587,BMW X5,5 XDRIVE45E M SPORT PRO PACKAGE 22ALLOYS HUGE SPEC TECHNOLOGY PLUS PACK SUV,"58,480",2021,Automatic,188.3 mpg,Petrol,2021,2998cc,"8,000 miles",Petrol,Automatic,Tanzanite Blue II Metallic,SUV,188.3 mpg
+/ad/30685179,BMW M5,Series M5,"58,350",2021,Automatic,25.2 mpg,Petrol,2021,4395cc,"18,530 miles",Petrol,Automatic,Red,Saloon,25.2 mpg
+/ad/29122549,BMW X5,xDrive45e xLine 5dr Auto SUV,"57,995",2020,Automatic,188.3 mpg,Other,2020,3000cc,"17,500 miles",Other,Automatic,Grey,SUV,188.3 mpg
+/ad/30724357,BMW X5,5 3.0 40d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"57,995",2022,Automatic,34.9 mpg,Diesel,2022,2993cc,"20,000 miles",Diesel,Automatic,White,SUV,34.9 mpg
+/ad/30785850,BMW 8 Series,M850i xDrive 2dr Auto Coupe,"57,995",2021,Semi-Auto,26.9 mpg,Petrol,2021,4.4L,"20,094 miles",Petrol,Semiauto,Grey,Coupe,26.9 mpg
+/ad/30793935,BMW X5,xDrive45e M Sport 5dr Auto Estate,"57,995",2022,Automatic,188.3 mpg,Petrol,2022,2998cc,"26,404 miles",Petrol,Automatic,Phytonic Blue,Estate,188.3 mpg
+/ad/30852262,BMW X7,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"57,993",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"9,550 miles",Diesel,Automatic,Grey,SUV,33.6 mpg
+/ad/30910457,BMW iX,iX,"57,950",2023,Automatic,Tax: £0,2023,"3,002 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30653335,BMW X5,xDrive40d MHT M Sport 5dr NULL,"57,950",2022,Other,34.9 mpg,Diesel,2022,2993cc,"12,916 miles",Diesel,NULL,Black Sapphire,NULL,34.9 mpg
+/ad/30464399,BMW X5,5 3.0 40d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"57,950",2021,Automatic,34.9 mpg,Diesel,2021,2993cc,"34,000 miles",Diesel,Automatic,Blue,SUV,34.9 mpg
+/ad/30382982,BMW X7,xDrive30d M Sport 5dr Step Auto SUV,"57,950",2019,Automatic,33.6 mpg,Diesel,2019,3000cc,"35,640 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/30900890,BMW M4,3.0 BiTurbo Competition M Steptronic xDrive Euro 6 (s/s) 2dr Coupe,"57,950",2021,Automatic,28.0 mpg,Petrol,2021,3.0l,"18,957 miles",Petrol,Automatic,Red,Coupe,28 mpg
+/ad/30832894,BMW M4,M4,"57,899",2021,Semi-Auto,28.0 mpg,Petrol,2021,3L,"2,098 miles",Petrol,Semiauto,Grey,Coupe,28 mpg
+/ad/30342881,BMW M3,3 SALOON Saloon,"57,750",2021,Automatic,27.7 mpg,Petrol,2021,2993cc,"9,844 miles",Petrol,Automatic,Red,Saloon,27.7 mpg
+/ad/30506773,BMW 7 Series,740Ld xDrive M Sport Saloon REAR TVs,"57,650",2022,Automatic,42.8 mpg,Hybrid,2022,2993cc,"17,701 miles",Diesel Hybrid,Automatic,Black,Saloon,42.8 mpg
+/ad/30704360,BMW 8 Series,4.4 M850I XDRIVE 2d 523 BHP Coupe,"57,588",2021,Automatic,26.9 mpg,Petrol,2021,4395cc,"37,484 miles",Petrol,Automatic,BLACK,Coupe,26.9 mpg
+/ad/29497094,BMW M3,3.0 BiTurbo Competition Steptronic Euro 6 (s/s) 4dr Saloon,"57,500",2021,Automatic,Tax: n/a,2021,2.99L,"6,800 miles",Petrol,Automatic,Blue,Saloon,,
+/ad/30787277,BMW X5,5 xDrive40d MHT M Sport 5dr Auto SUV,"57,500",2022,Semi-Auto,34.9 mpg,Diesel,2022,3L,"14,496 miles",Diesel,Semiauto,Blue,SUV,34.9 mpg
+/ad/30960138,BMW X5,X5,"57,500",2021,Automatic,34.9 mpg,Hybrid,2021,2993cc,"14,223 miles",Diesel Hybrid,Automatic,Blue,SUV,34.9 mpg
+/ad/29155543,BMW X5,3.0 M50d Auto xDrive Euro 6 ss 5dr SUV,"57,446",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"39,981 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/30779173,BMW X4,xDrive M40d MHT 5dr Auto NULL,"57,250",2023,Other,40.4 mpg,Diesel,2023,3000cc,"6,731 miles",Diesel,NULL,Sophisto Grey Xirallic,NULL,40.4 mpg
+/ad/30517842,BMW X5,xDrive30d MHT M Sport 5dr NULL,"57,250",2023,Other,37.7 mpg,Diesel,2023,2993cc,"8,424 miles",Diesel,NULL,Carbon Black,NULL,37.7 mpg
+/ad/30260534,BMW i8,2dr Auto Convertible,"57,100",2019,Automatic,141.2 mpg,Hybrid,2019,1.5L,"23,300 miles",Hybrid,Automatic,Grey,Convertible,141.2 mpg
+/ad/30897454,BMW X1,xDrive30 M Sport SUV,"57,000",,Automatic,Tax: £0,"1,500 miles",Electric,Automatic,Unknown,SUV,,,,
+/ad/30860654,BMW X6,6 xDrive40d MHT M Sport 5dr Step Auto SUV,"57,000",2022,Semi-Auto,36.2 mpg,Hybrid,2022,3L,"9,500 miles",Hybrid,Semiauto,Black,SUV,36.2 mpg
+/ad/30789115,BMW X7,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 22s,"57,000",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"39,713 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/30875699,BMW X3,3 xDrive 30e M Sport 5dr Auto [Pro Pack] SUV,"56,995",2023,Automatic,128.4 mpg,Petrol,2023,1998cc,"7,398 miles",Petrol,Automatic,Sophisto Grey,SUV,128.4 mpg
+/ad/30869400,BMW 4 Series,Competition 2dr Step Auto Coupe,"56,995",2021,Automatic,28.0 mpg,Petrol,2021,2993cc,"9,500 miles",Petrol,Automatic,Grey,Coupe,28 mpg
+/ad/30463535,BMW 4 Series,COMPETITION Coupe,"56,995",2021,Automatic,28.0 mpg,Petrol,2021,2993cc,"12,228 miles",Petrol,Automatic,Sapphire Black Metallic,Coupe,28 mpg
+/ad/30821308,BMW X5,5 3.0 XDRIVE 30D M SPORT MHEV 5d 282 BHP PAN-SUNROOF PRO PACK,"56,995",2022,Automatic,37.7 mpg,Diesel,2022,2993cc,"14,900 miles",Diesel,Automatic,Black,Estate,37.7 mpg
+/ad/30739646,BMW X5,5 3.0 XDRIVE 30D M SPORT MHEV 5d 282 BHP Estate,"56,995",2022,Automatic,37.7 mpg,Other,2022,2993cc,"21,000 miles",Other,Automatic,Grey,Estate,37.7 mpg
+/ad/30875848,BMW X7,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr (7 seat) SUV,"56,995",2019,Automatic,31.4 mpg,Diesel,2019,2993cc,"71,500 miles",Diesel,Automatic,Black,SUV,31.4 mpg
+/ad/27475963,BMW X5,XDRIVE40I M SPORT 5-Door Estate,"56,985",2018,Automatic,27.2 mpg,Petrol,2018,2998cc,"27,000 miles",Petrol,Automatic,White,Estate,27.2 mpg
+/ad/30776946,BMW M2,M2,"56,950",2023,Semi-Auto,28.8 mpg,Petrol,2023,3L,"1,201 miles",Petrol,Semiauto,Grey,Coupe,28.8 mpg
+/ad/30776952,BMW M2,M2,"56,950",2023,Semi-Auto,28.8 mpg,Petrol,2023,3L,"1,300 miles",Petrol,Semiauto,Black,Coupe,28.8 mpg
+/ad/30226428,BMW 5 Series,545e xDrive M Sport Saloon Saloon,"56,950",2023,Automatic,128.4 mpg,Other,2023,2998cc,"9,672 miles",Other,Automatic,Black,Saloon,128.4 mpg
+/ad/30893167,BMW X3,3.0 M40i MHT Auto xDrive Euro 6 (s/s) 5dr Other,"56,950",2023,Automatic,30.7 mpg,Hybrid,2023,3.0l,"11,865 miles",Hybrid,Automatic,Grey,Other,30.7 mpg
+/ad/30956663,BMW M2,M2,"56,950",2023,Semi-Auto,28.8 mpg,Petrol,2023,3L,"3,882 miles",Petrol,Semiauto,Grey,Coupe,28.8 mpg
+/ad/30406050,BMW X6,3.0L XDRIVE30D M SPORT 4d AUTO 261 BHP Coupe,"56,790",2020,Automatic,34.9 mpg,Diesel,2020,2993cc,"24,000 miles",Diesel,Automatic,GREY,Coupe,34.9 mpg
+/ad/30294198,BMW X5,xDrive M50d 5dr Auto SUV,"56,495",2021,Automatic,33.6 mpg,Diesel,2021,3000cc,"31,580 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/30824111,BMW iX,iX,"56,250",2023,Automatic,Tax: £0,2023,"1,859 miles",Electric,Automatic,Black,SUV,,,
+/ad/30114637,BMW 3 Series,M340d xDrive MHT 5dr Step Auto Estate,"56,000",2023,Automatic,44.8 mpg,Diesel,2023,2993cc,"6,287 miles",Diesel,Automatic,Grey,Estate,44.8 mpg
+/ad/30857630,BMW 3 Series,M340i xDrive MHT 5dr Step Auto Estate,"56,000",2023,Semi-Auto,33.6 mpg,Hybrid,2023,3L,"7,704 miles",Hybrid,Semiauto,Blue,Estate,33.6 mpg
+/ad/30772344,BMW M4,M4,"55,999",2022,Semi-Auto,27.7 mpg,Petrol,2022,3L,"8,126 miles",Petrol,Semiauto,Grey,Convertible,27.7 mpg
+/ad/30875704,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"55,995",2022,Automatic,37.7 mpg,Diesel,2022,2993cc,"11,938 miles",Diesel,Automatic,Arctic Grey,SUV,37.7 mpg
+/ad/30754368,BMW M5,5 SALOON Saloon,"55,995",2019,Automatic,24.1 mpg,Petrol,2019,4395cc,"28,800 miles",Petrol,Automatic,Grey,Saloon,24.1 mpg
+/ad/30474173,BMW M3,3 3.0 BiTurbo Competition Saloon 4dr Petrol Steptronic Euro 6 (s/s) (510 ps) Saloon,"55,950",2021,Automatic,27.7 mpg,Petrol,2021,2993cc,"19,997 miles",Petrol,Automatic,Yellow,Saloon,27.7 mpg
+/ad/30883131,BMW M5,4.4i V8 Competition Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"55,950",2020,Automatic,24.1 mpg,Petrol,2020,4.4l,"24,212 miles",Petrol,Automatic,Grey,Saloon,24.1 mpg
+/ad/30897720,BMW M5,4.4i V8 Competition Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"55,950",2020,Automatic,24.1 mpg,Petrol,2020,4.4l,"35,895 miles",Petrol,Automatic,Grey,Saloon,24.1 mpg
+/ad/30827184,BMW X6,6 xDrive30d MHT M Sport 5dr Step Auto SUV,"55,799",2022,Semi-Auto,38.7 mpg,Diesel,2022,3L,"22,488 miles",Diesel,Semiauto,Black,SUV,38.7 mpg
+/ad/30854503,BMW M4,3.0 BiTurbo Competition M Steptronic xDrive Euro 6 (s/s) 2dr 20s,"55,750",2022,Automatic,27.7 mpg,Petrol,2022,2993cc,"18,499 miles",Petrol,Automatic,Grey,Convertible,27.7 mpg
+/ad/30665882,BMW X5,xDrive30d MHT M Sport 5dr Auto SUV,"55,500",2023,Automatic,37.7 mpg,Diesel,2023,2993cc,"16,117 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/29834028,BMW M3,3 3.0 BiTurbo Competition Steptronic Euro 6 ss 4dr Saloon,"55,500",2021,Automatic,27.7 mpg,Petrol,2021,2993cc,"16,000 miles",Petrol,Automatic,Yellow,Saloon,27.7 mpg
+/ad/30222245,BMW X5,5 xDrive45e M Sport 5dr Auto SUV,"55,290",2022,Semi-Auto,188.3 mpg,Hybrid,2022,3L,"15,558 miles",Hybrid,Semiauto,Grey,SUV,188.3 mpg
+/ad/29668166,BMW iX,240kW xDrive40 M Sport 76.6kWh 5dr Auto SUV,"55,000",2022,Automatic,Tax: £0,2022,"8,465 miles",Electric,Automatic,Blue,SUV,,,
+/ad/29908785,BMW M5,5 4.4 M5,"55,000",2019,Automatic,26.9 mpg,Petrol,2019,4395cc,"10,000 miles",Petrol,Automatic,Blue,Saloon,26.9 mpg
+/ad/30909717,BMW iX,240kW xDrive40 M Sport 76.6kWh 5dr Auto SUV,"55,000",2022,Automatic,Tax: £0,2022,"10,780 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30404743,BMW X5,SOLD - 3.0 M50d SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (400 ps) SUV,"55,000",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"24,000 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/29498864,BMW X5,M50D Estate,"54,999",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"41,000 miles",Diesel,Automatic,Blue,Estate,33.6 mpg
+/ad/30945569,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"54,999",2023,Semi-Auto,37.7 mpg,Diesel,2023,3L,"6,540 miles",Diesel,Semiauto,Black,SUV,37.7 mpg
+/ad/30948035,BMW X7,xDrive40i M Sport 5dr Step Auto SUV,"54,999",2019,Semi-Auto,24.8 mpg,Petrol,2019,3L,"33,232 miles",Petrol,Semiauto,Black,SUV,24.8 mpg
+/ad/30812511,BMW iX,XDRIVE40 M SPORT EDITION ELECTRIC ESTATE Estate,"54,995",2022,Automatic,Tax: £0,2022,"3,318 miles",Other,Automatic,Blue,Estate,,,
+/ad/30754301,BMW i4,ELECTRIC COUPE Coupe,"54,995",2022,Automatic,Tax: n/a,2022,"10,699 miles",Other,Automatic,Blue,Coupe,,,
+/ad/26966716,BMW 7 Series,745LE XDRIVE 4-Door Saloon,"54,995",2019,Automatic,6.1 mpg,Other,2019,2998cc,"14,000 miles",Other,Automatic,Black,Saloon,6.1 mpg
+/ad/30282155,BMW X5,5 M50D 3.0 QUAD TURBO 400 PS DIESEL AUTO EURO 6 Estate,"54,995",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"28,650 miles",Diesel,Automatic,BLACK,Estate,33.6 mpg
+/ad/30262073,BMW Z4,3.2 M COUPE 2d 321 BHP Coupe,"54,995",2002,Manual,25.4 mpg,Petrol,2002,3246cc,"97,271 miles",Petrol,Manual,BLUE,Coupe,25.4 mpg
+/ad/30848961,BMW i4,250kW eDrive40 M Sport 83.9kWh 5dr Auto Coupe,"54,995",2023,Automatic,Tax: £0,2023,"5,538 miles",Electric,Automatic,Other,Coupe,,,
+/ad/30690140,BMW X5,5 M50d Estate,"54,995",2021,Automatic,33.6 mpg,Diesel,2021,3000cc,"30,608 miles",Diesel,Automatic,Arctic Grey,Estate,33.6 mpg
+/ad/28985951,BMW X5,xDrive30d MHT M Sport 5dr Auto SUV,"54,991",2020,Automatic,37.7 mpg,Other,2020,2993cc,"10,000 miles",Other,Automatic,Black,SUV,37.7 mpg
+/ad/30071082,BMW M3,3.0 M3,"54,990",2018,Automatic,33.2 mpg,Petrol,2018,2979cc,"35,000 miles",Petrol,Automatic,GREY,Saloon,33.2 mpg
+/ad/29617717,BMW X5,M50D SUV,"54,990",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"50,000 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/30831423,BMW X5,5 3.0 45e 24kWh M Sport SUV 5dr Petrol Plug-in Hybrid Auto xDrive Euro 6 (s/s) (394 ps) SUV,"54,980",2021,Automatic,188.3 mpg,Petrol,2021,2998cc,"9,000 miles",Petrol,Automatic,Black,SUV,188.3 mpg
+/ad/30275651,BMW X5,5 M50D AUTO XDRIVE 400 BHP 22ALLOYS ONE OWNER VAT Q SUV,"54,980",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"18,000 miles",Diesel,Automatic,Black Sapphire Metallic,SUV,33.6 mpg
+/ad/30909921,BMW X4,2.0 20d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr Other,"54,950",2023,Automatic,46.3 mpg,Hybrid,2023,2.0l,"3,829 miles",Hybrid,Automatic,Grey,Other,46.3 mpg
+/ad/30633617,BMW 8 Series,840i M Sport Gran Coupe Saloon,"54,950",2023,Automatic,32.8 mpg,Petrol,2023,2998cc,"5,000 miles",Petrol,Automatic,Black,Saloon,32.8 mpg
+/ad/30530049,BMW X5,5 3.0 M50D 5d 395 BHP Estate,"54,950",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"32,770 miles",Diesel,Automatic,Blue,Estate,33.6 mpg
+/ad/30871879,BMW X7,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr Other,"54,950",2019,Automatic,33.6 mpg,Diesel,2019,3.0l,"54,001 miles",Diesel,Automatic,Black,Other,33.6 mpg
+/ad/30841483,BMW X5,5 3.0 XDRIVE45E M SPORT 5d 389 BHP Estate,"54,950",2021,Automatic,188.3 mpg,Other,2021,2998cc,"23,000 miles",Other,Automatic,BLUE,Estate,188.3 mpg
+/ad/30681054,BMW 8 Series,840i M Sport 2dr Auto Convertible,"54,950",2022,Semi-Auto,32.8 mpg,Petrol,2022,3L,"10,011 miles",Petrol,Semiauto,White,Convertible,32.8 mpg
+/ad/30930882,BMW X3,3 xDrive M40i MHT 5dr Auto SUV,"54,890",2022,Semi-Auto,30.7 mpg,Hybrid,2022,3L,"9,498 miles",Hybrid,Semiauto,Grey,SUV,30.7 mpg
+/ad/30820115,BMW X5,xDrive30d MHT M Sport 5dr Auto SUV,"54,500",2021,Automatic,37.7 mpg,Diesel,2021,2993cc,"11,052 miles",Diesel,Automatic,Grey,SUV,37.7 mpg
+/ad/30454889,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"54,500",2022,Semi-Auto,37.7 mpg,Hybrid,2022,3L,"20,758 miles",Hybrid,Semiauto,Black,SUV,37.7 mpg
+/ad/30626808,BMW 4 Series,3.0 BiTurbo Competition Steptronic Euro 6 (s/s) 2dr Coupe,"54,490",2021,Automatic,28.0 mpg,Petrol,2021,2993cc,"18,000 miles",Petrol,Automatic,Blue,Coupe,28 mpg
+/ad/30785226,BMW X6,6 xDrive40i MHT M Sport 5dr Step Auto SUV,"54,200",2021,Semi-Auto,28.8 mpg,Hybrid,2021,3L,"13,932 miles",Hybrid,Semiauto,Blue,SUV,28.8 mpg
+/ad/30808131,BMW M5,5 4.4 M5,"53,999",2018,Automatic,26.9 mpg,Petrol,2018,4395cc,"40,780 miles",Petrol,Automatic,WHITE,Saloon,26.9 mpg
+/ad/30919522,BMW X3,3 xDrive 30e M Sport 5dr Auto [Pro Pack] SUV,"53,995",2023,Automatic,128.4 mpg,Petrol,2023,1998cc,"9,227 miles",Petrol,Automatic,Tanzanite Blue,SUV,128.4 mpg
+/ad/30876076,BMW 7 Series,3.0 745LE XDRIVE M SPORT PHEV 4d 389 BHP Saloon,"53,995",2020,Automatic,104.6 mpg,Other,2020,2998cc,"13,900 miles",Other,Automatic,BLUE,Saloon,104.6 mpg
+/ad/28867554,BMW X5,Estate,"53,995",2019,Automatic,37.7 mpg,Diesel,2019,3000cc,"21,050 miles",Diesel,Automatic,White,Estate,37.7 mpg
+/ad/29978085,BMW 8 Series,4.4 M850I XDRIVE 2d 523 BHP Coupe,"53,995",2019,Automatic,26.9 mpg,Petrol,2019,4395cc,"29,500 miles",Petrol,Automatic,BLACK,Coupe,26.9 mpg
+/ad/29971517,BMW X5,Estate,"53,995",2018,Automatic,33.6 mpg,Diesel,2018,3000cc,"48,000 miles",Diesel,Automatic,White,Estate,33.6 mpg
+/ad/30888948,BMW X7,3.0 X7,"53,995",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"68,000 miles",Diesel,Automatic,Grey,SUV,33.6 mpg
+/ad/30852263,BMW M5,5 4.4i V8 Competition Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"53,994",2019,Automatic,24.1 mpg,Petrol,2019,4395cc,"14,561 miles",Petrol,Automatic,Blue,Saloon,24.1 mpg
+/ad/29955652,BMW X6,xDrive M50d 5dr Auto SUV,"53,990",2020,Automatic,33.2 mpg,Diesel,2020,3000cc,"32,820 miles",Diesel,Automatic,Black,SUV,33.2 mpg
+/ad/30901795,BMW X5,5 3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"53,988",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"18,000 miles",Diesel,Automatic,BLACK,Estate,37.7 mpg
+/ad/30471174,BMW X5,5 3.0 XDRIVE40I M SPORT MHEV 5d 336 BHP Estate,"53,950",2022,Automatic,28.0 mpg,Other,2022,2998cc,"5,000 miles",Other,Automatic,WHITE,Estate,28 mpg
+/ad/30925366,BMW X5,3.0 30d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr Other,"53,950",2022,Automatic,37.7 mpg,Hybrid,2022,3.0l,"9,992 miles",Hybrid,Automatic,White,Other,37.7 mpg
+/ad/30317977,BMW X3,3 xDrive M40i MHT 5dr Auto SUV,"53,850",2023,Semi-Auto,30.7 mpg,Hybrid,2023,3L,"10,620 miles",Hybrid,Semiauto,Grey,SUV,30.7 mpg
+/ad/30686082,BMW iX,40 76.6kWh M Sport Edition SUV 5dr Electric Auto xDrive (326 ps) Other,"53,816",2022,Automatic,Tax: £0,2022,"1,026 miles",Electric,Automatic,White,Other,,,
+/ad/30612580,BMW X4,xDrive M40d MHT 5dr Auto SUV,"53,750",2023,Semi-Auto,40.4 mpg,Diesel,2023,3L,"8,596 miles",Diesel,Semiauto,White,SUV,40.4 mpg
+/ad/30938544,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"53,500",2022,Semi-Auto,37.7 mpg,Diesel,2022,3L,"30,057 miles",Diesel,Semiauto,Black,SUV,37.7 mpg
+/ad/30741879,BMW X5,5 xDrive40i MHT M Sport 5dr Auto SUV,"53,500",2022,Semi-Auto,28.0 mpg,Hybrid,2022,3L,"9,575 miles",Hybrid,Semiauto,Blue,SUV,28 mpg
+/ad/30785231,BMW X3,X3,"53,495",2023,Automatic,Tax: £0,2023,"5,984 miles",Electric,Automatic,Other,SUV,,,
+/ad/30590524,BMW M4,M4,"53,490",2021,Semi-Auto,28.0 mpg,Petrol,2021,3L,"8,701 miles",Petrol,Semiauto,Grey,Coupe,28 mpg
+/ad/30842394,BMW X5,5 xDrive40i M Sport 5dr Auto SUV,"53,395",2020,Semi-Auto,27.2 mpg,Petrol,2020,3L,"13,100 miles",Petrol,Semiauto,Black,SUV,27.2 mpg
+/ad/30693364,BMW X7,xDrive40i M Sport 5dr Step Auto SUV,"53,390",2020,Semi-Auto,24.8 mpg,Petrol,2020,3L,"42,368 miles",Petrol,Semiauto,Blue,SUV,24.8 mpg
+/ad/30916290,BMW 8 Series,M850i xDrive 4dr Auto Coupe,"53,000",2019,Semi-Auto,24.4 mpg,Petrol,2019,4.4L,"9,950 miles",Petrol,Semiauto,Blue,Coupe,24.4 mpg
+/ad/30871587,BMW X7,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 22s,"53,000",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"69,741 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/29861441,BMW X5,3.0 40d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 22s,"53,000",2021,Automatic,34.9 mpg,Hybrid,2021,2993cc,"15,079 miles",Diesel Hybrid,Automatic,Grey,SUV,34.9 mpg
+/ad/29177820,BMW 4 Series,3.0 M4 COMPETITION 2d 503 BHP Coupe,"52,998",2021,Automatic,28.0 mpg,Petrol,2021,2993cc,"20,000 miles",Petrol,Automatic,GREY,Coupe,28 mpg
+/ad/30341992,BMW i4,400kW M50 83.9kWh 5dr Auto Hatchback,"52,995",2022,Automatic,Tax: £0,2022,1000cc,"5,605 miles",Other,Automatic,Brooklyn Grey,Hatchback,,
+/ad/30254950,BMW X5,5 3.0 45e 24kWh xLine SUV 5dr Petrol Plug-in Hybrid Auto xDrive Euro 6 (s/s) (394 ps) SUV,"52,995",2022,Automatic,188.3 mpg,Other,2022,2998cc,"27,000 miles",Other,Automatic,Blue,SUV,188.3 mpg
+/ad/30850633,BMW X5,5 xDrive40d MHT M Sport 5dr Auto SUV,"52,995",2021,Automatic,34.9 mpg,Diesel,2021,2993cc,"29,105 miles",Diesel,Automatic,Tanzanite Blue,SUV,34.9 mpg
+/ad/30137946,BMW X5,5 3.0 M50D 5d 395 BHP Estate,"52,995",2018,Automatic,33.6 mpg,Diesel,2018,2993cc,"48,000 miles",Diesel,Automatic,BRONZE/WHITE,Estate,33.6 mpg
+/ad/30305428,BMW X5,3.0 M50D 5d 395 BHP Estate,"52,995",2020,Automatic,33.6 mpg,Diesel,2020,3L,"30,000 miles",Diesel,Automatic,Grey,Estate,33.6 mpg
+/ad/30904530,BMW 5 Series,530d xDrive MHT M Sport 4dr Auto Saloon,"52,990",2023,Automatic,46.3 mpg,Diesel,2023,2993cc,"4,471 miles",Diesel,Automatic,Grey,Saloon,46.3 mpg
+/ad/30465282,BMW X3,M40D MHEV Estate,"52,990",2022,Automatic,40.4 mpg,Other,2022,2993cc,"9,000 miles",Other,Automatic,Black,Estate,40.4 mpg
+/ad/30954962,BMW X5,xDrive30d MHT M Sport 5dr Auto SUV,"52,990",2022,Automatic,37.7 mpg,Diesel,2022,2993cc,"7,218 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30731727,BMW 4 Series,3.0L M4 COMPETITION 2d AUTO 503 BHP + CARBON+H/K SOUND+360CAM+APPLE! + Excellent Condition + Full BM Coupe,"52,989",2021,Automatic,28.0 mpg,Petrol,2021,2993cc,"8,000 miles",Petrol,Automatic,BLACK,Coupe,28 mpg
+/ad/30749708,BMW X7,40i M Sport SUV 5dr Petrol Auto xDrive Euro 6 (s/s) (340 ps) SUV,"52,950",2019,Automatic,24.8 mpg,Petrol,2019,2998cc,"42,000 miles",Petrol,Automatic,Black Sapphire Metallic,SUV,24.8 mpg
+/ad/30464414,BMW X5,5 3.0 M50d Auto xDrive Euro 6 (s/s) 5dr SUV,"52,950",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"53,000 miles",Diesel,Automatic,Grey,SUV,33.6 mpg
+/ad/29469938,BMW X6,6 xDrive M50d 5dr Auto SUV,"52,950",2020,Semi-Auto,33.2 mpg,Diesel,2020,3L,"27,425 miles",Diesel,Semiauto,White,SUV,33.2 mpg
+/ad/30953381,BMW iX,240kW xDrive40 M Sport 76.6kWh 5dr Auto SUV,"52,799",2022,Other,Tax: £0,2022,"3,356 miles",Electric,N/A,Blue,SUV,,,
+/ad/30818034,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"52,590",2022,Semi-Auto,37.7 mpg,Diesel,2022,3L,"10,908 miles",Diesel,Semiauto,Black,SUV,37.7 mpg
+/ad/30252650,BMW X4,3.0 30d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 20s,"52,500",2023,Automatic,42.8 mpg,Hybrid,2023,2993cc,"1,913 miles",Diesel Hybrid,Automatic,White,SUV,42.8 mpg
+/ad/30252657,BMW X5,3.0 45e 24kWh M Sport Auto xDrive Euro 6 (s/s) 5dr 21s,"52,500",2021,Automatic,188.3 mpg,Hybrid,2021,2998cc,"17,312 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,188.3 mpg
+/ad/30794047,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 22s,"52,500",2021,Automatic,33.6 mpg,Diesel,2021,2993cc,"26,013 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/30688740,BMW X5,Series X5,"52,500",2021,Automatic,34.9 mpg,Hybrid,2021,2993cc,"25,278 miles",Diesel Hybrid,Automatic,Black,SUV,34.9 mpg
+/ad/30282730,BMW X7,X7,"52,500",2021,Automatic,35.3 mpg,Hybrid,2021,2993cc,"72,786 miles",Diesel Hybrid,Automatic,Blue,SUV,35.3 mpg
+/ad/30786806,BMW X5,5 DIESEL ESTATE SUV,"52,494",2021,Automatic,34.9 mpg,Diesel,2021,2993cc,"45,000 miles",Diesel,Automatic,Ametrine Mauve/Purple,SUV,34.9 mpg
+/ad/30884395,BMW X5,5 xDrive M50d 5dr Auto SUV,"52,490",2020,Semi-Auto,33.6 mpg,Diesel,2020,3L,"9,166 miles",Diesel,Semiauto,Black,SUV,33.6 mpg
+/ad/30934832,BMW X5,5 xDrive M50d 5dr Auto SUV,"52,490",2020,Semi-Auto,33.6 mpg,Diesel,2020,3L,"13,800 miles",Diesel,Semiauto,Black,SUV,33.6 mpg
+/ad/30937816,BMW i4,40 83.9kWh M Sport Gran Coupe Auto eDrive 5dr Hatchback,"52,450",2023,Automatic,Tax: £0,2023,65 miles,Electric,Automatic,Blue,Hatchback,,,
+/ad/30467319,BMW 8 Series,840i M Sport 2dr Auto Convertible,"52,450",2022,Semi-Auto,32.8 mpg,Petrol,2022,3L,"17,375 miles",Petrol,Semiauto,Black,Convertible,32.8 mpg
+/ad/30784583,BMW X5,xDrive30d MHT M Sport 5dr Auto SUV,"52,290",2021,Automatic,37.7 mpg,Diesel,2021,2993cc,"33,501 miles",Diesel,Automatic,Unknown,SUV,37.7 mpg
+/ad/30866692,BMW iX,240kW xDrive40 M Sport Edition 76.6kWh 5dr Auto SUV,"52,090",2022,Automatic,Tax: £0,2022,"14,584 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30656913,BMW 2 Series,M240i xDrive Coupe Coupe,"52,000",,Automatic,32.1 mpg,Petrol,2998cc,"2,500 miles",Petrol,Automatic,Red,Coupe,32.1 mpg,
+/ad/30788985,BMW X5,3.0 XDRIVE45E M SPORT 5d 389 BHP Estate,"51,995",2022,Automatic,188.3 mpg,Other,2022,3L,"5,243 miles",Other,Automatic,White,Estate,188.3 mpg
+/ad/30067613,BMW X5,5 xDrive45e M Sport 5dr Auto SUV,"51,995",2021,Automatic,188.3 mpg,Petrol,2021,2998cc,"18,134 miles",Petrol,Automatic,Black Sapphire Metallic Paint,SUV,188.3 mpg
+/ad/30561545,BMW 8 Series,M850I XDRIVE Convertible,"51,995",2019,Automatic,39.8 mpg,Diesel,2019,4395cc,"19,914 miles",Diesel,Automatic,Blue,Convertible,39.8 mpg
+/ad/30676202,BMW 4 Series,M440d xDrive MHT 2dr Step Auto Convertible,"51,990",2023,Automatic,44.8 mpg,Diesel,2023,2993cc,"10,378 miles",Diesel,Automatic,Blue,Convertible,44.8 mpg
+/ad/29071723,BMW M5,5 M5,"51,990",2019,Automatic,24.1 mpg,Petrol,2019,4400cc,"37,000 miles",Petrol,Automatic,Grey,Saloon,24.1 mpg
+/ad/30868754,BMW X3,80kWh M Sport Pro Auto 5dr Other,"51,950",2023,Automatic,Tax: £0,2023,887 miles,Electric,Automatic,White,Other,,,
+/ad/30913973,BMW X3,80kWh M Sport Pro Auto 5dr Other,"51,950",2023,Automatic,Tax: £0,2023,"2,206 miles",Electric,Automatic,White,Other,,,
+/ad/30226419,BMW 5 Series,530d xDrive M Sport Touring Estate,"51,950",2023,Automatic,44.1 mpg,Diesel,2023,2993cc,"3,040 miles",Diesel,Automatic,Black,Estate,44.1 mpg
+/ad/30824881,BMW 4 Series,3.0 M440i MHT Auto xDrive Euro 6 (s/s) 5dr Hatchback,"51,950",2023,Automatic,34.0 mpg,Hybrid,2023,3.0l,"4,525 miles",Hybrid,Automatic,Black,Hatchback,34 mpg
+/ad/30818876,BMW X3,3 xDrive M40d MHT 5dr Auto SUV,"51,950",2022,Semi-Auto,40.4 mpg,Petrol,2022,3L,"20,594 miles",Petrol,Semiauto,White,SUV,40.4 mpg
+/ad/30355487,BMW 7 Series,745Le xDrive M Sport 4dr Auto Saloon,"51,950",2021,Semi-Auto,104.6 mpg,Hybrid,2021,3L,"26,123 miles",Hybrid,Semiauto,Black,Saloon,104.6 mpg
+/ad/30826572,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr Other,"51,945",2020,Automatic,Tax: n/a,2020,3.0l,"27,467 miles",Diesel,Automatic,Black,Other,,
+/ad/30777978,BMW X5,3.0 40d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 20s,"51,750",2021,Automatic,34.9 mpg,Hybrid,2021,2993cc,"9,141 miles",Diesel Hybrid,Automatic,Grey,SUV,34.9 mpg
+/ad/30733892,BMW X5,3.0 40d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 21s,"51,500",2021,Automatic,34.9 mpg,Hybrid,2021,2993cc,"24,600 miles",Diesel Hybrid,Automatic,Blue,SUV,34.9 mpg
+/ad/30951432,BMW X6,6 3.0 XDRIVE30D M SPORT 4d 261 BHP Coupe,"51,500",2020,Automatic,34.9 mpg,Diesel,2020,2993cc,"11,325 miles",Diesel,Automatic,BLUE,Coupe,34.9 mpg
+/ad/30733892,BMW X5,3.0 40d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 21s,"51,500",2021,Automatic,34.9 mpg,Hybrid,2021,2993cc,"24,600 miles",Diesel Hybrid,Automatic,Blue,SUV,34.9 mpg
+/ad/30954963,BMW X5,xDrive45e M Sport 5dr Auto SUV,"51,490",2021,Automatic,Tax: n/a,2021,2998cc,"10,801 miles",Petrol Plugin Hybrid,Automatic,Black,SUV,,
+/ad/30778067,BMW X6,xDrive30d MHT M Sport 5dr Step Auto SUV,"51,490",2022,Automatic,38.7 mpg,Diesel,2022,2993cc,"14,309 miles",Diesel,Automatic,Black,SUV,38.7 mpg
+/ad/30352793,BMW M5,Saloon,"51,450",2019,Automatic,26.9 mpg,Petrol,2019,4395cc,"24,250 miles",Petrol,Automatic,Blue,Saloon,26.9 mpg
+/ad/30457382,BMW X5,5 3.0 XDRIVE45E M SPORT 5d 389 BHP Estate,"51,444",2020,Automatic,188.3 mpg,Other,2020,2998cc,"52,765 miles",Other,Automatic,BLACK,Estate,188.3 mpg
+/ad/30802019,BMW X6,6 xDrive M50d 5dr Auto SUV,"51,399",2020,Semi-Auto,33.2 mpg,Diesel,2020,3L,"23,297 miles",Diesel,Semiauto,White,SUV,33.2 mpg
+/ad/30675537,BMW 7 Series,745Le xDrive M Sport 4dr Auto Saloon,"51,190",2021,Semi-Auto,104.6 mpg,Hybrid,2021,3L,"15,905 miles",Hybrid,Semiauto,Grey,Saloon,104.6 mpg
+/ad/30742058,BMW X6,6 xDrive M50d 5dr Auto SUV,"51,190",2020,Semi-Auto,33.2 mpg,Diesel,2020,3L,"22,681 miles",Diesel,Semiauto,Blue,SUV,33.2 mpg
+/ad/30810029,BMW i4,i4,"51,150",2023,Automatic,Tax: £0,2023,"3,114 miles",Electric,Automatic,Grey,Hatchback,,,
+/ad/30903413,BMW 5 Series,M550i xDrive 4dr Auto Saloon,"51,000",2022,Semi-Auto,25.5 mpg,Petrol,2022,4.4L,"6,551 miles",Petrol,Semiauto,Black,Saloon,25.5 mpg
+/ad/30629193,BMW X6,xDrive30d MHT M Sport 5dr Step Auto SUV,"51,000",2022,Automatic,38.7 mpg,Diesel,2022,2993cc,"10,722 miles",Diesel,Automatic,Black,SUV,38.7 mpg
+/ad/30858416,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 22s,"51,000",2021,Automatic,33.6 mpg,Diesel,2021,2993cc,"21,500 miles",Diesel,Automatic,Blue,SUV,33.6 mpg
+/ad/30882871,BMW X6,xDrive M50d 5dr Auto SUV,"51,000",2020,Automatic,33.2 mpg,Diesel,2020,2993cc,"26,488 miles",Diesel,Automatic,Grey,SUV,33.2 mpg
+/ad/30540475,BMW X5,5 xDrive M50i 5dr Auto SUV,"51,000",2021,Semi-Auto,23.2 mpg,Petrol,2021,4.4L,"31,347 miles",Petrol,Semiauto,Black,SUV,23.2 mpg
+/ad/30709903,BMW 8 Series,840i M Sport 4dr Auto Coupe,"50,999",2023,Semi-Auto,32.8 mpg,Petrol,2023,3L,"11,754 miles",Petrol,Semiauto,Grey,Coupe,32.8 mpg
+/ad/30206360,BMW X5,5 3.0 M50D 5d 395 BHP Estate,"50,995",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"38,500 miles",Diesel,Automatic,Black,Estate,33.6 mpg
+/ad/30812639,BMW X7,DIESEL ESTATE Estate,"50,995",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"85,300 miles",Diesel,Automatic,White,Estate,33.6 mpg
+/ad/30866156,BMW M5,5 4.4i V8 Competition Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"50,990",2019,Automatic,24.1 mpg,Petrol,2019,4395cc,"26,121 miles",Petrol,Automatic,Blue,Saloon,24.1 mpg
+/ad/30866156,BMW M5,5 4.4i V8 Competition Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"50,990",2019,Automatic,24.1 mpg,Petrol,2019,4395cc,"26,121 miles",Petrol,Automatic,Blue,Saloon,24.1 mpg
+/ad/30900081,BMW 3 Series,M340d xDrive MHT 4dr Step Auto Saloon,"50,950",2023,Semi-Auto,46.3 mpg,Diesel,2023,3L,"4,234 miles",Diesel,Semiauto,Grey,Saloon,46.3 mpg
+/ad/30759271,BMW X6,6 Series X6,"50,950",2020,Automatic,34.9 mpg,Diesel,2020,2993cc,"23,411 miles",Diesel,Automatic,Blue,SUV,34.9 mpg
+/ad/30820518,BMW 8 Series,Gran Coupe 4.4 M850i V8 Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"50,950",2019,Automatic,24.4 mpg,Petrol,2019,4.4l,"27,492 miles",Petrol,Automatic,Blue,Saloon,24.4 mpg
+/ad/30542912,BMW X5,3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"50,890",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"27,000 miles",Diesel,Automatic,BLACK,Estate,37.7 mpg
+/ad/30875069,BMW 4 Series,M440i xDrive Gran Coupe GLASS ROOF,"50,750",2023,Automatic,34.0 mpg,Hybrid,2023,2998cc,"5,215 miles",Petrol Hybrid,Automatic,Blue,Hatchback,34 mpg
+/ad/30936829,BMW M3,3.0 BiTurbo Competition Steptronic Euro 6 (s/s) 4dr 19s,"50,750",2021,Automatic,27.7 mpg,Petrol,2021,2993cc,"34,628 miles",Petrol,Automatic,Black,Saloon,27.7 mpg
+/ad/30505648,BMW iX,240kW xDrive40 M Sport 76.6kWh 5dr Auto SUV,"50,500",2022,Automatic,Tax: £0,2022,"11,349 miles",Electric,Automatic,Black,SUV,,,
+/ad/30621290,BMW X3,3 xDrive M40i MHT 5dr Auto SUV,"50,490",2023,Semi-Auto,30.7 mpg,Hybrid,2023,3L,"2,942 miles",Hybrid,Semiauto,White,SUV,30.7 mpg
+/ad/29466397,BMW iX,240kW xDrive40 M Sport 76.6kWh 5dr Auto SUV,"50,490",2022,Automatic,Tax: £0,2022,"13,089 miles",Electric,Automatic,White,SUV,,,
+/ad/29681718,BMW X3,3 M xDrive X3,"50,490",2021,Semi-Auto,24.8 mpg,Petrol,2021,3L,"8,876 miles",Petrol,Semiauto,Black,SUV,24.8 mpg
+/ad/30226464,BMW X5,5 Series X5,"50,450",2021,Automatic,188.3 mpg,Other,2021,2998cc,"25,579 miles",Other,Automatic,Black,SUV,188.3 mpg
+/ad/30512507,BMW X5,xDrive30d MHT M Sport 5dr NULL,"50,450",2022,Other,37.7 mpg,Diesel,2022,2993cc,"16,142 miles",Diesel,NULL,Alpine White,NULL,37.7 mpg
+/ad/30955070,BMW X3,80kWh M Sport Pro SUV 5dr Electric Auto (286 ps) M Sport Bodykit,"50,400",2023,Automatic,Tax: £0,2023,883 miles,Electric,Automatic,White,SUV,,,
+/ad/30931364,BMW 5 Series,530e xDrive M Sport Touring GLASS ROOF,"50,000",2023,Automatic,141.3 mpg,Hybrid,2023,1998cc,"7,338 miles",Petrol Plug-in Hybrid,Automatic,Blue,Estate,141.3 mpg
+/ad/30814850,BMW X3,3 M xDrive X3,"50,000",2021,Semi-Auto,24.8 mpg,Petrol,2021,3L,"9,560 miles",Petrol,Semiauto,Grey,SUV,24.8 mpg
+/ad/30819880,BMW M4,3.0 M4,"50,000",2020,Semi-Auto,Tax: n/a,2020,3L,"14,803 miles",Petrol,Semi Automatic,Coupe,,,
+/ad/30423353,BMW X5,3.0 40d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 20s,"50,000",2021,Automatic,34.9 mpg,Hybrid,2021,2993cc,"22,562 miles",Diesel Hybrid,Automatic,Black,SUV,34.9 mpg
+/ad/30916976,BMW X6,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 22s,"50,000",2020,Automatic,33.2 mpg,Diesel,2020,2993cc,"32,897 miles",Diesel,Automatic,Blue,SUV,33.2 mpg
+/ad/26978236,BMW M3,M3,"49,995",2015,Automatic,35.3 mpg,Petrol,2015,2979cc,"3,658 miles",Petrol,Automatic,Blue,Saloon,35.3 mpg
+/ad/30711359,BMW i4,250kW eDrive40 M Sport 83.9kWh 5dr Auto Coupe,"49,995",2023,Automatic,Tax: £0,2023,"8,967 miles",Electric,Automatic,Other,Coupe,,,
+/ad/30706121,BMW X3,3 3.0 M COMPETITION 5d 503 BHP Estate,"49,995",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"20,000 miles",Petrol,Automatic,BRONZE,Estate,24.8 mpg
+/ad/30801725,BMW X3,3 3.0 M COMPETITION 5d 503 BHP Estate,"49,995",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"20,101 miles",Petrol,Automatic,WHITE,Estate,24.8 mpg
+/ad/30411136,BMW X3,3 M40I - PAN ROOF - BODYKIT - M SEATS - CARBON INTERIOR Estate,"49,995",2022,Automatic,30.7 mpg,Petrol,2022,2998cc,"22,000 miles",Petrol,Automatic,Black,Estate,30.7 mpg
+/ad/30767551,BMW i4,X4M X4M Competition SUV,"49,995",2021,Automatic,24.8 mpg,Petrol,2021,2993cc,"26,439 miles",Petrol,Automatic,Black,SUV,24.8 mpg
+/ad/30195605,BMW X5,5 3.0 30d MHT M Sport SUV 5dr Auto xDrive Euro 6 (s/s) (286 ps) Estate,"49,995",2020,Automatic,37.7 mpg,Other,2020,2993cc,"28,000 miles",Other,Automatic,WHITE,Estate,37.7 mpg
+/ad/30724355,BMW X3,3 3.0i Competition Auto xDrive Euro 6 (s/s) 5dr SUV,"49,995",2020,Automatic,24.8 mpg,Petrol,2020,2993cc,"29,000 miles",Petrol,Automatic,Grey,SUV,24.8 mpg
+/ad/30791000,BMW X3,3 3.0 X3,"49,995",2020,Automatic,24.8 mpg,Petrol,2020,2993cc,"29,425 miles",Petrol,Automatic,Grey,SUV,24.8 mpg
+/ad/30250817,BMW X5,5 DIESEL ESTATE SUV,"49,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"42,000 miles",Diesel,Automatic,Mineral,SUV,37.7 mpg
+/ad/30712202,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"49,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"44,365 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30668330,BMW Z1,CONVERTIBLE Convertible,"49,995",1990,Manual,Tax: £325,1990,2.494L,"59,963 miles",Petrol,Manual,Black,Convertible,,
+/ad/28860662,BMW i8,1.5 I8 2d 228 BHP Coupe,"49,995",2015,Automatic,134.5 mpg,Other,2015,1499cc,"70,000 miles",Other,Automatic,WHITE,Coupe,134.5 mpg
+/ad/29300422,BMW M5,5 4.4 i V8 Competition Saloon,"49,995",2019,Automatic,Tax: n/a,2019,4395cc,"30,200 miles",Petrol,Automatic,Grey,Saloon,,
+/ad/30961300,BMW X3,X3,"49,995",2023,Automatic,Tax: £0,2023,"4,425 miles",Electric,Automatic,Other,SUV,,,
+/ad/26970145,BMW 1 Series,1 Series,"49,990",2011,Manual,29.4 mpg,Petrol,2011,2979cc,"16,350 miles",Petrol,Manual,Black,Coupe,29.4 mpg
+/ad/30284536,BMW X5,5 Estate,"49,990",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"25,000 miles",Diesel,Automatic,Grey,Estate,37.7 mpg
+/ad/30143945,BMW 4 Series,3.0 M4 COMPETITION PACKAGE 2d 444 BHP Coupe,"49,990",2016,Automatic,34.0 mpg,Petrol,2016,2979cc,"47,000 miles",Petrol,Automatic,BLUE,Coupe,34 mpg
+/ad/30911730,BMW Alpina,3.5 TWR Saloon,"49,990",1982,Automatic,Tax: £325,1982,3430cc,"97,000 miles",Petrol,Automatic,Sapphire Blue,Saloon,,
+/ad/30946110,BMW X4,xDrive30d MHT M Sport 5dr Auto SUV,"49,990",2023,Semi-Auto,42.8 mpg,Diesel,2023,3L,"7,240 miles",Diesel,Semiauto,Grey,SUV,42.8 mpg
+/ad/30071922,BMW X5,5 XDRIVE 30D M SPORT ***MHEV***12 MONTHS WARRANTY*** Estate,"49,990",2021,Automatic,37.7 mpg,Other,2021,2993cc,"70,274 miles",Other,Automatic,White,Estate,37.7 mpg
+/ad/30474152,BMW X5,DIESEL ESTATE SUV,"49,989",2020,Automatic,44.8 mpg,Diesel,2020,2993cc,"42,000 miles",Diesel,Automatic,Phytonic,SUV,44.8 mpg
+/ad/27992510,BMW 8 Series,8 Series,"49,988",2020,Automatic,31.7 mpg,Petrol,2020,2998cc,"12,242 miles",Petrol,Automatic,BLACK,Coupe,31.7 mpg
+/ad/30852203,BMW X5,5 Series X5,"49,950",2020,Automatic,27.2 mpg,Petrol,2020,2998cc,"7,259 miles",Petrol,Automatic,Grey,SUV,27.2 mpg
+/ad/29550393,BMW 8 Series,M850i xDrive Gran Coupe Saloon,"49,950",2020,Automatic,26.9 mpg,Petrol,2020,4395cc,"21,752 miles",Petrol,Automatic,Black,Saloon,26.9 mpg
+/ad/30543675,BMW X3,3.0 M COMPETITION 5d 503 BHP Estate,"49,950",2021,Automatic,24.8 mpg,Petrol,2021,2993cc,"30,000 miles",Petrol,Automatic,GREY,Estate,24.8 mpg
+/ad/30838134,BMW X5,5 xDrive30d MHT M Sport 5dr Auto [7 Seat] Tec/Pro Pk Estate,"49,950",2021,Automatic,37.7 mpg,Other,2021,2993cc,"49,408 miles",Other,Automatic,Black Sapphire Metallic,Estate,37.7 mpg
+/ad/30543047,BMW X5,5 3.0 M50d Auto xDrive Euro 6 (s/s) 5dr SUV,"49,950",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"53,000 miles",Diesel,Automatic,White,SUV,33.6 mpg
+/ad/30730358,BMW X5,5 3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"49,950",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"30,000 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30947918,BMW 4 Series,3.0 M440i MHT Auto xDrive Euro 6 (s/s) 2dr Coupe,"49,950",2023,Automatic,36.2 mpg,Hybrid,2023,3.0l,"3,341 miles",Hybrid,Automatic,Black,Coupe,36.2 mpg
+/ad/30678375,BMW X3,3 3.0i Competition Auto xDrive Euro 6 (s/s) 5dr SUV,"49,950",2021,Automatic,24.8 mpg,Petrol,2021,2993cc,"21,000 miles",Petrol,Automatic,Black,SUV,24.8 mpg
+/ad/30945487,BMW 3 Series,3.0 M340i MHT Auto xDrive Euro 6 (s/s) 4dr Saloon,"49,950",2023,Automatic,34.5 mpg,Hybrid,2023,3.0l,"9,261 miles",Hybrid,Automatic,Blue,Saloon,34.5 mpg
+/ad/30892596,BMW i4,250kW eDrive40 M Sport 83.9kWh 5dr Auto Coupe,"49,900",2023,Automatic,Tax: £0,2023,"4,816 miles",Electric,Automatic,Other,Coupe,,,
+/ad/29943918,BMW X5,3.0L M50D 5d AUTO 395 BHP Estate,"49,890",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"68,900 miles",Diesel,Automatic,BLACK,Estate,33.6 mpg
+/ad/29192414,BMW X5,5 DIESEL ESTATE SUV,"49,850",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"62,715 miles",Diesel,Automatic,Grey,SUV,33.6 mpg
+/ad/30931452,BMW X3,Series iX3,"49,755",2023,Automatic,Tax: £0,2023,"9,051 miles",Electric,Automatic,Blue,SUV,,,
+/ad/28867522,BMW X3,Estate,"49,750",2020,Automatic,30.1 mpg,Petrol,2020,3000cc,"9,000 miles",Petrol,Automatic,Black,Estate,30.1 mpg
+/ad/30676135,BMW X6,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 22s,"49,750",2019,Automatic,33.2 mpg,Diesel,2019,2993cc,"33,698 miles",Diesel,Automatic,Blue,SUV,33.2 mpg
+/ad/30865205,BMW X5,5 3.0 30d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"49,750",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"58,000 miles",Diesel,Automatic,Blue,SUV,37.7 mpg
+/ad/30887175,BMW X5,5 xDrive M50d 5dr Auto SUV,"49,740",2020,Semi-Auto,33.6 mpg,Diesel,2020,3L,"46,646 miles",Diesel,Semiauto,White,SUV,33.6 mpg
+/ad/30913560,BMW X5,5 xDrive M50d 5dr Auto SUV,"49,500",2020,Semi-Auto,33.6 mpg,Diesel,2020,3L,"24,347 miles",Diesel,Semiauto,Grey,SUV,33.6 mpg
+/ad/30957519,BMW X3,3 xDrive30d MHT M Sport 5dr Auto SUV,"49,500",2023,Semi-Auto,42.2 mpg,Diesel,2023,3L,"6,230 miles",Diesel,Semiauto,Blue,SUV,42.2 mpg
+/ad/30665246,BMW 3 Series,M340i xDrive MHT 4dr Step Auto Saloon,"49,450",2023,Semi-Auto,34.5 mpg,Hybrid,2023,3L,"9,424 miles",Hybrid,Semiauto,Grey,Saloon,34.5 mpg
+/ad/30859200,BMW X4,xDrive30d MHT M Sport 5dr Auto SUV,"49,390",2023,Semi-Auto,42.8 mpg,Diesel,2023,3L,"10,493 miles",Diesel,Semiauto,Black,SUV,42.8 mpg
+/ad/30555931,BMW X3,3 3.0 M COMPETITION 5d 503 BHP Estate,"49,250",2020,Automatic,24.8 mpg,Petrol,2020,2993cc,"33,895 miles",Petrol,Automatic,GREY,Estate,24.8 mpg
+/ad/30857512,BMW X4,xDrive30d MHT M Sport 5dr Auto SUV,"49,090",2023,Semi-Auto,42.8 mpg,Diesel,2023,3L,"7,504 miles",Diesel,Semiauto,Black,SUV,42.8 mpg
+/ad/30955451,BMW X3,80kWh M Sport Pro SUV 5dr Electric Auto (286 ps) Other,"49,022",2023,Automatic,Tax: n/a,2023,"4,527 miles",Electric,Automatic,Blue,Other,,,
+/ad/30929737,BMW X6,6 xDrive30d M Sport 5dr Step Auto SUV,"49,000",2020,Semi-Auto,34.9 mpg,Diesel,2020,3L,"11,071 miles",Diesel,Semiauto,Grey,SUV,34.9 mpg
+/ad/30629183,BMW 7 Series,740Ld xDrive M Sport 4dr Auto Saloon,"49,000",2021,Automatic,41.5 mpg,Diesel,2021,2993cc,"12,734 miles",Diesel,Automatic,Black,Saloon,41.5 mpg
+/ad/30917006,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 22s,"49,000",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"26,393 miles",Diesel,Automatic,Grey,SUV,33.6 mpg
+/ad/30657421,BMW X5,3.0 40d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 20s,"49,000",2020,Automatic,34.9 mpg,Hybrid,2020,2993cc,"39,808 miles",Diesel Hybrid,Automatic,Blue,SUV,34.9 mpg
+/ad/30501753,BMW X6,6 xDrive40i MHT M Sport 5dr Step Auto SUV,"49,000",2021,Semi-Auto,28.8 mpg,Hybrid,2021,3L,"14,746 miles",Hybrid,Semiauto,Grey,SUV,28.8 mpg
+/ad/30803175,BMW X5,5 3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"48,999",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"24,177 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30369628,BMW 8 Series,XDRIVE 523 BHP LASER LIGHT PACKAGE Coupe,"48,995",2019,Automatic,26.9 mpg,Petrol,2019,4395cc,"9,958 miles",Petrol,Automatic,ALPINE WHITE GLOSS,Coupe,26.9 mpg
+/ad/30726238,BMW X5,5 3.0 XDRIVE45E M SPORT 5d AUTO 389 BHP Estate,"48,995",2021,Automatic,188.3 mpg,Other,2021,2998cc,"49,939 miles",Other,Automatic,WHITE,Estate,188.3 mpg
+/ad/30366244,BMW M5,5 4.4i V8 Competition Saloon 4dr Petrol Steptronic xDrive Euro 6 (s/s) (625 ps) Saloon,"48,991",2019,Automatic,24.1 mpg,Petrol,2019,4395cc,"36,199 miles",Petrol,Automatic,GREY,Saloon,24.1 mpg
+/ad/30720589,BMW X1,230kW xDrive30 M Sport 65kWh 5dr Auto SUV,"48,990",2023,Automatic,Tax: £0,2023,"3,290 miles",Electric,Automatic,Unknown,SUV,,,
+/ad/30864509,BMW X3,3 M COMPETITION Estate,"47,990",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"16,000 miles",Petrol,Automatic,Sophisto Grey Metallic,Estate,24.8 mpg
+/ad/30744389,BMW X7,xDrive30d M Sport 5dr Step Auto SUV,"48,990",2020,Semi-Auto,33.6 mpg,Diesel,2020,3L,"60,054 miles",Diesel,Semiauto,Black,SUV,33.6 mpg
+/ad/30500692,BMW 4 Series,M440i xDrive MHT 2dr Step Auto Coupe,"48,990",2023,Automatic,36.2 mpg,Petrol,2023,2998cc,"14,337 miles",Petrol,Automatic,Unknown,Coupe,36.2 mpg
+/ad/29600447,BMW X3,3 xDrive M40i MHT 5dr Auto SUV,"48,990",2022,Semi-Auto,30.7 mpg,Hybrid,2022,3L,"15,890 miles",Hybrid,Semiauto,Blue,SUV,30.7 mpg
+/ad/30912593,BMW i4,400kW M50 83.9kWh 5dr Auto Coupe,"48,990",2022,Automatic,Tax: £0,2022,"16,559 miles",Electric,Automatic,Blue,Coupe,,,
+/ad/30685905,BMW X5,5 XDRIVE30D M SPORT SKY LOUNGE PANORAMIC ROOF FBMWSH Estate,"48,980",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"6,000 miles",Diesel,Automatic,Metallic Phytonic Blue,Estate,37.7 mpg
+/ad/30901467,BMW 7 Series,745LE XDRIVE M SPORT PHEV Saloon,"48,977",2021,Automatic,104.6 mpg,Other,2021,2998cc,"39,397 miles",Other,Automatic,Black,Saloon,104.6 mpg
+/ad/30489772,BMW i8,1.5 i8,"48,950",2014,Automatic,134.5 mpg,Petrol,2014,1499cc,"47,980 miles",Petrol,Automatic,Silver,Coupe,134.5 mpg
+/ad/30960606,BMW 5 Series,2.0 530e 12kWh M Sport Steptronic Euro 6 (s/s) 4dr Saloon,"48,950",2023,Automatic,156.9 mpg,Hybrid,2023,2.0l,"4,950 miles",Hybrid,Automatic,Blue,Saloon,156.9 mpg
+/ad/30101144,BMW M5,4.4 V8 Steptronic xDrive Euro 6 (s/s) 4dr 360 D CAMERA,"48,880",2019,Automatic,26.9 mpg,Petrol,2019,4395cc,"13,000 miles",Petrol,Automatic,White,Saloon,26.9 mpg
+/ad/30195532,BMW M5,5 4.4 V8 Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"48,595",2019,Automatic,26.9 mpg,Petrol,2019,4395cc,"11,002 miles",Petrol,Automatic,White,Saloon,26.9 mpg
+/ad/30876869,BMW X6,6 xDrive40i M Sport 5dr Step Auto SUV,"48,590",2020,Semi-Auto,26.4 mpg,Petrol,2020,3L,"15,756 miles",Petrol,Semiauto,Blue,SUV,26.4 mpg
+/ad/30790543,BMW iX,240kW xDrive40 M Sport 76.6kWh 5dr Auto SUV,"48,520",2022,Automatic,Tax: £0,2022,"22,868 miles",Electric,Automatic,Black,SUV,,,
+/ad/30831208,BMW X5,xDrive M50d 5dr Auto SUV,"48,500",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"25,045 miles",Diesel,Automatic,Blue,SUV,33.6 mpg
+/ad/30805470,BMW 4 Series,M440d xDrive Convertible £700 DEPOSIT CONTRIBUTION Convertible,"48,500",2023,Automatic,44.8 mpg,Hybrid,2023,2993cc,"4,369 miles",Diesel Hybrid,Automatic,Grey,Convertible,44.8 mpg
+/ad/30829531,BMW iX,iX,"48,500",2022,Automatic,Tax: £0,2022,"27,628 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30049256,BMW 4 Series,M4 CS 2dr DCT Coupe,"48,495",2019,Automatic,33.6 mpg,Petrol,2019,2979cc,"27,000 miles",Petrol,Automatic,Blue,Coupe,33.6 mpg
+/ad/27570697,BMW X5,xDrive30d M Sport 5dr Auto Estate,"48,495",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"44,980 miles",Diesel,Automatic,Grey,Estate,37.7 mpg
+/ad/30904534,BMW X5,xDrive30d M Sport 5dr Auto SUV,"48,490",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"44,421 miles",Diesel,Automatic,Blue,SUV,37.7 mpg
+/ad/30804524,BMW X5,5 xDrive M50d 5dr Auto SUV,"48,490",2020,Semi-Auto,33.6 mpg,Diesel,2020,3L,"35,217 miles",Diesel,Semiauto,Black,SUV,33.6 mpg
+/ad/30665242,BMW X6,6 xDrive40i M Sport 5dr Step Auto SUV,"48,450",2020,Semi-Auto,26.4 mpg,Petrol,2020,3L,"28,380 miles",Petrol,Semiauto,Grey,SUV,26.4 mpg
+/ad/30874831,BMW X5,5 3.0 XDRIVE45E M SPORT 5dr 389 BHP Estate,"48,330",2020,Automatic,188.3 mpg,Other,2020,2998cc,"61,000 miles",Other,Automatic,GREY,Estate,188.3 mpg
+/ad/29732806,BMW X6,6 xDrive40d MHT M Sport 5dr Step Auto SUV,"48,290",2021,Semi-Auto,36.2 mpg,Hybrid,2021,3L,"15,815 miles",Hybrid,Semiauto,Black,SUV,36.2 mpg
+/ad/30301936,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 22s,"48,250",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"31,200 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/30922309,BMW X3,80kWh M Sport Pro SUV 5dr Electric Auto (286 ps) M Sport Bodykit,"48,200",2022,Automatic,Tax: £0,2022,"6,803 miles",Electric,Automatic,Black,SUV,,,
+/ad/30591288,BMW X4,3.0i Competition SUV 5dr Petrol Auto xDrive Euro 6 (s/s) (510 ps) Other,"48,200",2021,Automatic,24.8 mpg,Petrol,2021,2993cc,"20,165 miles",Petrol,Automatic,Grey,Other,24.8 mpg
+/ad/30903448,BMW X5,5 xDrive40d MHT M Sport 5dr Auto SUV,"48,190",2021,Semi-Auto,34.9 mpg,Diesel,2021,3L,"37,781 miles",Diesel,Semiauto,Black,SUV,34.9 mpg
+/ad/30896285,BMW X5,5 xDrive M50d 5dr Auto SUV,"48,090",2019,Semi-Auto,33.6 mpg,Diesel,2019,3L,"40,176 miles",Diesel,Semiauto,White,SUV,33.6 mpg
+/ad/30777980,BMW X3,3.0 M40i MHT Auto xDrive Euro 6 (s/s) 5dr 21s,"48,000",2022,Automatic,Tax: n/a,2022,2998cc,"8,000 miles",Petrol Hybrid,Automatic,Blue,SUV,,
+/ad/30771540,BMW X3,M xDrive X3,"48,000",2020,Automatic,24.8 mpg,Petrol,2020,2993cc,"15,225 miles",Petrol,Automatic,Red,SUV,24.8 mpg
+/ad/30363339,BMW X5,3.0 45e 24kWh M Sport Auto xDrive Euro 6 (s/s) 5dr 20s,"48,000",2020,Automatic,188.3 mpg,Hybrid,2020,2998cc,"16,825 miles",Petrol Plug-in Hybrid,Automatic,Blue,SUV,188.3 mpg
+/ad/30544595,BMW X5,5 3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"48,000",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"20,000 miles",Diesel,Automatic,BLACK,Estate,37.7 mpg
+/ad/30897453,BMW 5 Series,530e xDrive M Sport Saloon Saloon,"48,000",,Automatic,134.5 mpg,Hybrid,1998cc,"3,000 miles",Petrol Plugin Hybrid,Automatic,White,Saloon,134.5 mpg,
+/ad/30433275,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"48,000",2021,Semi-Auto,37.7 mpg,Hybrid,2021,3L,"8,327 miles",Hybrid,Semiauto,White,SUV,37.7 mpg
+/ad/28993398,BMW X4,xDrive M40i MHT 5dr Auto SUV,"48,000",2022,Semi-Auto,30.7 mpg,Hybrid,2022,3L,"12,799 miles",Hybrid,Semiauto,Black,SUV,30.7 mpg
+/ad/30803174,BMW X5,5 3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"47,999",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"20,227 miles",Diesel,Automatic,Blue,SUV,37.7 mpg
+/ad/30589121,BMW X5,3.0 XDRIVE30D M SPORT 5d AUTO 261 BHP Estate,"47,999",2020,Automatic,37.7 mpg,Diesel,2020,3L,"30,165 miles",Diesel,Automatic,Black,Estate,37.7 mpg
+/ad/30672496,BMW X5,5 xDrive30d MHT M Sport 5dr Auto Estate,"47,995",2021,Automatic,37.7 mpg,Diesel,2021,2993cc,"21,500 miles",Diesel,Automatic,Black,Estate,37.7 mpg
+/ad/30586828,BMW X3,3.0 X3,"47,995",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"29,000 miles",Petrol,Automatic,Grey,SUV,24.8 mpg
+/ad/30754954,BMW M2,3.0 BiTurbo Competition DCT Euro 6 (s/s) 2dr Coupe,"47,995",2019,Automatic,29.1 mpg,Petrol,2019,2979cc,"29,000 miles",Petrol,Automatic,Silver,Coupe,29.1 mpg
+/ad/30718029,BMW X5,5 xDrive M50d 5dr Auto SUV,"47,995",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"37,539 miles",Diesel,Automatic,Arctic Grey,SUV,33.6 mpg
+/ad/30797189,BMW X5,5 3.0 X5,"47,995",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"39,900 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30323281,BMW 4 Series,3.0 M440I XDRIVE MHEV 2d 369 BHP Convertible,"47,994",2021,Automatic,34.9 mpg,Other,2021,2998cc,"21,563 miles",Other,Automatic,BLACK,Convertible,34.9 mpg
+/ad/30711358,BMW X3,X3,"47,990",2023,Automatic,Tax: £0,2023,"3,602 miles",Electric,Automatic,Other,SUV,,,
+/ad/30882855,BMW X5,xDrive30d MHT M Sport 5dr Auto SUV,"47,990",2021,Automatic,37.7 mpg,Diesel,2021,2993cc,"28,836 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30292866,BMW 4 Series,M440i xDrive MHT 5dr Step Auto Coupe,"47,990",2023,Semi-Auto,34.0 mpg,Hybrid,2023,3L,"8,135 miles",Hybrid,Semiauto,Black,Coupe,34 mpg
+/ad/30845353,BMW X5,5 3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"47,990",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"21,200 miles",Diesel,Automatic,WHITE,Estate,37.7 mpg
+/ad/30886836,BMW 5 Series,530d xDrive MHT M Sport 5dr Auto Estate,"47,990",2023,Semi-Auto,44.1 mpg,Diesel,2023,3L,"9,541 miles",Diesel,Semiauto,Grey,Estate,44.1 mpg
+/ad/30930674,BMW 4 Series,M440i xDrive MHT 2dr Step Auto Estate,"47,950",2022,Semi-Auto,30.7 mpg,Hybrid,2022,3L,"5,130 miles",Hybrid,Semiauto,Black,Estate,30.7 mpg
+/ad/30863816,BMW X3,80kWh M Sport Pro Auto 5dr Other,"47,950",2023,Automatic,Tax: £0,2023,"6,450 miles",Electric,Automatic,Grey,Other,,,
+/ad/30909920,BMW i4,40 83.9kWh M Sport Gran Coupe Auto eDrive 5dr Hatchback,"47,950",2023,Automatic,Tax: £0,2023,"7,450 miles",Electric,Automatic,Blue,Hatchback,,,
+/ad/30614093,BMW X5,5 3.0 30d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"47,950",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"51,000 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30846837,BMW 3 Series,3.0 M340i MHT Auto xDrive Euro 6 (s/s) 4dr Saloon,"47,950",2023,Automatic,34.5 mpg,Hybrid,2023,3.0l,"6,868 miles",Hybrid,Automatic,White,Saloon,34.5 mpg
+/ad/30951211,BMW i4,Series i4,"47,950",2023,Automatic,Tax: £0,2023,"4,250 miles",Other,Automatic,Grey,Hatchback,,,
+/ad/30918993,BMW X3,3 M xDrive X3,"47,920",2021,Semi-Auto,24.8 mpg,Petrol,2021,3L,"16,050 miles",Petrol,Semiauto,Blue,SUV,24.8 mpg
+/ad/30519433,BMW X5,4.4 BiTurbo V8 Auto xDrive Euro 6 (s/s) 5dr (5 Seat) SUV,"47,900",2017,Automatic,25.4 mpg,Petrol,2017,4395cc,"15,050 miles",Petrol,Automatic,Blue,SUV,25.4 mpg
+/ad/30198910,BMW X5,5 3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"47,890",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"32,000 miles",Diesel,Automatic,WHITE,Estate,37.7 mpg
+/ad/30938509,BMW X3,3 xDrive20d MHT M Sport 5dr Step Auto SUV,"47,890",2023,Semi-Auto,44.8 mpg,Hybrid,2023,2L,"5,061 miles",Hybrid,Semiauto,Grey,SUV,44.8 mpg
+/ad/30940235,BMW X4,xDrive M40i MHT 5dr Auto SUV,"47,600",2022,Semi-Auto,30.7 mpg,Hybrid,2022,3L,"25,742 miles",Hybrid,Semiauto,Grey,SUV,30.7 mpg
+/ad/30656919,BMW 5 Series,530d xDrive M Sport Touring TOWBAR,"47,550",2023,Automatic,44.1 mpg,Hybrid,2023,2993cc,"9,897 miles",Diesel Hybrid,Automatic,Black,Estate,44.1 mpg
+/ad/30382689,BMW X5,3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"47,500",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"35,000 miles",Diesel,Automatic,BLACK,Estate,37.7 mpg
+/ad/30720527,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 22s,"47,500",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"59,404 miles",Diesel,Automatic,Grey,SUV,33.6 mpg
+/ad/30917179,BMW i4 Series,i4 eDrive40 M Sport M SPORT PRO & TECH PACKS Hatchback,"47,500",2023,Automatic,Tax: £0,2023,"4,227 miles",Electric,Automatic,Green,Hatchback,,,
+/ad/30436728,BMW X5,5 DIESEL ESTATE SUV,"47,495",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"17,000 miles",Diesel,Automatic,Blue,SUV,37.7 mpg
+/ad/30826325,BMW X3,3.0 M COMPETITION 5d 503 BHP Estate,"47,495",2019,Automatic,24.8 mpg,Petrol,2019,3L,"20,000 miles",Petrol,Automatic,Black,Estate,24.8 mpg
+/ad/30083999,BMW X5,5 DIESEL ESTATE SUV,"47,495",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"27,000 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30382747,BMW X5,5 XDRIVE30D M SPORT**FULL BODYKIT **UPGRADED ALLOYS** Estate,"47,495",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"63,747 miles",Diesel,Automatic,Grey,Estate,37.7 mpg
+/ad/30863251,BMW 4 Series,M440i xDrive MHT 2dr Step Auto Coupe,"47,490",2023,Semi-Auto,36.2 mpg,Hybrid,2023,3L,"6,354 miles",Hybrid,Semiauto,Other,Coupe,36.2 mpg
+/ad/30753621,BMW X3,3 M xDrive X3,"47,400",2020,Semi-Auto,24.8 mpg,Petrol,2020,3L,"24,090 miles",Petrol,Semiauto,Grey,SUV,24.8 mpg
+/ad/30938647,BMW 3 Series,M340i xDrive MHT 4dr Step Auto Saloon,"47,390",2023,Semi-Auto,34.5 mpg,Hybrid,2023,3L,"6,612 miles",Hybrid,Semiauto,Grey,Saloon,34.5 mpg
+/ad/30748781,BMW X5,5 xDrive45e M Sport 5dr Auto SUV,"47,390",2021,Semi-Auto,188.3 mpg,Hybrid,2021,3L,"25,896 miles",Hybrid,Semiauto,Grey,SUV,188.3 mpg
+/ad/30786783,BMW X5,5 DIESEL ESTATE SUV,"47,250",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"59,000 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30894101,BMW 4 Series,M440i xDrive MHT 5dr Step Auto Coupe,"47,000",2022,Semi-Auto,34.0 mpg,Hybrid,2022,3L,"4,700 miles",Hybrid,Semiauto,Red,Coupe,34 mpg
+/ad/30938456,BMW X3,Series X3,"47,000",2023,Automatic,44.8 mpg,Hybrid,2023,1995cc,"6,957 miles",Diesel Hybrid,Automatic,Grey,SUV,44.8 mpg
+/ad/30917070,BMW X5,xDrive30d M Sport 5dr Auto SUV,"47,000",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"34,913 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30871585,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 22s,"47,000",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"43,500 miles",Diesel,Automatic,White,SUV,33.6 mpg
+/ad/30328433,BMW X5,3.0 M50D 5d 395 BHP Estate,"46,996",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"48,707 miles",Diesel,Automatic,BLACK,Estate,33.6 mpg
+/ad/30767427,BMW X3,3 X Drive M Competition Estate,"46,995",2020,Automatic,24.8 mpg,Petrol,2020,3000cc,"10,216 miles",Petrol,Automatic,Donington Grey,Estate,24.8 mpg
+/ad/30654355,BMW 5 Series,545e xDrive M Sport 4dr Auto Saloon,"46,995",2023,Automatic,128.4 mpg,Petrol,2023,2998cc,"14,195 miles",Petrol,Automatic,Carbon Black,Saloon,128.4 mpg
+/ad/30637271,BMW iX,240kW xDrive40 M Sport 76.6kWh 5dr Auto SUV,"46,995",2022,Automatic,Tax: £0,2022,1000cc,"15,718 miles",Other,Automatic,Bmw Individual Aventurine Red Iii,SUV,,
+/ad/30948893,BMW X5,5 3.0 XDRIVE 30D M SPORT MHEV 5d 282 BHP Estate,"46,995",2021,Automatic,37.7 mpg,Other,2021,2993cc,"25,000 miles",Other,Automatic,Black,Estate,37.7 mpg
+/ad/30652950,BMW X5,5 xDrive40d MHT M Sport 5dr Auto SUV,"46,995",2021,Semi-Auto,34.9 mpg,Diesel,2021,3L,"31,275 miles",Diesel,Semiauto,Blue,SUV,34.9 mpg
+/ad/30729062,BMW M5,5 M5,"46,995",2018,Semi-Auto,24.1 mpg,Petrol,2018,4.4L,"34,000 miles",Petrol,Semiauto,Grey,Saloon,24.1 mpg
+/ad/30731832,BMW M5,5 4.4 M5,"46,995",2018,Automatic,24.1 mpg,Petrol,2018,4395cc,"34,000 miles",Petrol,Automatic,GREY,Saloon,24.1 mpg
+/ad/30765339,BMW M5,5 SALOON Saloon,"46,995",2020,Automatic,24.1 mpg,Petrol,2020,4395cc,"37,000 miles",Petrol,Automatic,Grey,Saloon,24.1 mpg
+/ad/30494837,BMW X5,5 3.0 X5,"46,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"44,000 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30037119,BMW X5,5 3.0 XDRIVE 30D M SPORT MHEV 5d 282 BHP Estate,"46,995",2021,Automatic,37.7 mpg,Other,2021,2993cc,"46,000 miles",Other,Automatic,Grey,Estate,37.7 mpg
+/ad/26970134,BMW 4 Series,COMPETITION Coupe,"46,990",2019,Automatic,34.0 mpg,Petrol,2019,2979cc,"1,850 miles",Petrol,Automatic,Blue,Coupe,34 mpg
+/ad/30610165,BMW X5,xDrive30d MHT M Sport 5dr Auto SUV,"46,990",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"13,885 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30596256,BMW X5,5 xDrive45e M Sport 5dr Auto SUV,"46,990",2020,Semi-Auto,188.3 mpg,Hybrid,2020,3L,"30,186 miles",Hybrid,Semiauto,Grey,SUV,188.3 mpg
+/ad/30645577,BMW X5,xDrive45e M Sport 5dr Auto SUV,"46,990",2021,Automatic,188.3 mpg,Hybrid,2021,2998cc,"30,872 miles",Petrol Plugin Hybrid,Automatic,Grey,SUV,188.3 mpg
+/ad/30430712,BMW X3,Estate,"46,990",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"46,000 miles",Petrol,Automatic,Blue,Estate,24.8 mpg
+/ad/30926560,BMW 2 Series,M240i xDrive Coupe M PERFOMANCE BODYSTYLING!! Coupe,"46,950",2023,Automatic,Tax: n/a,2023,2998cc,"3,891 miles",Petrol,Automatic,Black,Coupe,,
+/ad/30783345,BMW 4 Series,M440d xDrive MHT 2dr Step Auto Convertible,"46,950",2023,Semi-Auto,44.8 mpg,Hybrid,2023,3L,"5,549 miles",Hybrid,Semiauto,Grey,Convertible,44.8 mpg
+/ad/30624942,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"46,900",2020,Semi-Auto,37.7 mpg,Diesel,2020,3L,"26,690 miles",Diesel,Semiauto,White,SUV,37.7 mpg
+/ad/30862565,BMW 2 Series,M240i xDrive 2dr Step Auto Coupe,"46,899",2023,Semi-Auto,32.1 mpg,Petrol,2023,3L,"6,394 miles",Petrol,Semiauto,Black,Coupe,32.1 mpg
+/ad/30922203,BMW X3,X3,"46,895",2022,Automatic,Tax: £0,2022,"6,911 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30722021,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"46,895",2019,Semi-Auto,37.7 mpg,Diesel,2019,3L,"24,480 miles",Diesel,Semiauto,Black,SUV,37.7 mpg
+/ad/30471820,BMW X5,DIESEL ESTATE SUV,"46,895",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"53,600 miles",Diesel,Automatic,Artic Grey,SUV,37.7 mpg
+/ad/30882687,BMW X5,5 xDrive45e M Sport 5dr Auto SUV,"46,890",2020,Semi-Auto,188.3 mpg,Hybrid,2020,3L,"35,840 miles",Hybrid,Semiauto,Black,SUV,188.3 mpg
+/ad/30744598,BMW X3,3 M xDrive X3,"46,870",2020,Semi-Auto,24.8 mpg,Petrol,2020,3L,"26,450 miles",Petrol,Semiauto,Black,SUV,24.8 mpg
+/ad/30816651,BMW 5 Series,530e xDrive M Sport Touring M+,"46,750",2023,Automatic,141.3 mpg,Hybrid,2023,1998cc,"9,551 miles",Petrol Plug-in Hybrid,Automatic,Grey,Estate,141.3 mpg
+/ad/30925365,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr Other,"46,750",2020,Automatic,37.7 mpg,Diesel,2020,3.0l,"39,172 miles",Diesel,Automatic,White,Other,37.7 mpg
+/ad/30517836,BMW 4 Series,M440i xDrive MHT 2dr Step NULL,"46,700",2022,Other,34.9 mpg,Petrol,2022,2998cc,"5,078 miles",Petrol,NULL,Black Sapphire,NULL,34.9 mpg
+/ad/30840688,BMW X3,3 M xDrive X3,"46,699",2020,Semi-Auto,24.8 mpg,Petrol,2020,3L,"17,068 miles",Petrol,Semiauto,Grey,SUV,24.8 mpg
+/ad/30668948,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 4X4,"46,699",2019,Automatic,37.7 mpg,Diesel,2019,2.99L,"27,565 miles",Diesel,Automatic,Black,4X4,37.7 mpg
+/ad/30340767,BMW 5 Series,530e M Sport 4dr Auto Saloon,"46,595",2023,Semi-Auto,156.9 mpg,Hybrid,2023,2L,"6,074 miles",Hybrid,Semiauto,Black,Saloon,156.9 mpg
+/ad/30340767,BMW 5 Series,530e M Sport 4dr Auto Saloon,"46,595",2023,Semi-Auto,156.9 mpg,Hybrid,2023,2L,"6,074 miles",Hybrid,Semiauto,Black,Saloon,156.9 mpg
+/ad/30859801,BMW i4 Series,i4 eDrive40 M Sport M PRO,"46,500",2023,Automatic,Tax: £0,2023,"7,145 miles",Electric,Automatic,Black,Hatchback,,,
+/ad/30871618,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr HK SOUND,"46,500",2019,Automatic,Tax: n/a,2019,2993cc,"31,946 miles",Diesel,Automatic,White,SUV,,
+/ad/30917071,BMW X5,xDrive M50d 5dr Auto SUV,"46,500",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"32,964 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/30748158,BMW X5,xDrive30d MHT M Sport 5dr Auto SUV,"46,500",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"44,369 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30851478,BMW X3,X3,"46,500",2023,Automatic,34.9 mpg,Hybrid,2023,1998cc,"9,378 miles",Petrol Hybrid,Automatic,White,SUV,34.9 mpg
+/ad/30897468,BMW X6,X6,"46,500",2020,Automatic,34.9 mpg,Diesel,2020,2993cc,"24,998 miles",Diesel,Automatic,Blue,SUV,34.9 mpg
+/ad/30805335,BMW 2 Series,220i M Sport 2dr Step Auto Convertible,"46,490",2023,Automatic,42.8 mpg,Petrol,2023,1998cc,"5,681 miles",Petrol,Automatic,Black,Convertible,42.8 mpg
+/ad/30739650,BMW X5,5 3.0 M50d SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (400 ps) Estate,"46,490",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"74,000 miles",Diesel,Automatic,BLACK,Estate,33.6 mpg
+/ad/30255146,BMW 5 Series,3.0 545e 12kWh M Sport Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"46,450",2022,Automatic,128.4 mpg,Petrol,2022,2998cc,"6,000 miles",Petrol,Automatic,Blue,Saloon,128.4 mpg
+/ad/30565353,BMW X5,5 xDrive M50d 5dr Auto SUV,"46,450",2020,Semi-Auto,33.6 mpg,Diesel,2020,3L,"48,570 miles",Diesel,Semiauto,Black,SUV,33.6 mpg
+/ad/27995872,BMW X5,5 3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"46,450",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"54,800 miles",Diesel,Automatic,WHITE,Estate,37.7 mpg
+/ad/30226479,BMW 5 Series,530e xDrive M Sport Saloon Saloon,"46,450",2023,Automatic,134.5 mpg,Other,2023,1998cc,"9,000 miles",Other,Automatic,Red,Saloon,134.5 mpg
+/ad/26994202,BMW 4 Series,3.0 M4 COMPETITION 2d 444 BHP Convertible,"46,439",2018,Automatic,32.5 mpg,Petrol,2018,2979cc,"19,600 miles",Petrol,Automatic,WHITE,Convertible,32.5 mpg
+/ad/30806077,BMW X5,5 xDrive45e M Sport 5dr Auto SUV,"46,395",2020,Semi-Auto,188.3 mpg,Hybrid,2020,3L,"46,652 miles",Hybrid,Semiauto,Grey,SUV,188.3 mpg
+/ad/30315313,BMW 5 Series,530e M Sport 4dr Auto Saloon,"46,385",2023,Semi-Auto,156.9 mpg,Hybrid,2023,2L,"7,300 miles",Hybrid,Semiauto,Black,Saloon,156.9 mpg
+/ad/30586779,BMW X5,5 3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"46,250",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"62,600 miles",Diesel,Automatic,Blue,SUV,37.7 mpg
+/ad/30904829,BMW X1,X1,"46,000",2023,Automatic,Tax: £0,2023,"3,438 miles",Electric,Automatic,Other,SUV,,,
+/ad/30728386,BMW X1,xDrive23i M Sport SUV,"46,000",,Automatic,40.9 mpg,Hybrid,1998cc,"5,000 miles",Petrol Hybrid,Automatic,Unknown,SUV,40.9 mpg,
+/ad/30728386,BMW X1,xDrive23i M Sport SUV,"46,000",,Automatic,40.9 mpg,Hybrid,1998cc,"5,000 miles",Petrol Hybrid,Automatic,Unknown,SUV,40.9 mpg,
+/ad/30746743,BMW X5,5 xDrive40i M Sport 5dr Auto SUV,"46,000",2019,Semi-Auto,27.2 mpg,Petrol,2019,3L,"9,800 miles",Petrol,Semiauto,Black,SUV,27.2 mpg
+/ad/30892823,BMW X5,xDrive30d M Sport 5dr Auto SUV,"46,000",2014,Automatic,37.7 mpg,Diesel,2014,2993cc,"25,767 miles",Diesel,Automatic,Blue,SUV,37.7 mpg
+/ad/30922273,BMW X5,xDrive30d M Sport 5dr Auto SUV,"46,000",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"25,970 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30776214,BMW 4 Series,M440d xDrive MHT 2dr Step Auto Convertible,"45,999",2022,Semi-Auto,44.8 mpg,Diesel,2022,3L,"2,717 miles",Diesel,Semiauto,Blue,Convertible,44.8 mpg
+/ad/30901881,BMW X3,3 xDrive M40d MHT 5dr Auto SUV,"45,999",2021,Semi-Auto,40.4 mpg,Diesel,2021,3L,"15,077 miles",Diesel,Semiauto,Grey,SUV,40.4 mpg
+/ad/30847700,BMW X3,X3,"45,995",2023,Automatic,Tax: £0,2023,1000cc,"5,817 miles",Other,Automatic,Sophisto Grey,SUV,,
+/ad/30473821,BMW X5,5 3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"45,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"15,000 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30931834,BMW M5,5 SALOON Saloon,"45,995",2019,Automatic,26.9 mpg,Petrol,2019,4395cc,"22,000 miles",Petrol,Automatic,Red,Saloon,26.9 mpg
+/ad/28362118,BMW Z4,3.2 M COUPE 3d 316 BHP Coupe,"45,995",1998,Manual,25.4 mpg,Petrol,1998,3201cc,"45,000 miles",Petrol,Manual,RED,Coupe,25.4 mpg
+/ad/29881863,BMW X5,5 xDrive M50d 5dr Auto Estate,"45,995",2020,Automatic,33.6 mpg,Diesel,2020,2993cc,"52,900 miles",Diesel,Automatic,GREY,Estate,33.6 mpg
+/ad/30886718,BMW X5,3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"45,995",2019,Automatic,37.7 mpg,Diesel,2019,3L,"60,000 miles",Diesel,Automatic,Grey,Estate,37.7 mpg
+/ad/30137950,BMW X5,3.0 M50D 5d 395 BHP Estate,"45,995",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"115,000 miles",Diesel,Automatic,BLACK,Estate,33.6 mpg
+/ad/30957444,BMW 4 Series,M440d xDrive MHT 2dr Step Auto Coupe,"45,995",2023,Semi-Auto,47.1 mpg,Diesel,2023,3L,"8,259 miles",Diesel,Semiauto,Blue,Coupe,47.1 mpg
+/ad/30796608,BMW X3,3 3.0 X3,"45,995",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"29,800 miles",Petrol,Automatic,Grey,SUV,24.8 mpg
+/ad/30716606,BMW X3,3 3.0 M COMPETITION 5d 503 BHP Estate,"45,995",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"31,000 miles",Petrol,Automatic,GREY,Estate,24.8 mpg
+/ad/30892644,BMW X5,5 xDrive45e xLine 5dr Auto SUV,"45,995",2020,Semi-Auto,188.3 mpg,Hybrid,2020,3L,"28,577 miles",Hybrid,Semiauto,Grey,SUV,188.3 mpg
+/ad/30702589,BMW M5,5 Competition 4dr DCT Saloon,"45,990",2019,Automatic,24.1 mpg,Petrol,2019,4395cc,"49,325 miles",Petrol,Automatic,Blue,Saloon,24.1 mpg
+/ad/30444722,BMW X5,Estate,"45,990",2019,Automatic,37.7 mpg,Diesel,2019,3000cc,"51,000 miles",Diesel,Automatic,White,Estate,37.7 mpg
+/ad/30934730,BMW X4,xDrive20d MHT M Sport 5dr Step Auto SUV,"45,990",2023,Semi-Auto,46.3 mpg,Diesel,2023,2L,"11,026 miles",Diesel,Semiauto,Grey,SUV,46.3 mpg
+/ad/30892810,BMW i4,250kW eDrive40 M Sport 83.9kWh 5dr Auto Hatchback,"45,990",2022,Automatic,Tax: £0,2022,"16,071 miles",Electric,Automatic,Green,Hatchback,,,
+/ad/30826571,BMW 5 Series,3.0 545e 12kWh M Sport Steptronic xDrive Euro 6 (s/s) 4dr Saloon,"45,950",2022,Automatic,128.4 mpg,Hybrid,2022,3.0l,"14,447 miles",Hybrid,Automatic,Black,Saloon,128.4 mpg
+/ad/30914000,BMW X5,3.0 30d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr Other,"45,950",2022,Automatic,37.7 mpg,Hybrid,2022,3.0l,"32,106 miles",Hybrid,Automatic,Blue,Other,37.7 mpg
+/ad/30917336,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr Other,"45,950",2019,Automatic,37.7 mpg,Diesel,2019,3.0l,"33,530 miles",Diesel,Automatic,White,Other,37.7 mpg
+/ad/28891846,BMW i8,1.5 7.1kWh Coupe 2dr Petrol Plug-in Hybrid Auto 4WD Euro 6 (s/s) (362 ps) Coupe,"45,890",2017,Automatic,134.5 mpg,Petrol,2017,1499cc,"25,000 miles",Petrol,Automatic,Silver,Coupe,134.5 mpg
+/ad/30715860,BMW X5,5 3.0 XDRIVE40I M SPORT 5d 336 BHP Estate,"45,890",2019,Automatic,27.2 mpg,Petrol,2019,2998cc,"67,900 miles",Petrol,Automatic,BLUE,Estate,27.2 mpg
+/ad/30882447,BMW 8 Series,M850i xDrive 2dr Auto Coupe,"45,890",2019,Semi-Auto,26.9 mpg,Petrol,2019,4.4L,"34,665 miles",Petrol,Semiauto,White,Coupe,26.9 mpg
+/ad/30881002,BMW X5,5 xDrive M50d 5dr Auto SUV,"45,890",2019,Semi-Auto,33.6 mpg,Diesel,2019,3L,"35,547 miles",Diesel,Semiauto,Black,SUV,33.6 mpg
+/ad/30877808,BMW X6,6 xDrive40i M Sport 5dr Step Auto SUV,"45,814",2020,Semi-Auto,26.4 mpg,Petrol,2020,3L,"30,300 miles",Petrol,Semiauto,White,SUV,26.4 mpg
+/ad/30582808,BMW X5,5 xDrive40d MHT M Sport 5dr Auto SUV,"45,790",2021,Semi-Auto,34.9 mpg,Diesel,2021,3L,"29,341 miles",Diesel,Semiauto,Grey,SUV,34.9 mpg
+/ad/30771481,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 21s,"45,750",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"10,597 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30805463,BMW 8 Series,M850i xDrive Coupe PREMIUM & VISIBILTY PACKS!! Coupe,"45,750",2019,Automatic,26.9 mpg,Petrol,2019,4395cc,"21,189 miles",Petrol,Automatic,Grey,Coupe,26.9 mpg
+/ad/30729143,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"45,720",2020,Semi-Auto,37.7 mpg,Hybrid,2020,3L,"32,667 miles",Hybrid,Semiauto,Black,SUV,37.7 mpg
+/ad/30708243,BMW X3,80kWh M Sport Pro SUV 5dr Electric Auto (286 ps) Sun Protection Pack,"45,700",2022,Automatic,Tax: £0,2022,"8,088 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30536281,BMW X1,1.5 XDRIVE25E M SPORT 5d 222 BHP Estate,"45,594",2022,Automatic,148.7 mpg,Other,2022,1499cc,"4,500 miles",Other,Automatic,GREY,Estate,148.7 mpg
+/ad/30916999,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 20s,"45,500",2021,Automatic,37.7 mpg,Diesel,2021,2993cc,"18,014 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30708083,BMW X5,3.0 30d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 20s,"45,500",2020,Automatic,37.7 mpg,Hybrid,2020,2993cc,"26,517 miles",Diesel Hybrid,Automatic,Grey,SUV,37.7 mpg
+/ad/30570725,BMW X5,5 3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"45,500",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"29,000 miles",Diesel,Automatic,BLACK,Estate,37.7 mpg
+/ad/30827625,BMW 4 Series,M440i xDrive MHT 5dr Step Auto Coupe,"45,500",2022,Semi-Auto,34.0 mpg,Hybrid,2022,3L,"9,101 miles",Hybrid,Semiauto,White,Coupe,34 mpg
+/ad/30627547,BMW 3 Series,M340d xDrive MHT 5dr Step Auto Estate,"45,490",2022,Semi-Auto,44.8 mpg,Diesel,2022,3L,"10,785 miles",Diesel,Semiauto,Black,Estate,44.8 mpg
+/ad/30753360,BMW X3,3 M xDrive X3,"45,445",2019,Semi-Auto,24.8 mpg,Petrol,2019,3L,"30,621 miles",Petrol,Semiauto,Red,SUV,24.8 mpg
+/ad/30716130,BMW X3,3 3.0i Competition SUV 5dr Petrol Auto xDrive Euro 6 (s/s) (510 ps) Estate,"45,385",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"33,229 miles",Petrol,Automatic,RED,Estate,24.8 mpg
+/ad/30820985,BMW X5,xDrive30d M Sport 5dr Aut NULL,"45,350",2020,Other,37.7 mpg,Diesel,2020,2993cc,"23,398 miles",Diesel,NULL,Mineral White Metallic,NULL,37.7 mpg
+/ad/30100262,BMW 4 Series,420i M Sport Pro Edition 2dr Step Auto Other,"45,000",2022,Automatic,39.8 mpg,Petrol,2022,1998cc,"2,480 miles",Petrol,Automatic,Blue,Other,39.8 mpg
+/ad/30913794,BMW X3,Series iX3,"45,000",2023,Automatic,Tax: £0,2023,"2,975 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30296141,BMW X3,X3,"45,000",2022,Automatic,Tax: £0,2022,"9,425 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30830878,BMW M4,3.0 BiTurbo CS DCT Euro 6 (s/s) 2dr 19s,"45,000",2018,Automatic,33.6 mpg,Petrol,2018,2979cc,"12,800 miles",Petrol,Automatic,Blue,Coupe,33.6 mpg
+/ad/30923199,BMW 8 Series,840i [333] sDrive M Sport 2dr Auto Coupe,"45,000",2022,Semi-Auto,33.6 mpg,Petrol,2022,3L,"15,519 miles",Petrol,Semiauto,Blue,Coupe,33.6 mpg
+/ad/29770456,BMW 8 Series,840D XDRIVE Convertible,"45,000",2019,Automatic,39.8 mpg,Diesel,2019,2993cc,"19,500 miles",Diesel,Automatic,Black,Convertible,39.8 mpg
+/ad/30680744,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 21s,"45,000",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"33,264 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30784512,BMW X6,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 21s,"45,000",2020,Automatic,34.9 mpg,Diesel,2020,2993cc,"38,236 miles",Diesel,Automatic,Grey,SUV,34.9 mpg
+/ad/30711182,BMW X5,5 xDrive45e M Sport 5dr Auto SUV,"45,000",2020,Semi-Auto,188.3 mpg,Hybrid,2020,3L,"50,666 miles",Hybrid,Semiauto,White,SUV,188.3 mpg
+/ad/30849129,BMW X6,6 xDrive M50d 5dr Auto SUV,"45,000",2020,Semi-Auto,33.2 mpg,Diesel,2020,3L,"66,500 miles",Diesel,Semiauto,Blue,SUV,33.2 mpg
+/ad/30945736,BMW X5,5 xDrive45e M Sport 5dr Auto Estate,"45,000",2020,Automatic,188.3 mpg,Petrol,2020,2998cc,"28,000 miles",Petrol,Automatic,BLACK,Estate,188.3 mpg
+/ad/30854910,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"45,000",2021,Semi-Auto,37.7 mpg,Diesel,2021,3L,"39,060 miles",Diesel,Semiauto,Black,SUV,37.7 mpg
+/ad/30868486,BMW X3,iX3,"45,000",2023,Automatic,Tax: £0,2023,"5,395 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30798525,BMW M5,5 4.4 M5,"44,999",2018,Automatic,24.1 mpg,Petrol,2018,4395cc,"42,500 miles",Petrol,Automatic,BLACK,Saloon,24.1 mpg
+/ad/30925375,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 4X4,"44,999",2019,Automatic,37.7 mpg,Diesel,2019,2.99L,"34,899 miles",Diesel,Automatic,Black,4X4,37.7 mpg
+/ad/30724373,BMW 3 Series,3.0 M340i MHT Auto xDrive Euro 6 (s/s) 4dr Saloon,"44,995",2022,Automatic,34.5 mpg,Petrol,2022,2998cc,"14,000 miles",Petrol,Automatic,Grey,Saloon,34.5 mpg
+/ad/30838517,BMW X4,M xDrive X4,"44,995",2020,Automatic,24.8 mpg,Petrol,2020,2993cc,"18,579 miles",Petrol,Automatic,Donington Grey,SUV,24.8 mpg
+/ad/28033283,BMW 7 Series,DIESEL SALOON Saloon,"44,995",2020,Automatic,44.8 mpg,Diesel,2020,2993cc,"32,000 miles",Diesel,Automatic,Dravit Grey,Saloon,44.8 mpg
+/ad/30915305,BMW X5,5 DIESEL ESTATE SUV,"44,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"35,000 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30866577,BMW X5,5 3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"44,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"44,000 miles",Diesel,Automatic,BLUE,Estate,37.7 mpg
+/ad/30847802,BMW X5,5 Xdrive30D M Sport Auto Estate,"44,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"45,543 miles",Diesel,Automatic,Grey,Estate,37.7 mpg
+/ad/30847802,BMW X5,5 Xdrive30D M Sport Auto Estate,"44,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"45,543 miles",Diesel,Automatic,Grey,Estate,37.7 mpg
+/ad/30670812,BMW X5,5 3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"44,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"48,000 miles",Diesel,Automatic,Grey,SUV,37.7 mpg
+/ad/27169910,BMW i8,1.5 I8 2d 228 BHP Coupe,"44,995",2015,Automatic,134.5 mpg,Other,2015,1499cc,"70,000 miles",Other,Automatic,GREY,Coupe,134.5 mpg
+/ad/27172596,BMW i8,2dr Auto Coupe,"44,995",2015,Automatic,134.5 mpg,Other,2015,1500cc,"70,000 miles",Other,Automatic,Grey,Coupe,134.5 mpg
+/ad/27028635,BMW Z3,Ref 8406 - BMW Z3,"44,995",2001,Manual,44.8 mpg,Petrol,2001,0L,0 miles,Petrol,Manual,Yellow,Coupe,44.8 mpg
+/ad/30957445,BMW 2 Series,M240i xDrive 2dr Step Auto Coupe,"44,995",2023,Semi-Auto,32.1 mpg,Petrol,2023,3L,"1,355 miles",Petrol,Semiauto,White,Coupe,32.1 mpg
+/ad/30718188,BMW M5,5 SALOON Saloon,"44,994",2018,Automatic,22.1 mpg,Petrol,2018,4395cc,"44,200 miles",Petrol,Automatic,San Marino Blue,Saloon,22.1 mpg
+/ad/30673521,BMW X4,xDrive X4,"44,990",2020,Semi-Auto,24.8 mpg,Petrol,2020,3L,"33,554 miles",Petrol,Semiauto,Grey,SUV,24.8 mpg
+/ad/30754799,BMW X4,3.0i Competition SUV 5dr Petrol Auto xDrive Euro 6 (s/s) (510 ps) SUV,"44,990",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"38,000 miles",Petrol,Automatic,Sophisto Grey,SUV,24.8 mpg
+/ad/30377755,BMW X5,5 4.4 X5,"44,990",2018,Automatic,25.4 mpg,Petrol,2018,4395cc,"39,000 miles",Petrol,Automatic,Black,SUV,25.4 mpg
+/ad/30547555,BMW X3,3 xDrive X3,"44,990",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"45,000 miles",Petrol,Automatic,White,Estate,24.8 mpg
+/ad/30634387,BMW X5,5 3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"44,990",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"48,000 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/29663693,BMW X5,Estate,"44,990",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"67,991 miles",Diesel,Automatic,Black,Estate,37.7 mpg
+/ad/30795446,BMW X5,5 xDrive45e M Sport 5dr Auto SUV,"44,990",2021,Semi-Auto,188.3 mpg,Hybrid,2021,3L,"54,292 miles",Hybrid,Semiauto,White,SUV,188.3 mpg
+/ad/30587666,BMW 6 Series,3.4 635CSI Highline 2d Petrol Automatic 220 BHP Coupe,"44,985",1989,Automatic,Tax: £325,1989,3430cc,"61,097 miles",Petrol,Automatic,BLUE,Coupe,,
+/ad/27057835,BMW M3,SALOON Saloon,"44,950",2018,Automatic,34.0 mpg,Petrol,2018,2979cc,"6,000 miles",Petrol,Automatic,Yellow,Saloon,34 mpg
+/ad/30353427,BMW 5 Series,520d xDrive M Sport Saloon Saloon,"44,950",2023,Automatic,49.6 mpg,Diesel,2023,1995cc,"8,500 miles",Diesel,Automatic,Grey,Saloon,49.6 mpg
+/ad/30875157,BMW 2 Series,3.0 M240i Auto xDrive Euro 6 (s/s) 2dr Coupe,"44,950",2022,Automatic,32.1 mpg,Petrol,2022,3.0l,"10,270 miles",Petrol,Automatic,Grey,Coupe,32.1 mpg
+/ad/30858829,BMW 3 Series,3.0 M340i MHT Touring Auto xDrive Euro 6 (s/s) 5dr Estate,"44,950",2021,Automatic,Tax: n/a,2021,3.0l,"12,527 miles",Hybrid,Automatic,Grey,Estate,,
+/ad/30791116,BMW 7 Series,740d xDrive M Sport Saloon Saloon,"44,950",2020,Automatic,41.5 mpg,Diesel,2020,2993cc,"23,914 miles",Diesel,Automatic,Black,Saloon,41.5 mpg
+/ad/30216657,BMW X5,xDrive30d M Sport 5dr Auto SUV,"44,950",2019,Semi-Auto,37.7 mpg,Diesel,2019,3L,"31,200 miles",Diesel,Semiauto,Black,SUV,37.7 mpg
+/ad/30255158,BMW X5,5 3.0 45e 24kWh M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"44,950",2020,Automatic,188.3 mpg,Petrol,2020,2998cc,"69,900 miles",Petrol,Automatic,Black,SUV,188.3 mpg
+/ad/30682521,BMW X3,210kW M Sport 80kWh 5dr A NULL,"44,950",,Other,Tax: £0,"10,302 miles",Electric,NULL,Carbon Black,NULL,,,,
+/ad/30639852,BMW X3,X3,"44,950",2023,Automatic,Tax: £0,2023,"3,758 miles",Electric,Automatic,Other,SUV,,,
+/ad/30953151,BMW 4 Series,Gran Coupe 420d xDrive M Sport Gran Coupe Hatchback,"44,950",2023,Automatic,50.4 mpg,Other,2023,1995cc,"9,401 miles",Other,Automatic,Black,Hatchback,50.4 mpg
+/ad/30522686,BMW X5,5 xDrive40i M Sport 5dr Auto SUV,"44,950",2020,Semi-Auto,27.2 mpg,Petrol,2020,3L,"28,431 miles",Petrol,Semiauto,White,SUV,27.2 mpg
+/ad/30916672,BMW X5,XDRIVE30D M SPORT WITH AERO STYLING PACKAGE AUTO Estate,"44,948",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"38,000 miles",Diesel,Automatic,Black,Estate,37.7 mpg
+/ad/29155548,BMW M5,4.4 V8 DCT Euro 5 ss 4dr Saloon,"44,946",2014,Automatic,28.5 mpg,Petrol,2014,4395cc,"64,842 miles",Petrol,Automatic,Bronze,Saloon,28.5 mpg
+/ad/30448681,BMW X4,xDrive X4,"44,940",2019,Semi-Auto,24.8 mpg,Petrol,2019,3L,"20,775 miles",Petrol,Semiauto,Grey,SUV,24.8 mpg
+/ad/30729148,BMW M5,5 M5,"44,920",2019,Semi-Auto,26.9 mpg,Petrol,2019,4.4L,"25,960 miles",Petrol,Semiauto,Blue,Saloon,26.9 mpg
+/ad/30917408,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 4X4,"44,899",2019,Automatic,33.6 mpg,Diesel,2019,2.99L,"77,400 miles",Diesel,Automatic,Black,4X4,33.6 mpg
+/ad/30189514,BMW X5,5 3.0 XDRIVE30D M SPORT 5DR 261 BHP Estate,"44,891",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"25,328 miles",Diesel,Automatic,BLACK,Estate,37.7 mpg
+/ad/30882688,BMW 4 Series,M440i xDrive MHT 2dr Step Auto Coupe,"44,890",2022,Semi-Auto,36.2 mpg,Hybrid,2022,3L,"12,112 miles",Hybrid,Semiauto,Other,Coupe,36.2 mpg
+/ad/30695878,BMW 4 Series,M440i xDrive MHT 5dr Step Auto Coupe,"44,890",2022,Semi-Auto,34.0 mpg,Hybrid,2022,3L,"16,328 miles",Hybrid,Semiauto,Other,Coupe,34 mpg
+/ad/30888592,BMW X3,3 xDrive30d MHT M Sport 5dr Auto SUV,"44,890",2022,Semi-Auto,42.2 mpg,Diesel,2022,3L,"6,499 miles",Diesel,Semiauto,White,SUV,42.2 mpg
+/ad/30255162,BMW X5,5 3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"44,850",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"60,000 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30823270,BMW X3,3 M xDrive X3,"44,790",2019,Semi-Auto,24.8 mpg,Petrol,2019,3L,"32,140 miles",Petrol,Semiauto,Grey,SUV,24.8 mpg
+/ad/30617049,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 22s,"44,750",2019,Automatic,33.6 mpg,Diesel,2019,2993cc,"41,000 miles",Diesel,Automatic,Black,SUV,33.6 mpg
+/ad/30849295,BMW 3 Series,M340i xDrive MHT 4dr Step Auto Saloon,"44,695",2023,Semi-Auto,34.5 mpg,Hybrid,2023,3L,"11,261 miles",Hybrid,Semiauto,Grey,Saloon,34.5 mpg
+/ad/30866695,BMW X3,X3,"44,690",2023,Automatic,Tax: £0,2023,"3,907 miles",Electric,Automatic,White,SUV,,,
+/ad/30777981,BMW X5,3.0 30d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr 20s,"44,500",2020,Automatic,37.7 mpg,Hybrid,2020,2993cc,"25,330 miles",Diesel Hybrid,Automatic,White,SUV,37.7 mpg
+/ad/30809582,BMW X5,xDrive30d M Sport 5dr Auto SUV,"44,500",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"37,594 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30897590,BMW 5 Series,530e M Sport Touring M+,"44,500",2023,Automatic,166.2 mpg,Hybrid,2023,1998cc,"3,542 miles",Petrol Plug-in Hybrid,Automatic,Grey,Estate,166.2 mpg
+/ad/30686901,BMW i4,210kW eDrive35 M Sport 70kWh 5dr Auto Coupe,"44,500",2023,Automatic,Tax: £0,2023,"5,369 miles",Electric,Automatic,Other,Coupe,,,
+/ad/30219760,BMW M5,5 4.4 M5,"44,495",2019,Automatic,26.9 mpg,Petrol,2019,4395cc,"20,759 miles",Petrol,Automatic,GREY,Saloon,26.9 mpg
+/ad/30704098,BMW M5,5 4.4 M5,"44,495",2019,Automatic,24.1 mpg,Petrol,2019,4395cc,"63,738 miles",Petrol,Automatic,BLUE,Saloon,24.1 mpg
+/ad/30843692,BMW X3,X3,"44,490",2023,Automatic,Tax: £0,2023,"3,201 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30860526,BMW X4,xDrive20d MHT M Sport 5dr Step Auto SUV,"44,490",2022,Semi-Auto,46.3 mpg,Diesel,2022,2L,"14,948 miles",Diesel,Semiauto,Black,SUV,46.3 mpg
+/ad/30937815,BMW X5,3.0 30d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr Other,"44,450",2020,Automatic,37.7 mpg,Hybrid,2020,3.0l,"32,650 miles",Hybrid,Automatic,Black,Other,37.7 mpg
+/ad/30653847,BMW X3,X3,"44,420",2023,Automatic,Tax: £0,2023,"9,452 miles",Electric,Automatic,Black,SUV,,,
+/ad/30858475,BMW X5,xDrive30d M Sport 5dr Auto SUV,"44,290",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"44,284 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30897587,BMW 5 Series,530e M Sport Touring M PRO,"44,250",2023,Automatic,166.2 mpg,Hybrid,2023,1998cc,"8,676 miles",Petrol Plug-in Hybrid,Automatic,Black,Estate,166.2 mpg
+/ad/30757612,BMW X4,3.0i Competition SUV 5dr Petrol Auto xDrive Euro 6 (s/s) (510 ps) M Sport Bodykit,"44,200",2020,Automatic,24.8 mpg,Petrol,2020,2993cc,"23,719 miles",Petrol,Automatic,Red,SUV,24.8 mpg
+/ad/30874426,BMW X5,5 3.0 XDRIVE30D M SPORT 5DR 261 BHP+ Estate,"44,096",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"28,252 miles",Diesel,Automatic,WHITE,Estate,37.7 mpg
+/ad/30856952,BMW X3,X3,"44,090",2023,Automatic,Tax: £0,2023,"4,931 miles",Electric,Automatic,White,SUV,,,
+/ad/30857513,BMW X3,X3,"44,090",2023,Automatic,Tax: £0,2023,"6,760 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30517819,BMW 4 Series,M440i xDrive MHT 2dr Step NULL,"44,000",2022,Other,34.9 mpg,Hybrid,2022,2998cc,"3,098 miles",Petrol/Electric Hybrid,NULL,Dravit Grey Metallic,NULL,34.9 mpg
+/ad/30884840,BMW X3,3 xDrive M40i 5dr Auto SUV,"44,000",2021,Semi-Auto,30.1 mpg,Petrol,2021,3L,"12,481 miles",Petrol,Semiauto,Black,SUV,30.1 mpg
+/ad/30517819,BMW 4 Series,M440i xDrive MHT 2dr Step NULL,"44,000",2022,Other,34.9 mpg,Hybrid,2022,2998cc,"3,098 miles",Petrol/Electric Hybrid,NULL,Dravit Grey Metallic,NULL,34.9 mpg
+/ad/30697478,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"44,000",2019,Semi-Auto,37.7 mpg,Diesel,2019,3L,"20,352 miles",Diesel,Semiauto,White,SUV,37.7 mpg
+/ad/30697055,BMW 4 Series,M440i xDrive MHT 2dr Step Auto Convertible,"44,000",2022,Semi-Auto,34.9 mpg,Hybrid,2022,3L,"5,338 miles",Hybrid,Semiauto,Blue,Convertible,34.9 mpg
+/ad/30713662,BMW X3,3 3.0 M COMPETITION 5d 503 BHP Estate,"43,995",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"22,058 miles",Petrol,Automatic,BLUE,Estate,24.8 mpg
+/ad/30861205,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"43,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"29,417 miles",Diesel,Automatic,Phytonic Blue,SUV,37.7 mpg
+/ad/30784325,BMW X5,3.0 XDRIVE45E M SPORT 5d 389 BHP VAT QUALIFYING  Estate,"43,995",2020,Automatic,188.3 mpg,Other,2020,3L,"32,350 miles",Other,Automatic,Blue,Estate,188.3 mpg
+/ad/30320406,BMW X5,5 XDRIVE30D M SPORT 261 BHP SKY LOUNGE Estate,"43,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"35,000 miles",Diesel,Automatic,CARBON BLACK METALLIC,Estate,37.7 mpg
+/ad/30679367,BMW X5,3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"43,995",2018,Automatic,37.7 mpg,Diesel,2018,3L,"44,207 miles",Diesel,Automatic,Grey,Estate,37.7 mpg
+/ad/30882858,BMW Z4,sDrive 20i M Sport 2dr Auto Convertible,"43,990",2023,Automatic,39.8 mpg,Petrol,2023,1998cc,"2,807 miles",Petrol,Automatic,Black,Convertible,39.8 mpg
+/ad/30465140,BMW X5,5 xDrive30d M Sport 5dr Auto Estate,"43,990",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"46,649 miles",Diesel,Automatic,Black,Estate,37.7 mpg
+/ad/30945694,BMW X3,3 xDrive X3,"43,990",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"47,000 miles",Petrol,Automatic,Blue,Estate,24.8 mpg
+/ad/30868757,BMW 2 Series,3.0 M240i Auto xDrive Euro 6 (s/s) 2dr Coupe,"43,950",2022,Automatic,32.1 mpg,Petrol,2022,3.0l,"8,010 miles",Petrol,Automatic,Black,Coupe,32.1 mpg
+/ad/30885285,BMW 4 Series,M440i xDrive Coupe Coupe,"43,950",2022,Automatic,36.2 mpg,Petrol,2022,2998cc,"14,817 miles",Petrol,Automatic,Grey,Coupe,36.2 mpg
+/ad/30879124,BMW X4,3.0 M40i MHT Pro Edition Auto xDrive Euro 6 (s/s) 5dr Other,"43,950",2019,Automatic,Tax: n/a,2019,3.0l,"41,875 miles",Hybrid,Automatic,Grey,Other,,
+/ad/30686904,BMW X5,5 xDrive M50d 5dr Auto SUV,"43,950",2019,Semi-Auto,33.6 mpg,Diesel,2019,3L,"62,199 miles",Diesel,Semiauto,White,SUV,33.6 mpg
+/ad/30321466,BMW 8 Series,GRAN COUPE 840I S-DRIVE 4DR AUTO NEW MODEL 35337 MILES WITH A F/S/H DIRECT FROMA LARGE DEALER PARTN Coupe,"43,919",2020,Automatic,31.7 mpg,Petrol,2020,2998cc,"35,333 miles",Petrol,Automatic,BLACK,Coupe,31.7 mpg
+/ad/30947651,BMW X3,80kWh M Sport Pro SUV 5dr Electric Auto (286 ps) Sun Protection Pack,"43,900",2022,Automatic,Tax: £0,2022,"7,300 miles",Electric,Automatic,White,SUV,,,
+/ad/30805785,BMW 5 Series,530e M Sport 5dr Auto Estate,"43,790",2023,Semi-Auto,166.2 mpg,Hybrid,2023,2L,"7,346 miles",Hybrid,Semiauto,Grey,Estate,166.2 mpg
+/ad/30872590,BMW X5,5 M xDrive X5,"43,790",2018,Semi-Auto,25.4 mpg,Petrol,2018,4.4L,"22,083 miles",Petrol,Semiauto,Blue,SUV,25.4 mpg
+/ad/30310546,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 22s,"43,750",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"31,658 miles",Diesel,Automatic,Grey,SUV,37.7 mpg
+/ad/30778842,BMW X1,1 xDrive 25e M Sport 5dr Step Auto SUV,"43,700",2023,Semi-Auto,Tax: £170,2023,1.5L,"7,329 miles",Hybrid,Semiauto,Blue,SUV,,
+/ad/30744416,BMW 5 Series,530e xDrive M Sport 5dr Auto Estate,"43,690",2023,Semi-Auto,141.3 mpg,Hybrid,2023,2L,"9,769 miles",Hybrid,Semiauto,Grey,Estate,141.3 mpg
+/ad/30744390,BMW X3,X3,"43,690",2022,Automatic,Tax: £0,2022,"16,854 miles",Electric,Automatic,White,SUV,,,
+/ad/30744211,BMW 5 Series,530e M Sport 5dr Auto Estate,"43,500",2023,Semi-Auto,166.2 mpg,Hybrid,2023,2L,"3,369 miles",Hybrid,Semiauto,Black,Estate,166.2 mpg
+/ad/30814851,BMW 4 Series,420i xDrive M Sport Pro Edition 2dr Step Auto Coupe,"43,500",2023,Semi-Auto,39.8 mpg,Petrol,2023,2L,"3,443 miles",Petrol,Semiauto,Grey,Coupe,39.8 mpg
+/ad/30720593,BMW 2 Series,M240i xDrive 2dr Step Auto Convertible,"43,500",2022,Automatic,32.1 mpg,Petrol,2022,2998cc,"7,543 miles",Petrol,Automatic,Black,Convertible,32.1 mpg
+/ad/30796587,BMW X5,5 3.0 X5,"43,500",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"49,000 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30949917,BMW 5 Series,520d MHT M Sport 5dr Step Auto Estate,"43,500",2023,Semi-Auto,49.6 mpg,Hybrid,2023,2L,"8,001 miles",Hybrid,Semiauto,White,Estate,49.6 mpg
+/ad/30697459,BMW X3,3 M xDrive X3,"43,500",2019,Semi-Auto,24.8 mpg,Petrol,2019,3L,"29,156 miles",Petrol,Semiauto,Grey,SUV,24.8 mpg
+/ad/30816217,BMW X4,X4,"43,500",2022,Automatic,46.3 mpg,Hybrid,2022,1995cc,"18,741 miles",Diesel Hybrid,Automatic,Grey,SUV,46.3 mpg
+/ad/30566893,BMW i8,1.5 PROTONIC RED EDITION 2d 362 BHP Coupe,"43,495",2017,Automatic,134.5 mpg,Other,2017,1499cc,"29,000 miles",Other,Automatic,RED,Coupe,134.5 mpg
+/ad/30817414,BMW X5,5 3.0 XDRIVE30D M SPORT 5d AUTO 261 BHP 7 SEATER * REVERSING CAMERA,"43,495",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"73,454 miles",Diesel,Automatic,Black,Estate,37.7 mpg
+/ad/30892380,BMW X5,5 xDrive40i M Sport 5dr Auto SUV,"43,495",2019,Semi-Auto,27.2 mpg,Petrol,2019,3L,"38,661 miles",Petrol,Semiauto,Grey,SUV,27.2 mpg
+/ad/30778061,BMW X3,xDrive 30e M Sport 5dr Auto SUV,"43,490",2021,Automatic,128.4 mpg,Hybrid,2021,1998cc,"15,176 miles",Petrol Plugin Hybrid,Automatic,Black,SUV,128.4 mpg
+/ad/27980944,BMW X5,5 DIESEL ESTATE SUV,"43,490",2020,Automatic,Tax: n/a,2020,2993cc,"59,000 miles",Diesel,Automatic,White,SUV,,
+/ad/30755724,BMW 4 Series,M440d xDrive MHT 2dr Step Auto Convertible,"43,490",2022,Semi-Auto,44.8 mpg,Hybrid,2022,3L,"7,009 miles",Hybrid,Semiauto,White,Convertible,44.8 mpg
+/ad/30936177,BMW 2 Series,M240i xDrive 2dr Step Auto Coupe,"43,485",2022,Semi-Auto,32.1 mpg,Petrol,2022,3L,"10,528 miles",Petrol,Semiauto,Grey,Coupe,32.1 mpg
+/ad/30783346,BMW 4 Series,M440d xDrive MHT 2dr Step Auto Coupe,"43,450",2023,Semi-Auto,47.1 mpg,Hybrid,2023,3L,"10,722 miles",Hybrid,Semiauto,Blue,Coupe,47.1 mpg
+/ad/30950393,BMW X5,3.0 30d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr Other,"43,450",2020,Automatic,Tax: n/a,2020,3.0l,"44,920 miles",Hybrid,Automatic,Black,Other,,
+/ad/30260255,BMW 8 Series,840d xDrive MHT M Sport 4dr Auto Coupe,"43,420",2021,Semi-Auto,41.5 mpg,Petrol,2021,3L,"19,000 miles",Petrol,Semiauto,Grey,Coupe,41.5 mpg
+/ad/30876798,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"43,290",2020,Semi-Auto,37.7 mpg,Diesel,2020,3L,"34,875 miles",Diesel,Semiauto,Black,SUV,37.7 mpg
+/ad/30888597,BMW X3,3 M xDrive X3,"43,290",2020,Semi-Auto,24.8 mpg,Petrol,2020,3L,"45,694 miles",Petrol,Semiauto,Red,SUV,24.8 mpg
+/ad/29009663,BMW 4 Series,3.0 M4 CS 2d 454 BHP Coupe,"43,250",2017,Automatic,33.6 mpg,Petrol,2017,2979cc,"26,000 miles",Petrol,Automatic,BLUE,Coupe,33.6 mpg
+/ad/29948310,BMW i8,1.5 I8 2d 228 BHP Coupe,"43,199",2015,Automatic,134.5 mpg,Other,2015,1499cc,"39,357 miles",Other,Automatic,WHITE,Coupe,134.5 mpg
+/ad/30866691,BMW 5 Series,530e M Sport 5dr Auto Estate,"43,190",2023,Semi-Auto,166.2 mpg,Hybrid,2023,2L,"12,157 miles",Hybrid,Semiauto,Grey,Estate,166.2 mpg
+/ad/30856949,BMW X4,xDrive20d MHT M Sport 5dr Step Auto SUV,"43,190",2022,Semi-Auto,46.3 mpg,Diesel,2022,2L,"21,078 miles",Diesel,Semiauto,Black,SUV,46.3 mpg
+/ad/30615232,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"43,000",2019,Semi-Auto,37.7 mpg,Diesel,2019,3L,"26,300 miles",Diesel,Semiauto,White,SUV,37.7 mpg
+/ad/30855160,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"43,000",2020,Semi-Auto,37.7 mpg,Diesel,2020,3L,"40,521 miles",Diesel,Semiauto,Black,SUV,37.7 mpg
+/ad/30708283,BMW X5,3.0 45e 24kWh M Sport SUV 5dr Petrol Plug-in Hybrid Auto xDrive Euro 6 (s/s) (394 ps) M Sport SUV,"43,000",2020,Automatic,188.3 mpg,Hybrid,2020,2998cc,"40,961 miles",Petrol Plug-in Hybrid,Automatic,Black,SUV,188.3 mpg
+/ad/30498934,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"43,000",2019,Semi-Auto,37.7 mpg,Diesel,2019,3L,"21,101 miles",Diesel,Semiauto,White,SUV,37.7 mpg
+/ad/30954917,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 21s,"43,000",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"27,737 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30958241,BMW X5,5 xDrive30d MHT M Sport 5dr Auto SUV,"43,000",2020,Semi-Auto,37.7 mpg,Diesel,2020,3L,"32,000 miles",Diesel,Semiauto,Blue,SUV,37.7 mpg
+/ad/30945468,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 7 Seats,"43,000",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"40,000 miles",Diesel,Automatic,Black,SUV,37.7 mpg
+/ad/30945649,BMW 3 Series,M340i xDrive MHT 4dr Step Auto Saloon,"42,999",2022,Semi-Auto,35.8 mpg,Hybrid,2022,3L,"14,125 miles",Hybrid,Semiauto,Blue,Saloon,35.8 mpg
+/ad/30812058,BMW 4 Series,420i M Sport Pro Edition 5dr Step Auto Coupe,"42,999",2023,Semi-Auto,39.2 mpg,Petrol,2023,2L,"9,841 miles",Petrol,Semiauto,Blue,Coupe,39.2 mpg
+/ad/30956092,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"42,999",2019,Semi-Auto,37.7 mpg,Diesel,2019,3L,"26,152 miles",Diesel,Semiauto,White,SUV,37.7 mpg
+/ad/30823321,BMW Z4,4 sDrive M40i 2dr Auto Convertible,"42,995",2023,Semi-Auto,34.9 mpg,Petrol,2023,3L,"3,280 miles",Petrol,Semiauto,Grey,Convertible,34.9 mpg
+/ad/30352729,BMW 4 Series,M4 COMPETITION Coupe,"42,995",2019,Automatic,34.0 mpg,Petrol,2019,2979cc,"14,000 miles",Petrol,Automatic,Grey,Coupe,34 mpg
+/ad/30814107,BMW 4 Series,3.0 M4 CS 2d 454 BHP Coupe,"42,995",2018,Automatic,33.6 mpg,Petrol,2018,2979cc,"18,000 miles",Petrol,Automatic,BLUE,Coupe,33.6 mpg
+/ad/30839829,BMW M3,3 3.0 M3,"42,995",2018,Automatic,34.0 mpg,Petrol,2018,2979cc,"24,062 miles",Petrol,Automatic,YELLOW,Saloon,34 mpg
+/ad/28256608,BMW 2 Series,Coupe,"42,995",2018,Manual,28.5 mpg,Petrol,2018,2979cc,"28,385 miles",Petrol,Manual,Beige,Coupe,28.5 mpg
+/ad/30932274,BMW i8,1.5 7.1kWh Protonic Frozen Black Edition Auto 4WD Euro 6 (s/s) 2dr Coupe,"42,995",2017,Automatic,Tax: £170,2017,1499cc,"37,560 miles",Petrol,Automatic,Black,Coupe,,
+/ad/28683355,BMW i8,I8 Coupe,"42,995",2015,Automatic,134.5 mpg,Petrol,2015,1499cc,"38,000 miles",Petrol,Automatic,Grey,Coupe,134.5 mpg
+/ad/30714476,BMW X5,5 3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"42,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"40,000 miles",Diesel,Automatic,WHITE,Estate,37.7 mpg
+/ad/30183707,BMW M3,3 M3,"42,995",2012,Automatic,25.2 mpg,Petrol,2012,3999cc,"44,000 miles",Petrol,Automatic,Green,Coupe,25.2 mpg
+/ad/30780766,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"42,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"45,452 miles",Diesel,Automatic,Black Sapphire Metallic Paint,SUV,37.7 mpg
+/ad/30637690,BMW X5,5 DIESEL ESTATE SUV,"42,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"47,000 miles",Diesel,Automatic,Grey,SUV,37.7 mpg
+/ad/30637171,BMW X5,5 DIESEL ESTATE SUV,"42,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"58,000 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30838540,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"42,995",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"64,673 miles",Diesel,Automatic,Arctic Grey,SUV,37.7 mpg
+/ad/30925908,BMW 5 Series,530d xDrive MHT M Sport 4dr Auto Saloon,"42,995",2023,Automatic,46.3 mpg,Diesel,2023,2993cc,"7,115 miles",Diesel,Automatic,Tanzanite Blue,Saloon,46.3 mpg
+/ad/30497580,BMW 7 Series,Saloon,"42,990",2020,Automatic,122.8 mpg,Other,2020,3000cc,"51,084 miles",Other,Automatic,Black,Saloon,122.8 mpg
+/ad/30900491,BMW X5,3.0 XDRIVE45E M SPORT 5d 389 BHP Estate,"42,990",2021,Automatic,188.3 mpg,Other,2021,3L,"58,500 miles",Other,Automatic,Blue,Estate,188.3 mpg
+/ad/30880557,BMW X5,5 3.0 30d MHT M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"42,990",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"75,600 miles",Diesel,Automatic,Blue,SUV,37.7 mpg
+/ad/30362597,BMW X5,5 3.0 XDRIVE30D M SPORT 5d AUTO 261 BHP Estate,"42,990",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"34,034 miles",Diesel,Automatic,WHITE,Estate,37.7 mpg
+/ad/30892445,BMW X5,5 xDrive45e M Sport 5dr Auto SUV,"42,990",2019,Semi-Auto,37.7 mpg,Diesel,2019,3L,"26,051 miles",Diesel,Semiauto,White,SUV,37.7 mpg
+/ad/30617886,BMW X5,5 xDrive M50d 5dr Auto SUV,"42,990",2021,Semi-Auto,33.6 mpg,Diesel,2021,3L,"61,146 miles",Diesel,Semiauto,Black,SUV,33.6 mpg
+/ad/30455667,BMW X5,xDrive30d M Sport 5dr Auto SUV,"42,975",2019,Automatic,37.7 mpg,Diesel,2019,3000cc,"52,358 miles",Diesel,Automatic,Grey,SUV,37.7 mpg
+/ad/30909918,BMW X1,2.0 23d MHT M Sport DCT xDrive Euro 6 (s/s) 5dr Other,"42,950",2023,Automatic,55.4 mpg,Hybrid,2023,2.0l,"4,996 miles",Hybrid,Automatic,Silver,Other,55.4 mpg
+/ad/30875150,BMW 3 Series,2.0 330e 12kWh M Sport Touring Auto Euro 6 (s/s) 5dr Estate,"42,950",2023,Automatic,188.3 mpg,Hybrid,2023,2.0l,"10,260 miles",Hybrid,Automatic,Black,Estate,188.3 mpg
+/ad/30878882,BMW 5 Series,530e M Sport Touring NAPPA LEATHER,"42,950",2023,Automatic,166.2 mpg,Hybrid,2023,1998cc,"13,496 miles",Petrol Plug-in Hybrid,Automatic,Grey,Estate,166.2 mpg
+/ad/30389167,BMW i8,1.5 I8 2d 228 BHP Coupe,"42,950",2018,Automatic,134.5 mpg,Other,2018,1499cc,"52,500 miles",Other,Automatic,SILVER,Coupe,134.5 mpg
+/ad/30955696,BMW X5,5 DIESEL ESTATE SUV,"42,950",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"31,634 miles",Diesel,Automatic,PHYTONIC BLUE,SUV,37.7 mpg
+/ad/30925364,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr Other,"42,950",2019,Automatic,37.7 mpg,Diesel,2019,3.0l,"36,520 miles",Diesel,Automatic,Black,Other,37.7 mpg
+/ad/30835415,BMW X5,xDrive30d M Sport 5dr Auto Estate,"42,950",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"46,000 miles",Diesel,Automatic,Black,Estate,37.7 mpg
+/ad/30853942,BMW X3,X3,"42,950",2023,Automatic,Tax: £0,2023,"7,988 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30842639,BMW 5 Series,2.0 530e 12kWh M Sport Touring Steptronic Euro 6 (s/s) 5dr Estate,"42,950",2023,Automatic,166.2 mpg,Hybrid,2023,2.0l,"5,868 miles",Hybrid,Automatic,Black,Estate,166.2 mpg
+/ad/30720601,BMW X5,X5,"42,950",2019,Automatic,188.3 mpg,Hybrid,2019,2998cc,"43,931 miles",Petrol Plug-in Hybrid,Automatic,Black,SUV,188.3 mpg
+/ad/30785117,BMW M5,5 M5,"42,901",2019,Semi-Auto,26.9 mpg,Petrol,2019,4.4L,"33,972 miles",Petrol,Semiauto,White,Saloon,26.9 mpg
+/ad/30735530,BMW X5,5 3.0 XDRIVE30D M SPORT 5d AUTO 261 BHP * REVERSING CAMERA,"42,850",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"42,147 miles",Diesel,Automatic,White,Estate,37.7 mpg
+/ad/30083906,BMW 7 Series,6.6 M760L V12 GPF Auto xDrive Euro 6 4dr Saloon,"42,840",2018,Automatic,22.1 mpg,Petrol,2018,6592cc,"65,993 miles",Petrol,Automatic,Black,Saloon,22.1 mpg
+/ad/30857719,BMW X3,3 xDrive30d MHT M Sport 5dr Auto SUV,"42,801",2022,Semi-Auto,42.2 mpg,Diesel,2022,3L,"12,500 miles",Diesel,Semiauto,Black,SUV,42.2 mpg
+/ad/30783448,BMW X6,6 xDrive40i M Sport 5dr Step Auto SUV,"42,799",2020,Semi-Auto,26.4 mpg,Petrol,2020,3L,"50,888 miles",Petrol,Semiauto,Grey,SUV,26.4 mpg
+/ad/30452870,BMW 5 Series,530e M Sport 5dr Auto Estate,"42,790",2023,Semi-Auto,166.2 mpg,Hybrid,2023,2L,"8,993 miles",Hybrid,Semiauto,Black,Estate,166.2 mpg
+/ad/30934358,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"42,790",2023,Semi-Auto,188.3 mpg,Hybrid,2023,2L,"7,061 miles",Hybrid,Semiauto,Grey,Saloon,188.3 mpg
+/ad/30506776,BMW 5 Series,530d xDrive M Sport Saloon M PRO,"42,750",2023,Automatic,46.3 mpg,Hybrid,2023,2993cc,"11,333 miles",Diesel Hybrid,Automatic,Grey,Saloon,46.3 mpg
+/ad/30791115,BMW 7 Series,730d M Sport Saloon Saloon,"42,750",2022,Automatic,46.3 mpg,Diesel,2022,2993cc,"17,651 miles",Diesel,Automatic,Grey,Saloon,46.3 mpg
+/ad/30841062,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"42,690",2023,Semi-Auto,188.3 mpg,Hybrid,2023,2L,"6,481 miles",Hybrid,Semiauto,White,Saloon,188.3 mpg
+/ad/30732178,BMW 7 Series,740Le M SPORT 2.0 XDRIVE PETROL/HYBRID AUTO LWB LIMO Saloon,"42,650",2019,Automatic,113.0 mpg,Other,2019,1998cc,"25,490 miles",Other,Automatic,WHITE,Saloon,113 mpg
+/ad/30580294,BMW X5,5 xDrive45e M Sport 5dr Auto SUV,"42,556",2020,Semi-Auto,188.3 mpg,Hybrid,2020,3L,"37,500 miles",Hybrid,Semiauto,Blue,SUV,188.3 mpg
+/ad/30875068,BMW X3,X3,"42,550",2022,Automatic,44.8 mpg,Hybrid,2022,1995cc,"9,303 miles",Diesel Hybrid,Automatic,Black,SUV,44.8 mpg
+/ad/30877761,BMW 7 Series,740d xDrive M Sport 4dr Auto Saloon,"42,500",2020,Semi-Auto,41.5 mpg,Diesel,2020,3L,"20,207 miles",Diesel,Semiauto,Blue,Saloon,41.5 mpg
+/ad/30739480,BMW X5,5 3.0 XDRIVE40I M SPORT 5d 336 BHP Estate,"42,500",2019,Automatic,27.2 mpg,Petrol,2019,2998cc,"35,000 miles",Petrol,Automatic,BLACK,Estate,27.2 mpg
+/ad/30960066,BMW X5,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr 22s,"42,500",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"36,270 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30909822,BMW X3,3 xDrive M40i 5dr Auto SUV,"42,499",2021,Semi-Auto,30.1 mpg,Petrol,2021,3L,"20,861 miles",Petrol,Semiauto,Grey,SUV,30.1 mpg
+/ad/30419728,BMW X5,3.0 M50d Auto xDrive Euro 6 (s/s) 5dr 4X4,"42,495",2019,Automatic,33.6 mpg,Diesel,2019,2.99L,"80,721 miles",Diesel,Automatic,Blue,4X4,33.6 mpg
+/ad/30842640,BMW 5 Series,2.0 530e 12kWh M Sport Touring Steptronic Euro 6 (s/s) 5dr Estate,"42,495",2023,Automatic,166.2 mpg,Hybrid,2023,2.0l,"9,998 miles",Hybrid,Automatic,Grey,Estate,166.2 mpg
+/ad/30539596,BMW 4 Series,M440d xDrive MHT 2dr Step Auto Coupe,"42,490",2022,Automatic,47.1 mpg,Diesel,2022,2993cc,"4,387 miles",Diesel,Automatic,Black,Coupe,47.1 mpg
+/ad/30805337,BMW 1 Series,M135i xDrive 5dr Step Auto Hatchback,"42,490",2023,Automatic,34.5 mpg,Petrol,2023,1998cc,"8,050 miles",Petrol,Automatic,Black,Hatchback,34.5 mpg
+/ad/30880711,BMW 8 Series,3.0 840D XDRIVE 2d AUTO 315 BHP Convertible,"42,490",2019,Automatic,26.7 mpg,Diesel,2019,2993cc,"32,700 miles",Diesel,Automatic,BLUE,Convertible,26.7 mpg
+/ad/30842621,BMW X5,xDrive30d M Sport 5dr Auto SUV,"42,490",2020,Automatic,37.7 mpg,Diesel,2020,2993cc,"55,463 miles",Diesel,Automatic,White,SUV,37.7 mpg
+/ad/30866113,BMW X3,3 3.0i Competition Auto xDrive Euro 6 (s/s) 5dr SUV,"42,490",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"61,400 miles",Petrol,Automatic,Blue,SUV,24.8 mpg
+/ad/30935728,BMW X6,6 M xDrive X6,"42,490",2018,Semi-Auto,25.4 mpg,Petrol,2018,4.4L,"25,008 miles",Petrol,Semiauto,Black,SUV,25.4 mpg
+/ad/30863814,BMW X3,80kWh M Sport Auto 5dr Other,"42,350",2022,Automatic,Tax: £0,2022,"16,555 miles",Electric,Automatic,Black,Other,,,
+/ad/30919301,BMW X5,5 3.0 M50d Auto xDrive Euro 6 (s/s) 5dr SUV,"42,300",2000,Automatic,33.6 mpg,Diesel,2000,2993cc,"83,563 miles",Diesel,Automatic,Grey,SUV,33.6 mpg
+/ad/30961435,BMW 5 Series,520d xDrive MHT M Sport 4dr Step Auto Saloon,"42,300",2023,Semi-Auto,49.6 mpg,Diesel,2023,2L,"5,359 miles",Diesel,Semiauto,Black,Saloon,49.6 mpg
+/ad/30948572,BMW X5,5 xDrive45e xLine 5dr Auto SUV,"42,117",2020,Semi-Auto,188.3 mpg,Hybrid,2020,3L,"36,800 miles",Hybrid,Semiauto,Grey,SUV,188.3 mpg
+/ad/30934453,BMW 5 Series,530d xDrive MHT M Sport 4dr Auto Saloon,"42,000",2023,Semi-Auto,46.3 mpg,Diesel,2023,3L,"6,157 miles",Diesel,Semiauto,Blue,Saloon,46.3 mpg
+/ad/29443081,BMW X5,5 3.0 XDRIVE40I M SPORT 5d 336 BHP PRO PACK Other,"42,000",2019,Automatic,27.2 mpg,Petrol,2019,2998cc,"23,000 miles",Petrol,Automatic,BLUE,Other,27.2 mpg
+/ad/30540470,BMW X5,5 xDrive40i M Sport 5dr Auto SUV,"42,000",2019,Semi-Auto,27.2 mpg,Petrol,2019,3L,"27,277 miles",Petrol,Semiauto,Blue,SUV,27.2 mpg
+/ad/29984968,BMW M2,3.0 M2,"42,000",2020,Automatic,29.1 mpg,Petrol,2020,2979cc,"12,000 miles",Petrol,Automatic,BLUE,Coupe,29.1 mpg
+/ad/30764288,BMW X5,5 xDrive30d xLine 5dr Auto SUV,"42,000",2021,Semi-Auto,36.7 mpg,Diesel,2021,3L,"20,710 miles",Diesel,Semiauto,White,SUV,36.7 mpg
+/ad/30819877,BMW X3,3.0 M COMPETITION 5d 503 BHP Estate,"42,000",2019,Automatic,24.8 mpg,Petrol,2019,3L,"44,850 miles",Petrol,Automatic,Black,Estate,24.8 mpg
+/ad/30957937,BMW 5 Series,530e M Sport 4dr Auto NULL,"42,000",2023,Other,156.9 mpg,Other,2023,1998cc,"8,434 miles",NULL,NULL,Phytonic Blue Metallic Paint,NULL,156.9 mpg
+/ad/30935656,BMW X5,5 xDrive40i M Sport 5dr Auto SUV,"41,999",2019,Semi-Auto,27.2 mpg,Petrol,2019,3L,"36,618 miles",Petrol,Semiauto,Blue,SUV,27.2 mpg
+/ad/30750774,BMW 5 Series,530d xDrive MHT M Sport 4dr Auto Saloon,"41,995",2023,Automatic,46.3 mpg,Diesel,2023,2993cc,"6,078 miles",Diesel,Automatic,Alpine White,Saloon,46.3 mpg
+/ad/30812718,BMW 3 Series,M340i xDrive MHT 4dr Step Auto Saloon,"41,995",2022,Automatic,35.8 mpg,Petrol,2022,2998cc,"6,676 miles",Petrol,Automatic,Black Sapphire Metallic Paint,Saloon,35.8 mpg
+/ad/30894622,BMW i4,250kW eDrive40 M Sport 83.9kWh 5dr Auto Hatchback,"41,995",2022,Automatic,Tax: n/a,2022,"14,186 miles",Other,Automatic,Blue,Hatchback,,,
+/ad/30239291,BMW 2 Series,Coupe,"41,995",2020,Automatic,29.1 mpg,Petrol,2020,2979cc,"19,168 miles",Petrol,Automatic,Silver,Coupe,29.1 mpg
+/ad/30894615,BMW 8 Series,840D Xdrive Auto Coupe,"41,995",2020,Automatic,40.4 mpg,Diesel,2020,2993cc,"23,000 miles",Diesel,Automatic,Orange,Coupe,40.4 mpg
+/ad/30194744,BMW X3,3 3.0i Competition Auto xDrive Euro 6 ss 5dr SUV,"41,995",2019,Automatic,24.8 mpg,Petrol,2019,2993cc,"25,000 miles",Petrol,Automatic,Black,SUV,24.8 mpg
+/ad/30445993,BMW X3,M40I - PAN ROOF - BODYKIT - ADAPTIVE LED HEADLIGHTS Estate,"41,995",2019,Automatic,30.1 mpg,Petrol,2019,2998cc,"27,000 miles",Petrol,Automatic,White,Estate,30.1 mpg
+/ad/30912020,BMW i4,40 83.9kWh M Sport Gran Coupe 5dr Electric Auto eDrive (340 ps) [M Sport Pro  Hatchback,"41,995",2023,Automatic,Tax: £0,2023,"28,000 miles",Other,Automatic,Grey,Hatchback,,,
+/ad/27169250,BMW X6,M  Estate,"41,995",2016,Automatic,Tax: n/a,2016,4400cc,"46,600 miles",Petrol,Automatic,Blue,Estate,,
+/ad/30875573,BMW X5,5 3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"41,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"50,000 miles",Diesel,Automatic,White,Estate,37.7 mpg
+/ad/29902556,BMW X5,5 DIESEL ESTATE SUV,"41,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"62,000 miles",Diesel,Automatic,Grey,SUV,37.7 mpg
+/ad/28057521,BMW X5,3.0 XDRIVE30D M SPORT 5d 261 BHP Estate,"41,995",2019,Automatic,37.7 mpg,Diesel,2019,2993cc,"67,000 miles",Diesel,Automatic,BLACK,Estate,37.7 mpg
+/ad/30923855,BMW 4 Series,3.0 M440i MHT Auto xDrive Euro 6 (s/s) 2dr Convertible,"41,995",2022,Automatic,34.9 mpg,Other,2022,2998cc,"8,565 miles",Other,Automatic,Black,Convertible,34.9 mpg
+/ad/30332440,BMW X5,5 3.0 XDRIVE40I M SPORT 5d 336 BHP Estate,"41,995",2019,Automatic,27.2 mpg,Petrol,2019,2998cc,"31,250 miles",Petrol,Automatic,GREY,Estate,27.2 mpg
+/ad/30792049,BMW X5,5 3.0 XDRIVE 30D M SPORT MHEV 5d 282 BHP Estate,"41,995",2020,Automatic,37.7 mpg,Other,2020,2993cc,"57,138 miles",Other,Automatic,BLUE,Estate,37.7 mpg
+/ad/30886838,BMW X4,xDrive20d MHT M Sport 5dr Step Auto SUV,"41,995",2022,Semi-Auto,46.3 mpg,Diesel,2022,2L,"27,792 miles",Diesel,Semiauto,White,SUV,46.3 mpg
+/ad/30778848,BMW 5 Series,530e M Sport 5dr Auto Estate,"41,990",2023,Semi-Auto,166.2 mpg,Hybrid,2023,2L,"2,427 miles",Hybrid,Semiauto,Blue,Estate,166.2 mpg
+/ad/30847022,BMW X5,5 M ** M SPORTS SEATS + PAN ROOF ** Estate,"41,990",2016,Automatic,25.4 mpg,Petrol,2016,4395cc,"34,000 miles",Petrol,Automatic,Grey,Estate,25.4 mpg
+/ad/30880903,BMW X4,xDrive20d MHT M Sport 5dr Step Auto SUV,"41,990",2022,Semi-Auto,46.3 mpg,Diesel,2022,2L,"20,756 miles",Diesel,Semiauto,Grey,SUV,46.3 mpg
+/ad/30541898,BMW X5,5 4.4 M 5d 568 BHP Estate,"41,990",2018,Automatic,25.4 mpg,Petrol,2018,4395cc,"31,500 miles",Petrol,Automatic,BLUE,Estate,25.4 mpg
+/ad/28177426,BMW 7 Series,740D XDRIVE M SPORT Saloon,"41,980",2020,Automatic,41.5 mpg,Diesel,2020,2993cc,"11,000 miles",Diesel,Automatic,Black,Saloon,41.5 mpg
+/ad/30633622,BMW 4 Series,420i M Sport Pro Edition Coupe Coupe,"41,950",2023,Automatic,42.2 mpg,Petrol,2023,1998cc,"2,000 miles",Petrol,Automatic,Blue,Coupe,42.2 mpg
+/ad/30897588,BMW X3,Series X3,"41,950",2023,Automatic,36.2 mpg,Hybrid,2023,1998cc,"4,481 miles",Petrol Hybrid,Automatic,Black,SUV,36.2 mpg
+/ad/30835843,BMW 4 Series,2.0 420i M Sport Auto Euro 6 (s/s) 2dr Coupe,"41,950",2023,Automatic,42.2 mpg,Petrol,2023,2.0l,"4,538 miles",Petrol,Automatic,Blue,Coupe,42.2 mpg
+/ad/30868802,BMW 4 Series,2.0 420i M Sport Auto Euro 6 (s/s) 5dr Hatchback,"41,950",2023,Automatic,39.2 mpg,Petrol,2023,2.0l,"6,443 miles",Petrol,Automatic,Blue,Hatchback,39.2 mpg
+/ad/30846831,BMW 3 Series,3.0 M340i MHT Auto xDrive Euro 6 (s/s) 4dr Saloon,"41,950",2021,Automatic,35.8 mpg,Hybrid,2021,3.0l,"19,388 miles",Hybrid,Automatic,White,Saloon,35.8 mpg
+/ad/30543676,BMW X5,5 3.0 XDRIVE45E M SPORT 5d 389 BHP Estate,"41,950",2019,Automatic,188.3 mpg,Other,2019,2998cc,"26,000 miles",Other,Automatic,BLACK,Estate,188.3 mpg
+/ad/30226447,BMW X5,5 M X5,"41,950",2017,Automatic,25.4 mpg,Petrol,2017,4395cc,"30,164 miles",Petrol,Automatic,Blue,SUV,25.4 mpg
+/ad/30657730,BMW X3,M COMPETITION SUV,"41,950",2019,Automatic,24.8 mpg,Petrol,2019,3L,"32,000 miles",Petrol,Automatic,DONINGTON GREY METALLIC,SUV,24.8 mpg
+/ad/30875155,BMW X3,80kWh M Sport Pro Auto 5dr Other,"41,950",2021,Automatic,Tax: £0,2021,"32,353 miles",Electric,Automatic,Grey,Other,,,
+/ad/30496907,BMW 3 Series,3.0 M340i Touring Auto xDrive Euro 6 (s/s) 5dr Estate,"41,950",2020,Automatic,33.6 mpg,Petrol,2020,2998cc,"35,000 miles",Petrol,Automatic,Grey,Estate,33.6 mpg

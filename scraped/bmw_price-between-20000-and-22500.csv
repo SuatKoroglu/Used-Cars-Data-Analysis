@@ -1,0 +1,954 @@
+url,name,model,price,1,2,3,6,7,8,9,10,11,12,13,14
+/ad/30935403,BMW 1 Series,118i M Sport 5dr Hatchback,"20,999",2020,Manual,41.5 mpg,Petrol,2020,1.5L,"5,348 miles",Petrol,Manual,Grey,Hatchback,41.5 mpg
+/ad/30608701,BMW 1 Series,118d Sport 5dr Hatchback,"22,499",2022,Manual,56.5 mpg,Diesel,2022,2L,"5,946 miles",Diesel,Manual,White,Hatchback,56.5 mpg
+/ad/30908136,BMW i3,I3S 120AH 5d 181 BHP Hatchback,"21,990",2021,Automatic,Tax: £0,2021,0L,"7,000 miles",Other,Automatic,Blue,Hatchback,,
+/ad/30908200,BMW i3,I3S 120AH 5d 181 BHP Hatchback,"21,500",2022,Automatic,Tax: £0,2022,0L,"7,771 miles",Other,Automatic,White,Hatchback,,
+/ad/30867120,BMW 1 Series,118i M Sport 5dr Hatchback,"20,590",2020,Manual,41.5 mpg,Petrol,2020,1.5L,"8,835 miles",Petrol,Manual,White,Hatchback,41.5 mpg
+/ad/30824875,BMW 2 Series,2.0 218i M Sport Euro 6 (s/s) 2dr Coupe,"21,450",2021,Manual,36.7 mpg,Petrol,2021,2.0l,"9,149 miles",Petrol,Manual,Black,Coupe,36.7 mpg
+/ad/30694023,BMW 1 Series,2.0 118D M SPORT 5d 148 BHP Hatchback,"21,999",2020,Manual,53.3 mpg,Diesel,2020,2L,"10,082 miles",Diesel,Manual,Black,Hatchback,53.3 mpg
+/ad/30930074,BMW X1,2.0 20i SE SUV 5dr Petrol Auto xDrive Euro 6 (s/s) (192 ps) All Wheel Drive,"22,000",2020,Automatic,47.9 mpg,Petrol,2020,1998cc,"10,186 miles",Petrol,Automatic,Black,SUV,47.9 mpg
+/ad/30931359,BMW 1 Series,118i SE £700 DEPOSIT CONTRIBUTION Hatchback,"21,500",2021,Automatic,47.9 mpg,Petrol,2021,1499cc,"10,330 miles",Petrol,Automatic,Red,Hatchback,47.9 mpg
+/ad/30901128,BMW 2 Series,225xe Sport 5dr Auto Hatchback,"21,999",2021,Automatic,148.7 mpg,Hybrid,2021,1.5L,"11,314 miles",Hybrid,Automatic,White,Hatchback,148.7 mpg
+/ad/30931359,BMW 1 Series,118i SE £700 DEPOSIT CONTRIBUTION Hatchback,"21,500",2021,Automatic,47.9 mpg,Petrol,2021,1499cc,"10,330 miles",Petrol,Automatic,Red,Hatchback,47.9 mpg
+/ad/30901128,BMW 2 Series,225xe Sport 5dr Auto Hatchback,"21,999",2021,Automatic,148.7 mpg,Hybrid,2021,1.5L,"11,314 miles",Hybrid,Automatic,White,Hatchback,148.7 mpg
+/ad/30930883,BMW 1 Series,118i M Sport 5dr Hatchback,"20,990",2020,Manual,41.5 mpg,Petrol,2020,1.5L,"11,901 miles",Petrol,Manual,Black,Hatchback,41.5 mpg
+/ad/30882664,BMW 1 Series,118i [136] Sport 5dr Step Auto Hatchback,"21,860",2021,Semi-Auto,55.5 mpg,Petrol,2021,1.5L,"11,967 miles",Petrol,Semiauto,Grey,Hatchback,55.5 mpg
+/ad/30749471,BMW 4 Series,420i M Sport 2dr Auto [Professional Media] Coupe,"21,895",2020,Semi-Auto,48.7 mpg,Petrol,2020,2L,"12,146 miles",Petrol,Semiauto,Red,Coupe,48.7 mpg
+/ad/30605993,BMW 1 Series,125i [224] M Sport 5dr [Nav/Servotronic] Step Auto Hatchback,"20,940",2018,Semi-Auto,47.9 mpg,Petrol,2018,2L,"12,200 miles",Petrol,Semiauto,Blue,Hatchback,47.9 mpg
+/ad/30596347,BMW X1,1 sDrive 18i M Sport 5dr SUV,"21,000",2019,Manual,51.4 mpg,Petrol,2019,1.5L,"13,200 miles",Petrol,Manual,Blue,SUV,51.4 mpg
+/ad/30945521,BMW X2,2.0 20i Sport DCT sDrive Euro 6 (s/s) 5dr Other,"21,950",2019,Automatic,38.7 mpg,Petrol,2019,2.0l,"13,764 miles",Petrol,Automatic,Grey,Other,38.7 mpg
+/ad/30573997,BMW 3 Series,2.0 320d M Sport Euro 6 (s/s) 4dr 18s,"22,250",2019,Manual,54.3 mpg,Diesel,2019,1995cc,"14,000 miles",Diesel,Manual,Grey,Saloon,54.3 mpg
+/ad/30520478,BMW 1 Series,118d Sport 5dr Step Auto Hatchback,"21,950",2019,Semi-Auto,70.6 mpg,Diesel,2019,2L,"14,008 miles",Diesel,Semiauto,White,Hatchback,70.6 mpg
+/ad/29965466,BMW 3 Series,335d xDrive M Sport 4dr Step Auto Saloon,"22,490",2017,Semi-Auto,51.4 mpg,Diesel,2017,3L,"16,050 miles",Diesel,Semiauto,Black,Saloon,51.4 mpg
+/ad/30829104,BMW 1 Series,1.5 118i M Sport (LCP) Euro 6 (s/s) 5dr 18s,"21,000",2022,Manual,44.1 mpg,Petrol,2022,1499cc,"16,068 miles",Petrol,Manual,White,Hatchback,44.1 mpg
+/ad/30882879,BMW 3 Series,320d Sport Saloon 1 OWNER,"21,750",2019,Manual,54.3 mpg,Diesel,2019,1995cc,"16,072 miles",Diesel,Manual,Blue,Saloon,54.3 mpg
+/ad/29801893,BMW X2,sDrive 20i M Sport X 5dr Step Auto SUV,"22,490",2018,Semi-Auto,39.8 mpg,Petrol,2018,2L,"16,921 miles",Petrol,Semiauto,Grey,SUV,39.8 mpg
+/ad/30842709,BMW 1 Series,1.5 118i M Sport Hatchback 5dr Petrol Manual Euro 6 (s/s) (140 ps) Hatchback,"20,850",2020,Manual,41.5 mpg,Petrol,2020,1499cc,"17,022 miles",Petrol,Manual,Storm Bay,Hatchback,41.5 mpg
+/ad/30806060,BMW i3,135kW S 42kWh 5dr Auto Hatchback,"21,290",2020,Automatic,Tax: £0,2020,"17,086 miles",Electric,Automatic,Grey,Hatchback,,,
+/ad/30559178,BMW 2 Series,2.0 218d Sport (LCP) Euro 6 (s/s) 4dr SVC HISTORY 1 OWNER SAT NAV Saloon,"20,000",2021,Manual,57.7 mpg,Diesel,2021,1995cc,"18,430 miles",Diesel,Manual,Black,Saloon,57.7 mpg
+/ad/30931365,BMW 2 Series,218i SE Gran Tourer £700 DEPOSIT CONTRIBUTION MPV,"21,500",2021,Automatic,43.5 mpg,Petrol,2021,1499cc,"18,534 miles",Petrol,Automatic,Black,MPV,43.5 mpg
+/ad/30694360,BMW 1 Series,2.0 118d M Sport (LCP) Euro 6 (s/s) 5dr * 5 STAR CUSTOMER EXPERIENCE * Hatchback,"22,490",2021,Manual,53.3 mpg,Diesel,2021,1995cc,"18,671 miles",Diesel,Manual,Black,Hatchback,53.3 mpg
+/ad/30667928,BMW 1 Series,2.0 120D SPORT 5d AUTO 188 BHP Hatchback,"21,499",2020,Automatic,54.3 mpg,Diesel,2020,2L,"18,878 miles",Diesel,Automatic,Black,Hatchback,54.3 mpg
+/ad/30829104,BMW 1 Series,1.5 118i M Sport (LCP) Euro 6 (s/s) 5dr 18s,"21,000",2022,Manual,44.1 mpg,Petrol,2022,1499cc,"16,068 miles",Petrol,Manual,White,Hatchback,44.1 mpg
+/ad/30882879,BMW 3 Series,320d Sport Saloon 1 OWNER,"21,750",2019,Manual,54.3 mpg,Diesel,2019,1995cc,"16,072 miles",Diesel,Manual,Blue,Saloon,54.3 mpg
+/ad/30931226,BMW 1 Series,2.0 118D M SPORT 5d AUTO 148 BHP Hatchback,"21,599",2020,Automatic,51.4 mpg,Diesel,2020,2L,"16,391 miles",Diesel,Automatic,Blue,Hatchback,51.4 mpg
+/ad/30799919,BMW 3 Series,318d M Sport 4dr Saloon,"20,518",2019,Manual,56.5 mpg,Diesel,2019,2L,"16,536 miles",Diesel,Manual,Grey,Saloon,56.5 mpg
+/ad/29801893,BMW X2,sDrive 20i M Sport X 5dr Step Auto SUV,"22,490",2018,Semi-Auto,39.8 mpg,Petrol,2018,2L,"16,921 miles",Petrol,Semiauto,Grey,SUV,39.8 mpg
+/ad/30842709,BMW 1 Series,1.5 118i M Sport Hatchback 5dr Petrol Manual Euro 6 (s/s) (140 ps) Hatchback,"20,850",2020,Manual,41.5 mpg,Petrol,2020,1499cc,"17,022 miles",Petrol,Manual,Storm Bay,Hatchback,41.5 mpg
+/ad/30806060,BMW i3,135kW S 42kWh 5dr Auto Hatchback,"21,290",2020,Automatic,Tax: £0,2020,"17,086 miles",Electric,Automatic,Grey,Hatchback,,,
+/ad/30777234,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,190",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"17,507 miles",Petrol,Semiauto,White,Hatchback,40.4 mpg
+/ad/30851255,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,635",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"17,595 miles",Petrol,Semiauto,Black,Hatchback,40.4 mpg
+/ad/30559178,BMW 2 Series,2.0 218d Sport (LCP) Euro 6 (s/s) 4dr SVC HISTORY 1 OWNER SAT NAV Saloon,"20,000",2021,Manual,57.7 mpg,Diesel,2021,1995cc,"18,430 miles",Diesel,Manual,Black,Saloon,57.7 mpg
+/ad/30880822,BMW 2 Series,218i [136] M Sport 4dr Coupe,"21,000",2020,Manual,43.5 mpg,Petrol,2020,1.5L,"21,044 miles",Petrol,Manual,Grey,Coupe,43.5 mpg
+/ad/30892461,BMW 1 Series,118i [136] Sport 5dr Step Auto Hatchback,"22,200",2022,Semi-Auto,47.1 mpg,Petrol,2022,1.5L,"21,176 miles",Petrol,Semiauto,White,Hatchback,47.1 mpg
+/ad/30778082,BMW 2 Series,218i (136) M Sport 4dr DCT Saloon,"22,000",2021,Automatic,42.2 mpg,Petrol,2021,1499cc,"21,305 miles",Petrol,Automatic,Unknown,Saloon,42.2 mpg
+/ad/30763361,BMW 2 Series,218i [136] M Sport 4dr Coupe,"21,000",2020,Manual,43.5 mpg,Petrol,2020,1.5L,"21,417 miles",Petrol,Manual,Blue,Coupe,43.5 mpg
+/ad/30752001,BMW X1,1 sDrive 18i Sport 5dr Step Auto SUV,"22,090",2020,Semi-Auto,39.8 mpg,Petrol,2020,1.5L,"21,423 miles",Petrol,Semiauto,Black,SUV,39.8 mpg
+/ad/30934882,BMW 2 Series,218i [136] M Sport 4dr DCT Coupe,"21,499",2020,Semi-Auto,42.2 mpg,Petrol,2020,1.5L,"21,465 miles",Petrol,Semiauto,Black,Coupe,42.2 mpg
+/ad/30662055,BMW 1 Series,1.5 118I M SPORT 5d 139 BHP 7SP AUTO HATCH Hatchback,"21,995",2020,Automatic,40.4 mpg,Petrol,2020,1.5L,"22,000 miles",Petrol,Automatic,Grey,Hatchback,40.4 mpg
+/ad/30931206,BMW X1,2.0 SDRIVE18D XLINE 5d 148 BHP Estate,"22,499",2022,Manual,50.4 mpg,Diesel,2022,2L,"22,000 miles",Diesel,Manual,Black,Estate,50.4 mpg
+/ad/30720038,BMW 1 Series,M Sport Auto 1.5 138BHP 5DR Hatchback Hatchback,"20,999",2020,Automatic,40.4 mpg,Petrol,2020,1499cc,"22,311 miles",Petrol,Automatic,Black,Hatchback,40.4 mpg
+/ad/30826152,BMW 4 Series,430d M Sport 2dr Auto [Professional Media] Convertible,"20,995",2018,Semi-Auto,51.4 mpg,Diesel,2018,3L,"23,131 miles",Diesel,Semiauto,Grey,Convertible,51.4 mpg
+/ad/30806071,BMW X1,1 sDrive 18i xLine 5dr Step Auto SUV,"21,000",2019,Semi-Auto,40.9 mpg,Petrol,2019,1.5L,"20,063 miles",Petrol,Semiauto,White,SUV,40.9 mpg
+/ad/30819297,BMW 1 Series,118i M Sport 5dr Hatchback,"20,390",2020,Manual,41.5 mpg,Petrol,2020,1.5L,"20,115 miles",Petrol,Manual,Blue,Hatchback,41.5 mpg
+/ad/30756222,BMW X1,1 sDrive 20i Sport 5dr Step Auto SUV,"20,700",2019,Semi-Auto,47.9 mpg,Petrol,2019,2L,"20,157 miles",Petrol,Semiauto,Blue,SUV,47.9 mpg
+/ad/30945999,BMW 1 Series,118i [136] Sport 5dr Step NULL,"21,750",2021,Other,47.1 mpg,Petrol,2021,1500cc,"20,504 miles",Petrol,NULL,Black,NULL,47.1 mpg
+/ad/30741899,BMW 1 Series,118i [136] M Sport 5dr Hatchback,"21,000",2021,Manual,44.1 mpg,Petrol,2021,1.5L,"20,642 miles",Petrol,Manual,White,Hatchback,44.1 mpg
+/ad/30893193,BMW 2 Series,1.5 218i M Sport DCT Euro 6 (s/s) 4dr Saloon,"22,450",2020,Automatic,42.2 mpg,Petrol,2020,1.5l,"21,023 miles",Petrol,Automatic,Grey,Saloon,42.2 mpg
+/ad/30880822,BMW 2 Series,218i [136] M Sport 4dr Coupe,"21,000",2020,Manual,43.5 mpg,Petrol,2020,1.5L,"21,044 miles",Petrol,Manual,Grey,Coupe,43.5 mpg
+/ad/30764287,BMW 4 Series,420i M Sport 5dr Auto [Professional Media] Coupe,"21,400",2019,Semi-Auto,48.7 mpg,Petrol,2019,2L,"21,112 miles",Petrol,Semiauto,White,Coupe,48.7 mpg
+/ad/30892461,BMW 1 Series,118i [136] Sport 5dr Step Auto Hatchback,"22,200",2022,Semi-Auto,47.1 mpg,Petrol,2022,1.5L,"21,176 miles",Petrol,Semiauto,White,Hatchback,47.1 mpg
+/ad/30510506,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,400",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"21,228 miles",Petrol,Semiauto,Black,Hatchback,40.4 mpg
+/ad/30720739,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) Full Leather,"22,400",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"21,300 miles",Petrol,Automatic,Orange,Saloon,42.2 mpg
+/ad/30778082,BMW 2 Series,218i (136) M Sport 4dr DCT Saloon,"22,000",2021,Automatic,42.2 mpg,Petrol,2021,1499cc,"21,305 miles",Petrol,Automatic,Unknown,Saloon,42.2 mpg
+/ad/30763361,BMW 2 Series,218i [136] M Sport 4dr Coupe,"21,000",2020,Manual,43.5 mpg,Petrol,2020,1.5L,"21,417 miles",Petrol,Manual,Blue,Coupe,43.5 mpg
+/ad/30752001,BMW X1,1 sDrive 18i Sport 5dr Step Auto SUV,"22,090",2020,Semi-Auto,39.8 mpg,Petrol,2020,1.5L,"21,423 miles",Petrol,Semiauto,Black,SUV,39.8 mpg
+/ad/30934882,BMW 2 Series,218i [136] M Sport 4dr DCT Coupe,"21,499",2020,Semi-Auto,42.2 mpg,Petrol,2020,1.5L,"21,465 miles",Petrol,Semiauto,Black,Coupe,42.2 mpg
+/ad/30475947,BMW 2 Series,1.5 218i M Sport Saloon 4dr Petrol DCT Euro 6 (s/s) (136 ps) M Sport Bodykit,"22,000",2021,Automatic,45.6 mpg,Petrol,2021,1499cc,"21,746 miles",Petrol,Automatic,Black,Saloon,45.6 mpg
+/ad/30937058,BMW 1 Series,1.5 118i M Sport Hatchback 5dr Petrol DCT Euro 6 (s/s) (136 ps) M Sport Bodykit,"21,700",2021,Automatic,40.4 mpg,Petrol,2021,1499cc,"21,999 miles",Petrol,Automatic,White,Hatchback,40.4 mpg
+/ad/30662055,BMW 1 Series,1.5 118I M SPORT 5d 139 BHP 7SP AUTO HATCH Hatchback,"21,995",2020,Automatic,40.4 mpg,Petrol,2020,1.5L,"22,000 miles",Petrol,Automatic,Grey,Hatchback,40.4 mpg
+/ad/30931206,BMW X1,2.0 SDRIVE18D XLINE 5d 148 BHP Estate,"22,499",2022,Manual,50.4 mpg,Diesel,2022,2L,"22,000 miles",Diesel,Manual,Black,Estate,50.4 mpg
+/ad/30836657,BMW 3 Series,2.0 330e 12kWh Sport Pro Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) Saloon,"22,461",2020,Automatic,8.8 mpg,Hybrid,2020,1998cc,"22,047 miles",Hybrid,Automatic,Grey,Saloon,8.8 mpg
+/ad/29489410,BMW 3 Series,3.0 330D M SPORT SHADOW EDITION AUTOMATIC 4d 255 BHP Saloon,"20,995",2017,Automatic,56.5 mpg,Diesel,2017,3L,"26,907 miles",Diesel,Automatic,Grey,Saloon,56.5 mpg
+/ad/30930097,BMW 5 Series,2.0 530e 9.2kWh M Sport Auto Euro 6 (s/s) 4dr REAR CAM|LEATHER INTERIOR Saloon,"22,495",2019,Automatic,156.9 mpg,Hybrid,2019,1998cc,"26,959 miles",Petrol Plug-in Hybrid,Automatic,Black,Saloon,156.9 mpg
+/ad/30663141,BMW X1,1 sDrive 18i M Sport 5dr Step Auto SUV,"22,500",2020,Semi-Auto,40.9 mpg,Petrol,2020,1.5L,"27,191 miles",Petrol,Semiauto,White,SUV,40.9 mpg
+/ad/29596880,BMW X2,sDrive 18d M Sport X 5dr SUV,"20,990",2019,Manual,55.4 mpg,Diesel,2019,2L,"27,281 miles",Diesel,Manual,White,SUV,55.4 mpg
+/ad/30478636,BMW 3 Series,318d SE 4dr Step Auto Saloon,"21,000",2020,Automatic,55.4 mpg,Diesel,2020,1995cc,"27,328 miles",Diesel,Automatic,Grey,Saloon,55.4 mpg
+/ad/30918688,BMW 4 Series,435d xDrive M Sport 5dr Auto [Professional Media] Coupe,"21,490",2017,Semi-Auto,49.6 mpg,Diesel,2017,3L,"27,400 miles",Diesel,Semiauto,White,Coupe,49.6 mpg
+/ad/30878021,BMW X1,1 sDrive 18i xLine 5dr Step Auto SUV,"21,561",2019,Semi-Auto,40.9 mpg,Petrol,2019,1.5L,"27,400 miles",Petrol,Semiauto,White,SUV,40.9 mpg
+/ad/30640053,BMW 5 Series,520i M Sport Estate,"21,995",2018,Automatic,47.9 mpg,Petrol,2018,2000cc,"27,665 miles",Petrol,Automatic,Bluestone Metallic,Estate,47.9 mpg
+/ad/30900040,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,999",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"27,740 miles",Petrol,Semiauto,Grey,Hatchback,40.4 mpg
+/ad/30876797,BMW 1 Series,118i [136] M Sport 5dr Step Auto Hatchback,"21,990",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"27,796 miles",Petrol,Semiauto,Red,Hatchback,44.1 mpg
+/ad/30764323,BMW X3,3 xDrive20d M Sport 5dr Step Auto SUV,"20,999",2017,Semi-Auto,54.3 mpg,Diesel,2017,2L,"27,958 miles",Diesel,Semiauto,Grey,SUV,54.3 mpg
+/ad/30678029,BMW X1,X1,"20,500",2019,Automatic,35.3 mpg,Petrol,2019,1998.0cc,"28,000 miles",Petrol,Automatic,WHITE,Estate,35.3 mpg
+/ad/30913189,BMW 1 Series,2.0 120D XDRIVE M SPORT 5d AUTO 188 BHP Hatchback,"21,499",2019,Automatic,48.7 mpg,Diesel,2019,2L,"28,000 miles",Diesel,Automatic,Red,Hatchback,48.7 mpg
+/ad/30823425,BMW 3 Series,320i M Sport Shadow Edition 5dr Step Auto Estate,"22,399",2019,Semi-Auto,47.9 mpg,Petrol,2019,2L,"28,232 miles",Petrol,Semiauto,Black,Estate,47.9 mpg
+/ad/30735132,BMW 3 Series,318d SE Pro 4dr Saloon,"20,599",2021,Manual,56.5 mpg,Diesel,2021,2L,"28,271 miles",Diesel,Manual,Grey,Saloon,56.5 mpg
+/ad/30913624,BMW X2,2.0 20i Sport DCT sDrive Euro 6 (s/s) 5dr 18s,"20,750",2021,Automatic,38.7 mpg,Petrol,2021,1998cc,"28,706 miles",Petrol,Automatic,Black,SUV,38.7 mpg
+/ad/30829374,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"22,400",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"28,725 miles",Petrol,Automatic,Blue,Saloon,42.2 mpg
+/ad/30799372,BMW 5 Series,2.0 520i GPF M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"21,000",2019,Automatic,50.4 mpg,Petrol,2019,1998cc,"28,884 miles",Petrol,Automatic,White,Saloon,50.4 mpg
+/ad/30835305,BMW 4 Series,3.0 440I M SPORT 2d 322 BHP Convertible,"20,000",2017,Automatic,39.2 mpg,Petrol,2017,3L,"29,048 miles",Petrol,Automatic,White,Convertible,39.2 mpg
+/ad/30879126,BMW 1 Series,1.5 118i M Sport DCT Euro 6 (s/s) 5dr Hatchback,"21,450",2020,Automatic,40.4 mpg,Petrol,2020,1.5l,"29,589 miles",Petrol,Automatic,Grey,Hatchback,40.4 mpg
+/ad/30743851,BMW 2 Series,218d M Sport 5dr Step Auto Estate,"22,000",2020,Automatic,48.7 mpg,Diesel,2020,1995cc,"29,909 miles",Diesel,Automatic,White,Estate,48.7 mpg
+/ad/30841087,BMW X3,3 xDrive30d xLine 5dr Step Auto SUV,"20,500",2017,Semi-Auto,47.9 mpg,Diesel,2017,3L,"29,930 miles",Diesel,Semiauto,Black,SUV,47.9 mpg
+/ad/30325425,BMW 5 Series,520d M Sport 4dr Auto Saloon,"22,039",2019,Semi-Auto,49.6 mpg,Diesel,2019,2L,"29,999 miles",Diesel,Semiauto,White,Saloon,49.6 mpg
+/ad/30216498,BMW 4 Series,430d M Sport 2dr Auto [Professional Media] Convertible,"20,799",2019,Semi-Auto,51.4 mpg,Diesel,2019,3L,"30,208 miles",Diesel,Semiauto,Black,Convertible,51.4 mpg
+/ad/30882314,BMW X1,2.0 SDRIVE20I M SPORT 5d AUTO 190 BHP Estate,"20,999",2019,Automatic,48.7 mpg,Petrol,2019,2L,"30,530 miles",Petrol,Automatic,Grey,Estate,48.7 mpg
+/ad/30830953,BMW X1,2.0 20i xLine SUV 5dr Petrol DCT sDrive Euro 6 (s/s) (192 ps) Full Leather,"21,700",2020,Automatic,47.9 mpg,Petrol,2020,1998cc,"31,475 miles",Petrol,Automatic,Blue,SUV,47.9 mpg
+/ad/29900782,BMW 6 Series,640i M Sport 4dr Auto Coupe,"22,500",2017,Semi-Auto,36.2 mpg,Petrol,2017,3L,"31,725 miles",Petrol,Semiauto,White,Coupe,36.2 mpg
+/ad/30307281,BMW 3 Series,2.0 330e 12kWh M Sport Auto Euro 6 (s/s) 4dr SUPERB SAVING ON RUNNING COST Saloon,"21,000",2020,Automatic,8.8 mpg,Hybrid,2020,1998cc,"32,000 miles",Petrol Plug-in Hybrid,Automatic,Black,Saloon,8.8 mpg
+/ad/30752474,BMW 1 Series,3.0 M140I 3d 335 BHP Hatchback,"20,500",2017,Automatic,39.8 mpg,Petrol,2017,3L,"32,040 miles",Petrol,Automatic,Grey,Hatchback,39.8 mpg
+/ad/30913800,BMW X2,2.0 20d M Sport SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (190 ps) Radio Visual Boost,"20,500",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"32,140 miles",Diesel,Automatic,Grey,SUV,58.9 mpg
+/ad/30741895,BMW X1,1 sDrive 18d M Sport 5dr Step Auto SUV,"22,250",2020,Semi-Auto,36.7 mpg,Diesel,2020,2L,"32,532 miles",Diesel,Semiauto,Blue,SUV,36.7 mpg
+/ad/30913802,BMW X1,2.0 20i xLine SUV 5dr Petrol DCT sDrive Euro 6 (s/s) (192 ps) Full Leather,"21,600",2020,Automatic,47.9 mpg,Petrol,2020,1998cc,"32,615 miles",Petrol,Automatic,Black,SUV,47.9 mpg
+/ad/30870909,BMW 3 Series,320i M Sport 4dr Step Auto Saloon,"21,991",2019,Semi-Auto,42.2 mpg,Petrol,2019,2L,"32,692 miles",Petrol,Semiauto,Black,Saloon,42.2 mpg
+/ad/30297042,BMW X2,2.0 20d M Sport SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,000",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"33,225 miles",Diesel,Automatic,Blue,SUV,58.9 mpg
+/ad/29322131,BMW 3 Series,2.0 330E M SPORT PHEV 4d AUTO 289 BHP Saloon,"20,999",2019,Automatic,8.8 mpg,Other,2019,2L,"33,300 miles",Other,Automatic,White,Saloon,8.8 mpg
+/ad/30858296,BMW 3 Series,2.0 330E SPORT PRO 4d AUTO 288 BHP Saloon,"22,299",2020,Automatic,188.3 mpg,Other,2020,2L,"33,301 miles",Other,Automatic,White,Saloon,188.3 mpg
+/ad/30820176,BMW 5 Series,3.0 530d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (265 ps) M Sport Bodykit,"22,300",2017,Automatic,60.1 mpg,Diesel,2017,2993cc,"33,786 miles",Diesel,Automatic,Black,Saloon,60.1 mpg
+/ad/30905133,BMW 4 Series,2.0 420i GPF M Sport Hatchback 5dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"20,100",2020,Automatic,48.7 mpg,Petrol,2020,1998cc,"33,854 miles",Petrol,Automatic,White,Hatchback,48.7 mpg
+/ad/30899665,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,999",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"33,933 miles",Petrol,Semiauto,White,Hatchback,40.4 mpg
+/ad/30930324,BMW 5 Series,530e M Sport 4dr Auto Saloon,"21,495",2018,Semi-Auto,156.9 mpg,Hybrid,2018,2L,"34,000 miles",Hybrid,Semiauto,Blue,Saloon,156.9 mpg
+/ad/30456468,BMW X1,1 xDrive 20d SE 5dr Step Auto SUV,"20,695",2019,Semi-Auto,39.8 mpg,Diesel,2019,2L,"34,024 miles",Diesel,Semiauto,Blue,SUV,39.8 mpg
+/ad/30310856,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Manual Euro 6 (s/s) (190 ps) Digital Cockpit,"20,300",2019,Manual,54.3 mpg,Diesel,2019,1995cc,"34,506 miles",Diesel,Manual,Grey,Saloon,54.3 mpg
+/ad/30863341,BMW X2,xDrive 20d M Sport 5dr Step Auto SUV,"20,895",2018,Semi-Auto,58.9 mpg,Diesel,2018,2L,"34,560 miles",Diesel,Semiauto,Black,SUV,58.9 mpg
+/ad/30815106,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,399",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"34,623 miles",Petrol,Semiauto,Black,Hatchback,40.4 mpg
+/ad/30913628,BMW X1,2.0 20i xLine Auto xDrive Euro 6 (s/s) 5dr 18s,"21,750",2020,Automatic,39.8 mpg,Petrol,2020,1998cc,"35,150 miles",Petrol,Automatic,Bronze,SUV,39.8 mpg
+/ad/30920495,BMW 6 Series,640d M Sport 2dr Auto Coupe,"21,299",2017,Semi-Auto,51.4 mpg,Diesel,2017,3L,"35,303 miles",Diesel,Semiauto,Black,Coupe,51.4 mpg
+/ad/30889902,BMW X1,1 xDrive 20i M Sport 5dr Step Auto SUV,"22,490",2019,Semi-Auto,38.7 mpg,Petrol,2019,2L,"35,416 miles",Petrol,Semiauto,Black,SUV,38.7 mpg
+/ad/30785426,BMW X1,18i xLine SUV,"22,495",2019,Automatic,37.7 mpg,Petrol,2019,1500cc,"35,881 miles",Petrol,Automatic,Glacier Silver Metallic,SUV,37.7 mpg
+/ad/30609929,BMW 5 Series,2.0 520D XDRIVE M SPORT 4d AUTO 188 BHP Saloon,"21,999",2018,Automatic,46.3 mpg,Diesel,2018,2L,"36,000 miles",Diesel,Automatic,Blue,Saloon,46.3 mpg
+/ad/30913624,BMW X2,2.0 20i Sport DCT sDrive Euro 6 (s/s) 5dr 18s,"20,750",2021,Automatic,38.7 mpg,Petrol,2021,1998cc,"28,706 miles",Petrol,Automatic,Black,SUV,38.7 mpg
+/ad/30829374,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"22,400",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"28,725 miles",Petrol,Automatic,Blue,Saloon,42.2 mpg
+/ad/30799372,BMW 5 Series,2.0 520i GPF M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"21,000",2019,Automatic,50.4 mpg,Petrol,2019,1998cc,"28,884 miles",Petrol,Automatic,White,Saloon,50.4 mpg
+/ad/30559137,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Manual Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,000",2019,Manual,54.3 mpg,Diesel,2019,1995cc,"28,902 miles",Diesel,Manual,Black,Saloon,54.3 mpg
+/ad/30859331,BMW X2,sDrive 20i M Sport 5dr Step Auto SUV,"20,895",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"28,951 miles",Petrol,Semiauto,Other,SUV,39.2 mpg
+/ad/30835305,BMW 4 Series,3.0 440I M SPORT 2d 322 BHP Convertible,"20,000",2017,Automatic,39.2 mpg,Petrol,2017,3L,"29,048 miles",Petrol,Automatic,White,Convertible,39.2 mpg
+/ad/30930013,BMW 5 Series,2.0 520d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"22,000",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"29,474 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30893003,BMW 4 Series,2.0 420d M Sport Hatchback 5dr Diesel Auto xDrive Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,000",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"29,492 miles",Diesel,Automatic,Grey,Hatchback,58.9 mpg
+/ad/30879126,BMW 1 Series,1.5 118i M Sport DCT Euro 6 (s/s) 5dr Hatchback,"21,450",2020,Automatic,40.4 mpg,Petrol,2020,1.5l,"29,589 miles",Petrol,Automatic,Grey,Hatchback,40.4 mpg
+/ad/30743851,BMW 2 Series,218d M Sport 5dr Step Auto Estate,"22,000",2020,Automatic,48.7 mpg,Diesel,2020,1995cc,"29,909 miles",Diesel,Automatic,White,Estate,48.7 mpg
+/ad/30735130,BMW 3 Series,318d SE Pro 4dr Saloon,"20,999",2022,Manual,56.5 mpg,Diesel,2022,2L,"38,183 miles",Diesel,Manual,Black,Saloon,56.5 mpg
+/ad/30893611,BMW 1 Series,118i M Sport 1 OWNER,"20,850",2020,Automatic,40.4 mpg,Petrol,2020,1499cc,"38,246 miles",Petrol,Automatic,Grey,Hatchback,40.4 mpg
+/ad/30863910,BMW 3 Series,320i M Sport Saloon £700 FINANCE DEPOSIT PAID!! Saloon,"21,950",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"38,465 miles",Petrol,Automatic,Grey,Saloon,42.2 mpg
+/ad/30418936,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,000",2020,Automatic,188.3 mpg,Hybrid,2020,1998cc,"38,860 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,188.3 mpg
+/ad/30900775,BMW 5 Series,2.0 520d M Sport Touring 5dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,800",2018,Automatic,45.6 mpg,Diesel,2018,1995cc,"39,148 miles",Diesel,Automatic,Blue,Estate,45.6 mpg
+/ad/30878869,BMW X1,sDrive 20i M Sport 5dr Step Auto SUV,"20,000",2018,Automatic,39.2 mpg,Petrol,2018,1998cc,"39,268 miles",Petrol,Automatic,Silver,SUV,39.2 mpg
+/ad/30120729,BMW 5 Series,2.0 520D XDRIVE M SPORT 4d AUTO 188 BHP Saloon,"20,499",2017,Automatic,60.1 mpg,Diesel,2017,2L,"39,500 miles",Diesel,Automatic,Blue,Saloon,60.1 mpg
+/ad/30422687,BMW 1 Series,118d M Sport 5dr Hatchback,"21,950",2020,Manual,53.3 mpg,Diesel,2020,2L,"39,607 miles",Diesel,Manual,White,Hatchback,53.3 mpg
+/ad/30880022,BMW 1 Series,118i M Sport 5dr Hatchback,"21,250",2021,Manual,44.1 mpg,Petrol,2021,1500cc,"39,859 miles",Petrol,Manual,Storm Bay Metallic,Hatchback,44.1 mpg
+/ad/30558804,BMW 5 Series,2.0 520D M SPORT TOURING 5d AUTO 188 BHP Estate,"21,999",2019,Automatic,62.8 mpg,Diesel,2019,2L,"40,228 miles",Diesel,Automatic,Black,Estate,62.8 mpg
+/ad/30871731,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"20,500",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"40,395 miles",Petrol,Automatic,Blue,Saloon,42.2 mpg
+/ad/30858579,BMW 3 Series,3.0 330d M Sport Touring 5dr Diesel Auto Euro 6 (s/s) (258 ps) M Sport Bodykit,"20,500",2017,Automatic,53.3 mpg,Diesel,2017,2993cc,"40,556 miles",Diesel,Automatic,White,Estate,53.3 mpg
+/ad/30897253,BMW 5 Series,530e M Sport 4dr Auto Saloon,"21,970",2019,Semi-Auto,156.9 mpg,Hybrid,2019,2L,"40,580 miles",Hybrid,Semiauto,Blue,Saloon,156.9 mpg
+/ad/30423462,BMW 3 Series,2.0 320i M Sport Touring Auto Euro 6 (s/s) 5dr PARKING SENSORS SAT NAV Estate,"22,500",2020,Automatic,40.4 mpg,Petrol,2020,1998cc,"41,550 miles",Petrol,Automatic,Blue,Estate,40.4 mpg
+/ad/30892376,BMW 5 Series,530e M Sport 4dr Auto Saloon,"22,500",2019,Semi-Auto,156.9 mpg,Hybrid,2019,2L,"41,619 miles",Hybrid,Semiauto,Black,Saloon,156.9 mpg
+/ad/30922320,BMW X3,3.0 30d xLine SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (258 ps) Full Leather,"21,400",2017,Automatic,47.9 mpg,Diesel,2017,2993cc,"42,082 miles",Diesel,Automatic,White,SUV,47.9 mpg
+/ad/30868633,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"20,500",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"43,247 miles",Petrol,Automatic,White,Saloon,42.2 mpg
+/ad/30923108,BMW 3 Series,335d xDrive M Sport Shadow Edition 4dr Step Auto Saloon,"21,790",2018,Semi-Auto,51.4 mpg,Diesel,2018,3L,"44,022 miles",Diesel,Semiauto,Grey,Saloon,51.4 mpg
+/ad/30694012,BMW 5 Series,2.0 530E M SPORT 4d AUTO 249 BHP Saloon,"21,999",2019,Automatic,156.9 mpg,Other,2019,2L,"44,237 miles",Other,Automatic,Blue,Saloon,156.9 mpg
+/ad/30059246,BMW 3 Series,320d Sport 4dr Step Auto Saloon,"21,058",2020,Semi-Auto,52.3 mpg,Diesel,2020,2L,"44,238 miles",Diesel,Semiauto,Blue,Saloon,52.3 mpg
+/ad/30816245,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"20,900",2019,Automatic,8.8 mpg,Hybrid,2019,1998cc,"44,683 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,8.8 mpg
+/ad/29866007,BMW 5 Series,2.0 530E M SPORT 4d 249 BHP Saloon,"20,795",2018,Automatic,156.9 mpg,Other,2018,2L,"44,705 miles",Other,Automatic,Grey,Saloon,156.9 mpg
+/ad/30697497,BMW X3,3 xDrive30d xLine 5dr Step Auto SUV,"20,900",2017,Semi-Auto,47.9 mpg,Diesel,2017,3L,"44,740 miles",Diesel,Semiauto,Silver,SUV,47.9 mpg
+/ad/30680556,BMW 3 Series,330e M Sport 4dr Auto Saloon,"21,700",2019,Semi-Auto,8.8 mpg,Hybrid,2019,2L,"44,750 miles",Hybrid,Semiauto,Black,Saloon,8.8 mpg
+/ad/30841916,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,900",2020,Automatic,188.3 mpg,Hybrid,2020,1998cc,"45,171 miles",Petrol Plug-in Hybrid,Automatic,Blue,Saloon,188.3 mpg
+/ad/30917111,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"21,000",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"45,302 miles",Petrol,Automatic,White,Saloon,42.2 mpg
+/ad/30929950,BMW 3 Series,320d M Sport Shadow Edition Touring PRO NAV,"20,950",2018,Automatic,62.8 mpg,Diesel,2018,1995cc,"45,324 miles",Diesel,Automatic,Blue,Estate,62.8 mpg
+/ad/30851500,BMW 5 Series,520d M Sport Touring £700 finance contribution!! Estate,"22,500",2019,Automatic,45.6 mpg,Diesel,2019,1995cc,"45,408 miles",Diesel,Automatic,Grey,Estate,45.6 mpg
+/ad/30855177,BMW 5 Series,520d XDRIVE M SPORT Saloon,"20,950",2018,Automatic,60.1 mpg,Diesel,2018,2L,"46,000 miles",Diesel,Automatic,SOPHISTO GREY METALLIC,Saloon,60.1 mpg
+/ad/30627830,BMW 1 Series,118i [136] M Sport 5dr Step Auto Hatchback,"21,940",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"46,073 miles",Petrol,Semiauto,White,Hatchback,44.1 mpg
+/ad/30882601,BMW X1,1 sDrive 20i xLine 5dr Step Auto SUV,"21,855",2020,Semi-Auto,47.9 mpg,Petrol,2020,2L,"35,128 miles",Petrol,Semiauto,Grey,SUV,47.9 mpg
+/ad/30913628,BMW X1,2.0 20i xLine Auto xDrive Euro 6 (s/s) 5dr 18s,"21,750",2020,Automatic,39.8 mpg,Petrol,2020,1998cc,"35,150 miles",Petrol,Automatic,Bronze,SUV,39.8 mpg
+/ad/30920495,BMW 6 Series,640d M Sport 2dr Auto Coupe,"21,299",2017,Semi-Auto,51.4 mpg,Diesel,2017,3L,"35,303 miles",Diesel,Semiauto,Black,Coupe,51.4 mpg
+/ad/30889902,BMW X1,1 xDrive 20i M Sport 5dr Step Auto SUV,"22,490",2019,Semi-Auto,38.7 mpg,Petrol,2019,2L,"35,416 miles",Petrol,Semiauto,Black,SUV,38.7 mpg
+/ad/30945432,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,300",2020,Automatic,8.8 mpg,Hybrid,2020,1998cc,"35,860 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,8.8 mpg
+/ad/30785426,BMW X1,18i xLine SUV,"22,495",2019,Automatic,37.7 mpg,Petrol,2019,1500cc,"35,881 miles",Petrol,Automatic,Glacier Silver Metallic,SUV,37.7 mpg
+/ad/30609929,BMW 5 Series,2.0 520D XDRIVE M SPORT 4d AUTO 188 BHP Saloon,"21,999",2018,Automatic,46.3 mpg,Diesel,2018,2L,"36,000 miles",Diesel,Automatic,Blue,Saloon,46.3 mpg
+/ad/30913609,BMW X1,2.0 20i xLine DCT sDrive Euro 6 (s/s) 5dr 18s,"21,000",2020,Automatic,47.9 mpg,Petrol,2020,1998cc,"36,211 miles",Petrol,Automatic,Blue,SUV,47.9 mpg
+/ad/30554506,BMW 4 Series,430i M Sport 2dr Auto [Professional Media] Coupe,"20,620",2020,Semi-Auto,48.7 mpg,Petrol,2020,2L,"36,270 miles",Petrol,Semiauto,Black,Coupe,48.7 mpg
+/ad/30879839,BMW 3 Series,320i xDrive M Sport Shado NULL,"21,999",2019,Other,43.5 mpg,Petrol,2019,2000cc,"36,400 miles",Petrol,NULL,Grey,NULL,43.5 mpg
+/ad/30630132,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,695",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"36,557 miles",Petrol,Semiauto,Red,Hatchback,40.4 mpg
+/ad/30776380,BMW X2,xDrive 20i M Sport 5dr Step Auto SUV,"21,300",2019,Semi-Auto,36.2 mpg,Petrol,2019,2L,"36,810 miles",Petrol,Semiauto,Orange,SUV,36.2 mpg
+/ad/30553476,BMW 5 Series,2.0 530e 9.2kWh M Sport Auto Euro 6 (s/s) 4dr SAT/NAV,"20,880",2018,Automatic,156.9 mpg,Hybrid,2018,1998cc,"37,000 miles",Petrol Plug-in Hybrid,Automatic,Black,Saloon,156.9 mpg
+/ad/30931204,BMW 1 Series,2.0 120D XDRIVE M SPORT 5d AUTO 188 BHP Hatchback,"21,999",2020,Automatic,48.7 mpg,Diesel,2020,2L,"37,000 miles",Diesel,Automatic,White,Hatchback,48.7 mpg
+/ad/30790078,BMW 1 Series,M140i Shadow Edition 5dr Step Auto Hatchback,"22,495",2018,Semi-Auto,32.5 mpg,Petrol,2018,3L,"37,053 miles",Petrol,Semiauto,Blue,Hatchback,32.5 mpg
+/ad/30893049,BMW 5 Series,2.0 520d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,200",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"37,695 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30913592,BMW X2,2.0 20d M Sport Auto xDrive Euro 6 (s/s) 5dr 19s,"22,250",2020,Automatic,58.9 mpg,Diesel,2020,1995cc,"37,808 miles",Diesel,Automatic,Grey,SUV,58.9 mpg
+/ad/30946003,BMW 3 Series,318d Sport 4dr Step Auto NULL,"20,950",2019,Other,53.3 mpg,Diesel,2019,1995cc,"38,000 miles",Diesel,NULL,Mineral White Metallic,NULL,53.3 mpg
+/ad/30858052,BMW 2 Series,220d M Sport 5dr Step Auto Hatchback,"20,995",2020,Automatic,51.4 mpg,Diesel,2020,1995cc,"38,000 miles",Diesel,Automatic,White,Hatchback,51.4 mpg
+/ad/30789308,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) M Sport Saloon,"21,900",2019,Automatic,156.9 mpg,Hybrid,2019,1998cc,"38,158 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,156.9 mpg
+/ad/30940737,BMW 3 Series,330e M Sport 4dr Auto Saloon,"21,820",2020,Semi-Auto,8.8 mpg,Hybrid,2020,2L,"53,736 miles",Hybrid,Semiauto,Grey,Saloon,8.8 mpg
+/ad/30851207,BMW X3,3 xDrive20d xLine 5dr Step Auto SUV,"21,690",2017,Semi-Auto,54.3 mpg,Diesel,2017,2L,"54,955 miles",Diesel,Semiauto,Grey,SUV,54.3 mpg
+/ad/28930398,BMW 6 Series,3.0 640D M SPORT GRAN COUPE 4d 309 BHP Coupe,"21,999",2017,Automatic,49.6 mpg,Diesel,2017,3L,"55,000 miles",Diesel,Automatic,Black,Coupe,49.6 mpg
+/ad/28071109,BMW 4 Series,3.0 435D XDRIVE M SPORT GRAN COUPE 4d 309 BHP **M Performance Kit** Coupe,"21,999",2018,Automatic,49.6 mpg,Diesel,2018,3L,"55,000 miles",Diesel,Automatic,White,Coupe,49.6 mpg
+/ad/30604439,BMW X3,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr BLACK 20s,"20,750",2017,Automatic,47.9 mpg,Diesel,2017,2993cc,"55,234 miles",Diesel,Automatic,Black,SUV,47.9 mpg
+/ad/30618267,BMW 5 Series,2.0 530e 9.2kWh M Sport Auto Euro 6 (s/s) 4dr £7425 OF OPTIONAL EXTRAS!!! Saloon,"21,700",2018,Automatic,156.9 mpg,Hybrid,2018,1998cc,"56,390 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,156.9 mpg
+/ad/30899622,BMW 3 Series,330e M Sport 4dr Auto Saloon,"20,499",2019,Semi-Auto,8.8 mpg,Hybrid,2019,2L,"56,521 miles",Hybrid,Semiauto,Orange,Saloon,8.8 mpg
+/ad/30931466,BMW 6 Series,Gran Turismo 2.0 630i GPF M Sport GT 5dr Petrol Auto Euro 6 (s/s) (258 ps) M Sport Bodykit,"21,800",2018,Automatic,42.8 mpg,Petrol,2018,1998cc,"56,984 miles",Petrol,Automatic,White,Hatchback,42.8 mpg
+/ad/30893192,BMW 3 Series,2.0 320i M Sport Auto Euro 6 (s/s) 4dr Saloon,"20,950",2019,Automatic,42.2 mpg,Petrol,2019,2.0l,"57,212 miles",Petrol,Automatic,White,Saloon,42.2 mpg
+/ad/30929119,BMW 5 Series,520d M Sport 5dr Auto Estate,"20,499",2018,Semi-Auto,62.8 mpg,Diesel,2018,2L,"57,510 miles",Diesel,Semiauto,White,Estate,62.8 mpg
+/ad/30360804,BMW 3 Series,320d xDrive M Sport 4dr Step Auto Saloon,"21,920",2019,Semi-Auto,48.7 mpg,Diesel,2019,2L,"58,300 miles",Diesel,Semiauto,Black,Saloon,48.7 mpg
+/ad/30483946,BMW 5 Series,520d MHT M Sport Saloon,"21,495",2019,Automatic,49.6 mpg,Hybrid,2019,2000cc,"58,743 miles",Hybrid,Automatic,Bluestone Metallic,Saloon,49.6 mpg
+/ad/30105433,BMW 5 Series,2.0 530e 9.2kWh M Sport Auto Euro 6 (s/s) 4dr £6705 OF OPTIONAL EXTRAS Saloon,"20,000",2018,Automatic,156.9 mpg,Hybrid,2018,1998cc,"59,570 miles",Petrol Plug-in Hybrid,Automatic,Blue,Saloon,156.9 mpg
+/ad/30751957,BMW 6 Series,630d xDrive M Sport 5dr Auto Hatchback,"21,999",2019,Semi-Auto,47.9 mpg,Diesel,2019,3L,"60,107 miles",Diesel,Semiauto,White,Hatchback,47.9 mpg
+/ad/30663307,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"20,920",2020,Semi-Auto,188.3 mpg,Hybrid,2020,2L,"61,497 miles",Hybrid,Semiauto,White,Saloon,188.3 mpg
+/ad/30693185,BMW 5 Series,520d xDrive M Sport 4dr Auto Saloon,"20,400",2019,Semi-Auto,46.3 mpg,Diesel,2019,2L,"62,844 miles",Diesel,Semiauto,White,Saloon,46.3 mpg
+/ad/30882317,BMW 3 Series,2.0 320D M SPORT MHEV 4d AUTO 188 BHP Saloon,"20,999",2020,Automatic,56.5 mpg,Other,2020,2L,"63,000 miles",Other,Automatic,Grey,Saloon,56.5 mpg
+/ad/30846689,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,200",2020,Automatic,52.3 mpg,Diesel,2020,1995cc,"65,697 miles",Diesel,Automatic,White,Saloon,52.3 mpg
+/ad/30913731,BMW 5 Series,2.0 520d M Sport Touring 5dr Diesel Auto xDrive Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,300",2018,Automatic,55.4 mpg,Diesel,2018,1995cc,"67,840 miles",Diesel,Automatic,Blue,Estate,55.4 mpg
+/ad/30820077,BMW 5 Series,2.0 530e 9.2kWh M Sport Auto Euro 6 (s/s) 4dr Full Bmw Service,"20,480",2019,Automatic,156.9 mpg,Hybrid,2019,1998cc,"69,000 miles",Petrol Plug-in Hybrid,Automatic,White,Saloon,156.9 mpg
+/ad/30752399,BMW 1 Series,3.0 M140I SHADOW EDITION 5d AUTO 335 BHP Hatchback,"20,470",2019,Automatic,39.8 mpg,Petrol,2019,3L,"69,429 miles",Petrol,Automatic,Grey,Hatchback,39.8 mpg
+/ad/30799272,BMW X1,1.5 25e 10kWh M Sport Auto xDrive Euro 6 (s/s) 5dr £1695 OF OPTIONAL EXTRAS SUV,"22,000",2020,Automatic,148.7 mpg,Hybrid,2020,1499cc,"70,510 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,148.7 mpg
+/ad/30588696,BMW 3 Series,330e M Sport 4dr Auto Saloon,"20,590",2019,Automatic,8.8 mpg,Hybrid,2019,2000cc,"71,833 miles",Petrol/PlugIn Elec Hybrid,Automatic,Blue,Saloon,8.8 mpg
+/ad/30904583,BMW 5 Series,2.0 520d M Sport Touring Auto Euro 6 (s/s) 5dr £3750 OF OPTIONAL EXTRAS Estate,"21,000",2019,Automatic,45.6 mpg,Diesel,2019,1995cc,"73,720 miles",Diesel,Automatic,Blue,Estate,45.6 mpg
+/ad/30904593,BMW 5 Series,3.0 530d M Sport Saloon 4dr Diesel Auto xDrive Euro 6 (s/s) (265 ps) M Sport Bodykit,"20,700",2017,Automatic,53.3 mpg,Diesel,2017,2993cc,"74,772 miles",Diesel,Automatic,White,Saloon,53.3 mpg
+/ad/30629229,BMW 5 Series,2.0 520d M Sport Touring Auto xDrive Euro 6 (s/s) 5dr SVC HISTORY VIRTRUAL DASHBOARD Estate,"21,000",2019,Automatic,44.1 mpg,Diesel,2019,1995cc,"79,140 miles",Diesel,Automatic,White,Estate,44.1 mpg
+/ad/30876443,BMW 6 Series,Gran Turismo 3.0 630d M Sport GT Auto xDrive Euro 6 (s/s) 5dr SAT/NAV,"20,880",2017,Automatic,47.9 mpg,Diesel,2017,2993cc,"84,000 miles",Diesel,Automatic,Black,Hatchback,47.9 mpg
+/ad/30917287,BMW 3 Series,2.0 330i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (258 ps) M Sport Bodykit,"20,700",2020,Automatic,41.5 mpg,Petrol,2020,1998cc,"84,842 miles",Petrol,Automatic,White,Saloon,41.5 mpg
+/ad/30847169,BMW X6,40d M Sport SUV,"22,495",2017,Automatic,44.8 mpg,Diesel,2017,3000cc,"88,084 miles",Diesel,Automatic,Mineral White Metallic,SUV,44.8 mpg
+/ad/29740832,BMW 5 Series,3.0 530d M Sport Touring Auto xDrive Euro 6 (s/s) 5dr Estate,"20,995",2017,Automatic,51.4 mpg,Diesel,2017,2.99L,"89,952 miles",Diesel,Automatic,Black,Estate,51.4 mpg
+/ad/29866007,BMW 5 Series,2.0 530E M SPORT 4d 249 BHP Saloon,"20,795",2018,Automatic,156.9 mpg,Other,2018,2L,"44,705 miles",Other,Automatic,Grey,Saloon,156.9 mpg
+/ad/30697497,BMW X3,3 xDrive30d xLine 5dr Step Auto SUV,"20,900",2017,Semi-Auto,47.9 mpg,Diesel,2017,3L,"44,740 miles",Diesel,Semiauto,Silver,SUV,47.9 mpg
+/ad/30680556,BMW 3 Series,330e M Sport 4dr Auto Saloon,"21,700",2019,Semi-Auto,8.8 mpg,Hybrid,2019,2L,"44,750 miles",Hybrid,Semiauto,Black,Saloon,8.8 mpg
+/ad/30762845,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,600",2020,Automatic,188.3 mpg,Hybrid,2020,1998cc,"44,856 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,188.3 mpg
+/ad/30765886,BMW X4,xDrive20d M Sport 5dr Step Auto SUV,"20,995",2017,Semi-Auto,54.3 mpg,Diesel,2017,2L,"45,159 miles",Diesel,Semiauto,Grey,SUV,54.3 mpg
+/ad/30841916,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,900",2020,Automatic,188.3 mpg,Hybrid,2020,1998cc,"45,171 miles",Petrol Plug-in Hybrid,Automatic,Blue,Saloon,188.3 mpg
+/ad/30917111,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"21,000",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"45,302 miles",Petrol,Automatic,White,Saloon,42.2 mpg
+/ad/30929950,BMW 3 Series,320d M Sport Shadow Edition Touring PRO NAV,"20,950",2018,Automatic,62.8 mpg,Diesel,2018,1995cc,"45,324 miles",Diesel,Automatic,Blue,Estate,62.8 mpg
+/ad/30851500,BMW 5 Series,520d M Sport Touring £700 finance contribution!! Estate,"22,500",2019,Automatic,45.6 mpg,Diesel,2019,1995cc,"45,408 miles",Diesel,Automatic,Grey,Estate,45.6 mpg
+/ad/30887526,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) M Sport Saloon,"20,300",2018,Automatic,156.9 mpg,Hybrid,2018,1998cc,"45,592 miles",Petrol Plug-in Hybrid,Automatic,Blue,Saloon,156.9 mpg
+/ad/30886368,BMW 1 Series,118i [136] M Sport 5dr [Live Cockpit Professional] Hatchback,"22,499",2022,Manual,44.1 mpg,Petrol,2022,1.5L,"10,419 miles",Petrol,Manual,Red,Hatchback,44.1 mpg
+/ad/30882664,BMW 1 Series,118i [136] Sport 5dr Step Auto Hatchback,"21,860",2021,Semi-Auto,55.5 mpg,Petrol,2021,1.5L,"11,967 miles",Petrol,Semiauto,Grey,Hatchback,55.5 mpg
+/ad/30957933,BMW 1 Series,Hatchback 118i [136] M Sport 5dr NULL,"22,350",2021,Other,44.1 mpg,Petrol,2021,1499cc,"12,000 miles",Petrol,NULL,Mineral Grey,NULL,44.1 mpg
+/ad/30732425,BMW 1 Series,118i M Sport 5dr Hatchback,"20,049",2020,Other,41.5 mpg,Petrol,2020,1499cc,"12,036 miles",Petrol,N/A,Blue,Hatchback,41.5 mpg
+/ad/30769647,BMW 3 Series,2.0 330e 12kWh Sport Pro Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) Saloon,"21,912",2019,Automatic,8.8 mpg,Hybrid,2019,1998cc,"12,735 miles",Hybrid,Automatic,Red,Saloon,8.8 mpg
+/ad/30849196,BMW 2 Series,218i M Sport 2dr [Nav] Step Auto Coupe,"20,299",2020,Semi-Auto,50.4 mpg,Petrol,2020,1.5L,"13,812 miles",Petrol,Semiauto,Blue,Coupe,50.4 mpg
+/ad/30572345,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,349",2020,Other,40.4 mpg,Petrol,2020,1499cc,"13,896 miles",Petrol,N/A,Blue,Hatchback,40.4 mpg
+/ad/30936730,BMW 1 Series,2.0 118D SPORT 5d AUTO 148 BHP Hatchback,"20,499",2020,Automatic,53.3 mpg,Diesel,2020,2L,"14,000 miles",Diesel,Automatic,Blue,Hatchback,53.3 mpg
+/ad/30881200,BMW 1 Series,118i [136] Sport 5dr Step Auto Hatchback,"20,999",2021,Semi-Auto,47.1 mpg,Petrol,2021,1.5L,"14,500 miles",Petrol,Semiauto,Black,Hatchback,47.1 mpg
+/ad/30890914,BMW 1 Series,118i M Sport 5dr Hatchback,"20,699",2020,Other,41.5 mpg,Petrol,2020,1499cc,"14,594 miles",Petrol,N/A,White,Hatchback,41.5 mpg
+/ad/30816244,BMW X3,3.0 30d M Sport SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (258 ps) M Sport Bodykit,"21,600",2017,Automatic,47.9 mpg,Diesel,2017,2993cc,"47,564 miles",Diesel,Automatic,Black,SUV,47.9 mpg
+/ad/30858683,BMW X3,3.0 30d xLine SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (258 ps) Full Leather,"20,500",2017,Automatic,47.9 mpg,Diesel,2017,2993cc,"47,710 miles",Diesel,Automatic,Black,SUV,47.9 mpg
+/ad/30854712,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,900",2019,Automatic,52.3 mpg,Diesel,2019,1995cc,"47,862 miles",Diesel,Automatic,Grey,Saloon,52.3 mpg
+/ad/30887425,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"20,900",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"47,961 miles",Petrol,Automatic,Blue,Saloon,42.2 mpg
+/ad/30892987,BMW 5 Series,2.0 520i GPF M Sport Touring 5dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"20,900",2018,Automatic,36.2 mpg,Petrol,2018,1998cc,"48,105 miles",Petrol,Automatic,Blue,Estate,36.2 mpg
+/ad/30795518,BMW X2,xDrive 20d Sport 5dr Step Auto SUV,"21,950",2020,Semi-Auto,61.4 mpg,Diesel,2020,2L,"48,263 miles",Diesel,Semiauto,Grey,SUV,61.4 mpg
+/ad/30887503,BMW 5 Series,2.0 520d M Sport Touring 5dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,900",2019,Automatic,45.6 mpg,Diesel,2019,1995cc,"48,269 miles",Diesel,Automatic,Grey,Estate,45.6 mpg
+/ad/30858543,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"22,000",2019,Automatic,52.3 mpg,Diesel,2019,1995cc,"48,332 miles",Diesel,Automatic,Grey,Saloon,52.3 mpg
+/ad/30931513,BMW 4 Series,3.0 440i M Sport Hatchback 5dr Petrol Auto Euro 6 (s/s) (326 ps) M Sport Bodykit,"22,000",2018,Automatic,41.5 mpg,Petrol,2018,2998cc,"48,779 miles",Petrol,Automatic,Silver,Hatchback,41.5 mpg
+/ad/30784335,BMW X3,3.0 XDRIVE30D M SPORT 5d 255 BHP Estate,"22,250",2017,Automatic,47.9 mpg,Diesel,2017,3L,"49,100 miles",Diesel,Automatic,Silver,Estate,47.9 mpg
+/ad/30854573,BMW 5 Series,520d M Sport Touring M SPORT PRO PACK & LOW MILES!! Estate,"21,950",2018,Automatic,62.8 mpg,Diesel,2018,1995cc,"49,186 miles",Diesel,Automatic,Grey,Estate,62.8 mpg
+/ad/30945345,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,200",2020,Automatic,188.3 mpg,Hybrid,2020,1998cc,"49,834 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,188.3 mpg
+/ad/30794052,BMW 4 Series,3.0 435d M Sport Auto xDrive Euro 6 (s/s) 2dr 19s,"21,750",2019,Automatic,50.4 mpg,Diesel,2019,2993cc,"49,900 miles",Diesel,Automatic,Black,Coupe,50.4 mpg
+/ad/30913642,BMW 1 Series,M140i Shadow Edition 5dr Step Auto Hatchback,"21,985",2019,Automatic,39.8 mpg,Petrol,2019,2998cc,"50,088 miles",Petrol,Automatic,Black,Hatchback,39.8 mpg
+/ad/30668184,BMW 5 Series,2.0 520d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,400",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"50,477 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30835898,BMW 4 Series,3.0 435D XDrive MSPORT Coupe,"22,299",2018,Automatic,50.4 mpg,Diesel,2018,2993cc,"50,510 miles",Diesel,Automatic,Black,Coupe,50.4 mpg
+/ad/30888618,BMW X3,3 xDrive30d M Sport 5dr Step Auto SUV,"22,500",2017,Semi-Auto,47.9 mpg,Diesel,2017,3L,"50,698 miles",Diesel,Semiauto,Black,SUV,47.9 mpg
+/ad/30882944,BMW 3 Series,2.0 320d Sport Auto Euro 6 (s/s) 4dr HEATED SEATS SERVICE HISTORY Saloon,"20,200",2019,Automatic,52.3 mpg,Diesel,2019,1995cc,"50,770 miles",Diesel,Automatic,Grey,Saloon,52.3 mpg
+/ad/30871734,BMW 5 Series,2.0 520d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,500",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"51,719 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30949684,BMW X2,sDrive 18i Sport 5dr Step Auto SUV,"21,099",2020,Other,41.5 mpg,Petrol,2020,1499cc,"20,344 miles",Petrol,N/A,Silver,SUV,41.5 mpg
+/ad/30868483,BMW 1 Series,118i Sport LEATHER & COMFORT PACK 1 Hatchback,"20,950",2021,Automatic,47.1 mpg,Petrol,2021,1499cc,"20,410 miles",Petrol,Automatic,Red,Hatchback,47.1 mpg
+/ad/30656173,BMW 3 Series,320d M Sport Shadow Edition 5dr Step Auto Estate,"21,865",2019,Semi-Auto,62.8 mpg,Diesel,2019,2L,"20,463 miles",Diesel,Semiauto,Orange,Estate,62.8 mpg
+/ad/30945999,BMW 1 Series,118i [136] Sport 5dr Step NULL,"21,750",2021,Other,47.1 mpg,Petrol,2021,1500cc,"20,504 miles",Petrol,NULL,Black,NULL,47.1 mpg
+/ad/30814798,BMW 3 Series,318d Sport 4dr Step Auto Saloon,"22,157",2019,Semi-Auto,53.3 mpg,Diesel,2019,2L,"20,690 miles",Diesel,Semiauto,Blue,Saloon,53.3 mpg
+/ad/30531540,BMW 5 Series,520i M Sport 4dr Auto Saloon,"22,049",2019,Other,50.4 mpg,Petrol,2019,1998cc,"21,192 miles",Petrol,N/A,Black,Saloon,50.4 mpg
+/ad/30893373,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,390",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"21,358 miles",Petrol,Semiauto,White,Hatchback,40.4 mpg
+/ad/30892724,BMW X2,2.0 20i Sport Auto xDrive Euro 6 (s/s) 5dr 18'' ALLOYS,"20,750",2020,Automatic,36.2 mpg,Petrol,2020,1998cc,"21,381 miles",Petrol,Automatic,White,SUV,36.2 mpg
+/ad/30812059,BMW X1,1 sDrive 18d xLine 5dr Step Auto SUV,"21,999",2019,Semi-Auto,49.6 mpg,Diesel,2019,2L,"21,523 miles",Diesel,Semiauto,Silver,SUV,49.6 mpg
+/ad/29987005,BMW 1 Series,116d M Sport 5dr Hatchback,"21,740",2021,Manual,54.3 mpg,Diesel,2021,1.5L,"22,107 miles",Diesel,Manual,White,Hatchback,54.3 mpg
+/ad/28071109,BMW 4 Series,3.0 435D XDRIVE M SPORT GRAN COUPE 4d 309 BHP **M Performance Kit** Coupe,"21,999",2018,Automatic,49.6 mpg,Diesel,2018,3L,"55,000 miles",Diesel,Automatic,White,Coupe,49.6 mpg
+/ad/30604439,BMW X3,3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr BLACK 20s,"20,750",2017,Automatic,47.9 mpg,Diesel,2017,2993cc,"55,234 miles",Diesel,Automatic,Black,SUV,47.9 mpg
+/ad/30942689,BMW 3 Series,320d M Sport 4dr Saloon,"21,490",2019,Manual,54.3 mpg,Diesel,2019,2L,"56,262 miles",Diesel,Manual,Grey,Saloon,54.3 mpg
+/ad/30618267,BMW 5 Series,2.0 530e 9.2kWh M Sport Auto Euro 6 (s/s) 4dr £7425 OF OPTIONAL EXTRAS!!! Saloon,"21,700",2018,Automatic,156.9 mpg,Hybrid,2018,1998cc,"56,390 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,156.9 mpg
+/ad/30899622,BMW 3 Series,330e M Sport 4dr Auto Saloon,"20,499",2019,Semi-Auto,8.8 mpg,Hybrid,2019,2L,"56,521 miles",Hybrid,Semiauto,Orange,Saloon,8.8 mpg
+/ad/30952381,BMW 5 Series,520d M Sport 4dr Auto Saloon,"22,300",2020,Semi-Auto,49.6 mpg,Diesel,2020,2L,"56,939 miles",Diesel,Semiauto,Blue,Saloon,49.6 mpg
+/ad/30931466,BMW 6 Series,Gran Turismo 2.0 630i GPF M Sport GT 5dr Petrol Auto Euro 6 (s/s) (258 ps) M Sport Bodykit,"21,800",2018,Automatic,42.8 mpg,Petrol,2018,1998cc,"56,984 miles",Petrol,Automatic,White,Hatchback,42.8 mpg
+/ad/30893192,BMW 3 Series,2.0 320i M Sport Auto Euro 6 (s/s) 4dr Saloon,"20,950",2019,Automatic,42.2 mpg,Petrol,2019,2.0l,"57,212 miles",Petrol,Automatic,White,Saloon,42.2 mpg
+/ad/30929119,BMW 5 Series,520d M Sport 5dr Auto Estate,"20,499",2018,Semi-Auto,62.8 mpg,Diesel,2018,2L,"57,510 miles",Diesel,Semiauto,White,Estate,62.8 mpg
+/ad/30360804,BMW 3 Series,320d xDrive M Sport 4dr Step Auto Saloon,"21,920",2019,Semi-Auto,48.7 mpg,Diesel,2019,2L,"58,300 miles",Diesel,Semiauto,Black,Saloon,48.7 mpg
+/ad/30862467,BMW 1 Series,116d M Sport 5dr Step Auto Hatchback,"22,495",2021,Semi-Auto,57.7 mpg,Diesel,2021,1.5L,"23,775 miles",Diesel,Semiauto,White,Hatchback,57.7 mpg
+/ad/30872787,BMW 4 Series,2.0 420i GPF M Sport Auto Euro 6 (s/s) 2dr Coupe,"20,795",2020,Automatic,48.7 mpg,Petrol,2020,1998cc,"24,000 miles",Petrol,Auto,White,Coupe,48.7 mpg
+/ad/30427805,BMW 2 Series,2.0 220i GPF M Sport Convertible 2dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"20,000",2020,Automatic,46.3 mpg,Petrol,2020,1998cc,"24,024 miles",Petrol,Automatic,Blue,Convertible,46.3 mpg
+/ad/30893754,BMW 2 Series,1.5 218i M Sport Saloon 4dr Petrol DCT Euro 6 (s/s) (140 ps) Saloon,"21,884",2020,Automatic,42.2 mpg,Petrol,2020,1499cc,"24,240 miles",Petrol,Automatic,Blue,Saloon,42.2 mpg
+/ad/30709646,BMW 1 Series,120d xDrive M Sport 5dr Step Auto Hatchback,"22,220",2020,Semi-Auto,48.7 mpg,Diesel,2020,2L,"24,244 miles",Diesel,Semiauto,White,Hatchback,48.7 mpg
+/ad/30709899,BMW 3 Series,320i M Sport 4dr Step Auto Saloon,"21,899",2019,Semi-Auto,42.2 mpg,Petrol,2019,2L,"24,500 miles",Petrol,Semiauto,Black,Saloon,42.2 mpg
+/ad/30932609,BMW X1,1.5 18i M Sport SUV 5dr Petrol DCT sDrive Euro 6 (s/s) (140 ps) Other,"21,815",2020,Automatic,40.9 mpg,Petrol,2020,1499cc,"24,527 miles",Petrol,Automatic,White,Other,40.9 mpg
+/ad/30751557,BMW 2 Series,218i M Sport 4dr DCT Saloon,"21,949",2020,Other,42.2 mpg,Petrol,2020,1499cc,"24,589 miles",Petrol,N/A,Blue,Saloon,42.2 mpg
+/ad/30808867,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,349",2019,Other,40.4 mpg,Petrol,2019,1499cc,"24,858 miles",Petrol,N/A,Black,Hatchback,40.4 mpg
+/ad/30877486,BMW 1 Series,118d Sport 5dr Step Auto Hatchback,"20,299",2020,Other,53.3 mpg,Diesel,2020,1995cc,"25,129 miles",Diesel,N/A,White,Hatchback,53.3 mpg
+/ad/30820077,BMW 5 Series,2.0 530e 9.2kWh M Sport Auto Euro 6 (s/s) 4dr Full Bmw Service,"20,480",2019,Automatic,156.9 mpg,Hybrid,2019,1998cc,"69,000 miles",Petrol Plug-in Hybrid,Automatic,White,Saloon,156.9 mpg
+/ad/30752399,BMW 1 Series,3.0 M140I SHADOW EDITION 5d AUTO 335 BHP Hatchback,"20,470",2019,Automatic,39.8 mpg,Petrol,2019,3L,"69,429 miles",Petrol,Automatic,Grey,Hatchback,39.8 mpg
+/ad/30799272,BMW X1,1.5 25e 10kWh M Sport Auto xDrive Euro 6 (s/s) 5dr £1695 OF OPTIONAL EXTRAS SUV,"22,000",2020,Automatic,148.7 mpg,Hybrid,2020,1499cc,"70,510 miles",Petrol Plug-in Hybrid,Automatic,Grey,SUV,148.7 mpg
+/ad/30933519,BMW 3 Series,330e M Sport 4dr Auto Saloon,"20,995",2019,Automatic,8.8 mpg,Hybrid,2019,1998cc,"71,000 miles",Petrol/Plugin Elec Hybrid,Automatic,Grey,Saloon,8.8 mpg
+/ad/30588696,BMW 3 Series,330e M Sport 4dr Auto Saloon,"20,590",2019,Automatic,8.8 mpg,Hybrid,2019,2000cc,"71,833 miles",Petrol/PlugIn Elec Hybrid,Automatic,Blue,Saloon,8.8 mpg
+/ad/30776400,BMW 5 Series,530i M Sport 4dr Auto Saloon,"20,900",2018,Semi-Auto,37.7 mpg,Petrol,2018,2L,"72,498 miles",Petrol,Semiauto,Black,Saloon,37.7 mpg
+/ad/30904583,BMW 5 Series,2.0 520d M Sport Touring Auto Euro 6 (s/s) 5dr £3750 OF OPTIONAL EXTRAS Estate,"21,000",2019,Automatic,45.6 mpg,Diesel,2019,1995cc,"73,720 miles",Diesel,Automatic,Blue,Estate,45.6 mpg
+/ad/30904593,BMW 5 Series,3.0 530d M Sport Saloon 4dr Diesel Auto xDrive Euro 6 (s/s) (265 ps) M Sport Bodykit,"20,700",2017,Automatic,53.3 mpg,Diesel,2017,2993cc,"74,772 miles",Diesel,Automatic,White,Saloon,53.3 mpg
+/ad/30629229,BMW 5 Series,2.0 520d M Sport Touring Auto xDrive Euro 6 (s/s) 5dr SVC HISTORY VIRTRUAL DASHBOARD Estate,"21,000",2019,Automatic,44.1 mpg,Diesel,2019,1995cc,"79,140 miles",Diesel,Automatic,White,Estate,44.1 mpg
+/ad/30888268,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"21,058",2020,Semi-Auto,188.3 mpg,Hybrid,2020,2L,"79,489 miles",Hybrid,Semiauto,Blue,Saloon,188.3 mpg
+/ad/30937059,BMW 1 Series,1.5 118i M Sport Hatchback 5dr Petrol DCT Euro 6 (s/s) (140 ps) M Sport Bodykit,"20,600",2020,Automatic,40.4 mpg,Petrol,2020,1499cc,"27,858 miles",Petrol,Automatic,Black,Hatchback,40.4 mpg
+/ad/30726715,BMW 2 Series,218i M Sport 4dr Saloon,"20,299",2020,Other,43.5 mpg,Petrol,2020,1499cc,"28,438 miles",Petrol,N/A,Blue,Saloon,43.5 mpg
+/ad/30910532,BMW X1,2.0 20i M Sport SUV 5dr Petrol DCT sDrive Euro 6 (s/s) (192 ps) Other,"21,604",2019,Automatic,48.7 mpg,Petrol,2019,1998cc,"28,759 miles",Petrol,Automatic,Black,Other,48.7 mpg
+/ad/30859331,BMW X2,sDrive 20i M Sport 5dr Step Auto SUV,"20,895",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"28,951 miles",Petrol,Semiauto,Other,SUV,39.2 mpg
+/ad/30761817,BMW 1 Series,118d M Sport 5dr Step Auto Hatchback,"21,499",2020,Other,51.4 mpg,Diesel,2020,1995cc,"28,969 miles",Diesel,N/A,Black,Hatchback,51.4 mpg
+/ad/30490052,BMW X1,sDrive 18i M Sport 5dr Step Auto SUV,"22,049",2020,Other,40.9 mpg,Petrol,2020,1499cc,"29,248 miles",Petrol,N/A,White,SUV,40.9 mpg
+/ad/30787872,BMW 2 Series,M240i 2dr [Nav] Step Auto Convertible,"20,699",2018,Semi-Auto,38.2 mpg,Petrol,2018,3L,"29,702 miles",Petrol,Semiauto,Black,Convertible,38.2 mpg
+/ad/30890903,BMW 3 Series,320d Sport 4dr Step Auto Saloon,"21,849",2019,Other,52.3 mpg,Diesel,2019,1995cc,"29,831 miles",Diesel,N/A,White,Saloon,52.3 mpg
+/ad/30787882,BMW 3 Series,318i M Sport 4dr Step Auto Saloon,"21,999",2021,Semi-Auto,41.5 mpg,Petrol,2021,2L,"29,996 miles",Petrol,Semiauto,Grey,Saloon,41.5 mpg
+/ad/30959437,BMW 3 Series,318i M Sport 4dr Step Auto Saloon,"21,999",2021,Semi-Auto,41.5 mpg,Petrol,2021,2L,"30,822 miles",Petrol,Semiauto,Grey,Saloon,41.5 mpg
+/ad/30920850,BMW 3 Series,320d xDrive M Sport Shadow Edition 5dr Step Auto Estate,"22,395",2019,Semi-Auto,57.7 mpg,Diesel,2019,2L,"30,955 miles",Diesel,Semiauto,White,Estate,57.7 mpg
+/ad/30755610,BMW 3 Series,318i M Sport 4dr Step Auto Saloon,"22,499",2021,Semi-Auto,41.5 mpg,Petrol,2021,2L,"31,289 miles",Petrol,Semiauto,Grey,Saloon,41.5 mpg
+/ad/30417879,BMW 5 Series,530e M Sport 4dr Auto Saloon,"21,999",2018,Semi-Auto,156.9 mpg,Hybrid,2018,2L,"31,472 miles",Hybrid,Semiauto,Blue,Saloon,156.9 mpg
+/ad/30652009,BMW 2 Series,3.0 M240i GPF Coupe 2dr Petrol Auto Euro 6 (s/s) (340 ps) M Sport Bodykit,"20,700",2018,Automatic,32.5 mpg,Petrol,2018,2998cc,"31,497 miles",Petrol,Automatic,White,Coupe,32.5 mpg
+/ad/30954765,BMW 3 Series,2.0 320I M SPORT 4d AUTO 181 BHP Saloon,"20,999",2019,Automatic,42.2 mpg,Petrol,2019,2L,"31,510 miles",Petrol,Automatic,Black,Saloon,42.2 mpg
+/ad/30804084,BMW 3 Series,320d M Sport 4dr Saloon,"21,849",2019,Other,54.3 mpg,Diesel,2019,1995cc,"31,636 miles",Diesel,N/A,White,Saloon,54.3 mpg
+/ad/30877587,BMW 3 Series,320i M Sport 4dr Step Auto Saloon,"22,399",2019,Other,42.2 mpg,Petrol,2019,1998cc,"32,639 miles",Petrol,N/A,White,Saloon,42.2 mpg
+/ad/30857161,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,849",2020,Other,40.4 mpg,Petrol,2020,1499cc,"32,684 miles",Petrol,N/A,Grey,Hatchback,40.4 mpg
+/ad/30741900,BMW 5 Series,520i M Sport 4dr Auto Saloon,"22,000",2019,Semi-Auto,50.4 mpg,Petrol,2019,2L,"33,198 miles",Petrol,Semiauto,Black,Saloon,50.4 mpg
+/ad/30950015,BMW 5 Series,520i M Sport 4dr Auto Saloon,"20,999",2019,Semi-Auto,50.4 mpg,Petrol,2019,2L,"34,736 miles",Petrol,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30694495,BMW 2 Series,3.0 M240i Coupe 2dr Petrol Auto Euro 6 (s/s) (340 ps) M Sport Bodykit,"20,100",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"34,815 miles",Petrol,Automatic,White,Coupe,39.8 mpg
+/ad/30564793,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Manual Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,400",2019,Manual,54.3 mpg,Diesel,2019,1995cc,"34,915 miles",Diesel,Manual,White,Saloon,54.3 mpg
+/ad/30621139,BMW 3 Series,320i M Sport 4dr Step Auto Saloon,"21,904",2020,Semi-Auto,42.2 mpg,Petrol,2020,2L,"34,980 miles",Petrol,Semiauto,Grey,Saloon,42.2 mpg
+/ad/30948585,BMW X2,xDrive 20d Sport 5dr Step Auto SUV,"20,900",2020,Semi-Auto,61.4 mpg,Diesel,2020,2L,"36,041 miles",Diesel,Semiauto,Black,SUV,61.4 mpg
+/ad/30557514,BMW 1 Series,118d M Sport 5dr Step Auto Hatchback,"20,799",2021,Other,51.4 mpg,Diesel,2021,1995cc,"36,105 miles",Diesel,N/A,White,Hatchback,51.4 mpg
+/ad/30939581,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) Saloon,"21,651",2019,Automatic,156.9 mpg,Hybrid,2019,1998cc,"36,158 miles",Hybrid,Automatic,Grey,Saloon,156.9 mpg
+/ad/30901884,BMW 3 Series,320d xDrive M Sport Shadow Edition 5dr Step Auto Estate,"21,799",2018,Semi-Auto,57.7 mpg,Diesel,2018,2L,"36,338 miles",Diesel,Semiauto,Black,Estate,57.7 mpg
+/ad/30816515,BMW 5 Series,2.0 520i GPF SE Auto Euro 6 (s/s) 4dr Saloon,"21,950",2019,Automatic,52.3 mpg,Petrol,2019,2.0l,"36,370 miles",Petrol,Automatic,Silver,Saloon,52.3 mpg
+/ad/30869977,BMW 1 Series,118d M Sport 5dr Step Auto Hatchback,"20,399",2019,Other,51.4 mpg,Diesel,2019,1995cc,"36,786 miles",Diesel,N/A,White,Hatchback,51.4 mpg
+/ad/30355490,BMW 2 Series,218i [2.0] M Sport 2dr [Nav] Coupe,"20,950",2021,Manual,36.7 mpg,Petrol,2021,2L,"17,209 miles",Petrol,Manual,White,Coupe,36.7 mpg
+/ad/30897116,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"22,490",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"17,312 miles",Petrol,Semiauto,Grey,Hatchback,40.4 mpg
+/ad/30931212,BMW X2,2.0 XDRIVE18D M SPORT 5d AUTO 148 BHP Hatchback,"22,499",2021,Automatic,48.7 mpg,Diesel,2021,2L,"17,425 miles",Diesel,Automatic,Black,Hatchback,48.7 mpg
+/ad/30853773,BMW 1 Series,118i M Sport 5dr Hatchback,"20,690",2020,Manual,41.5 mpg,Petrol,2020,1.5L,"17,440 miles",Petrol,Manual,Black,Hatchback,41.5 mpg
+/ad/30722330,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,157",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"17,481 miles",Petrol,Semiauto,Blue,Hatchback,40.4 mpg
+/ad/30845515,BMW 2 Series,218i M Sport 4dr Saloon,"21,599",2020,Other,43.5 mpg,Petrol,2020,1499cc,"17,952 miles",Petrol,N/A,White,Saloon,43.5 mpg
+/ad/30810210,BMW 1 Series,1.5 118i M Sport Hatchback 5dr Petrol DCT Euro 6 (s/s) (140 ps) Hatchback,"21,620",2020,Automatic,40.4 mpg,Petrol,2020,1499cc,"17,957 miles",Petrol,Automatic,Grey,Hatchback,40.4 mpg
+/ad/30910542,BMW i3,42.2kWh Hatchback 5dr Electric Auto (170 ps) Hatchback,"20,024",2021,Automatic,Tax: £0,2021,"18,243 miles",Electric,Automatic,Blue,Hatchback,,,
+/ad/30855357,BMW 1 Series,1.5 118i M Sport Hatchback 5dr Petrol DCT Euro 6 (s/s) (140 ps) Hatchback,"21,590",2020,Automatic,40.4 mpg,Petrol,2020,1499cc,"18,323 miles",Petrol,Automatic,White,Hatchback,40.4 mpg
+/ad/30856687,BMW 1 Series,118i [136] M Sport 5dr Step Auto Hatchback,"22,157",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"18,439 miles",Petrol,Semiauto,White,Hatchback,44.1 mpg
+/ad/30929017,BMW 1 Series,118i M Sport 5dr Hatchback,"20,440",2020,Manual,41.5 mpg,Petrol,2020,1.5L,"18,750 miles",Petrol,Manual,Grey,Hatchback,41.5 mpg
+/ad/30856758,BMW 3 Series,320i M Sport 4dr Step Auto Saloon,"22,457",2019,Semi-Auto,42.2 mpg,Petrol,2019,2L,"19,567 miles",Petrol,Semiauto,Grey,Saloon,42.2 mpg
+/ad/30803978,BMW X2,sDrive 18d M Sport 5dr Step Auto SUV,"21,599",2019,Other,50.4 mpg,Diesel,2019,1995cc,"20,036 miles",Diesel,N/A,White,SUV,50.4 mpg
+/ad/30857168,BMW 4 Series,420i M Sport 5dr Auto [Professional Media] Hatchback,"21,199",2019,Other,48.7 mpg,Petrol,2019,1998cc,"20,269 miles",Petrol,N/A,Blue,Hatchback,48.7 mpg
+/ad/30949684,BMW X2,sDrive 18i Sport 5dr Step Auto SUV,"21,099",2020,Other,41.5 mpg,Petrol,2020,1499cc,"20,344 miles",Petrol,N/A,Silver,SUV,41.5 mpg
+/ad/30868483,BMW 1 Series,118i Sport LEATHER & COMFORT PACK 1 Hatchback,"20,950",2021,Automatic,47.1 mpg,Petrol,2021,1499cc,"20,410 miles",Petrol,Automatic,Red,Hatchback,47.1 mpg
+/ad/30656173,BMW 3 Series,320d M Sport Shadow Edition 5dr Step Auto Estate,"21,865",2019,Semi-Auto,62.8 mpg,Diesel,2019,2L,"20,463 miles",Diesel,Semiauto,Orange,Estate,62.8 mpg
+/ad/30814798,BMW 3 Series,318d Sport 4dr Step Auto Saloon,"22,157",2019,Semi-Auto,53.3 mpg,Diesel,2019,2L,"20,690 miles",Diesel,Semiauto,Blue,Saloon,53.3 mpg
+/ad/30531540,BMW 5 Series,520i M Sport 4dr Auto Saloon,"22,049",2019,Other,50.4 mpg,Petrol,2019,1998cc,"21,192 miles",Petrol,N/A,Black,Saloon,50.4 mpg
+/ad/30893373,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,390",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"21,358 miles",Petrol,Semiauto,White,Hatchback,40.4 mpg
+/ad/30892724,BMW X2,2.0 20i Sport Auto xDrive Euro 6 (s/s) 5dr 18'' ALLOYS,"20,750",2020,Automatic,36.2 mpg,Petrol,2020,1998cc,"21,381 miles",Petrol,Automatic,White,SUV,36.2 mpg
+/ad/30888423,BMW 1 Series,116d M Sport 5dr Hatchback,"21,790",2021,Manual,54.3 mpg,Diesel,2021,1.5L,"21,502 miles",Diesel,Manual,Grey,Hatchback,54.3 mpg
+/ad/30812059,BMW X1,1 sDrive 18d xLine 5dr Step Auto SUV,"21,999",2019,Semi-Auto,49.6 mpg,Diesel,2019,2L,"21,523 miles",Diesel,Semiauto,Silver,SUV,49.6 mpg
+/ad/29987005,BMW 1 Series,116d M Sport 5dr Hatchback,"21,740",2021,Manual,54.3 mpg,Diesel,2021,1.5L,"22,107 miles",Diesel,Manual,White,Hatchback,54.3 mpg
+/ad/30852830,BMW 2 Series,218i M Sport 2dr [Nav] Step Auto Coupe,"20,049",2020,Other,50.4 mpg,Petrol,2020,1499cc,"23,107 miles",Petrol,N/A,Black,Coupe,50.4 mpg
+/ad/30770708,BMW 4 Series,420i M Sport 5dr Auto [Professional Media] Hatchback,"20,749",2019,Other,48.7 mpg,Petrol,2019,1998cc,"23,410 miles",Petrol,N/A,Black,Hatchback,48.7 mpg
+/ad/30827901,BMW 3 Series,320i M Sport 4dr Step Auto Saloon,"21,480",2019,Semi-Auto,42.2 mpg,Petrol,2019,2L,"23,754 miles",Petrol,Semiauto,Blue,Saloon,42.2 mpg
+/ad/30831064,BMW 1 Series,1.5 118i M Sport (LCP) Hatchback 5dr Petrol DCT Euro 6 (s/s) (136 ps) M Sport Bodykit,"22,000",2021,Automatic,44.1 mpg,Petrol,2021,1499cc,"23,765 miles",Petrol,Automatic,Black,Hatchback,44.1 mpg
+/ad/30702205,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) Saloon,"20,581",2018,Automatic,156.9 mpg,Hybrid,2018,1998cc,"46,284 miles",Hybrid,Automatic,White,Saloon,156.9 mpg
+/ad/30959452,BMW 5 Series,520d xDrive M Sport 5dr Auto Estate,"20,999",2018,Semi-Auto,55.4 mpg,Diesel,2018,2L,"46,534 miles",Diesel,Semiauto,Grey,Estate,55.4 mpg
+/ad/30787362,BMW 1 Series,M140i Shadow Edition 5dr Step Auto Hatchback,"20,499",2018,Semi-Auto,39.8 mpg,Petrol,2018,3L,"46,562 miles",Petrol,Semiauto,Grey,Hatchback,39.8 mpg
+/ad/30687404,BMW 5 Series,520d M Sport 4dr Auto Saloon,"20,599",2018,Other,49.6 mpg,Diesel,2018,1995cc,"46,682 miles",Diesel,N/A,Black,Saloon,49.6 mpg
+/ad/30897936,BMW 3 Series,320i M Sport 4dr Step Auto Saloon,"20,720",2019,Semi-Auto,42.2 mpg,Petrol,2019,2L,"46,760 miles",Petrol,Semiauto,White,Saloon,42.2 mpg
+/ad/30602912,BMW 5 Series,520d M Sport 4dr Auto Saloon,"20,299",2018,Other,49.6 mpg,Diesel,2018,1995cc,"47,212 miles",Diesel,N/A,Blue,Saloon,49.6 mpg
+/ad/30887425,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"20,900",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"47,961 miles",Petrol,Automatic,Blue,Saloon,42.2 mpg
+/ad/30858543,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"22,000",2019,Automatic,52.3 mpg,Diesel,2019,1995cc,"48,332 miles",Diesel,Automatic,Grey,Saloon,52.3 mpg
+/ad/30837635,BMW 3 Series,320d Sport 4dr Step Auto Saloon,"20,299",2019,Semi-Auto,52.3 mpg,Diesel,2019,2L,"49,984 miles",Diesel,Semiauto,Grey,Saloon,52.3 mpg
+/ad/30668184,BMW 5 Series,2.0 520d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,400",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"50,477 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30835898,BMW 4 Series,3.0 435D XDrive MSPORT Coupe,"22,299",2018,Automatic,50.4 mpg,Diesel,2018,2993cc,"50,510 miles",Diesel,Automatic,Black,Coupe,50.4 mpg
+/ad/30374913,BMW 3 Series,330d M Sport 5dr Step Auto Estate,"21,999",2019,Automatic,53.3 mpg,Diesel,2019,2993cc,"51,005 miles",Diesel,Automatic,White,Estate,53.3 mpg
+/ad/30871734,BMW 5 Series,2.0 520d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,500",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"51,719 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30770681,BMW 5 Series,520d M Sport 4dr Auto Saloon,"20,299",2018,Other,49.6 mpg,Diesel,2018,1995cc,"52,273 miles",Diesel,N/A,Grey,Saloon,49.6 mpg
+/ad/30949898,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"21,990",2021,Semi-Auto,188.3 mpg,Hybrid,2021,2L,"52,606 miles",Hybrid,Semiauto,Grey,Saloon,188.3 mpg
+/ad/30682520,BMW 5 Series,520d M Sport 5dr Auto NULL,"20,850",2018,Other,62.8 mpg,Diesel,2018,2000cc,"52,750 miles",Diesel,NULL,Grey,NULL,62.8 mpg
+/ad/29857052,BMW 4 Series,440i M Sport 5dr Auto [Professional Media] Coupe,"22,302",2018,Semi-Auto,41.5 mpg,Petrol,2018,3L,"53,200 miles",Petrol,Semiauto,White,Coupe,41.5 mpg
+/ad/30930002,BMW 3 Series,3.0 335d M Sport Shadow Edition Saloon 4dr Diesel Auto xDrive Euro 6 (s/s) (313 ps) ST Style Pack,"20,400",2018,Automatic,51.4 mpg,Diesel,2018,2993cc,"53,531 miles",Diesel,Automatic,Black,Saloon,51.4 mpg
+/ad/30845991,BMW 5 Series,530d M Sport 4dr Auto Saloon,"20,993",2017,Semi-Auto,60.1 mpg,Diesel,2017,3L,"53,534 miles",Diesel,Semiauto,Black,Saloon,60.1 mpg
+/ad/30572343,BMW 5 Series,520d M Sport 5dr Auto Estate,"20,299",2019,Other,45.6 mpg,Diesel,2019,1995cc,"54,105 miles",Diesel,N/A,Blue,Estate,45.6 mpg
+/ad/30787872,BMW 2 Series,M240i 2dr [Nav] Step Auto Convertible,"20,699",2018,Semi-Auto,38.2 mpg,Petrol,2018,3L,"29,702 miles",Petrol,Semiauto,Black,Convertible,38.2 mpg
+/ad/30890903,BMW 3 Series,320d Sport 4dr Step Auto Saloon,"21,849",2019,Other,52.3 mpg,Diesel,2019,1995cc,"29,831 miles",Diesel,N/A,White,Saloon,52.3 mpg
+/ad/30896288,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,890",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"29,862 miles",Petrol,Semiauto,Blue,Hatchback,40.4 mpg
+/ad/30959437,BMW 3 Series,318i M Sport 4dr Step Auto Saloon,"21,999",2021,Semi-Auto,41.5 mpg,Petrol,2021,2L,"30,822 miles",Petrol,Semiauto,Grey,Saloon,41.5 mpg
+/ad/30920850,BMW 3 Series,320d xDrive M Sport Shadow Edition 5dr Step Auto Estate,"22,395",2019,Semi-Auto,57.7 mpg,Diesel,2019,2L,"30,955 miles",Diesel,Semiauto,White,Estate,57.7 mpg
+/ad/30960793,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"22,136",2020,Semi-Auto,188.3 mpg,Hybrid,2020,2L,"31,024 miles",Hybrid,Semiauto,Black,Saloon,188.3 mpg
+/ad/30755610,BMW 3 Series,318i M Sport 4dr Step Auto Saloon,"22,499",2021,Semi-Auto,41.5 mpg,Petrol,2021,2L,"31,289 miles",Petrol,Semiauto,Grey,Saloon,41.5 mpg
+/ad/30417879,BMW 5 Series,530e M Sport 4dr Auto Saloon,"21,999",2018,Semi-Auto,156.9 mpg,Hybrid,2018,2L,"31,472 miles",Hybrid,Semiauto,Blue,Saloon,156.9 mpg
+/ad/30804084,BMW 3 Series,320d M Sport 4dr Saloon,"21,849",2019,Other,54.3 mpg,Diesel,2019,1995cc,"31,636 miles",Diesel,N/A,White,Saloon,54.3 mpg
+/ad/30877587,BMW 3 Series,320i M Sport 4dr Step Auto Saloon,"22,399",2019,Other,42.2 mpg,Petrol,2019,1998cc,"32,639 miles",Petrol,N/A,White,Saloon,42.2 mpg
+/ad/30741900,BMW 5 Series,520i M Sport 4dr Auto Saloon,"22,000",2019,Semi-Auto,50.4 mpg,Petrol,2019,2L,"33,198 miles",Petrol,Semiauto,Black,Saloon,50.4 mpg
+/ad/30937401,BMW 3 Series,330e M Sport 4dr Auto Saloon,"21,500",2019,Semi-Auto,8.8 mpg,Hybrid,2019,2L,"33,852 miles",Hybrid,Semiauto,Blue,Saloon,8.8 mpg
+/ad/30950015,BMW 5 Series,520i M Sport 4dr Auto Saloon,"20,999",2019,Semi-Auto,50.4 mpg,Petrol,2019,2L,"34,736 miles",Petrol,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30564793,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Manual Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,400",2019,Manual,54.3 mpg,Diesel,2019,1995cc,"34,915 miles",Diesel,Manual,White,Saloon,54.3 mpg
+/ad/30621139,BMW 3 Series,320i M Sport 4dr Step Auto Saloon,"21,904",2020,Semi-Auto,42.2 mpg,Petrol,2020,2L,"34,980 miles",Petrol,Semiauto,Grey,Saloon,42.2 mpg
+/ad/30946107,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,990",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"35,059 miles",Petrol,Semiauto,Black,Hatchback,40.4 mpg
+/ad/30848928,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,590",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"35,210 miles",Petrol,Semiauto,White,Hatchback,40.4 mpg
+/ad/30948585,BMW X2,xDrive 20d Sport 5dr Step Auto SUV,"20,900",2020,Semi-Auto,61.4 mpg,Diesel,2020,2L,"36,041 miles",Diesel,Semiauto,Black,SUV,61.4 mpg
+/ad/30939581,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) Saloon,"21,651",2019,Automatic,156.9 mpg,Hybrid,2019,1998cc,"36,158 miles",Hybrid,Automatic,Grey,Saloon,156.9 mpg
+/ad/30816515,BMW 5 Series,2.0 520i GPF SE Auto Euro 6 (s/s) 4dr Saloon,"21,950",2019,Automatic,52.3 mpg,Petrol,2019,2.0l,"36,370 miles",Petrol,Automatic,Silver,Saloon,52.3 mpg
+/ad/30869977,BMW 1 Series,118d M Sport 5dr Step Auto Hatchback,"20,399",2019,Other,51.4 mpg,Diesel,2019,1995cc,"36,786 miles",Diesel,N/A,White,Hatchback,51.4 mpg
+/ad/30451809,BMW 1 Series,120d xDrive M Sport 5dr Step Auto Hatchback,"22,399",2021,Other,48.7 mpg,Diesel,2021,1995cc,"37,323 miles",Diesel,N/A,White,Hatchback,48.7 mpg
+/ad/30603145,BMW 5 Series,520d M Sport 4dr Auto Saloon,"21,799",2019,Other,49.6 mpg,Diesel,2019,1995cc,"38,052 miles",Diesel,N/A,Black,Saloon,49.6 mpg
+/ad/30532354,BMW 1 Series,116d M Sport 5dr Step Auto Hatchback,"20,950",2020,Semi-Auto,57.7 mpg,Diesel,2020,1.5L,"38,256 miles",Diesel,Semiauto,Blue,Hatchback,57.7 mpg
+/ad/30961107,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"22,136",2020,Semi-Auto,188.3 mpg,Hybrid,2020,2L,"38,401 miles",Hybrid,Semiauto,Grey,Saloon,188.3 mpg
+/ad/30904400,BMW 3 Series,320i M Sport Shadow Edition 5dr Step Auto Estate,"20,990",2019,Semi-Auto,47.9 mpg,Petrol,2019,2L,"38,446 miles",Petrol,Semiauto,Black,Estate,47.9 mpg
+/ad/30936872,BMW 1 Series,M140i Shadow Edition 3dr Step Auto Hatchback,"21,500",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"38,772 miles",Petrol,Automatic,Blue,Hatchback,39.8 mpg
+/ad/30912709,BMW 3 Series,330e M Sport 4dr Auto Saloon,"21,790",2020,Semi-Auto,8.8 mpg,Hybrid,2020,2L,"39,070 miles",Hybrid,Semiauto,Blue,Saloon,8.8 mpg
+/ad/30470166,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"21,636",2020,Semi-Auto,188.3 mpg,Hybrid,2020,2L,"39,176 miles",Hybrid,Semiauto,Blue,Saloon,188.3 mpg
+/ad/30919881,BMW 3 Series,320d Sport 4dr Step Auto Saloon,"20,549",2019,Other,52.3 mpg,Diesel,2019,1995cc,"39,512 miles",Diesel,N/A,White,Saloon,52.3 mpg
+/ad/30570889,BMW 3 Series,330e Sport Pro 4dr Step Auto Saloon,"21,850",2021,Semi-Auto,188.3 mpg,Hybrid,2021,2L,"31,193 miles",Hybrid,Semiauto,Blue,Saloon,188.3 mpg
+/ad/30945362,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"22,000",2020,Automatic,42.2 mpg,Petrol,2020,1998cc,"31,787 miles",Petrol,Automatic,Blue,Saloon,42.2 mpg
+/ad/30945432,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,300",2020,Automatic,8.8 mpg,Hybrid,2020,1998cc,"35,860 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,8.8 mpg
+/ad/30858052,BMW 2 Series,220d M Sport 5dr Step Auto Hatchback,"20,995",2020,Automatic,51.4 mpg,Diesel,2020,1995cc,"38,000 miles",Diesel,Automatic,White,Hatchback,51.4 mpg
+/ad/30776388,BMW 4 Series,430d xDrive M Sport 5dr Auto [Professional Media] Coupe,"22,190",2019,Semi-Auto,39.2 mpg,Diesel,2019,3L,"39,000 miles",Diesel,Semiauto,White,Coupe,39.2 mpg
+/ad/30930012,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"20,600",2019,Automatic,8.8 mpg,Hybrid,2019,1998cc,"39,352 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,8.8 mpg
+/ad/30861965,BMW 2 Series,220d M Sport 5dr Step Auto Hatchback,"20,995",2020,Automatic,51.4 mpg,Diesel,2020,1995cc,"40,000 miles",Diesel,Automatic,White,Hatchback,51.4 mpg
+/ad/30930017,BMW X4,2.0 20d xLine SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (190 ps) Full Leather,"21,000",2018,Automatic,54.3 mpg,Diesel,2018,1995cc,"41,135 miles",Diesel,Automatic,White,SUV,54.3 mpg
+/ad/30945371,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,900",2020,Automatic,8.8 mpg,Hybrid,2020,1998cc,"41,558 miles",Petrol Plug-in Hybrid,Automatic,Black,Saloon,8.8 mpg
+/ad/30918722,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"21,400",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"43,513 miles",Petrol,Automatic,White,Saloon,42.2 mpg
+/ad/30548251,BMW 5 Series,2.0 520d MHT M Sport Saloon 4dr Diesel Hybrid Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,000",2020,Automatic,49.6 mpg,Hybrid,2020,1995cc,"43,670 miles",Diesel Hybrid,Automatic,Grey,Saloon,49.6 mpg
+/ad/30762845,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,600",2020,Automatic,188.3 mpg,Hybrid,2020,1998cc,"44,856 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,188.3 mpg
+/ad/30887526,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) M Sport Saloon,"20,300",2018,Automatic,156.9 mpg,Hybrid,2018,1998cc,"45,592 miles",Petrol Plug-in Hybrid,Automatic,Blue,Saloon,156.9 mpg
+/ad/30887503,BMW 5 Series,2.0 520d M Sport Touring 5dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,900",2019,Automatic,45.6 mpg,Diesel,2019,1995cc,"48,269 miles",Diesel,Automatic,Grey,Estate,45.6 mpg
+/ad/30931513,BMW 4 Series,3.0 440i M Sport Hatchback 5dr Petrol Auto Euro 6 (s/s) (326 ps) M Sport Bodykit,"22,000",2018,Automatic,41.5 mpg,Petrol,2018,2998cc,"48,779 miles",Petrol,Automatic,Silver,Hatchback,41.5 mpg
+/ad/30945345,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,200",2020,Automatic,188.3 mpg,Hybrid,2020,1998cc,"49,834 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,188.3 mpg
+/ad/30773488,BMW 3 Series,3.0 340i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (326 ps) M Sport Bodykit,"21,500",2018,Automatic,41.5 mpg,Petrol,2018,2998cc,"54,539 miles",Petrol,Automatic,White,Saloon,41.5 mpg
+/ad/30942689,BMW 3 Series,320d M Sport 4dr Saloon,"21,490",2019,Manual,54.3 mpg,Diesel,2019,2L,"56,262 miles",Diesel,Manual,Grey,Saloon,54.3 mpg
+/ad/30952381,BMW 5 Series,520d M Sport 4dr Auto Saloon,"22,300",2020,Semi-Auto,49.6 mpg,Diesel,2020,2L,"56,939 miles",Diesel,Semiauto,Blue,Saloon,49.6 mpg
+/ad/30820002,BMW 4 Series,420d [190] xDrive M Sport 5dr Auto [Prof Media] Coupe,"20,995",2019,Automatic,58.9 mpg,Diesel,2019,1995cc,"64,000 miles",Diesel,Automatic,Grey,Coupe,58.9 mpg
+/ad/30745418,BMW 3 Series,3.0 335d M Sport Shadow Edition Saloon 4dr Diesel Auto xDrive Euro 6 (s/s) (313 ps) Saloon,"20,715",2018,Automatic,Tax: n/a,2018,2993cc,"45,866 miles",Diesel,Automatic,Red,Saloon,,
+/ad/30890692,BMW 5 Series,530e M Sport 4dr Auto Saloon,"20,457",2018,Semi-Auto,156.9 mpg,Hybrid,2018,2L,"45,877 miles",Hybrid,Semiauto,Blue,Saloon,156.9 mpg
+/ad/30803994,BMW 5 Series,520d M Sport 4dr Auto Saloon,"20,199",2018,Other,68.9 mpg,Diesel,2018,1995cc,"46,000 miles",Diesel,N/A,Black,Saloon,68.9 mpg
+/ad/30743895,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) M Sport Saloon,"21,000",2019,Automatic,156.9 mpg,Hybrid,2019,1998cc,"46,238 miles",Petrol Plug-in Hybrid,Automatic,Blue,Saloon,156.9 mpg
+/ad/30702205,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) Saloon,"20,581",2018,Automatic,156.9 mpg,Hybrid,2018,1998cc,"46,284 miles",Hybrid,Automatic,White,Saloon,156.9 mpg
+/ad/30959452,BMW 5 Series,520d xDrive M Sport 5dr Auto Estate,"20,999",2018,Semi-Auto,55.4 mpg,Diesel,2018,2L,"46,534 miles",Diesel,Semiauto,Grey,Estate,55.4 mpg
+/ad/30787362,BMW 1 Series,M140i Shadow Edition 5dr Step Auto Hatchback,"20,499",2018,Semi-Auto,39.8 mpg,Petrol,2018,3L,"46,562 miles",Petrol,Semiauto,Grey,Hatchback,39.8 mpg
+/ad/30687404,BMW 5 Series,520d M Sport 4dr Auto Saloon,"20,599",2018,Other,49.6 mpg,Diesel,2018,1995cc,"46,682 miles",Diesel,N/A,Black,Saloon,49.6 mpg
+/ad/30837635,BMW 3 Series,320d Sport 4dr Step Auto Saloon,"20,299",2019,Semi-Auto,52.3 mpg,Diesel,2019,2L,"49,984 miles",Diesel,Semiauto,Grey,Saloon,52.3 mpg
+/ad/30949898,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"21,990",2021,Semi-Auto,188.3 mpg,Hybrid,2021,2L,"52,606 miles",Hybrid,Semiauto,Grey,Saloon,188.3 mpg
+/ad/30355490,BMW 2 Series,218i [2.0] M Sport 2dr [Nav] Coupe,"20,950",2021,Manual,36.7 mpg,Petrol,2021,2L,"17,209 miles",Petrol,Manual,White,Coupe,36.7 mpg
+/ad/30897116,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"22,490",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"17,312 miles",Petrol,Semiauto,Grey,Hatchback,40.4 mpg
+/ad/30851255,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,635",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"17,595 miles",Petrol,Semiauto,Black,Hatchback,40.4 mpg
+/ad/30929017,BMW 1 Series,118i M Sport 5dr Hatchback,"20,440",2020,Manual,41.5 mpg,Petrol,2020,1.5L,"18,750 miles",Petrol,Manual,Grey,Hatchback,41.5 mpg
+/ad/30630121,BMW 1 Series,118i [136] Sport 5dr Step Auto Hatchback,"21,500",2021,Semi-Auto,47.1 mpg,Petrol,2021,1.5L,"19,558 miles",Petrol,Semiauto,White,Hatchback,47.1 mpg
+/ad/30764287,BMW 4 Series,420i M Sport 5dr Auto [Professional Media] Coupe,"21,400",2019,Semi-Auto,48.7 mpg,Petrol,2019,2L,"21,112 miles",Petrol,Semiauto,White,Coupe,48.7 mpg
+/ad/30510506,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,400",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"21,228 miles",Petrol,Semiauto,Black,Hatchback,40.4 mpg
+/ad/30888423,BMW 1 Series,116d M Sport 5dr Hatchback,"21,790",2021,Manual,54.3 mpg,Diesel,2021,1.5L,"21,502 miles",Diesel,Manual,Grey,Hatchback,54.3 mpg
+/ad/30475947,BMW 2 Series,1.5 218i M Sport Saloon 4dr Petrol DCT Euro 6 (s/s) (136 ps) M Sport Bodykit,"22,000",2021,Automatic,45.6 mpg,Petrol,2021,1499cc,"21,746 miles",Petrol,Automatic,Black,Saloon,45.6 mpg
+/ad/30836657,BMW 3 Series,2.0 330e 12kWh Sport Pro Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) Saloon,"22,461",2020,Automatic,8.8 mpg,Hybrid,2020,1998cc,"22,047 miles",Hybrid,Automatic,Grey,Saloon,8.8 mpg
+/ad/30872233,BMW 2 Series,218i [136] M Sport 4dr DCT Coupe,"22,400",2020,Semi-Auto,42.2 mpg,Petrol,2020,1.5L,"23,489 miles",Petrol,Semiauto,Black,Coupe,42.2 mpg
+/ad/30874986,BMW 1 Series,118d M Sport 5dr Step Auto Hatchback,"20,895",2019,Semi-Auto,51.4 mpg,Diesel,2019,2L,"23,889 miles",Diesel,Semiauto,Black,Hatchback,51.4 mpg
+/ad/29987003,BMW 2 Series,218i [2.0] M Sport 2dr [Nav] Step Auto Coupe,"22,440",2021,Semi-Auto,37.2 mpg,Petrol,2021,2L,"25,791 miles",Petrol,Semiauto,Orange,Coupe,37.2 mpg
+/ad/30930612,BMW X2,xDrive 20d M Sport 5dr Step Auto SUV,"21,299",2019,Semi-Auto,58.9 mpg,Diesel,2019,2L,"26,612 miles",Diesel,Semiauto,Black,SUV,58.9 mpg
+/ad/30624096,BMW 1 Series,118i [136] M Sport 5dr Hatchback,"21,995",2021,Manual,44.1 mpg,Petrol,2021,1.5L,"28,417 miles",Petrol,Manual,Grey,Hatchback,44.1 mpg
+/ad/30559137,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Manual Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,000",2019,Manual,54.3 mpg,Diesel,2019,1995cc,"28,902 miles",Diesel,Manual,Black,Saloon,54.3 mpg
+/ad/30896288,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,890",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"29,862 miles",Petrol,Semiauto,Blue,Hatchback,40.4 mpg
+/ad/30454186,BMW X1,1 sDrive 20i xLine 5dr Step Auto SUV,"22,450",2020,Semi-Auto,47.9 mpg,Petrol,2020,2L,"31,357 miles",Petrol,Semiauto,Black,SUV,47.9 mpg
+/ad/30937401,BMW 3 Series,330e M Sport 4dr Auto Saloon,"21,500",2019,Semi-Auto,8.8 mpg,Hybrid,2019,2L,"33,852 miles",Hybrid,Semiauto,Blue,Saloon,8.8 mpg
+/ad/30882601,BMW X1,1 sDrive 20i xLine 5dr Step Auto SUV,"21,855",2020,Semi-Auto,47.9 mpg,Petrol,2020,2L,"35,128 miles",Petrol,Semiauto,Grey,SUV,47.9 mpg
+/ad/30848928,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,590",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"35,210 miles",Petrol,Semiauto,White,Hatchback,40.4 mpg
+/ad/30946003,BMW 3 Series,318d Sport 4dr Step Auto NULL,"20,950",2019,Other,53.3 mpg,Diesel,2019,1995cc,"38,000 miles",Diesel,NULL,Mineral White Metallic,NULL,53.3 mpg
+/ad/30532354,BMW 1 Series,116d M Sport 5dr Step Auto Hatchback,"20,950",2020,Semi-Auto,57.7 mpg,Diesel,2020,1.5L,"38,256 miles",Diesel,Semiauto,Blue,Hatchback,57.7 mpg
+/ad/30904400,BMW 3 Series,320i M Sport Shadow Edition 5dr Step Auto Estate,"20,990",2019,Semi-Auto,47.9 mpg,Petrol,2019,2L,"38,446 miles",Petrol,Semiauto,Black,Estate,47.9 mpg
+/ad/30935927,BMW 1 Series,120d xDrive M Sport 5dr Step Auto Hatchback,"21,499",2020,Semi-Auto,48.7 mpg,Diesel,2020,2L,"38,676 miles",Diesel,Semiauto,Grey,Hatchback,48.7 mpg
+/ad/30864653,BMW 5 Series,520d xDrive M Sport 4dr Auto Saloon,"20,799",2017,Semi-Auto,60.1 mpg,Diesel,2017,2L,"39,315 miles",Diesel,Semiauto,White,Saloon,60.1 mpg
+/ad/30765886,BMW X4,xDrive20d M Sport 5dr Step Auto SUV,"20,995",2017,Semi-Auto,54.3 mpg,Diesel,2017,2L,"45,159 miles",Diesel,Semiauto,Grey,SUV,54.3 mpg
+/ad/30950308,BMW 3 Series,2.0 330e 12kWh M Sport Auto Euro 6 (s/s) 4dr REVERSING CAM SERVICE HISTORY Saloon,"20,000",2020,Automatic,188.3 mpg,Hybrid,2020,1998cc,"53,960 miles",Petrol Plug-in Hybrid,Automatic,Black,Saloon,188.3 mpg
+/ad/30936944,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,200",2019,Automatic,52.3 mpg,Diesel,2019,1995cc,"54,903 miles",Diesel,Automatic,Black,Saloon,52.3 mpg
+/ad/30685126,BMW 3 Series,2.0 320d MHT M Sport Touring 5dr Diesel Hybrid Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"22,200",2020,Automatic,50.4 mpg,Hybrid,2020,1995cc,"67,766 miles",Diesel Hybrid,Automatic,Black,Estate,50.4 mpg
+/ad/30467790,BMW 3 Series,335d xDrive M Sport Shadow Edition 5dr Step Auto Estate,"20,499",2019,Semi-Auto,49.6 mpg,Diesel,2019,3L,"70,351 miles",Diesel,Semiauto,Black,Estate,49.6 mpg
+/ad/30776400,BMW 5 Series,530i M Sport 4dr Auto Saloon,"20,900",2018,Semi-Auto,37.7 mpg,Petrol,2018,2L,"72,498 miles",Petrol,Semiauto,Black,Saloon,37.7 mpg
+/ad/30888268,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"21,058",2020,Semi-Auto,188.3 mpg,Hybrid,2020,2L,"79,489 miles",Hybrid,Semiauto,Blue,Saloon,188.3 mpg
+/ad/30777761,BMW 3 Series,2.0 320D M SPORT MHEV 4d AUTO 188 BHP Saloon,"20,770",2020,Automatic,56.5 mpg,Other,2020,2L,"79,910 miles",Other,Automatic,Blue,Saloon,56.5 mpg
+/ad/30811416,BMW 3 Series,320d M Sport Plus Edition 4dr Step Auto Saloon,"21,895",2019,Semi-Auto,53.3 mpg,Diesel,2019,2L,"81,949 miles",Diesel,Semiauto,Grey,Saloon,53.3 mpg
+/ad/30930114,BMW 1 Series,1.5 118i M Sport DCT Euro 6 (s/s) 5dr Hatchback,"21,950",2020,Automatic,40.4 mpg,Petrol,2020,1.5l,"8,248 miles",Petrol,Automatic,Blue,Hatchback,40.4 mpg
+/ad/30396091,BMW X1,1 xDrive 20i SE 5dr Step Auto SUV,"21,830",2020,Semi-Auto,47.9 mpg,Petrol,2020,2L,"10,465 miles",Petrol,Semiauto,Black,SUV,47.9 mpg
+/ad/30954765,BMW 3 Series,2.0 320I M SPORT 4d AUTO 181 BHP Saloon,"20,999",2019,Automatic,42.2 mpg,Petrol,2019,2L,"31,510 miles",Petrol,Automatic,Black,Saloon,42.2 mpg
+/ad/30857161,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,849",2020,Other,40.4 mpg,Petrol,2020,1499cc,"32,684 miles",Petrol,N/A,Grey,Hatchback,40.4 mpg
+/ad/30694495,BMW 2 Series,3.0 M240i Coupe 2dr Petrol Auto Euro 6 (s/s) (340 ps) M Sport Bodykit,"20,100",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"34,815 miles",Petrol,Automatic,White,Coupe,39.8 mpg
+/ad/30557514,BMW 1 Series,118d M Sport 5dr Step Auto Hatchback,"20,799",2021,Other,51.4 mpg,Diesel,2021,1995cc,"36,105 miles",Diesel,N/A,White,Hatchback,51.4 mpg
+/ad/30579166,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Manual Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,500",2020,Manual,54.3 mpg,Diesel,2020,1995cc,"37,565 miles",Diesel,Manual,Grey,Saloon,54.3 mpg
+/ad/30912461,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,199",2020,Other,40.4 mpg,Petrol,2020,1499cc,"38,662 miles",Petrol,N/A,Black,Hatchback,40.4 mpg
+/ad/30907068,BMW 3 Series,320i M Sport 4dr Step Auto Saloon,"21,899",2019,Other,42.2 mpg,Petrol,2019,1998cc,"43,793 miles",Petrol,N/A,Orange,Saloon,42.2 mpg
+/ad/30927886,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,299",2020,Other,40.4 mpg,Petrol,2020,1499cc,"43,870 miles",Petrol,N/A,White,Hatchback,40.4 mpg
+/ad/30602912,BMW 5 Series,520d M Sport 4dr Auto Saloon,"20,299",2018,Other,49.6 mpg,Diesel,2018,1995cc,"47,212 miles",Diesel,N/A,Blue,Saloon,49.6 mpg
+/ad/30374913,BMW 3 Series,330d M Sport 5dr Step Auto Estate,"21,999",2019,Automatic,53.3 mpg,Diesel,2019,2993cc,"51,005 miles",Diesel,Automatic,White,Estate,53.3 mpg
+/ad/30829323,BMW 1 Series,1.5 118i M Sport (LCP) Hatchback 5dr Petrol Manual Euro 6 (s/s) (136 ps) M Sport Bodykit,"20,200",2021,Manual,44.1 mpg,Petrol,2021,1499cc,"22,274 miles",Petrol,Manual,Black,Hatchback,44.1 mpg
+/ad/30831064,BMW 1 Series,1.5 118i M Sport (LCP) Hatchback 5dr Petrol DCT Euro 6 (s/s) (136 ps) M Sport Bodykit,"22,000",2021,Automatic,44.1 mpg,Petrol,2021,1499cc,"23,765 miles",Petrol,Automatic,Black,Hatchback,44.1 mpg
+/ad/30912511,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,949",2020,Other,40.4 mpg,Petrol,2020,1499cc,"24,563 miles",Petrol,N/A,Grey,Hatchback,40.4 mpg
+/ad/30820266,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) M Sport Saloon,"22,200",2018,Automatic,156.9 mpg,Hybrid,2018,1998cc,"25,448 miles",Petrol Plug-in Hybrid,Automatic,Black,Saloon,156.9 mpg
+/ad/30729357,BMW 2 Series,218i M Sport 2dr [Nav] Step Auto Convertible,"20,995",2020,Semi-Auto,48.7 mpg,Petrol,2020,1.5L,"26,843 miles",Petrol,Semiauto,Grey,Convertible,48.7 mpg
+/ad/30816258,BMW 3 Series,2.0 320d M Sport Touring 5dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,000",2018,Automatic,62.8 mpg,Diesel,2018,1995cc,"27,032 miles",Diesel,Automatic,Grey,Estate,62.8 mpg
+/ad/30846612,BMW 1 Series,118i M Sport M SPORT PRO PK,"20,950",2020,Manual,41.5 mpg,Petrol,2020,1499cc,"27,486 miles",Petrol,Manual,Blue,Hatchback,41.5 mpg
+/ad/30953418,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,549",2020,Other,40.4 mpg,Petrol,2020,1499cc,"27,927 miles",Petrol,N/A,Black,Hatchback,40.4 mpg
+/ad/30757742,BMW 3 Series,2.0 330e 12kWh SE Pro Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) Full Leather,"20,200",2020,Automatic,201.8 mpg,Hybrid,2020,1998cc,"28,909 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,201.8 mpg
+/ad/30961423,BMW 3 Series,330e M Sport 4dr Auto Saloon,"21,136",2019,Semi-Auto,8.8 mpg,Hybrid,2019,2L,"29,463 miles",Hybrid,Semiauto,White,Saloon,8.8 mpg
+/ad/30922202,BMW X2,sDrive 20i M Sport 5dr Step Auto SUV,"20,495",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"29,607 miles",Petrol,Semiauto,Black,SUV,39.2 mpg
+/ad/30853414,BMW 1 Series,118i [136] Sport 5dr Step Auto Hatchback,"20,157",2022,Semi-Auto,47.1 mpg,Petrol,2022,1.5L,"31,482 miles",Petrol,Semiauto,White,Hatchback,47.1 mpg
+/ad/30784792,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Manual Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,100",2019,Manual,54.3 mpg,Diesel,2019,1995cc,"33,065 miles",Diesel,Manual,Blue,Saloon,54.3 mpg
+/ad/30955055,BMW 1 Series,3.0 M140i GPF Shadow Edition Hatchback 5dr Petrol Auto Euro 6 (s/s) (340 ps) M Sport Bodykit,"22,400",2019,Automatic,39.8 mpg,Petrol,2019,2998cc,"34,050 miles",Petrol,Automatic,Black,Hatchback,39.8 mpg
+/ad/30945346,BMW 5 Series,2.0 520d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,500",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"34,267 miles",Diesel,Automatic,Grey,Saloon,49.6 mpg
+/ad/30564796,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Manual Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,000",2019,Manual,54.3 mpg,Diesel,2019,1995cc,"34,812 miles",Diesel,Manual,White,Saloon,54.3 mpg
+/ad/30946107,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"20,990",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"35,059 miles",Petrol,Semiauto,Black,Hatchback,40.4 mpg
+/ad/30931395,BMW 5 Series,2.0 520d MHT M Sport Saloon 4dr Diesel Hybrid Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,900",2019,Automatic,49.6 mpg,Hybrid,2019,1995cc,"38,141 miles",Diesel Hybrid,Automatic,Black,Saloon,49.6 mpg
+/ad/30918462,BMW 1 Series,118d M Sport 5dr Hatchback,"20,457",2021,Manual,53.3 mpg,Diesel,2021,2L,"39,010 miles",Diesel,Manual,White,Hatchback,53.3 mpg
+/ad/30470166,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"21,636",2020,Semi-Auto,188.3 mpg,Hybrid,2020,2L,"39,176 miles",Hybrid,Semiauto,Blue,Saloon,188.3 mpg
+/ad/30955130,BMW X1,2.0 20i M Sport SUV 5dr Petrol DCT sDrive Euro 6 (s/s) (192 ps) M Sport Bodykit,"21,100",2019,Automatic,48.7 mpg,Petrol,2019,1998cc,"41,272 miles",Petrol,Automatic,Grey,SUV,48.7 mpg
+/ad/30757752,BMW 3 Series,2.0 330e 12kWh Sport Pro Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) Full Saloon,"20,900",2020,Automatic,188.3 mpg,Hybrid,2020,1998cc,"42,438 miles",Petrol Plug-in Hybrid,Automatic,Blue,Saloon,188.3 mpg
+/ad/30771731,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"20,400",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"44,638 miles",Petrol,Automatic,Grey,Saloon,42.2 mpg
+/ad/30829394,BMW 5 Series,2.0 520d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,800",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"45,133 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30605899,BMW 4 Series,435d xDrive M Sport 5dr Auto [Professional Media] Coupe,"21,657",2019,Semi-Auto,49.6 mpg,Diesel,2019,3L,"45,271 miles",Diesel,Semiauto,Black,Coupe,49.6 mpg
+/ad/30803994,BMW 5 Series,520d M Sport 4dr Auto Saloon,"20,199",2018,Other,68.9 mpg,Diesel,2018,1995cc,"46,000 miles",Diesel,N/A,Black,Saloon,68.9 mpg
+/ad/30743895,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) M Sport Saloon,"21,000",2019,Automatic,156.9 mpg,Hybrid,2019,1998cc,"46,238 miles",Petrol Plug-in Hybrid,Automatic,Blue,Saloon,156.9 mpg
+/ad/30454307,BMW X1,1 xDrive 20i xLine 5dr Step Auto SUV,"21,190",2020,Semi-Auto,39.8 mpg,Petrol,2020,2L,"46,320 miles",Petrol,Semiauto,Grey,SUV,39.8 mpg
+/ad/30816252,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"20,400",2019,Automatic,8.8 mpg,Hybrid,2019,1998cc,"46,873 miles",Petrol Plug-in Hybrid,Automatic,Blue,Saloon,8.8 mpg
+/ad/30784813,BMW X4,2.0 20d M Sport SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,500",2018,Automatic,54.3 mpg,Diesel,2018,1995cc,"46,893 miles",Diesel,Automatic,Silver,SUV,54.3 mpg
+/ad/30820342,BMW 5 Series,2.0 520d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,200",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"53,155 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30830960,BMW 5 Series,2.0 520d M Sport Touring 5dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"20,800",2019,Automatic,45.6 mpg,Diesel,2019,1995cc,"56,242 miles",Diesel,Automatic,Black,Estate,45.6 mpg
+/ad/30829233,BMW 5 Series,3.0 530d M Sport Saloon 4dr Diesel Auto xDrive Euro 6 (s/s) (265 ps) M Sport Bodykit,"21,000",2017,Automatic,53.3 mpg,Diesel,2017,2993cc,"67,493 miles",Diesel,Automatic,Black,Saloon,53.3 mpg
+/ad/30930114,BMW 1 Series,1.5 118i M Sport DCT Euro 6 (s/s) 5dr Hatchback,"21,950",2020,Automatic,40.4 mpg,Petrol,2020,1.5l,"8,248 miles",Petrol,Automatic,Blue,Hatchback,40.4 mpg
+/ad/30853414,BMW 1 Series,118i [136] Sport 5dr Step Auto Hatchback,"20,157",2022,Semi-Auto,47.1 mpg,Petrol,2022,1.5L,"31,482 miles",Petrol,Semiauto,White,Hatchback,47.1 mpg
+/ad/30961052,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"21,136",2020,Semi-Auto,188.3 mpg,Hybrid,2020,2L,"52,059 miles",Hybrid,Semiauto,Blue,Saloon,188.3 mpg
+/ad/30910081,BMW 3 Series,330e M Sport 4dr Step Auto Saloon,"20,957",2020,Semi-Auto,188.3 mpg,Hybrid,2020,2L,"60,123 miles",Hybrid,Semiauto,Blue,Saloon,188.3 mpg
+/ad/30756245,BMW 2 Series,218i [136] M Sport 4dr DCT Coupe,"22,083",2020,Semi-Auto,42.2 mpg,Petrol,2020,1.5L,"17,619 miles",Petrol,Semiauto,Grey,Coupe,42.2 mpg
+/ad/30454307,BMW X1,1 xDrive 20i xLine 5dr Step Auto SUV,"21,190",2020,Semi-Auto,39.8 mpg,Petrol,2020,2L,"46,320 miles",Petrol,Semiauto,Grey,SUV,39.8 mpg
+/ad/30961423,BMW 3 Series,330e M Sport 4dr Auto Saloon,"21,136",2019,Semi-Auto,8.8 mpg,Hybrid,2019,2L,"29,463 miles",Hybrid,Semiauto,White,Saloon,8.8 mpg
+/ad/30918462,BMW 1 Series,118d M Sport 5dr Hatchback,"20,457",2021,Manual,53.3 mpg,Diesel,2021,2L,"39,010 miles",Diesel,Manual,White,Hatchback,53.3 mpg
+/ad/30835576,BMW 5 Series,2.0 520d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"21,200",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"37,422 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30595367,BMW X2,X2,"20,850",2019,Automatic,36.2 mpg,Petrol,2019,1998cc,"38,944 miles",Petrol,Automatic,Blue,SUV,36.2 mpg
+/ad/30960192,BMW 3 Series,2.0 320d MHT SE Saloon 4dr Diesel Hybrid Auto Euro 6 (s/s) (190 ps) Android Auto,"21,200",2020,Automatic,57.7 mpg,Hybrid,2020,1995cc,"43,092 miles",Diesel Hybrid,Automatic,Blue,Saloon,57.7 mpg
+/ad/30784653,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"20,000",2019,Automatic,8.8 mpg,Hybrid,2019,1998cc,"51,502 miles",Petrol Plug-in Hybrid,Automatic,Black,Saloon,8.8 mpg
+/ad/30674514,BMW 6 Series,GRAN COUPE 640d M Sport 4dr Auto Saloon,"21,299",2018,Other,49.6 mpg,Diesel,2018,2993cc,"61,932 miles",Diesel,N/A,Black,Saloon,49.6 mpg
+/ad/30828250,BMW 2 Series,218i [136] M Sport 4dr Saloon,"21,699",2021,Other,43.5 mpg,Petrol,2021,1499cc,"18,225 miles",Petrol,N/A,Grey,Saloon,43.5 mpg
+/ad/30380798,BMW 4 Series,3.0 430d M Sport Convertible 2dr Diesel Auto Euro 6 (s/s) (258 ps) M Sport Bodykit,"20,500",2019,Automatic,39.8 mpg,Diesel,2019,2993cc,"30,008 miles",Diesel,Automatic,Grey,Convertible,39.8 mpg
+/ad/30922382,BMW 5 Series,2.0 530e 9.2kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (252 ps) M Sport Saloon,"21,800",2019,Automatic,156.9 mpg,Hybrid,2019,1998cc,"38,535 miles",Petrol Plug-in Hybrid,Automatic,Blue,Saloon,156.9 mpg
+/ad/30926485,BMW X1,2.0 20d M Sport SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (190 ps) M Sport Bodykit,"22,100",2020,Automatic,50.4 mpg,Diesel,2020,1995cc,"41,523 miles",Diesel,Automatic,Blue,SUV,50.4 mpg
+/ad/30912482,BMW 3 Series,320d M Sport 4dr Saloon,"21,749",2020,Other,54.3 mpg,Diesel,2020,1995cc,"46,098 miles",Diesel,N/A,Blue,Saloon,54.3 mpg
+/ad/30960202,BMW X2,1.5 18i M Sport SUV 5dr Petrol DCT sDrive Euro 6 (s/s) (140 ps) M Sport Bodykit,"21,400",2019,Automatic,42.2 mpg,Petrol,2019,1499cc,"18,958 miles",Petrol,Automatic,White,SUV,42.2 mpg
+/ad/30728468,BMW 3 Series,2.0 330e 12kWh SE Pro Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) Full Saloon,"20,400",2020,Automatic,8.8 mpg,Hybrid,2020,1998cc,"21,901 miles",Petrol Plug-in Hybrid,Automatic,Grey,Saloon,8.8 mpg
+/ad/30841924,BMW 5 Series,2.0 520d SE Saloon 4dr Diesel Auto xDrive Euro 6 (s/s) (190 ps) Sun Protection Pack,"20,100",2018,Automatic,62.8 mpg,Diesel,2018,1995cc,"23,163 miles",Diesel,Automatic,Blue,Saloon,62.8 mpg
+/ad/30742207,BMW 2 Series,218i [136] M Sport 4dr DCT Coupe,"20,500",2021,Semi-Auto,45.6 mpg,Petrol,2021,1.5L,"29,599 miles",Petrol,Semiauto,White,Coupe,45.6 mpg
+/ad/30617169,BMW 5 Series,2.0 520d MHT M Sport Saloon 4dr Diesel Hybrid Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"22,000",2019,Automatic,49.6 mpg,Hybrid,2019,1995cc,"34,607 miles",Diesel Hybrid,Automatic,Blue,Saloon,49.6 mpg
+/ad/30574147,BMW 2 Series,1.5 218i M Sport Saloon 4dr Petrol Manual Euro 6 (s/s) (136 ps) M Sport Bodykit,"20,000",2021,Manual,43.5 mpg,Petrol,2021,1499cc,"35,338 miles",Petrol,Manual,Blue,Saloon,43.5 mpg
+/ad/30960207,BMW 3 Series,2.0 320i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (184 ps) M Sport Bodykit,"21,800",2019,Automatic,42.2 mpg,Petrol,2019,1998cc,"43,236 miles",Petrol,Automatic,Black,Saloon,42.2 mpg
+/ad/30694316,BMW 3 Series,2.0 330i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (258 ps) M Sport Bodykit,"21,900",2019,Automatic,41.5 mpg,Petrol,2019,1998cc,"49,460 miles",Petrol,Automatic,Black,Saloon,41.5 mpg
+/ad/30677083,BMW 3 Series,2.0 320d MHT M Sport Touring 5dr Diesel Hybrid Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"22,400",2020,Automatic,50.4 mpg,Hybrid,2020,1995cc,"63,071 miles",Diesel Hybrid,Automatic,Grey,Estate,50.4 mpg
+/ad/30694316,BMW 3 Series,2.0 330i M Sport Saloon 4dr Petrol Auto Euro 6 (s/s) (258 ps) M Sport Bodykit,"21,900",2019,Automatic,41.5 mpg,Petrol,2019,1998cc,"49,460 miles",Petrol,Automatic,Black,Saloon,41.5 mpg
+/ad/30677083,BMW 3 Series,2.0 320d MHT M Sport Touring 5dr Diesel Hybrid Auto Euro 6 (s/s) (190 ps) M Sport Bodykit,"22,400",2020,Automatic,50.4 mpg,Hybrid,2020,1995cc,"63,071 miles",Diesel Hybrid,Automatic,Grey,Estate,50.4 mpg
+/ad/30917203,BMW 1 Series,2.0 118d Sport Hatchback 5dr Diesel Auto Euro 6 (s/s) (150 ps) Part Leather,"20,400",2020,Automatic,53.3 mpg,Diesel,2020,1995cc,"32,163 miles",Diesel,Automatic,Grey,Hatchback,53.3 mpg
+/ad/30952584,BMW 3 Series,335d xDrive M Sport Shadow Edition 4dr Step Auto Saloon,"20,705",2018,Semi-Auto,51.4 mpg,Diesel,2018,3L,"45,866 miles",Diesel,Semiauto,Red,Saloon,51.4 mpg
+/ad/30819241,BMW 3 Series,330e SE Pro 4dr Auto Saloon,"20,720",2020,Semi-Auto,8.8 mpg,Hybrid,2020,2L,"19,932 miles",Hybrid,Semiauto,Silver,Saloon,8.8 mpg
+/ad/30919030,BMW 1 Series,118i [136] M Sport 5dr Step Auto Hatchback,"21,751",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"28,369 miles",Petrol,Semiauto,Black,Hatchback,44.1 mpg
+/ad/30668177,BMW 3 Series,2.0 330e 12kWh M Sport Saloon 4dr Petrol Plug-in Hybrid Auto Euro 6 (s/s) (292 ps) M Sport Saloon,"21,700",2019,Automatic,8.8 mpg,Hybrid,2019,1998cc,"29,416 miles",Petrol Plug-in Hybrid,Automatic,Black,Saloon,8.8 mpg
+/ad/30961918,BMW X4,3.0 30d xLine SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (258 ps) Full Leather,"20,900",2017,Automatic,47.9 mpg,Diesel,2017,2993cc,"37,000 miles",Diesel,Automatic,Black,SUV,47.9 mpg
+/ad/30961914,BMW 3 Series,2.0 320d M Sport Saloon 4dr Diesel Auto Euro 6 (s/s) (190 ps) Dynamic Pack,"21,900",2019,Automatic,52.3 mpg,Diesel,2019,1995cc,"53,125 miles",Diesel,Automatic,Blue,Saloon,52.3 mpg
+/ad/30014624,BMW X1,1 xDrive 20i [178] xLine 5dr Step Auto Estate,"21,995",2021,Automatic,39.2 mpg,Petrol,2021,2000cc,"6,276 miles",Petrol,Automatic,Black,Estate,39.2 mpg
+/ad/29655877,BMW 1 Series,Hatchback,"22,500",2020,Automatic,43.5 mpg,Petrol,2020,1499cc,"7,093 miles",Petrol,Automatic,Blue,Hatchback,43.5 mpg
+/ad/30691701,BMW 1 Series,118i [136] Sport 5dr Hatchback,"21,145",2022,Manual,46.3 mpg,Petrol,2022,1500cc,"9,885 miles",Petrol,Manual,Black,Hatchback,46.3 mpg
+/ad/30953152,BMW 1 Series,118i M Sport Hatchback,"20,950",2020,Manual,41.5 mpg,Petrol,2020,1499cc,"10,472 miles",Petrol,Manual,Red,Hatchback,41.5 mpg
+/ad/30634787,BMW 3 Series,320i M Sport Shadow Edition 2.0 320i M Sport Shadow Edition Saloon,"21,495",2018,Automatic,48.7 mpg,Petrol,2018,2000cc,"15,012 miles",Petrol,Automatic,White,Saloon,48.7 mpg
+/ad/30738892,BMW 1 Series,118I M SPORT Hatchback,"21,750",2021,Manual,41.5 mpg,Petrol,2021,1499cc,"17,000 miles",Petrol,Manual,Blue,Hatchback,41.5 mpg
+/ad/30632254,BMW 2 Series,218i [136] M Sport 4dr Saloon,"21,495",2020,Manual,43.5 mpg,Petrol,2020,1499cc,"20,125 miles",Petrol,Manual,White,Saloon,43.5 mpg
+/ad/30142108,BMW X2,2.0 XDRIVE18D M SPORT 5d 148 BHP 8.8in Sat Nav,"22,402",2020,Manual,49.6 mpg,Diesel,2020,1995cc,"20,686 miles",Diesel,Manual,WHITE,Hatchback,49.6 mpg
+/ad/29997988,BMW X1,1 sDrive 20i M Sport 5dr Step Auto Estate,"21,245",2019,Automatic,39.2 mpg,Petrol,2019,1998cc,"20,843 miles",Petrol,Automatic,White,Estate,39.2 mpg
+/ad/27163217,BMW 3 Series,3 Series,"21,298",2018,Manual,67.3 mpg,Diesel,2018,1995cc,"21,032 miles",Diesel,Manual,SILVER,Saloon,67.3 mpg
+/ad/30637469,BMW 4 Series,420d [190] xDrive Sport 5dr Auto [Business Media] Hatchback,"20,990",2019,Automatic,58.9 mpg,Diesel,2019,1995cc,"21,065 miles",Diesel,Automatic,White,Hatchback,58.9 mpg
+/ad/30705429,BMW 4 Series,430i M SPORT AUTO 2.0 249 BHP Coupe,"21,995",2019,Automatic,48.7 mpg,Petrol,2019,1998cc,"22,300 miles",Petrol,Automatic,BLUE,Coupe,48.7 mpg
+/ad/30712668,BMW 5 Series,2.0 520I M SPORT 4d AUTO 181 BHP Saloon,"20,990",2018,Automatic,38.2 mpg,Petrol,2018,1998cc,"22,550 miles",Petrol,Automatic,GREY,Saloon,38.2 mpg
+/ad/30931935,BMW 4 Series,GRAN DIESEL COUPE Coupe,"20,995",2019,Manual,62.8 mpg,Diesel,2019,1995cc,"24,100 miles",Diesel,Manual,Blue,Coupe,62.8 mpg
+/ad/30860993,BMW 1 Series,BMW 118I M SPORT AUTO Hatchback,"22,490",2022,Automatic,44.1 mpg,Petrol,2022,1499cc,"24,815 miles",Petrol,Automatic,Blue,Hatchback,44.1 mpg
+/ad/28658057,BMW 4 Series,2.0 420D M SPORT 2d 188 BHP Coupe,"21,995",2018,Automatic,65.7 mpg,Diesel,2018,1995cc,"24,934 miles",Diesel,Automatic,BLACK,Coupe,65.7 mpg
+/ad/30875721,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,495",2020,Automatic,40.4 mpg,Petrol,2020,1499cc,"25,244 miles",Petrol,Automatic,Alpine White,Hatchback,40.4 mpg
+/ad/30671096,BMW 4 Series,GRAN DIESEL COUPE Coupe,"20,950",2018,Automatic,65.7 mpg,Diesel,2018,1995cc,"26,000 miles",Diesel,Automatic,Blue,Coupe,65.7 mpg
+/ad/30638634,BMW 3 Series,330e M Sport 4dr Auto Saloon,"22,495",2019,Automatic,8.8 mpg,Other,2019,1998cc,"26,650 miles",Other,Automatic,Blue,Saloon,8.8 mpg
+/ad/30567513,BMW 4 Series,2.0 420D M SPORT 2d 188 BHP Convertible,"21,995",2018,Automatic,60.1 mpg,Diesel,2018,1995cc,"27,444 miles",Diesel,Automatic,Blue,Convertible,60.1 mpg
+/ad/30639211,BMW 4 Series,2.0 420i GPF M Sport Auto Euro 6 (s/s) 5dr Coupe,"22,495",2020,Automatic,48.7 mpg,Petrol,2020,1998cc,"27,500 miles",Petrol,Automatic,White,Coupe,48.7 mpg
+/ad/29318159,BMW 2 Series,Coupe,"21,495",2018,Automatic,36.7 mpg,Petrol,2018,2000cc,"27,787 miles",Petrol,Automatic,Black,Coupe,36.7 mpg
+/ad/29392621,BMW 3 Series,M Sport Shadow Edition Saloon,"20,998",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"28,939 miles",Petrol,Automatic,Orange,Saloon,48.7 mpg
+/ad/30420302,BMW X2,2.0 SDRIVE18D M SPORT 5d 148 BHP 19In Alloy Wheels,"21,990",2020,Manual,53.3 mpg,Diesel,2020,1995cc,"28,966 miles",Diesel,Manual,WHITE,Hatchback,53.3 mpg
+/ad/30898579,BMW 2 Series,GRAN COUPE Coupe,"21,750",2021,Automatic,42.2 mpg,Petrol,2021,1499cc,"29,549 miles",Petrol,Automatic,Grey,Coupe,42.2 mpg
+/ad/30570174,BMW 1 Series,1.5 118I M SPORT SHADOW EDITION 5d 134 BHP Hatchback,"20,388",2019,Automatic,54.3 mpg,Petrol,2019,1499cc,"31,944 miles",Petrol,Automatic,WHITE,Hatchback,54.3 mpg
+/ad/26978027,BMW X1,1 xDrive 20d M Sport SUV,"21,950",2019,Automatic,60.1 mpg,Diesel,2019,1995cc,"33,000 miles",Diesel,Automatic,Silver,SUV,60.1 mpg
+/ad/30638637,BMW 3 Series,330e M Sport 4dr Auto Saloon,"21,945",2019,Automatic,8.8 mpg,Other,2019,1998cc,"33,071 miles",Other,Automatic,Blue,Saloon,8.8 mpg
+/ad/30400700,BMW 1 Series,DIESEL HATCHBACK Hatchback,"20,990",2020,Manual,53.3 mpg,Diesel,2020,1995cc,"34,000 miles",Diesel,Manual,White,Hatchback,53.3 mpg
+/ad/30271787,BMW X2,sDrive 20i Sport 5dr Step Auto Hatchback,"21,500",2020,Automatic,38.7 mpg,Petrol,2020,1998cc,"34,841 miles",Petrol,Automatic,White,Hatchback,38.7 mpg
+/ad/30765330,BMW 4 Series,DIESEL COUPE Coupe,"21,450",2019,Automatic,65.7 mpg,Diesel,2019,1995cc,"36,000 miles",Diesel,Automatic,Blue,Coupe,65.7 mpg
+/ad/30847583,BMW 1 Series,1.5L 118I M SPORT 5d AUTO 139 BHP Hatchback,"20,995",2020,Automatic,40.4 mpg,Petrol,2020,1499cc,"36,305 miles",Petrol,Automatic,White,Hatchback,40.4 mpg
+/ad/30869543,BMW 3 Series,2.0 318d Sport Euro 6 (s/s) 4dr Saloon,"21,900",2019,Manual,67.3 mpg,Diesel,2019,1995cc,"36,400 miles",Diesel,Manual,Silver,Saloon,67.3 mpg
+/ad/28672377,BMW 4 Series,2.0 420D M SPORT 2d 188 BHP Coupe,"21,995",2019,Automatic,65.7 mpg,Diesel,2019,1995cc,"37,350 miles",Diesel,Automatic,Grey,Coupe,65.7 mpg
+/ad/30542018,BMW 4 Series,3.0 430D XDRIVE M SPORT 2d 255 BHP Coupe,"20,990",2018,Automatic,52.3 mpg,Diesel,2018,2993cc,"38,000 miles",Diesel,Automatic,BLACK,Coupe,52.3 mpg
+/ad/29857746,BMW 4 Series,DIESEL COUPE Coupe,"21,495",2018,Automatic,65.7 mpg,Diesel,2018,1995cc,"38,000 miles",Diesel,Automatic,Blue,Coupe,65.7 mpg
+/ad/30901543,BMW 5 Series,DIESEL SALOON Saloon,"21,750",2018,Automatic,49.6 mpg,Diesel,2018,1995cc,"38,000 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30796658,BMW 4 Series,420d [190] M Sport 2dr Auto [Professional Media] Coupe,"20,490",2020,Automatic,65.7 mpg,Diesel,2020,1995cc,"38,017 miles",Diesel,Automatic,Melbourne Red Metallic,Coupe,65.7 mpg
+/ad/30767423,BMW 5 Series,DIESEL SALOON Saloon,"21,950",2018,Automatic,65.7 mpg,Diesel,2018,1995cc,"38,300 miles",Diesel,Automatic,Grey,Saloon,65.7 mpg
+/ad/30901543,BMW 5 Series,DIESEL SALOON Saloon,"21,750",2018,Automatic,49.6 mpg,Diesel,2018,1995cc,"38,000 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30796658,BMW 4 Series,420d [190] M Sport 2dr Auto [Professional Media] Coupe,"20,490",2020,Automatic,65.7 mpg,Diesel,2020,1995cc,"38,017 miles",Diesel,Automatic,Melbourne Red Metallic,Coupe,65.7 mpg
+/ad/30767423,BMW 5 Series,DIESEL SALOON Saloon,"21,950",2018,Automatic,65.7 mpg,Diesel,2018,1995cc,"38,300 miles",Diesel,Automatic,Grey,Saloon,65.7 mpg
+/ad/30698965,BMW 5 Series,2.0 520D M SPORT 4d 188 BHP full leather sports seats,"21,995",2018,Automatic,68.9 mpg,Diesel,2018,1995cc,"39,508 miles",Diesel,Automatic,Black,Saloon,68.9 mpg
+/ad/29713344,BMW 5 Series,2.0 520D SE EFFICIENTDYNAMICS 4d 188 BHP Saloon,"22,199",2017,Automatic,72.4 mpg,Diesel,2017,1995cc,"39,760 miles",Diesel,Automatic,WHITE,Saloon,72.4 mpg
+/ad/30437943,BMW 5 Series,2.0 520D XDRIVE SE 4d 188 BHP Saloon,"21,499",2017,Automatic,62.8 mpg,Diesel,2017,1995cc,"39,968 miles",Diesel,Automatic,BLUE,Saloon,62.8 mpg
+/ad/30834967,BMW 1 Series,1.5 118I M SPORT 5d 139 BHP Hatchback,"20,795",2021,Automatic,40.4 mpg,Petrol,2021,1499cc,"40,050 miles",Petrol,Automatic,BLUE,Hatchback,40.4 mpg
+/ad/30834961,BMW 5 Series,2.0 520I M SPORT TOURING 5d 181 BHP Estate,"21,995",2018,Automatic,47.9 mpg,Petrol,2018,1998cc,"40,050 miles",Petrol,Automatic,BLACK,Estate,47.9 mpg
+/ad/30750512,BMW 4 Series,DIESEL COUPE Coupe,"21,995",2019,Automatic,50.4 mpg,Diesel,2019,2993cc,"40,883 miles",Diesel,Automatic,Blue,Coupe,50.4 mpg
+/ad/29251061,BMW 5 Series,530i M Sport 4dr Auto Saloon,"22,000",2018,Automatic,37.7 mpg,Petrol,2018,2000cc,"41,040 miles",Petrol,Automatic,Black,Saloon,37.7 mpg
+/ad/30813632,BMW 5 Series,2.0 520I SE 4d AUTO 181 BHP Saloon,"22,308",2019,Automatic,52.3 mpg,Petrol,2019,1998cc,"41,500 miles",Petrol,Automatic,BLACK,Saloon,52.3 mpg
+/ad/30671362,BMW X2,Series X2,"21,450",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"41,501 miles",Diesel,Automatic,Gold,SUV,58.9 mpg
+/ad/30869410,BMW 5 Series,2.0 520D M SPORT 4d 188 BHP Saloon,"20,995",2017,Automatic,65.7 mpg,Diesel,2017,1995cc,"42,000 miles",Diesel,Automatic,Blue,Saloon,65.7 mpg
+/ad/30669657,BMW 4 Series,GRAN DIESEL COUPE Coupe,"22,400",2019,Automatic,58.9 mpg,Diesel,2019,1995cc,"42,000 miles",Diesel,Automatic,Blue,Coupe,58.9 mpg
+/ad/30731274,BMW 5 Series,2.0 520D M SPORT MHEV 4d AUTO 188 BHP Saloon,"21,490",2019,Automatic,49.6 mpg,Other,2019,1995cc,"43,100 miles",Other,Automatic,BLACK,Saloon,49.6 mpg
+/ad/30636904,BMW 4 Series,420d [190] M Sport 5dr Auto [Professional Media] Coupe,"21,650",2019,Automatic,65.7 mpg,Diesel,2019,1995cc,"43,130 miles",Diesel,Automatic,Estoril Blue,Coupe,65.7 mpg
+/ad/30139507,BMW 3 Series,2.0 330E M SPORT PHEV 4d 289 BHP Saloon,"21,290",2019,Automatic,8.8 mpg,Other,2019,1998cc,"43,277 miles",Other,Automatic,BLUE,Saloon,8.8 mpg
+/ad/30731276,BMW 4 Series,2.0 420I M SPORT GRAN COUPE 4d AUTO 181 BHP Saloon,"22,308",2019,Automatic,48.7 mpg,Petrol,2019,1998cc,"44,300 miles",Petrol,Automatic,BLACK,Saloon,48.7 mpg
+/ad/29939027,BMW 4 Series,3.0 430D M SPORT 2d 255 BHP Convertible,"21,990",2017,Automatic,48.7 mpg,Diesel,2017,2993cc,"45,000 miles",Diesel,Automatic,BLUE,Convertible,48.7 mpg
+/ad/30745939,BMW 5 Series,DIESEL SALOON Saloon,"21,950",2018,Automatic,65.7 mpg,Diesel,2018,1995cc,"46,000 miles",Diesel,Automatic,White,Saloon,65.7 mpg
+/ad/30860932,BMW 4 Series,420d [190] M Sport 5dr Auto [Professional Media] Coupe,"20,950",2019,Automatic,65.7 mpg,Diesel,2019,1995cc,"49,002 miles",Diesel,Automatic,Snapper Rocks Blue,Coupe,65.7 mpg
+/ad/29625415,BMW X2,2.0 SDRIVE18D SE 5d 148 BHP Hatchback,"20,399",2019,Automatic,52.3 mpg,Diesel,2019,1995cc,"50,412 miles",Diesel,Automatic,ORANGE,Hatchback,52.3 mpg
+/ad/28672381,BMW 4 Series,2.0 420D M SPORT GRAN Coupe 4d 188 BHP Coupe,"21,250",2019,Automatic,65.7 mpg,Diesel,2019,1995cc,"52,187 miles",Diesel,Automatic,Blue,Coupe,65.7 mpg
+/ad/30874303,BMW 3 Series,2.0 320I M SPORT 4d AUTO 181 BHP Saloon,"20,990",2020,Automatic,42.2 mpg,Petrol,2020,1998cc,"52,200 miles",Petrol,Automatic,BLACK,Saloon,42.2 mpg
+/ad/30269119,BMW 5 Series,2.0 520D XDRIVE M SPORT 4d AUTO 188 BHP Saloon,"21,495",2017,Automatic,60.1 mpg,Diesel,2017,1995cc,"52,318 miles",Diesel,Automatic,BLACK,Saloon,60.1 mpg
+/ad/30175999,BMW 4 Series,2.0 420D M SPORT 2d 188 BHP Convertible,"21,990",2018,Automatic,60.1 mpg,Diesel,2018,1995cc,"52,459 miles",Diesel,Automatic,WHITE,Convertible,60.1 mpg
+/ad/30626533,BMW 5 Series,2.0 520D SE MHEV 4d AUTO 188 BHP Saloon,"21,588",2019,Automatic,49.6 mpg,Other,2019,1995cc,"52,800 miles",Other,Automatic,BLUE,Saloon,49.6 mpg
+/ad/30898569,BMW 3 Series,SALOON SPECIAL EDITION Saloon,"21,995",2018,Automatic,51.4 mpg,Diesel,2018,2993cc,"53,000 miles",Diesel,Automatic,Grey,Saloon,51.4 mpg
+/ad/29122013,BMW 3 Series,318d M Sport 4dr Saloon,"20,550",2019,Manual,64.2 mpg,Diesel,2019,2000cc,"53,119 miles",Diesel,Manual,Blue,Saloon,64.2 mpg
+/ad/30473276,BMW X4,2.0 XDRIVE20D M SPORT 4d 188 BHP Coupe,"20,699",2017,Automatic,54.3 mpg,Diesel,2017,1995cc,"53,183 miles",Diesel,Automatic,GREY,Coupe,54.3 mpg
+/ad/28672381,BMW 4 Series,2.0 420D M SPORT GRAN Coupe 4d 188 BHP Coupe,"21,250",2019,Automatic,65.7 mpg,Diesel,2019,1995cc,"52,187 miles",Diesel,Automatic,Blue,Coupe,65.7 mpg
+/ad/30874303,BMW 3 Series,2.0 320I M SPORT 4d AUTO 181 BHP Saloon,"20,990",2020,Automatic,42.2 mpg,Petrol,2020,1998cc,"52,200 miles",Petrol,Automatic,BLACK,Saloon,42.2 mpg
+/ad/30269119,BMW 5 Series,2.0 520D XDRIVE M SPORT 4d AUTO 188 BHP Saloon,"21,495",2017,Automatic,60.1 mpg,Diesel,2017,1995cc,"52,318 miles",Diesel,Automatic,BLACK,Saloon,60.1 mpg
+/ad/30175999,BMW 4 Series,2.0 420D M SPORT 2d 188 BHP Convertible,"21,990",2018,Automatic,60.1 mpg,Diesel,2018,1995cc,"52,459 miles",Diesel,Automatic,WHITE,Convertible,60.1 mpg
+/ad/30626533,BMW 5 Series,2.0 520D SE MHEV 4d AUTO 188 BHP Saloon,"21,588",2019,Automatic,49.6 mpg,Other,2019,1995cc,"52,800 miles",Other,Automatic,BLUE,Saloon,49.6 mpg
+/ad/30898569,BMW 3 Series,SALOON SPECIAL EDITION Saloon,"21,995",2018,Automatic,51.4 mpg,Diesel,2018,2993cc,"53,000 miles",Diesel,Automatic,Grey,Saloon,51.4 mpg
+/ad/29122013,BMW 3 Series,318d M Sport 4dr Saloon,"20,550",2019,Manual,64.2 mpg,Diesel,2019,2000cc,"53,119 miles",Diesel,Manual,Blue,Saloon,64.2 mpg
+/ad/30473276,BMW X4,2.0 XDRIVE20D M SPORT 4d 188 BHP Coupe,"20,699",2017,Automatic,54.3 mpg,Diesel,2017,1995cc,"53,183 miles",Diesel,Automatic,GREY,Coupe,54.3 mpg
+/ad/30738896,BMW 5 Series,520d M Sport Saloon,"21,950",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"55,000 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30620013,BMW 1 Series,2.0 118d M Sport Hatchback 5dr Diesel Manual Euro 6 (s/s) (150 ps) Hatchback,"21,260",2020,Manual,53.3 mpg,Diesel,2020,1995cc,"55,487 miles",Diesel,Manual,GREY,Hatchback,53.3 mpg
+/ad/30379038,BMW 5 Series,530e M Sport 4dr Auto Saloon,"20,750",2018,Automatic,156.9 mpg,Other,2018,2000cc,"60,000 miles",Other,Automatic,Blue,Saloon,156.9 mpg
+/ad/29845001,BMW 3 Series,SALOON SPECIAL EDITION Saloon,"22,495",2018,Automatic,51.4 mpg,Diesel,2018,2993cc,"60,000 miles",Diesel,Automatic,Blue,Saloon,51.4 mpg
+/ad/30754616,BMW 3 Series,SALOON Saloon,"21,990",2020,Automatic,8.8 mpg,Other,2020,1998cc,"60,671 miles",Other,Automatic,Blue,Saloon,8.8 mpg
+/ad/30865053,BMW X3,3 2.0 XDRIVE20D XLINE 5d 188 BHP 4X4 XLINE,"21,995",2018,Automatic,54.3 mpg,Diesel,2018,1995cc,"65,837 miles",Diesel,Automatic,Grey,Estate,54.3 mpg
+/ad/29675073,BMW 4 Series,440i M Sport 2dr Auto [Professional Media] Coupe,"21,100",2018,Automatic,41.5 mpg,Petrol,2018,2998cc,"66,143 miles",Petrol,Automatic,White,Coupe,41.5 mpg
+/ad/30774771,BMW 5 Series,2.0 520D SE 4d 188 BHP Saloon,"21,240",2019,Automatic,52.3 mpg,Diesel,2019,1995cc,"66,363 miles",Diesel,Automatic,WHITE,Saloon,52.3 mpg
+/ad/30813071,BMW 5 Series,2.0 520d M Sport Saloon Saloon,"20,650",2018,Automatic,68.9 mpg,Diesel,2018,1995cc,"69,000 miles",Diesel,Automatic,Black,Saloon,68.9 mpg
+/ad/30782120,BMW 3 Series,2.0 330E SPORT PRO 4d 289 BHP Leather Heated Seats,"21,600",2020,Automatic,8.8 mpg,Other,2020,1998cc,"71,385 miles",Other,Automatic,BLACK,Saloon,8.8 mpg
+/ad/30780542,BMW 5 Series,DIESEL SALOON Saloon,"20,495",2018,Automatic,68.9 mpg,Diesel,2018,1995cc,"78,000 miles",Diesel,Automatic,White,Saloon,68.9 mpg
+/ad/30759242,BMW 5 Series,DIESEL SALOON Saloon,"20,995",2018,Automatic,65.7 mpg,Diesel,2018,1995cc,"78,000 miles",Diesel,Automatic,Blue,Saloon,65.7 mpg
+/ad/30232638,BMW 5 Series,DIESEL SALOON Saloon,"20,750",2017,Automatic,60.1 mpg,Diesel,2017,1995cc,"81,000 miles",Diesel,Automatic,Blue,Saloon,60.1 mpg
+/ad/30550879,BMW 5 Series,DIESEL SALOON Saloon,"20,495",2018,Automatic,60.1 mpg,Diesel,2018,1995cc,"82,000 miles",Diesel,Automatic,Black,Saloon,60.1 mpg
+/ad/30473661,BMW 3 Series,SALOON Saloon,"21,450",2019,Automatic,8.8 mpg,Other,2019,1998cc,"83,000 miles",Other,Automatic,Blue,Saloon,8.8 mpg
+/ad/29964433,BMW 5 Series,DIESEL SALOON Saloon,"20,995",2017,Automatic,53.3 mpg,Diesel,2017,2993cc,"86,000 miles",Diesel,Automatic,Black,Saloon,53.3 mpg
+/ad/30634167,BMW 5 Series,DIESEL SALOON Saloon,"21,995",2020,Automatic,46.3 mpg,Diesel,2020,1995cc,"107,000 miles",Diesel,Automatic,Grey,Saloon,46.3 mpg
+/ad/29997988,BMW X1,1 sDrive 20i M Sport 5dr Step Auto Estate,"21,245",2019,Automatic,39.2 mpg,Petrol,2019,1998cc,"20,843 miles",Petrol,Automatic,White,Estate,39.2 mpg
+/ad/30813632,BMW 5 Series,2.0 520I SE 4d AUTO 181 BHP Saloon,"22,308",2019,Automatic,52.3 mpg,Petrol,2019,1998cc,"41,500 miles",Petrol,Automatic,BLACK,Saloon,52.3 mpg
+/ad/30671362,BMW X2,Series X2,"21,450",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"41,501 miles",Diesel,Automatic,Gold,SUV,58.9 mpg
+/ad/30731276,BMW 4 Series,2.0 420I M SPORT GRAN COUPE 4d AUTO 181 BHP Saloon,"22,308",2019,Automatic,48.7 mpg,Petrol,2019,1998cc,"44,300 miles",Petrol,Automatic,BLACK,Saloon,48.7 mpg
+/ad/30639533,BMW 5 Series,DIESEL SALOON Saloon,"21,995",2018,Automatic,65.7 mpg,Diesel,2018,1995cc,"47,000 miles",Diesel,Automatic,Alpine White,Saloon,65.7 mpg
+/ad/30898664,BMW 5 Series,2.0 520D M SPORT 4d 188 BHP Saloon,"20,900",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"48,000 miles",Diesel,Automatic,Blue,Saloon,49.6 mpg
+/ad/30901532,BMW 3 Series,TOURING SPECIAL EDITION Estate,"20,590",2019,Automatic,62.8 mpg,Diesel,2019,1995cc,"54,000 miles",Diesel,Automatic,Estoril Blue,Estate,62.8 mpg
+/ad/30948857,BMW 5 Series,DIESEL SALOON Saloon,"22,495",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"56,000 miles",Diesel,Automatic,Grey,Saloon,49.6 mpg
+/ad/30813641,BMW 4 Series,2.0 420I M SPORT GRAN COUPE 4d AUTO 181 BHP Saloon,"21,588",2019,Automatic,48.7 mpg,Petrol,2019,1998cc,"58,900 miles",Petrol,Automatic,GREY,Saloon,48.7 mpg
+/ad/30639538,BMW 5 Series,DIESEL SALOON Saloon,"21,995",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"62,000 miles",Diesel,Automatic,Blue,Saloon,49.6 mpg
+/ad/30698966,BMW 6 Series,3.0 630D XDRIVE M SPORT 5d 261 BHP Full leather heated seats Hatchback,"20,950",2018,Automatic,47.9 mpg,Diesel,2018,2993cc,"82,646 miles",Diesel,Automatic,Grey,Hatchback,47.9 mpg
+/ad/30639533,BMW 5 Series,DIESEL SALOON Saloon,"21,995",2018,Automatic,65.7 mpg,Diesel,2018,1995cc,"47,000 miles",Diesel,Automatic,Alpine White,Saloon,65.7 mpg
+/ad/30901532,BMW 3 Series,TOURING SPECIAL EDITION Estate,"20,590",2019,Automatic,62.8 mpg,Diesel,2019,1995cc,"54,000 miles",Diesel,Automatic,Estoril Blue,Estate,62.8 mpg
+/ad/30813641,BMW 4 Series,2.0 420I M SPORT GRAN COUPE 4d AUTO 181 BHP Saloon,"21,588",2019,Automatic,48.7 mpg,Petrol,2019,1998cc,"58,900 miles",Petrol,Automatic,GREY,Saloon,48.7 mpg
+/ad/30639538,BMW 5 Series,DIESEL SALOON Saloon,"21,995",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"62,000 miles",Diesel,Automatic,Blue,Saloon,49.6 mpg
+/ad/30698966,BMW 6 Series,3.0 630D XDRIVE M SPORT 5d 261 BHP Full leather heated seats Hatchback,"20,950",2018,Automatic,47.9 mpg,Diesel,2018,2993cc,"82,646 miles",Diesel,Automatic,Grey,Hatchback,47.9 mpg
+/ad/30904888,BMW 1 Series,Sports Hatch Sport Hatchback,"21,795",,Manual,46.3 mpg,Petrol,0L,"6,000 miles",Petrol,Manual,GREY,Hatchback,46.3 mpg,
+/ad/30542502,BMW 1 Series,1.5 118i M Sport DCT Euro 6 (s/s) 5dr Hatchback,"20,699",2020,Automatic,40.4 mpg,Petrol,2020,1499cc,"9,783 miles",Petrol,Automatic,Black,Hatchback,40.4 mpg
+/ad/30938665,BMW 2 Series,218i [136] M Sport 4dr Coupe,"21,000",2021,Manual,43.5 mpg,Petrol,2021,1.5L,"12,271 miles",Petrol,Manual,White,Coupe,43.5 mpg
+/ad/30887784,BMW X1,1 xDrive 20i xLine 5dr Step Auto SUV,"21,490",2018,Semi-Auto,35.3 mpg,Petrol,2018,2L,"14,899 miles",Petrol,Semiauto,Silver,SUV,35.3 mpg
+/ad/30814849,BMW 4 Series,435i M Sport 2dr [Professional Media] Coupe,"20,500",2015,Manual,34.9 mpg,Petrol,2015,3L,"15,904 miles",Petrol,Manual,Red,Coupe,34.9 mpg
+/ad/30880823,BMW 1 Series,118i M Sport 5dr Step Auto Hatchback,"21,000",2020,Semi-Auto,40.4 mpg,Petrol,2020,1.5L,"20,500 miles",Petrol,Semiauto,Red,Hatchback,40.4 mpg
+/ad/30205236,BMW M2,3.0 M2,"20,995",2015,Automatic,35.8 mpg,Petrol,2015,3L,"23,229 miles",Petrol,Automatic,White,Convertible,35.8 mpg
+/ad/30830128,BMW 3 Series,2.0 318i M Sport Auto Euro 6 (s/s) 4dr Saloon,"21,840",2021,Automatic,41.5 mpg,Petrol,2021,1998cc,"23,920 miles",Petrol,Automatic,Black,Saloon,41.5 mpg
+/ad/30379687,BMW 3 Series,3.0TD (313bhp) 335d xDrive M Sport (s/s) Touring 5d 2993cc Sport Auto,"22,495",2016,Automatic,Tax: n/a,2016,2993cc,"28,000 miles",Diesel,Automatic,Grey,Estate,,
+/ad/30697098,BMW X3,3 xDrive30d M Sport 5dr Step Auto SUV,"21,500",2016,Semi-Auto,47.9 mpg,Diesel,2016,3L,"29,785 miles",Diesel,Semiauto,Grey,SUV,47.9 mpg
+/ad/30934590,BMW X2,xDrive 20d M Sport X 5dr Step Auto SUV,"20,468",2018,Semi-Auto,58.9 mpg,Diesel,2018,2L,"40,285 miles",Diesel,Semiauto,White,SUV,58.9 mpg
+/ad/30512561,BMW 3 Series,330i M Sport 4dr Step Aut NULL,"22,350",,Other,41.5 mpg,Petrol,1998cc,"45,937 miles",Petrol,NULL,White,NULL,41.5 mpg,
+/ad/30868758,BMW 4 Series,3.0 435d M Sport Auto xDrive Euro 6 (s/s) 2dr Coupe,"20,950",2016,Automatic,50.4 mpg,Diesel,2016,3.0l,"52,765 miles",Diesel,Automatic,Black,Coupe,50.4 mpg
+/ad/30604321,BMW X3,xDrive20d M Sport 5dr Step Auto Estate,"20,995",2016,Automatic,54.3 mpg,Diesel,2016,1995cc,"54,000 miles",Diesel,Automatic,Silver,Estate,54.3 mpg
+/ad/30879789,BMW 7 Series,3.0 740Li Saloon 4dr Petrol Auto Euro 6 (s/s) (326 ps) Full Leather,"21,500",2016,Automatic,41.5 mpg,Petrol,2016,2998cc,"54,024 miles",Petrol,Automatic,Blue,Saloon,41.5 mpg
+/ad/30837194,BMW 5 Series,2.0 520d M Sport Touring Auto xDrive Euro 6 (s/s) 5dr Estate,"22,047",2019,Automatic,44.1 mpg,Diesel,2019,1995cc,"59,361 miles",Diesel,Automatic,Black,Estate,44.1 mpg
+/ad/30950350,BMW X5,3.0 40d M Sport SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (313 ps) M Sport Bodykit,"22,300",2014,Automatic,47.1 mpg,Diesel,2014,2993cc,"66,793 miles",Diesel,Automatic,Black,SUV,47.1 mpg
+/ad/29170999,BMW M3,4.0 M3,"21,999",2013,Semi-Auto,25.2 mpg,Petrol,2013,4L,"68,000 miles",Petrol,Semi Automatic,White,Coupe,25.2 mpg
+/ad/30688672,BMW X5,3.0 40d M Sport SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (313 ps) M Sport Bodykit,"21,500",2014,Automatic,47.1 mpg,Diesel,2014,2993cc,"71,807 miles",Diesel,Automatic,Black,SUV,47.1 mpg
+/ad/30893883,BMW 5 Series,3.0 530d M Sport Touring Auto Euro 6 (s/s) 5dr Estate,"20,790",2018,Automatic,56.5 mpg,Diesel,2018,2993cc,"72,673 miles",Diesel,Automatic,White,Estate,56.5 mpg
+/ad/30830835,BMW 7 Series,3.0 730d M Sport Auto xDrive Euro 6 (s/s) 4dr TOP SPEC 7 SERIES BMW Saloon,"22,500",2016,Automatic,54.3 mpg,Diesel,2016,2993cc,"76,000 miles",Diesel,Automatic,Grey,Saloon,54.3 mpg
+/ad/30743636,BMW X5,3.0 XDRIVE30D M SPORT 5d 255 BHP 4X4,"21,970",2015,Automatic,47.1 mpg,Diesel,2015,3L,"84,400 miles",Diesel,Automatic,Grey,4X4,47.1 mpg
+/ad/30843310,BMW X6,3.0 40d SE Auto xDrive Euro 6 (s/s) 5dr 4x4,"20,995",2015,Automatic,45.6 mpg,Diesel,2015,2993cc,"85,032 miles",Diesel,Auto,White,4x4,45.6 mpg
+/ad/30944574,BMW 3 Series,320i SE 4dr Step Auto Saloon,"21,128",2019,Semi-Auto,43.5 mpg,Petrol,2019,2L,"18,854 miles",Petrol,Semiauto,Grey,Saloon,43.5 mpg
+/ad/30879789,BMW 7 Series,3.0 740Li Saloon 4dr Petrol Auto Euro 6 (s/s) (326 ps) Full Leather,"21,500",2016,Automatic,41.5 mpg,Petrol,2016,2998cc,"54,024 miles",Petrol,Automatic,Blue,Saloon,41.5 mpg
+/ad/30950350,BMW X5,3.0 40d M Sport SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (313 ps) M Sport Bodykit,"22,300",2014,Automatic,47.1 mpg,Diesel,2014,2993cc,"66,793 miles",Diesel,Automatic,Black,SUV,47.1 mpg
+/ad/30944574,BMW 3 Series,320i SE 4dr Step Auto Saloon,"21,128",2019,Semi-Auto,43.5 mpg,Petrol,2019,2L,"18,854 miles",Petrol,Semiauto,Grey,Saloon,43.5 mpg
+/ad/30830128,BMW 3 Series,2.0 318i M Sport Auto Euro 6 (s/s) 4dr Saloon,"21,840",2021,Automatic,41.5 mpg,Petrol,2021,1998cc,"23,920 miles",Petrol,Automatic,Black,Saloon,41.5 mpg
+/ad/30837194,BMW 5 Series,2.0 520d M Sport Touring Auto xDrive Euro 6 (s/s) 5dr Estate,"22,047",2019,Automatic,44.1 mpg,Diesel,2019,1995cc,"59,361 miles",Diesel,Automatic,Black,Estate,44.1 mpg
+/ad/30893883,BMW 5 Series,3.0 530d M Sport Touring Auto Euro 6 (s/s) 5dr Estate,"20,790",2018,Automatic,56.5 mpg,Diesel,2018,2993cc,"72,673 miles",Diesel,Automatic,White,Estate,56.5 mpg
+/ad/30743636,BMW X5,3.0 XDRIVE30D M SPORT 5d 255 BHP 4X4,"21,970",2015,Automatic,47.1 mpg,Diesel,2015,3L,"84,400 miles",Diesel,Automatic,Grey,4X4,47.1 mpg
+/ad/30960090,BMW 7 Series,730d M SPORT Saloon,"21,950",2016,Automatic,57.6 mpg,Diesel,2016,3L,"70,000 miles",Diesel,Automatic,MINERAL WHITE METALLIC,Saloon,57.6 mpg
+/ad/30496003,BMW X1,xDrive 20i xLine 5dr Step Auto Estate,"20,499",2017,Automatic,44.8 mpg,Petrol,2017,1998cc,"7,800 miles",Petrol,Automatic,White,Estate,44.8 mpg
+/ad/30625864,BMW X2,2.0 XDRIVE18D SE 5d 148 BHP Hatchback,"22,188",2019,Manual,50.4 mpg,Diesel,2019,1995cc,"8,000 miles",Diesel,Manual,BLACK,Hatchback,50.4 mpg
+/ad/30929334,BMW X1,1 sDrive 20i SE 5dr Step Auto Estate,"21,995",2020,Automatic,50.4 mpg,Petrol,2020,1998cc,"9,850 miles",Petrol,Automatic,Grey,Estate,50.4 mpg
+/ad/27427849,BMW 1 Series,1.5 116D SPORT 5d 115 BHP Hatchback,"21,945",2021,Manual,57.7 mpg,Diesel,2021,1496cc,"9,901 miles",Diesel,Manual,GREY,Hatchback,57.7 mpg
+/ad/30325010,BMW X1,1 2.0 XDRIVE20I XLINE 5d 189 BHP Estate,"21,995",2016,Automatic,44.8 mpg,Petrol,2016,1998cc,"10,700 miles",Petrol,Automatic,SILVER,Estate,44.8 mpg
+/ad/30459100,BMW X1,1 sDrive 18i SE 5dr Estate,"20,699",2020,Manual,54.3 mpg,Petrol,2020,1500cc,"11,199 miles",Petrol,Manual,Grey,Estate,54.3 mpg
+/ad/30166773,BMW 1 Series,3.0 M135I 5d 322 BHP Hatchback,"21,995",2015,Automatic,37.7 mpg,Petrol,2015,2979cc,"11,515 miles",Petrol,Automatic,BLACK,Hatchback,37.7 mpg
+/ad/30932473,BMW 3 Series,2.0 320D XDRIVE M SPORT SHADOW EDITION 4d 188 BHP Saloon,"21,000",2018,Automatic,60.1 mpg,Diesel,2018,1995cc,"13,000 miles",Diesel,Automatic,WHITE,Saloon,60.1 mpg
+/ad/30443757,BMW X2,2.0 SDRIVE20I SE 5d 190 BHP Hatchback,"21,000",2020,Automatic,40.4 mpg,Petrol,2020,1998cc,"13,900 miles",Petrol,Automatic,BLACK,Hatchback,40.4 mpg
+/ad/28552266,BMW 2 Series,2.0 230I M SPORT 2d 248 BHP Coupe,"20,990",2018,Automatic,47.9 mpg,Petrol,2018,1998cc,"14,000 miles",Petrol,Automatic,BLUE,Coupe,47.9 mpg
+/ad/30599038,BMW X2,2.0 SDRIVE20I M SPORT X 5d 190 BHP Hatchback,"21,950",2019,Automatic,39.8 mpg,Petrol,2019,1998cc,"14,950 miles",Petrol,Automatic,GREY,Hatchback,39.8 mpg
+/ad/27993011,BMW 3 Series,3 Series,"22,498",2018,Automatic,54.3 mpg,Petrol,2018,1499cc,"15,300 miles",Petrol,Automatic,BLACK,Saloon,54.3 mpg
+/ad/30494815,BMW 2 Series,Hatchback,"22,500",2019,Automatic,113.0 mpg,Other,2019,1499cc,"15,670 miles",Other,Automatic,Grey,Hatchback,113 mpg
+/ad/30704770,BMW 3 Series,2.0 330E SE PRO 4d 289 BHP Saloon,"21,995",2019,Automatic,8.8 mpg,Other,2019,1998cc,"15,675 miles",Other,Automatic,BLUE,Saloon,8.8 mpg
+/ad/30813291,BMW X1,1 2.0 X1,"20,995",2018,Automatic,37.7 mpg,Petrol,2018,1998cc,"15,987 miles",Petrol,Automatic,Orange,SUV,37.7 mpg
+/ad/30807857,BMW 1 Series,1.5 118I M SPORT 5d 139 BHP Hatchback,"22,495",2020,Manual,41.5 mpg,Petrol,2020,1499cc,"16,201 miles",Petrol,Manual,WHITE,Hatchback,41.5 mpg
+/ad/30896813,BMW 1 Series,118i M Sport 5dr Hatchback,"21,995",2020,Manual,41.5 mpg,Petrol,2020,1499cc,"16,250 miles",Petrol,Manual,Blue,Hatchback,41.5 mpg
+/ad/27992789,BMW 1 Series,1 Series,"21,998",2018,Automatic,48.7 mpg,Diesel,2018,1995cc,"16,617 miles",Diesel,Automatic,BLACK,Hatchback,48.7 mpg
+/ad/28016348,BMW 5 Series,5 Series,"20,498",2016,Automatic,62.8 mpg,Diesel,2016,1995cc,"16,924 miles",Diesel,Automatic,BLUE,Saloon,62.8 mpg
+/ad/30866221,BMW 5 Series,2.0 520d M Sport Auto Euro 6 (s/s) 4dr Saloon,"22,494",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"17,000 miles",Diesel,Automatic,Black,Saloon,49.6 mpg
+/ad/30139500,BMW X1,1 2.0 SDRIVE20I XLINE 5d 190 BHP Estate,"21,995",2018,Automatic,37.7 mpg,Petrol,2018,1998cc,"17,650 miles",Petrol,Automatic,GREY,Estate,37.7 mpg
+/ad/30713981,BMW X2,2.0 SDRIVE20I M SPORT 5d 190 BHP Hatchback,"21,500",2018,Automatic,39.2 mpg,Petrol,2018,1998cc,"19,000 miles",Petrol,Automatic,GREY,Hatchback,39.2 mpg
+/ad/27395077,BMW 1 Series,1 Series,"22,298",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"19,305 miles",Petrol,Automatic,BLUE,Hatchback,39.8 mpg
+/ad/29754179,BMW 2 Series,218I M SPORT GRAN COUPE Saloon,"21,550",2021,Manual,45.6 mpg,Petrol,2021,1499cc,"19,500 miles",Petrol,Manual,Black,Saloon,45.6 mpg
+/ad/29956397,BMW 2 Series,218d M Sport 2dr Step Auto [Nav] Coupe,"20,990",2019,Automatic,67.3 mpg,Diesel,2019,1995cc,"19,629 miles",Diesel,Automatic,Grey,Coupe,67.3 mpg
+/ad/30798913,BMW X1,1 2.0 SDRIVE20I XLINE 5d 190 BHP Estate,"20,999",2018,Automatic,37.7 mpg,Petrol,2018,1998cc,"19,656 miles",Petrol,Automatic,ORANGE,Estate,37.7 mpg
+/ad/30476623,BMW 4 Series,3.0 430d M Sport Convertible Convertible,"22,480",2017,Automatic,51.4 mpg,Diesel,2017,2993cc,"19,800 miles",Diesel,Automatic,Blue,Convertible,51.4 mpg
+/ad/27380130,BMW X1,X1,"21,998",2018,Automatic,60.1 mpg,Diesel,2018,1995cc,"20,228 miles",Diesel,Automatic,SILVER,SUV,60.1 mpg
+/ad/28016096,BMW 1 Series,1 Series,"20,698",2017,Manual,36.2 mpg,Petrol,2017,2998cc,"20,235 miles",Petrol,Manual,WHITE,Hatchback,36.2 mpg
+/ad/29919851,BMW M2,3.0 M2,"21,995",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"21,000 miles",Petrol,Automatic,GREY,Coupe,39.8 mpg
+/ad/30531178,BMW X1,1 2.0 SDRIVE20I XLINE 5d 190 BHP Estate,"20,995",2018,Automatic,37.7 mpg,Petrol,2018,1998cc,"22,000 miles",Petrol,Automatic,WHITE,Estate,37.7 mpg
+/ad/30542286,BMW 2 Series,Coupe,"21,995",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"22,244 miles",Petrol,Automatic,Mineral White Metallic,Coupe,39.8 mpg
+/ad/27993034,BMW 3 Series,3 Series,"20,698",2018,Automatic,64.2 mpg,Diesel,2018,1995cc,"22,640 miles",Diesel,Automatic,WHITE,Saloon,64.2 mpg
+/ad/27992651,BMW 3 Series,3 Series,"22,298",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"22,670 miles",Petrol,Automatic,BLUE,Saloon,48.7 mpg
+/ad/30327514,BMW 3 Series,3.0 330D M SPORT 4d 255 BHP Saloon,"20,990",2018,Automatic,56.5 mpg,Diesel,2018,2993cc,"22,812 miles",Diesel,Automatic,GREY,Saloon,56.5 mpg
+/ad/29945928,BMW 4 Series,2.0 430I M SPORT 2d 248 BHP Convertible,"21,995",2018,Automatic,44.8 mpg,Petrol,2018,1998cc,"22,128 miles",Petrol,Automatic,SILVER,Convertible,44.8 mpg
+/ad/30542286,BMW 2 Series,Coupe,"21,995",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"22,244 miles",Petrol,Automatic,Mineral White Metallic,Coupe,39.8 mpg
+/ad/27993034,BMW 3 Series,3 Series,"20,698",2018,Automatic,64.2 mpg,Diesel,2018,1995cc,"22,640 miles",Diesel,Automatic,WHITE,Saloon,64.2 mpg
+/ad/27992651,BMW 3 Series,3 Series,"22,298",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"22,670 miles",Petrol,Automatic,BLUE,Saloon,48.7 mpg
+/ad/30327514,BMW 3 Series,3.0 330D M SPORT 4d 255 BHP Saloon,"20,990",2018,Automatic,56.5 mpg,Diesel,2018,2993cc,"22,812 miles",Diesel,Automatic,GREY,Saloon,56.5 mpg
+/ad/30731938,BMW 2 Series,3.0 M240I 2d AUTO 335 BHP Coupe,"22,500",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"22,900 miles",Petrol,Automatic,GREY,Coupe,39.8 mpg
+/ad/27389165,BMW X1,X1,"20,998",2018,Automatic,60.1 mpg,Diesel,2018,1995cc,"23,677 miles",Diesel,Automatic,ORANGE,SUV,60.1 mpg
+/ad/30775633,BMW 2 Series,1.5 225XE M SPORT ACTIVE TOURER 5d 134 BHP Hatchback,"21,495",2021,Automatic,113.0 mpg,Other,2021,1499cc,"23,954 miles",Other,Automatic,WHITE,Hatchback,113 mpg
+/ad/30102346,BMW 2 Series,218i [136] Luxury 5dr Step Auto Estate,"21,995",2019,Automatic,39.2 mpg,Petrol,2019,1500cc,"24,000 miles",Petrol,Automatic,Red,Estate,39.2 mpg
+/ad/28016397,BMW 4 Series,4 Series,"20,998",2017,Automatic,65.7 mpg,Diesel,2017,1995cc,"25,195 miles",Diesel,Automatic,BLACK,Coupe,65.7 mpg
+/ad/28016370,BMW 1 Series,1 Series,"20,998",2019,Automatic,47.9 mpg,Petrol,2019,0L,"25,318 miles",Petrol,Automatic,BLUE,Hatchback,47.9 mpg
+/ad/28684709,BMW 4 Series,420I M SPORT GRAN COUPE Coupe,"20,500",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"25,710 miles",Petrol,Automatic,Grey,Coupe,48.7 mpg
+/ad/28016580,BMW 3 Series,3 Series,"21,498",2018,Automatic,64.2 mpg,Diesel,2018,1995cc,"25,775 miles",Diesel,Automatic,WHITE,Saloon,64.2 mpg
+/ad/29936581,BMW X2,2.0 XDRIVE20D M SPORT 5d 188 BHP Hatchback,"21,450",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"26,000 miles",Diesel,Automatic,WHITE,Hatchback,58.9 mpg
+/ad/29824076,BMW X1,1 sDrive 20i SE 5dr Step Auto Estate,"21,000",2020,Automatic,50.4 mpg,Petrol,2020,2000cc,"27,000 miles",Petrol,Automatic,Blue,Estate,50.4 mpg
+/ad/30723465,BMW 5 Series,2.0 530e 9.2kWh M Sport Auto Euro 6 (s/s) 4dr Saloon,"21,991",2018,Automatic,156.9 mpg,Petrol,2018,1998cc,"27,726 miles",Petrol,Automatic,Black,Saloon,156.9 mpg
+/ad/30550067,BMW 1 Series,3.0 M140i 5-door Hatchback,"21,495",2017,Automatic,Tax: n/a,2017,2998cc,"28,000 miles",Petrol,Automatic,White,Hatchback,,
+/ad/30461905,BMW 1 Series,1.5 118I M SPORT 5d 135 BHP Hatchback,"21,995",2021,Manual,44.1 mpg,Petrol,2021,1499cc,"28,000 miles",Petrol,Manual,GREY,Hatchback,44.1 mpg
+/ad/29936581,BMW X2,2.0 XDRIVE20D M SPORT 5d 188 BHP Hatchback,"21,450",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"26,000 miles",Diesel,Automatic,WHITE,Hatchback,58.9 mpg
+/ad/29824076,BMW X1,1 sDrive 20i SE 5dr Step Auto Estate,"21,000",2020,Automatic,50.4 mpg,Petrol,2020,2000cc,"27,000 miles",Petrol,Automatic,Blue,Estate,50.4 mpg
+/ad/30723465,BMW 5 Series,2.0 530e 9.2kWh M Sport Auto Euro 6 (s/s) 4dr Saloon,"21,991",2018,Automatic,156.9 mpg,Petrol,2018,1998cc,"27,726 miles",Petrol,Automatic,Black,Saloon,156.9 mpg
+/ad/30550067,BMW 1 Series,3.0 M140i 5-door Hatchback,"21,495",2017,Automatic,Tax: n/a,2017,2998cc,"28,000 miles",Petrol,Automatic,White,Hatchback,,
+/ad/30461905,BMW 1 Series,1.5 118I M SPORT 5d 135 BHP Hatchback,"21,995",2021,Manual,44.1 mpg,Petrol,2021,1499cc,"28,000 miles",Petrol,Manual,GREY,Hatchback,44.1 mpg
+/ad/30048190,BMW X1,Estate,"20,750",2018,Automatic,60.1 mpg,Diesel,2018,1995cc,"28,100 miles",Diesel,Automatic,Black,Estate,60.1 mpg
+/ad/30707367,BMW 1 Series,3.0 M140I 5d 335 BHP Hatchback,"21,750",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"28,675 miles",Petrol,Automatic,GREY,Hatchback,39.8 mpg
+/ad/30423029,BMW 1 Series,118d M Sport 5dr Hatchback,"21,750",2019,Manual,53.3 mpg,Diesel,2019,1995cc,"28,900 miles",Diesel,Manual,Grey,Hatchback,53.3 mpg
+/ad/30496001,BMW X1,sDrive 20i SE 5dr Step Auto Estate,"21,799",2020,Automatic,50.4 mpg,Petrol,2020,1998cc,"28,900 miles",Petrol,Automatic,Black,Estate,50.4 mpg
+/ad/30642005,BMW 2 Series,1.5 M Sport Saloon 4dr Petrol Manual Euro 6 (s/s) (140 ps) Saloon,"20,000",2020,Manual,43.5 mpg,Petrol,2020,1499cc,"29,000 miles",Petrol,Manual,Red,Saloon,43.5 mpg
+/ad/30570121,BMW 1 Series,1.5 118I M SPORT 5d 139 BHP Hatchback,"20,450",2020,Automatic,40.4 mpg,Petrol,2020,1499cc,"29,000 miles",Petrol,Automatic,WHITE,Hatchback,40.4 mpg
+/ad/30336735,BMW 4 Series,420D M SPORT Coupe,"20,495",2018,Automatic,65.7 mpg,Diesel,2018,1995cc,"29,000 miles",Diesel,Automatic,Beige,Coupe,65.7 mpg
+/ad/30586480,BMW 4 Series,3.0 430D XDRIVE M SPORT 2d 255 BHP Coupe,"21,495",2019,Automatic,52.3 mpg,Diesel,2019,2993cc,"29,000 miles",Diesel,Automatic,BLUE,Coupe,52.3 mpg
+/ad/26977564,BMW 4 Series,Convertible,"21,995",2016,Automatic,51.4 mpg,Diesel,2016,3000cc,"29,000 miles",Diesel,Automatic,Black,Convertible,51.4 mpg
+/ad/30724358,BMW 3 Series,2.0 320d M Sport Shadow Edition Auto Euro 6 (s/s) 4dr Saloon,"21,995",2018,Automatic,64.2 mpg,Diesel,2018,1995cc,"29,000 miles",Diesel,Automatic,Black,Saloon,64.2 mpg
+/ad/30299369,BMW X1,xDrive 20i xLine 5dr Step Auto Estate,"21,990",2017,Automatic,44.8 mpg,Petrol,2017,1998cc,"29,419 miles",Petrol,Automatic,Blue,Estate,44.8 mpg
+/ad/30411621,BMW 1 Series,2.0 120D M SPORT SHADOW EDITION 5d 188 BHP Hatchback,"20,450",2019,Automatic,65.7 mpg,Diesel,2019,1995cc,"29,500 miles",Diesel,Automatic,BLUE,Hatchback,65.7 mpg
+/ad/30865569,BMW 5 Series,2.0 520i GPF M Sport Auto Euro 6 (s/s) 4dr Saloon,"20,000",2018,Automatic,50.4 mpg,Petrol,2018,1998cc,"29,990 miles",Petrol,Automatic,Blue,Saloon,50.4 mpg
+/ad/30538635,BMW 4 Series,2.0 420I M SPORT 2d 181 BHP Convertible,"21,489",2018,Automatic,45.6 mpg,Petrol,2018,1998cc,"30,000 miles",Petrol,Automatic,SILVER,Convertible,45.6 mpg
+/ad/30807750,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"22,489",2019,Automatic,39.8 mpg,Petrol,2019,2998cc,"30,000 miles",Petrol,Automatic,BLACK,Hatchback,39.8 mpg
+/ad/30536914,BMW 4 Series,2.0 420D XDRIVE M SPORT GRAN COUPE 4d 188 BHP Coupe,"21,495",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"30,380 miles",Diesel,Automatic,SILVER,Coupe,58.9 mpg
+/ad/29852598,BMW 3 Series,320d M Sport 5dr Step Auto Estate,"21,690",2017,Automatic,62.8 mpg,Diesel,2017,1995cc,"30,464 miles",Diesel,Automatic,Black,Estate,62.8 mpg
+/ad/27464779,BMW 5 Series,5 Series,"21,298",2016,Automatic,51.4 mpg,Diesel,2016,1995cc,"30,515 miles",Diesel,Automatic,GREY,Hatchback,51.4 mpg
+/ad/27992774,BMW 1 Series,1 Series,"21,498",2019,Automatic,68.9 mpg,Diesel,2019,1995cc,"30,682 miles",Diesel,Automatic,BLACK,Hatchback,68.9 mpg
+/ad/30780930,BMW 2 Series,2.0 220d M Sport Auto xDrive Euro 6 (s/s) 5dr MPV,"21,450",2020,Automatic,46.3 mpg,Diesel,2020,1995cc,"30,896 miles",Diesel,Automatic,White,MPV,46.3 mpg
+/ad/27988996,BMW 3 Series,330D XDRIVE M SPORT Saloon,"20,450",2017,Automatic,53.3 mpg,Diesel,2017,2993cc,"31,000 miles",Diesel,Automatic,Blue,Saloon,53.3 mpg
+/ad/30647938,BMW 2 Series,3.0 M240I 2d 335 BHP Coupe,"21,495",2019,Automatic,39.8 mpg,Petrol,2019,2998cc,"31,500 miles",Petrol,Automatic,BLACK,Coupe,39.8 mpg
+/ad/30692105,BMW 5 Series,2.0 530e 9.2kWh SE Auto Euro 6 (s/s) 4dr Saloon,"20,995",2019,Automatic,156.9 mpg,Petrol,2019,1998cc,"31,546 miles",Petrol,Automatic,White,Saloon,156.9 mpg
+/ad/30249144,BMW 5 Series,3.0 530D M SPORT TOURING 5d 255 BHP Estate,"21,995",2017,Automatic,51.4 mpg,Diesel,2017,2993cc,"31,558 miles",Diesel,Automatic,SILVER,Estate,51.4 mpg
+/ad/29784183,BMW 4 Series,435d xDrive M Sport 5dr Auto [Professional Media] Coupe,"20,995",2017,Automatic,49.6 mpg,Diesel,2017,2993cc,"31,581 miles",Diesel,Automatic,Black,Coupe,49.6 mpg
+/ad/30261303,BMW 4 Series,3.0 440I M SPORT 2d 322 BHP WITH ONLY 31,"22,499",2016,Automatic,39.2 mpg,Petrol,2016,2998cc,"31,900 miles",Petrol,Automatic,SILVER,Convertible,39.2 mpg
+/ad/30528660,BMW 6 Series,3.0 640D M SPORT GRAN COUPE 4d 309 BHP Coupe,"21,695",2016,Automatic,49.6 mpg,Diesel,2016,2993cc,"32,000 miles",Diesel,Automatic,GREY,Coupe,49.6 mpg
+/ad/30931877,BMW 5 Series,2.0 520d M Sport Auto Euro 6 (s/s) 4dr Saloon,"21,995",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"32,000 miles",Diesel,Automatic,Grey,Saloon,49.6 mpg
+/ad/30949184,BMW 4 Series,3.0 435d M Sport Hatchback 5dr Diesel Auto xDrive Euro 6 (s/s) (313 ps) Hatchback,"22,495",2016,Automatic,49.6 mpg,Diesel,2016,2993cc,"32,000 miles",Diesel,Automatic,Blue,Hatchback,49.6 mpg
+/ad/29991189,BMW 5 Series,Saloon,"22,000",2019,Automatic,50.4 mpg,Petrol,2019,1998cc,"32,105 miles",Petrol,Automatic,Black,Saloon,50.4 mpg
+/ad/30468391,BMW 3 Series,320d [190] M Sport 5dr Step Auto [Business Media] Hatchback,"20,990",2019,Automatic,62.8 mpg,Diesel,2019,1995cc,"32,200 miles",Diesel,Automatic,White,Hatchback,62.8 mpg
+/ad/29997599,BMW X2,2.0 XDRIVE20D M SPORT X 5d 188 BHP Hatchback,"22,396",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"32,372 miles",Diesel,Automatic,GOLD,Hatchback,58.9 mpg
+/ad/27538329,BMW 3 Series,3 Series,"21,698",2018,Automatic,51.4 mpg,Petrol,2018,1998cc,"32,483 miles",Petrol,Automatic,SILVER,Saloon,51.4 mpg
+/ad/27993412,BMW 3 Series,3 Series,"20,998",2017,Automatic,51.4 mpg,Petrol,2017,1998cc,"32,600 miles",Petrol,Automatic,GREY,Saloon,51.4 mpg
+/ad/30172676,BMW X2,2.0 XDRIVE18D M SPORT X 5d 148 BHP Hatchback,"20,999",2018,Manual,50.4 mpg,Diesel,2018,1995cc,"33,000 miles",Diesel,Manual,BLUE,Hatchback,50.4 mpg
+/ad/30712369,BMW 4 Series,2.0 420D M SPORT GRAN COUPE 4d 188 BHP Coupe,"21,500",2019,Automatic,65.7 mpg,Diesel,2019,1995cc,"33,152 miles",Diesel,Automatic,BLUE,Coupe,65.7 mpg
+/ad/28016350,BMW 4 Series,4 Series,"20,698",2017,Automatic,58.9 mpg,Diesel,2017,1995cc,"33,334 miles",Diesel,Automatic,SILVER,Coupe,58.9 mpg
+/ad/30107531,BMW 3 Series,2.0 320I XDRIVE M SPORT TOURING 5DR AUTOMATIC Estate,"20,994",2019,Automatic,41.5 mpg,Petrol,2019,1998cc,"33,344 miles",Petrol,Automatic,White,Estate,41.5 mpg
+/ad/27992770,BMW 3 Series,3 Series,"20,998",2017,Automatic,64.2 mpg,Diesel,2017,1995cc,"33,620 miles",Diesel,Automatic,GREY,Saloon,64.2 mpg
+/ad/29425829,BMW 5 Series,2.0 530E SE 4d 249 BHP Saloon,"20,995",2017,Automatic,156.9 mpg,Other,2017,1998cc,"33,665 miles",Other,Automatic,WHITE,Saloon,156.9 mpg
+/ad/30936266,BMW 5 Series,520i M Sport 4dr Auto Saloon,"22,195",2020,Automatic,50.4 mpg,Petrol,2020,1998cc,"33,754 miles",Petrol,Automatic,BLUE,Saloon,50.4 mpg
+/ad/30166070,BMW 4 Series,2.0 420I M SPORT GRAN COUPE 4d 181 BHP Coupe,"20,994",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"34,000 miles",Petrol,Automatic,SILVER,Coupe,48.7 mpg
+/ad/30479949,BMW 4 Series,420d [190] M Sport 2dr Auto [Professional Media] Other,"20,975",2017,Automatic,60.1 mpg,Diesel,2017,2000cc,"35,000 miles",Diesel,Automatic,Blue,Other,60.1 mpg
+/ad/29933880,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"22,495",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"35,000 miles",Petrol,Automatic,WHITE,Hatchback,39.8 mpg
+/ad/30453449,BMW X2,sDrive 20i Sport 5dr Step Auto Hatchback,"20,990",2019,Automatic,38.7 mpg,Petrol,2019,1998cc,"35,283 miles",Petrol,Automatic,Blue,Hatchback,38.7 mpg
+/ad/29991659,BMW 4 Series,2.0 430I M SPORT GRAN COUPE 4d 248 BHP Coupe,"21,950",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"35,293 miles",Petrol,Automatic,BLACK,Coupe,48.7 mpg
+/ad/30061721,BMW 1 Series,1.5 118I M SPORT 5d 139 BHP Hatchback,"22,495",2020,Automatic,40.4 mpg,Petrol,2020,1499cc,"35,400 miles",Petrol,Automatic,GREY,Hatchback,40.4 mpg
+/ad/27992944,BMW 4 Series,4 Series,"21,498",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"36,180 miles",Petrol,Automatic,SILVER,Coupe,48.7 mpg
+/ad/30921097,BMW X2,xDrive 20d M Sport X 5dr Step Auto Hatchback,"20,995",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"36,400 miles",Diesel,Automatic,Blue,Hatchback,58.9 mpg
+/ad/30535225,BMW X2,2.0 XDRIVE20D M SPORT 5d 188 BHP Hatchback,"20,495",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"36,480 miles",Diesel,Automatic,BLUE,Hatchback,58.9 mpg
+/ad/30730689,BMW 1 Series,3.0 M140i Shadow Edition 5-door Hatchback,"21,495",2018,Automatic,32.5 mpg,Petrol,2018,2998cc,"36,993 miles",Petrol,Automatic,Blue,Hatchback,32.5 mpg
+/ad/28091546,BMW X2,2.0 XDRIVE20D M SPORT X 5d 188 BHP Hatchback,"20,995",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"37,000 miles",Diesel,Automatic,BLUE,Hatchback,58.9 mpg
+/ad/30807183,BMW 1 Series,3.0 M140i Shadow Edition Auto Euro 6 (s/s) 5dr Hatchback,"22,300",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"37,000 miles",Petrol,Automatic,Blue,Hatchback,39.8 mpg
+/ad/27364464,BMW 4 Series,4 Series,"21,998",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"37,927 miles",Petrol,Automatic,BLACK,Coupe,48.7 mpg
+/ad/30533715,BMW 2 Series,M240i 2dr [Nav] Step Auto Coupe,"21,995",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"38,000 miles",Petrol,Automatic,Black,Coupe,39.8 mpg
+/ad/30456137,BMW 4 Series,3.0 435d M Sport Auto xDrive Euro 6 (s/s) 2dr Coupe,"22,000",2018,Automatic,50.4 mpg,Diesel,2018,2993cc,"38,000 miles",Diesel,Automatic,Blue,Coupe,50.4 mpg
+/ad/30780982,BMW 4 Series,2.0 420i GPF M Sport Auto Euro 6 (s/s) 5dr Hatchback,"22,490",2019,Automatic,36.2 mpg,Petrol,2019,1998cc,"38,000 miles",Petrol,Automatic,Blue,Hatchback,36.2 mpg
+/ad/30465275,BMW 5 Series,2.0 520d M Sport Auto Euro 6 (s/s) 4dr Saloon,"20,990",2018,Automatic,49.6 mpg,Diesel,2018,1995cc,"38,317 miles",Diesel,Automatic,Blue,Saloon,49.6 mpg
+/ad/30464685,BMW 3 Series,3.0 335d M Sport Auto xDrive Euro 6 (s/s) 4dr Saloon,"21,400",2015,Automatic,51.4 mpg,Diesel,2015,2993cc,"38,840 miles",Diesel,Automatic,Other,Saloon,51.4 mpg
+/ad/30620150,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"21,995",2019,Automatic,39.8 mpg,Petrol,2019,2998cc,"39,000 miles",Petrol,Automatic,GREY,Hatchback,39.8 mpg
+/ad/30479946,BMW Z4,35is sDrive 2dr DCT Other,"20,975",2015,Automatic,30.1 mpg,Petrol,2015,3000cc,"39,100 miles",Petrol,Automatic,White,Other,30.1 mpg
+/ad/30807183,BMW 1 Series,3.0 M140i Shadow Edition Auto Euro 6 (s/s) 5dr Hatchback,"22,300",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"37,000 miles",Petrol,Automatic,Blue,Hatchback,39.8 mpg
+/ad/30204806,BMW 2 Series,1.5 218I M SPORT GRAN TOURER 5d 139 BHP Estate,"22,187",2021,Automatic,38.7 mpg,Petrol,2021,1499cc,"37,280 miles",Petrol,Automatic,GREY,Estate,38.7 mpg
+/ad/27364464,BMW 4 Series,4 Series,"21,998",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"37,927 miles",Petrol,Automatic,BLACK,Coupe,48.7 mpg
+/ad/30533715,BMW 2 Series,M240i 2dr [Nav] Step Auto Coupe,"21,995",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"38,000 miles",Petrol,Automatic,Black,Coupe,39.8 mpg
+/ad/30456137,BMW 4 Series,3.0 435d M Sport Auto xDrive Euro 6 (s/s) 2dr Coupe,"22,000",2018,Automatic,50.4 mpg,Diesel,2018,2993cc,"38,000 miles",Diesel,Automatic,Blue,Coupe,50.4 mpg
+/ad/30780982,BMW 4 Series,2.0 420i GPF M Sport Auto Euro 6 (s/s) 5dr Hatchback,"22,490",2019,Automatic,36.2 mpg,Petrol,2019,1998cc,"38,000 miles",Petrol,Automatic,Blue,Hatchback,36.2 mpg
+/ad/30465275,BMW 5 Series,2.0 520d M Sport Auto Euro 6 (s/s) 4dr Saloon,"20,990",2018,Automatic,49.6 mpg,Diesel,2018,1995cc,"38,317 miles",Diesel,Automatic,Blue,Saloon,49.6 mpg
+/ad/30464685,BMW 3 Series,3.0 335d M Sport Auto xDrive Euro 6 (s/s) 4dr Saloon,"21,400",2015,Automatic,51.4 mpg,Diesel,2015,2993cc,"38,840 miles",Diesel,Automatic,Other,Saloon,51.4 mpg
+/ad/30620150,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"21,995",2019,Automatic,39.8 mpg,Petrol,2019,2998cc,"39,000 miles",Petrol,Automatic,GREY,Hatchback,39.8 mpg
+/ad/30506416,BMW 4 Series,XDRIVE M SPORT Coupe,"21,995",2018,Automatic,52.3 mpg,Diesel,2018,2993cc,"39,710 miles",Diesel,Automatic,Black,Coupe,52.3 mpg
+/ad/30737209,BMW 5 Series,2.0 530E M SPORT 4d 249 BHP Saloon,"20,990",2017,Automatic,156.9 mpg,Other,2017,1998cc,"40,000 miles",Other,Automatic,BLACK,Saloon,156.9 mpg
+/ad/30681674,BMW X1,1 2.0 20i M SPORT AUTO XDRIVE 5d 192 S/S Other,"21,340",2018,Automatic,35.3 mpg,Petrol,2018,1998cc,"40,000 miles",Petrol,Automatic,GREY,Other,35.3 mpg
+/ad/30494308,BMW 2 Series,3.0 M240i Coupe Coupe,"21,495",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"40,000 miles",Petrol,Automatic,Red,Coupe,39.8 mpg
+/ad/30640081,BMW 4 Series,440I M SPORT Convertible,"21,995",2017,Automatic,39.2 mpg,Petrol,2017,2998cc,"40,000 miles",Petrol,Automatic,Blue,Convertible,39.2 mpg
+/ad/30717191,BMW 2 Series,1.5 225XE SPORT PREMIUM ACTIVE TOURER 5d 134 BHP Hatchback,"20,999",2019,Automatic,113.0 mpg,Other,2019,1499cc,"40,388 miles",Other,Automatic,WHITE,Hatchback,113 mpg
+/ad/30714068,BMW 5 Series,2.0 520D XDRIVE M SPORT 4d 188 BHP Saloon,"22,500",2017,Automatic,60.1 mpg,Diesel,2017,1995cc,"40,400 miles",Diesel,Automatic,BLACK,Saloon,60.1 mpg
+/ad/30044402,BMW 4 Series,2.0 420I M SPORT 2d 181 BHP Convertible,"21,990",2019,Automatic,45.6 mpg,Petrol,2019,1998cc,"40,545 miles",Petrol,Automatic,WHITE,Convertible,45.6 mpg
+/ad/30927696,BMW 1 Series,3.0 M140i Shadow Edition Auto Euro 6 (s/s) 5dr Hatchback,"20,499",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"40,654 miles",Petrol,Automatic,White,Hatchback,39.8 mpg
+/ad/27992664,BMW 4 Series,4 Series,"20,998",2015,Automatic,49.6 mpg,Diesel,2015,2993cc,"40,665 miles",Diesel,Automatic,BLUE,Coupe,49.6 mpg
+/ad/28016574,BMW 3 Series,3 Series,"21,998",2017,Automatic,62.8 mpg,Diesel,2017,1995cc,"41,098 miles",Diesel,Automatic,BLUE,Estate,62.8 mpg
+/ad/27992575,BMW 1 Series,1 Series,"20,498",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"41,266 miles",Petrol,Automatic,WHITE,Hatchback,39.8 mpg
+/ad/30134762,BMW 4 Series,3.0 435I M SPORT 2d 302 BHP Convertible,"20,490",2016,Automatic,36.7 mpg,Petrol,2016,2979cc,"41,414 miles",Petrol,Automatic,BLUE,Convertible,36.7 mpg
+/ad/29582171,BMW 3 Series,3.0 335D XDRIVE M SPORT SHADOW EDITION 4d 308 BHP Saloon,"22,450",2018,Automatic,51.4 mpg,Diesel,2018,2993cc,"41,750 miles",Diesel,Automatic,GREY,Saloon,51.4 mpg
+/ad/30899054,BMW 4 Series,2.0 430i M Sport Auto Euro 6 (s/s) 5dr Hatchback,"20,999",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"41,800 miles",Petrol,Automatic,Black,Hatchback,48.7 mpg
+/ad/30567317,BMW X4,2.0 XDRIVE20D M SPORT 4d 188 BHP Coupe,"21,950",2016,Automatic,54.3 mpg,Diesel,2016,1995cc,"41,801 miles",Diesel,Automatic,WHITE,Coupe,54.3 mpg
+/ad/30145373,BMW 2 Series,2.0 230I M SPORT 2d 248 BHP Convertible,"21,750",2018,Automatic,34.9 mpg,Petrol,2018,1998cc,"42,000 miles",Petrol,Automatic,GREY,Convertible,34.9 mpg
+/ad/30464412,BMW 1 Series,3.0 M140i Shadow Edition Auto Euro 6 (s/s) 5dr Hatchback,"21,990",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"42,000 miles",Petrol,Automatic,Black,Hatchback,39.8 mpg
+/ad/28705558,BMW 1 Series,M140i 5dr [Nav] Step Auto Hatchback,"21,995",2017,Automatic,39.8 mpg,Petrol,2017,3000cc,"42,000 miles",Petrol,Automatic,Grey,Hatchback,39.8 mpg
+/ad/27992549,BMW i3,I3 Hatchback,"21,998",2018,Automatic,Tax: £155,2018,600cc,"42,106 miles",Other,Automatic,GREY,Hatchback,,
+/ad/30181088,BMW X3,3 2.0 20d xLine SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (190 ps) SUV,"20,000",2017,Automatic,54.3 mpg,Diesel,2017,1995cc,"42,350 miles",Diesel,Automatic,Space Grey,SUV,54.3 mpg
+/ad/27993143,BMW 3 Series,3 Series,"22,498",2016,Automatic,60.1 mpg,Diesel,2016,1995cc,"42,360 miles",Diesel,Automatic,BLUE,Hatchback,60.1 mpg
+/ad/29687815,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"22,495",2019,Automatic,39.8 mpg,Petrol,2019,2998cc,"42,500 miles",Petrol,Automatic,WHITE,Hatchback,39.8 mpg
+/ad/28016414,BMW 3 Series,3 Series,"22,498",2017,Automatic,134.5 mpg,Other,2017,1998cc,"42,512 miles",Other,Automatic,WHITE,Saloon,134.5 mpg
+/ad/27993451,BMW 2 Series,2 Series,"20,998",2018,Automatic,47.9 mpg,Petrol,2018,1998cc,"42,668 miles",Petrol,Automatic,BLUE,Coupe,47.9 mpg
+/ad/30873317,BMW 5 Series,2.0 520d M Sport Saloon Saloon,"20,495",2018,Automatic,68.9 mpg,Diesel,2018,1995cc,"43,000 miles",Diesel,Automatic,Black,Saloon,68.9 mpg
+/ad/29582171,BMW 3 Series,3.0 335D XDRIVE M SPORT SHADOW EDITION 4d 308 BHP Saloon,"22,450",2018,Automatic,51.4 mpg,Diesel,2018,2993cc,"41,750 miles",Diesel,Automatic,GREY,Saloon,51.4 mpg
+/ad/30899054,BMW 4 Series,2.0 430i M Sport Auto Euro 6 (s/s) 5dr Hatchback,"20,999",2018,Automatic,48.7 mpg,Petrol,2018,1998cc,"41,800 miles",Petrol,Automatic,Black,Hatchback,48.7 mpg
+/ad/30567317,BMW X4,2.0 XDRIVE20D M SPORT 4d 188 BHP Coupe,"21,950",2016,Automatic,54.3 mpg,Diesel,2016,1995cc,"41,801 miles",Diesel,Automatic,WHITE,Coupe,54.3 mpg
+/ad/30145373,BMW 2 Series,2.0 230I M SPORT 2d 248 BHP Convertible,"21,750",2018,Automatic,34.9 mpg,Petrol,2018,1998cc,"42,000 miles",Petrol,Automatic,GREY,Convertible,34.9 mpg
+/ad/30464412,BMW 1 Series,3.0 M140i Shadow Edition Auto Euro 6 (s/s) 5dr Hatchback,"21,990",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"42,000 miles",Petrol,Automatic,Black,Hatchback,39.8 mpg
+/ad/28705558,BMW 1 Series,M140i 5dr [Nav] Step Auto Hatchback,"21,995",2017,Automatic,39.8 mpg,Petrol,2017,3000cc,"42,000 miles",Petrol,Automatic,Grey,Hatchback,39.8 mpg
+/ad/27992549,BMW i3,I3 Hatchback,"21,998",2018,Automatic,Tax: £155,2018,600cc,"42,106 miles",Other,Automatic,GREY,Hatchback,,
+/ad/30181088,BMW X3,3 2.0 20d xLine SUV 5dr Diesel Auto xDrive Euro 6 (s/s) (190 ps) SUV,"20,000",2017,Automatic,54.3 mpg,Diesel,2017,1995cc,"42,350 miles",Diesel,Automatic,Space Grey,SUV,54.3 mpg
+/ad/30536260,BMW X3,3 3.0 XDRIVE30D XLINE 5d 255 BHP Estate,"21,000",2016,Automatic,47.9 mpg,Diesel,2016,2993cc,"45,000 miles",Diesel,Automatic,WHITE,Estate,47.9 mpg
+/ad/30713988,BMW X3,3 2.0 XDRIVE20D M SPORT 5d 188 BHP Estate,"21,450",2017,Automatic,54.3 mpg,Diesel,2017,1995cc,"45,000 miles",Diesel,Automatic,WHITE,Estate,54.3 mpg
+/ad/30915203,BMW 3 Series,3.0 335d M Sport Auto xDrive Euro 6 (s/s) 4dr Saloon,"21,950",2016,Automatic,51.4 mpg,Diesel,2016,2993cc,"45,000 miles",Diesel,Automatic,Blue,Saloon,51.4 mpg
+/ad/30400053,BMW 4 Series,3.0 435D XDRIVE M SPORT 2d 309 BHP Coupe,"21,500",2018,Automatic,50.4 mpg,Diesel,2018,2993cc,"46,000 miles",Diesel,Automatic,BLACK,Coupe,50.4 mpg
+/ad/30101827,BMW 1 Series,3.0 M140i Shadow Edition 5dr Hatchback,"22,490",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"46,000 miles",Petrol,Automatic,Blue,Hatchback,39.8 mpg
+/ad/27537592,BMW X2,X2,"22,498",2018,Automatic,61.4 mpg,Diesel,2018,1995cc,"46,150 miles",Diesel,Automatic,WHITE,Hatchback,61.4 mpg
+/ad/30792571,BMW 3 Series,2.0 320D M SPORT SHADOW EDITION TOURING 5d 188 BHP Estate,"20,300",2019,Automatic,62.8 mpg,Diesel,2019,1995cc,"46,600 miles",Diesel,Automatic,BLUE,Estate,62.8 mpg
+/ad/30445739,BMW 1 Series,3.0 M140I SHADOW EDITION 3d 335 BHP ** QUALIFIES FOR OUR CHRISTMAS PROMOTION ** Hatchback,"22,495",2019,Automatic,39.8 mpg,Petrol,2019,2998cc,"46,645 miles",Petrol,Automatic,WHITE,Hatchback,39.8 mpg
+/ad/30586700,BMW 4 Series,Coupe,"21,990",2017,Automatic,50.4 mpg,Diesel,2017,2993cc,"47,000 miles",Diesel,Automatic,Blue,Coupe,50.4 mpg
+/ad/28348351,BMW 5 Series,2.0L 520D M SPORT TOURING 5d AUTO 188 BHP *44,"21,995",2019,Automatic,45.6 mpg,Diesel,2019,1995cc,"44,000 miles",Diesel,Automatic,GREY,Estate,45.6 mpg
+/ad/27992677,BMW 3 Series,3 Series,"20,698",2015,Automatic,55.4 mpg,Diesel,2015,1995cc,"44,805 miles",Diesel,Automatic,BLACK,Estate,55.4 mpg
+/ad/30775621,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"20,700",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"44,911 miles",Petrol,Automatic,GREY,Hatchback,39.8 mpg
+/ad/30792847,BMW X5,5 3.0 XDRIVE30D SE 5d 255 BHP Estate,"20,990",2014,Automatic,45.6 mpg,Diesel,2014,2993cc,"45,000 miles",Diesel,Automatic,SILVER,Estate,45.6 mpg
+/ad/30895386,BMW 3 Series,2.0 320D XDRIVE M SPORT SHADOW EDITION TOURING 5dr Estate,"20,995",2018,Automatic,57.7 mpg,Diesel,2018,1995cc,"45,000 miles",Diesel,Automatic,WHITE,Estate,57.7 mpg
+/ad/30536260,BMW X3,3 3.0 XDRIVE30D XLINE 5d 255 BHP Estate,"21,000",2016,Automatic,47.9 mpg,Diesel,2016,2993cc,"45,000 miles",Diesel,Automatic,WHITE,Estate,47.9 mpg
+/ad/30713988,BMW X3,3 2.0 XDRIVE20D M SPORT 5d 188 BHP Estate,"21,450",2017,Automatic,54.3 mpg,Diesel,2017,1995cc,"45,000 miles",Diesel,Automatic,WHITE,Estate,54.3 mpg
+/ad/30915203,BMW 3 Series,3.0 335d M Sport Auto xDrive Euro 6 (s/s) 4dr Saloon,"21,950",2016,Automatic,51.4 mpg,Diesel,2016,2993cc,"45,000 miles",Diesel,Automatic,Blue,Saloon,51.4 mpg
+/ad/30400053,BMW 4 Series,3.0 435D XDRIVE M SPORT 2d 309 BHP Coupe,"21,500",2018,Automatic,50.4 mpg,Diesel,2018,2993cc,"46,000 miles",Diesel,Automatic,BLACK,Coupe,50.4 mpg
+/ad/30707595,BMW 1 Series,1.5 116D SPORT 5d 115 BHP Hatchback,"21,599",2019,Automatic,57.7 mpg,Diesel,2019,1496cc,"49,605 miles",Diesel,Automatic,BLACK,Hatchback,57.7 mpg
+/ad/30926142,BMW 1 Series,3.0 M140i Shadow Edition 5-door Hatchback,"20,980",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"49,977 miles",Petrol,Automatic,Black,Hatchback,39.8 mpg
+/ad/28985531,BMW Z3,3 3.2 Convertible 2dr Petrol Manual (268 g/km,"20,990",1998,Manual,25.4 mpg,Petrol,1998,3201cc,"49,980 miles",Petrol,Manual,Estoril Blue,Convertible,25.4 mpg
+/ad/29689795,BMW 3 Series,2.0 330I SPORT 4d 258 BHP Saloon,"20,950",2019,Automatic,41.5 mpg,Petrol,2019,1998cc,"50,000 miles",Petrol,Automatic,BLUE,Saloon,41.5 mpg
+/ad/30516000,BMW 6 Series,640d M Sport 2dr Auto Other,"21,990",2016,Automatic,48.7 mpg,Diesel,2016,2993cc,"50,000 miles",Diesel,Automatic,Blue,Other,48.7 mpg
+/ad/30540952,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"22,390",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"50,000 miles",Petrol,Automatic,BLACK,Hatchback,39.8 mpg
+/ad/30669990,BMW 4 Series,3.0 430D M SPORT GRAN COUPE 4DR Automatic Coupe,"21,980",2017,Automatic,53.3 mpg,Diesel,2017,2993cc,"51,000 miles",Diesel,Automatic,White,Coupe,53.3 mpg
+/ad/30880407,BMW 1 Series,3.0 M140i Shadow Edition 5-door Hatchback,"21,995",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"51,000 miles",Petrol,Automatic,Grey,Hatchback,39.8 mpg
+/ad/30932090,BMW 3 Series,340I M Sport Touring 5-Door Estate,"22,495",2019,Automatic,40.4 mpg,Petrol,2019,2998cc,"51,333 miles",Petrol,Automatic,Black,Estate,40.4 mpg
+/ad/30460229,BMW 4 Series,440I M SPORT [HUGE SPEC] Convertible,"20,247",2016,Automatic,39.2 mpg,Petrol,2016,2998cc,"52,000 miles",Petrol,Automatic,WHITE,Convertible,39.2 mpg
+/ad/28565396,BMW M3,3.2 M3,"20,990",2006,Manual,20.8 mpg,Petrol,2006,3246cc,"52,000 miles",Petrol,Manual,BLUE,Convertible,20.8 mpg
+/ad/29398020,BMW 5 Series,2.0 M Sport Auto xDrive Euro 6 (s/s) 4dr Saloon,"21,495",2018,Automatic,60.1 mpg,Diesel,2018,1995cc,"52,000 miles",Diesel,Automatic,Mediterranean Blue,Saloon,60.1 mpg
+/ad/30145137,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"21,995",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"52,000 miles",Petrol,Automatic,BLUE,Hatchback,39.8 mpg
+/ad/30013329,BMW X2,XDRIVE20D M SPORT X Hatchback,"22,500",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"52,000 miles",Diesel,Automatic,Black,Hatchback,58.9 mpg
+/ad/30775186,BMW 5 Series,2.0 530E M SPORT 4d 249 BHP Saloon,"21,495",2019,Automatic,156.9 mpg,Other,2019,1998cc,"52,161 miles",Other,Automatic,BLACK,Saloon,156.9 mpg
+/ad/30648291,BMW X3,3 3.0 XDRIVE30D XLINE 5d 255 BHP Estate,"21,000",2017,Automatic,47.9 mpg,Diesel,2017,2993cc,"53,000 miles",Diesel,Automatic,SILVER,Estate,47.9 mpg
+/ad/30852460,BMW X3,3 2.0 XDRIVE20D M SPORT 5d 188 BHP Estate,"20,490",2017,Automatic,54.3 mpg,Diesel,2017,1995cc,"53,637 miles",Diesel,Automatic,GREY,Estate,54.3 mpg
+/ad/30845318,BMW M3,3 4.0 M3,"21,995",2012,Automatic,25.2 mpg,Petrol,2012,3999cc,"54,000 miles",Petrol,Automatic,WHITE,Coupe,25.2 mpg
+/ad/30926142,BMW 1 Series,3.0 M140i Shadow Edition 5-door Hatchback,"20,980",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"49,977 miles",Petrol,Automatic,Black,Hatchback,39.8 mpg
+/ad/28985531,BMW Z3,3 3.2 Convertible 2dr Petrol Manual (268 g/km,"20,990",1998,Manual,25.4 mpg,Petrol,1998,3201cc,"49,980 miles",Petrol,Manual,Estoril Blue,Convertible,25.4 mpg
+/ad/29689795,BMW 3 Series,2.0 330I SPORT 4d 258 BHP Saloon,"20,950",2019,Automatic,41.5 mpg,Petrol,2019,1998cc,"50,000 miles",Petrol,Automatic,BLUE,Saloon,41.5 mpg
+/ad/30516000,BMW 6 Series,640d M Sport 2dr Auto Other,"21,990",2016,Automatic,48.7 mpg,Diesel,2016,2993cc,"50,000 miles",Diesel,Automatic,Blue,Other,48.7 mpg
+/ad/30540952,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"22,390",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"50,000 miles",Petrol,Automatic,BLACK,Hatchback,39.8 mpg
+/ad/30669990,BMW 4 Series,3.0 430D M SPORT GRAN COUPE 4DR Automatic Coupe,"21,980",2017,Automatic,53.3 mpg,Diesel,2017,2993cc,"51,000 miles",Diesel,Automatic,White,Coupe,53.3 mpg
+/ad/30880407,BMW 1 Series,3.0 M140i Shadow Edition 5-door Hatchback,"21,995",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"51,000 miles",Petrol,Automatic,Grey,Hatchback,39.8 mpg
+/ad/30932090,BMW 3 Series,340I M Sport Touring 5-Door Estate,"22,495",2019,Automatic,40.4 mpg,Petrol,2019,2998cc,"51,333 miles",Petrol,Automatic,Black,Estate,40.4 mpg
+/ad/30460229,BMW 4 Series,440I M SPORT [HUGE SPEC] Convertible,"20,247",2016,Automatic,39.2 mpg,Petrol,2016,2998cc,"52,000 miles",Petrol,Automatic,WHITE,Convertible,39.2 mpg
+/ad/28565396,BMW M3,3.2 M3,"20,990",2006,Manual,20.8 mpg,Petrol,2006,3246cc,"52,000 miles",Petrol,Manual,BLUE,Convertible,20.8 mpg
+/ad/29398020,BMW 5 Series,2.0 M Sport Auto xDrive Euro 6 (s/s) 4dr Saloon,"21,495",2018,Automatic,60.1 mpg,Diesel,2018,1995cc,"52,000 miles",Diesel,Automatic,Mediterranean Blue,Saloon,60.1 mpg
+/ad/30145137,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"21,995",2017,Automatic,39.8 mpg,Petrol,2017,2998cc,"52,000 miles",Petrol,Automatic,BLUE,Hatchback,39.8 mpg
+/ad/30013329,BMW X2,XDRIVE20D M SPORT X Hatchback,"22,500",2018,Automatic,58.9 mpg,Diesel,2018,1995cc,"52,000 miles",Diesel,Automatic,Black,Hatchback,58.9 mpg
+/ad/30775186,BMW 5 Series,2.0 530E M SPORT 4d 249 BHP Saloon,"21,495",2019,Automatic,156.9 mpg,Other,2019,1998cc,"52,161 miles",Other,Automatic,BLACK,Saloon,156.9 mpg
+/ad/30736990,BMW 4 Series,3.0 440I M SPORT GRAN COUPE 4d 322 BHP Coupe,"20,495",2017,Automatic,41.5 mpg,Petrol,2017,2998cc,"52,790 miles",Petrol,Automatic,WHITE,Coupe,41.5 mpg
+/ad/30648291,BMW X3,3 3.0 XDRIVE30D XLINE 5d 255 BHP Estate,"21,000",2017,Automatic,47.9 mpg,Diesel,2017,2993cc,"53,000 miles",Diesel,Automatic,SILVER,Estate,47.9 mpg
+/ad/30852460,BMW X3,3 2.0 XDRIVE20D M SPORT 5d 188 BHP Estate,"20,490",2017,Automatic,54.3 mpg,Diesel,2017,1995cc,"53,637 miles",Diesel,Automatic,GREY,Estate,54.3 mpg
+/ad/30888061,BMW X4,XDRIVE20D M SPORT Coupe,"21,490",2016,Automatic,54.3 mpg,Diesel,2016,1995cc,"59,000 miles",Diesel,Automatic,White,Coupe,54.3 mpg
+/ad/30670133,BMW M3,3.2 Evolution 2dr Convertible,"21,990",1999,Manual,25.4 mpg,Petrol,1999,3201cc,"59,000 miles",Petrol,Manual,Purple,Convertible,25.4 mpg
+/ad/30869862,BMW 1 Series,3.0 M140I SHADOW EDITION 5d 335 BHP Hatchback,"21,990",2018,Automatic,39.8 mpg,Petrol,2018,2998cc,"59,400 miles",Petrol,Automatic,BLACK,Hatchback,39.8 mpg
+/ad/30761727,BMW 1 Series,1.5 116D M SPORT 5d 115 BHP Hatchback,"21,599",2020,Manual,54.3 mpg,Diesel,2020,1496cc,"59,782 miles",Diesel,Manual,GREY,Hatchback,54.3 mpg
+/ad/30725401,BMW 6 Series,2.0 620D M SPORT 5d 188 BHP Hatchback,"21,995",2018,Automatic,44.1 mpg,Diesel,2018,1995cc,"60,275 miles",Diesel,Automatic,BLACK,Hatchback,44.1 mpg
+/ad/28016483,BMW 3 Series,3 Series,"20,498",2015,Automatic,49.6 mpg,Diesel,2015,2993cc,"60,911 miles",Diesel,Automatic,SILVER,Hatchback,49.6 mpg
+/ad/30808581,BMW 5 Series,2.0 530E M SPORT 4d 249 BHP Saloon,"20,000",2018,Automatic,156.9 mpg,Other,2018,1998cc,"61,000 miles",Other,Automatic,BLACK,Saloon,156.9 mpg
+/ad/30791546,BMW 3 Series,2.0 320d xDrive MSport ShadowEdition Touring Estate,"20,995",2019,Automatic,57.7 mpg,Diesel,2019,1995cc,"61,785 miles",Diesel,Automatic,White,Estate,57.7 mpg
+/ad/29993769,BMW 3 Series,330e M Sport Saloon,"22,295",2000,Automatic,8.8 mpg,Other,2000,2000cc,"62,265 miles",Other,Automatic,White,Saloon,8.8 mpg
+/ad/30533058,BMW X3,3 xDrive20d M Sport 5dr Step Auto SUV,"20,290",2017,Automatic,54.3 mpg,Diesel,2017,2000cc,"62,488 miles",Diesel,Automatic,White,SUV,54.3 mpg
+/ad/30848269,BMW 4 Series,3.0 440i M Sport Auto Euro 6 (s/s) 5dr Hatchback,"20,950",2018,Automatic,41.5 mpg,Petrol,2018,2998cc,"65,000 miles",Petrol,Automatic,Black,Hatchback,41.5 mpg
+/ad/30455310,BMW 6 Series,Coupe,"21,990",2017,Automatic,51.4 mpg,Diesel,2017,3000cc,"65,000 miles",Diesel,Automatic,Blue,Coupe,51.4 mpg
+/ad/30714807,BMW 4 Series,3.0 440I M SPORT 2d 322 BHP Coupe,"20,990",2017,Automatic,41.5 mpg,Petrol,2017,2998cc,"66,480 miles",Petrol,Automatic,WHITE,Coupe,41.5 mpg
+/ad/30141702,BMW 4 Series,3.0 435D XDRIVE M SPORT GRAN COUPE 4d 309 BHP Coupe,"21,890",2019,Automatic,49.6 mpg,Diesel,2019,2993cc,"66,500 miles",Diesel,Automatic,WHITE,Coupe,49.6 mpg
+/ad/27375562,BMW M3,3 3.2i Coupe 2dr Petrol SMG Euro 4 (343 ps) Coupe,"22,500",2004,Automatic,23.7 mpg,Petrol,2004,3246cc,"66,500 miles",Petrol,Automatic,Black,Coupe,23.7 mpg
+/ad/30567947,BMW 5 Series,2.0 520D M SPORT TOURING 5dr Estate,"20,795",2017,Automatic,62.8 mpg,Diesel,2017,1995cc,"68,000 miles",Diesel,Automatic,WHITE,Estate,62.8 mpg
+/ad/30856113,BMW 3 Series,3.0 335d M Sport Touring Auto xDrive Euro 6 (s/s) 5dr Estate,"21,990",2016,Automatic,49.6 mpg,Diesel,2016,2993cc,"68,000 miles",Diesel,Automatic,White,Estate,49.6 mpg
+/ad/30798848,BMW 3 Series,330E M SPORT PHEV Saloon,"21,000",2019,Automatic,8.8 mpg,Other,2019,1998cc,"68,700 miles",Other,Automatic,Blue,Saloon,8.8 mpg
+/ad/29765800,BMW 3 Series,M3 4 Other,"20,950",2010,Other,25.2 mpg,Petrol,2010,4000cc,"69,000 miles",Petrol,Other,Black,Other,25.2 mpg
+/ad/30873994,BMW M5,5 4.4 M5,"21,990",2012,Automatic,28.5 mpg,Petrol,2012,4395cc,"69,500 miles",Petrol,Automatic,Grey,Saloon,28.5 mpg
+/ad/30705597,BMW 6 Series,2.0 620D M SPORT 5d 188 BHP Hatchback,"20,640",2019,Automatic,44.1 mpg,Diesel,2019,1995cc,"70,174 miles",Diesel,Automatic,WHITE,Hatchback,44.1 mpg
+/ad/30189509,BMW 4 Series,2.0 420D M SPORT 2d 188 BHP Coupe,"20,995",2020,Automatic,65.7 mpg,Diesel,2020,1995cc,"70,399 miles",Diesel,Automatic,BLUE,Coupe,65.7 mpg
+/ad/30712220,BMW M5,5 M5,"20,995",2014,Automatic,28.5 mpg,Petrol,2014,4395cc,"71,200 miles",Petrol,Automatic,Blue,Saloon,28.5 mpg
+/ad/29961072,BMW 5 Series,Estate,"21,495",2018,Automatic,62.8 mpg,Diesel,2018,2000cc,"71,402 miles",Diesel,Automatic,Black,Estate,62.8 mpg
+/ad/29905390,BMW 3 Series,320d Sport 4dr Step Auto Saloon,"21,990",2019,Automatic,52.3 mpg,Diesel,2019,2000cc,"71,735 miles",Diesel,Automatic,White,Saloon,52.3 mpg
+/ad/30703770,BMW 5 Series,530d xDrive M Sport 4dr Auto Saloon,"21,990",2017,Automatic,53.3 mpg,Diesel,2017,3000cc,"73,000 miles",Diesel,Automatic,Black,Saloon,53.3 mpg
+/ad/30575315,BMW X3,3 XDRIVE35D M SPORT Estate,"21,995",2017,Automatic,47.1 mpg,Diesel,2017,2993cc,"73,000 miles",Diesel,Automatic,Black,Estate,47.1 mpg
+/ad/30378324,BMW M3,M3,"21,475",2013,Automatic,24.6 mpg,Petrol,2013,4000cc,"73,303 miles",Petrol,Automatic,Black,Other,24.6 mpg
+/ad/30770118,BMW 7 Series,3.0 730d M Sport Saloon Saloon,"22,000",2016,Automatic,57.6 mpg,Diesel,2016,2993cc,"73,308 miles",Diesel,Automatic,White,Saloon,57.6 mpg
+/ad/30642026,BMW 7 Series,Saloon,"20,995",2017,Automatic,60.1 mpg,Diesel,2017,2993cc,"74,031 miles",Diesel,Automatic,Grey,Saloon,60.1 mpg
+/ad/30410600,BMW 4 Series,M SPORT PRO NAV HEATED MEMORY LEATHER PLUS PACK Convertible,"20,980",2019,Automatic,44.8 mpg,Petrol,2019,1998cc,"75,000 miles",Petrol,Automatic,Mineral Grey,Convertible,44.8 mpg
+/ad/29205619,BMW M3,3 M3,"21,999",2003,Manual,23.7 mpg,Petrol,2003,3246cc,"75,000 miles",Petrol,Manual,Silver,Coupe,23.7 mpg
+/ad/30002901,BMW X5,5 xDrive30d M Sport 5dr Auto SUV,"21,450",2014,Automatic,47.1 mpg,Diesel,2014,3000cc,"76,000 miles",Diesel,Automatic,Black,SUV,47.1 mpg
+/ad/30706582,BMW X6,6 3.0 XDRIVE30D M SPORT 4d 255 BHP Coupe,"21,248",2016,Automatic,47.1 mpg,Diesel,2016,2993cc,"76,280 miles",Diesel,Automatic,GREY,Coupe,47.1 mpg
+/ad/30632607,BMW 3 Series,3.0 330d M Sport Shadow Edition Touring Auto xDrive Euro 6 (s/s) 5dr Estate,"21,995",2018,Automatic,51.4 mpg,Diesel,2018,2993cc,"76,500 miles",Diesel,Automatic,Grey,Estate,51.4 mpg
+/ad/29810341,BMW 5 Series,Estate,"20,495",2017,Automatic,62.8 mpg,Diesel,2017,2000cc,"77,199 miles",Diesel,Automatic,Blue,Estate,62.8 mpg
+/ad/30455310,BMW 6 Series,Coupe,"21,990",2017,Automatic,51.4 mpg,Diesel,2017,3000cc,"65,000 miles",Diesel,Automatic,Blue,Coupe,51.4 mpg
+/ad/30714807,BMW 4 Series,3.0 440I M SPORT 2d 322 BHP Coupe,"20,990",2017,Automatic,41.5 mpg,Petrol,2017,2998cc,"66,480 miles",Petrol,Automatic,WHITE,Coupe,41.5 mpg
+/ad/30141702,BMW 4 Series,3.0 435D XDRIVE M SPORT GRAN COUPE 4d 309 BHP Coupe,"21,890",2019,Automatic,49.6 mpg,Diesel,2019,2993cc,"66,500 miles",Diesel,Automatic,WHITE,Coupe,49.6 mpg
+/ad/27375562,BMW M3,3 3.2i Coupe 2dr Petrol SMG Euro 4 (343 ps) Coupe,"22,500",2004,Automatic,23.7 mpg,Petrol,2004,3246cc,"66,500 miles",Petrol,Automatic,Black,Coupe,23.7 mpg
+/ad/30567947,BMW 5 Series,2.0 520D M SPORT TOURING 5dr Estate,"20,795",2017,Automatic,62.8 mpg,Diesel,2017,1995cc,"68,000 miles",Diesel,Automatic,WHITE,Estate,62.8 mpg
+/ad/30856113,BMW 3 Series,3.0 335d M Sport Touring Auto xDrive Euro 6 (s/s) 5dr Estate,"21,990",2016,Automatic,49.6 mpg,Diesel,2016,2993cc,"68,000 miles",Diesel,Automatic,White,Estate,49.6 mpg
+/ad/30798848,BMW 3 Series,330E M SPORT PHEV Saloon,"21,000",2019,Automatic,8.8 mpg,Other,2019,1998cc,"68,700 miles",Other,Automatic,Blue,Saloon,8.8 mpg
+/ad/29765800,BMW 3 Series,M3 4 Other,"20,950",2010,Other,25.2 mpg,Petrol,2010,4000cc,"69,000 miles",Petrol,Other,Black,Other,25.2 mpg
+/ad/30873994,BMW M5,5 4.4 M5,"21,990",2012,Automatic,28.5 mpg,Petrol,2012,4395cc,"69,500 miles",Petrol,Automatic,Grey,Saloon,28.5 mpg
+/ad/30754399,BMW X5,5 DIESEL ESTATE SUV,"21,995",2014,Automatic,47.1 mpg,Diesel,2014,2993cc,"84,000 miles",Diesel,Automatic,Grey,SUV,47.1 mpg
+/ad/30845348,BMW X5,5 3.0 XDRIVE30D M SPORT 5d 255 BHP Estate,"21,465",2016,Automatic,47.1 mpg,Diesel,2016,2993cc,"84,131 miles",Diesel,Automatic,WHITE,Estate,47.1 mpg
+/ad/30831838,BMW 6 Series,XDRIVE M SPORT Hatchback,"20,995",2018,Automatic,47.9 mpg,Diesel,2018,2993cc,"84,765 miles",Diesel,Automatic,Black,Hatchback,47.9 mpg
+/ad/30707023,BMW 1 Series,1.5 116D M SPORT 5d 115 BHP Hatchback,"20,386",2020,Automatic,57.7 mpg,Diesel,2020,1496cc,"85,350 miles",Diesel,Automatic,WHITE,Hatchback,57.7 mpg
+/ad/30451035,BMW 4 Series,GRAN DIESEL COUPE Coupe,"20,990",2018,Automatic,53.3 mpg,Diesel,2018,2993cc,"85,600 miles",Diesel,Automatic,Blue,Coupe,53.3 mpg
+/ad/30807172,BMW X5,5 3.0 40d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"21,995",2014,Automatic,47.1 mpg,Diesel,2014,2993cc,"87,000 miles",Diesel,Automatic,Grey,SUV,47.1 mpg
+/ad/30865711,BMW X5,5 3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"21,450",2015,Automatic,47.1 mpg,Diesel,2015,2993cc,"88,000 miles",Diesel,Automatic,White,SUV,47.1 mpg
+/ad/30341835,BMW 5 Series,520D M SPORT Saloon,"20,200",2019,Automatic,49.6 mpg,Diesel,2019,1995cc,"89,436 miles",Diesel,Automatic,Blue,Saloon,49.6 mpg
+/ad/30865932,BMW X5,5 3.0 30d M Sport Auto xDrive Euro 6 (s/s) 5dr SUV,"21,790",2015,Automatic,47.1 mpg,Diesel,2015,2993cc,"92,000 miles",Diesel,Automatic,Black,SUV,47.1 mpg
+/ad/30509218,BMW X5,xDrive40e M Sport 5dr Auto SUV,"20,000",2016,Automatic,85.6 mpg,Other,2016,2000cc,"92,767 miles",Other,Automatic,Black,SUV,85.6 mpg
