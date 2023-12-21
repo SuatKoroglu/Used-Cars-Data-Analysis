@@ -1,0 +1,921 @@
+url,name,model,price,1,2,3,6,7,8,9,10,11,12,13,14
+/ad/30713690,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY EXECUTIVE SE 4d 168 BHP Saloon,"8,000",2012,Automatic,58.9 mpg,Diesel,2012,2143cc,"49,000 miles",Diesel,Automatic,SILVER,Saloon,58.9 mpg
+/ad/30803472,Mercedes-Benz B Class,1.6 B180 BLUEEFFICIENCY SPORT 5d 122 BHP MPV,"8,000",2014,Manual,45.6 mpg,Petrol,2014,1595cc,"70,313 miles",Petrol,Manual,RED,MPV,45.6 mpg
+/ad/30437380,Mercedes-Benz C Class,2.1 C250 CDI BlueEfficiency AMG Sport Plus G-Tronic+ Euro 5 (s/s) 5dr Estate,"8,000",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"73,000 miles",Diesel,Automatic,Black,Estate,53.3 mpg
+/ad/30445174,Mercedes-Benz A Class,1.5 A180 CDI BlueEfficiency SE Hatchback 5dr Diesel Manual (start/stop) Hatchback,"8,000",2013,Manual,74.3 mpg,Diesel,2013,1461cc,"79,452 miles",Diesel,Manual,BLACK,Hatchback,74.3 mpg
+/ad/30713668,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP Hatchback,"8,000",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"100,000 miles",Diesel,Manual,SILVER,Hatchback,72.4 mpg
+/ad/30869337,Mercedes-Benz A Class,1.5 A 180 D SE EXECUTIVE 5DR Manual Hatchback,"8,000",2016,Manual,80.7 mpg,Diesel,2016,1461cc,"144,058 miles",Diesel,Manual,Red,Hatchback,80.7 mpg
+/ad/30856530,Mercedes-Benz S Class,S350 L AUTO Saloon,"8,000",2008,Automatic,28.0 mpg,Petrol,2008,3498cc,"82,000 miles",Petrol,Automatic,BLACK,Saloon,28 mpg
+/ad/30951355,Mercedes-Benz C Class,2.1 C250 CDI BlueEfficiency Sport Automatic Saloon,"8,000",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"72,000 miles",Diesel,Automatic,Grey,Saloon,56.5 mpg
+/ad/30907439,Mercedes-Benz A Class,1.5 A180 CDI Sport 7G-DCT Euro 5 (s/s) 5dr Hatchback,"8,000",2014,Automatic,68.9 mpg,Diesel,2014,1461cc,"107,503 miles",Diesel,Automatic,Black,Hatchback,68.9 mpg
+/ad/30955871,Mercedes-Benz S Class,3.0 S350 V6 BlueTEC G-Tronic+ Euro 6 4dr Saloon,"8,050",2011,Automatic,41.5 mpg,Diesel,2011,2987cc,"128,813 miles",Diesel,Automatic,Silver,Saloon,41.5 mpg
+/ad/30570557,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT 2d 204 BHP Coupe,"8,150",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"53,500 miles",Diesel,Automatic,BLACK,Coupe,53.3 mpg
+/ad/30656943,Mercedes-Benz C Class,C180 CGI BLUEEFFICIENCY SPORT Saloon,"8,190",2010,Automatic,37.7 mpg,Petrol,2010,1796cc,"68,000 miles",Petrol,Automatic,BLACK,Saloon,37.7 mpg
+/ad/30713059,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d Hatchback,"8,195",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"87,281 miles",Diesel,Manual,WHITE,Hatchback,72.4 mpg
+/ad/30790258,Mercedes-Benz A Class,1.5 SE Hatchback 5dr Diesel Manual Euro 6 (s/s) (109 ps) Hatchback,"8,199",2016,Manual,80.7 mpg,Diesel,2016,1461cc,"124,400 miles",Diesel,Manual,Onyx Black,Hatchback,80.7 mpg
+/ad/30852453,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP Hatchback,"8,200",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"82,356 miles",Diesel,Manual,SILVER,Hatchback,72.4 mpg
+/ad/30877284,Mercedes-Benz C Class,3.0 C350 CDI V6 BlueEfficiency AMG Sport Plus G-Tronic+ Euro 5 (s/s) 4dr Saloon,"8,229",2013,Automatic,47.1 mpg,Diesel,2013,2987cc,"103,500 miles",Diesel,Automatic,Silver,Saloon,47.1 mpg
+/ad/27963615,Mercedes-Benz SLK,SLK,"8,249",2011,Automatic,43.5 mpg,Petrol,2011,1796cc,"85,000 miles",Petrol,Automatic,Silver,Convertible,43.5 mpg
+/ad/29296532,Mercedes-Benz SLK,SLK,"8,249",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"85,000 miles",Diesel,Automatic,Silver,Convertible,56.5 mpg
+/ad/30714167,Mercedes-Benz A Class,1.5 A180 CDI Sport Hatchback 5dr Diesel Manual (s/s) [NIGHT PACK] Hatchback,"8,250",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"77,528 miles",Diesel,Manual,RED,Hatchback,72.4 mpg
+/ad/30734915,Mercedes-Benz SLK,2.1 SLK,"8,250",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"82,945 miles",Diesel,Automatic,Silver,Convertible,56.5 mpg
+/ad/30895125,Mercedes-Benz E Class,3.0 E350 CDI V6 BlueEfficiency Sport G-Tronic Euro 5 2dr Coupe,"8,250",2011,Automatic,41.5 mpg,Diesel,2011,2987cc,"95,867 miles",Diesel,Automatic,Black,Coupe,41.5 mpg
+/ad/30238191,Mercedes-Benz A Class,Hatchback,"8,250",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"110,000 miles",Diesel,Manual,White,Hatchback,72.4 mpg
+/ad/30024267,Mercedes-Benz CL Class,COUPE Coupe,"8,250",2007,Automatic,23.3 mpg,Petrol,2007,5462cc,"121,000 miles",Petrol,Automatic,Black,Coupe,23.3 mpg
+/ad/30898483,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY AMG SPORT 5DR Manual Hatchback,"8,288",2013,Manual,70.6 mpg,Diesel,2013,1461cc,"87,000 miles",Diesel,Manual,White,Hatchback,70.6 mpg
+/ad/30873865,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport Plus G-Tronic+ Euro 5 (s/s) 4dr Saloon,"8,290",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"83,000 miles",Diesel,Automatic,Silver,Saloon,54.3 mpg
+/ad/30202855,Mercedes-Benz C Class,2.1 C220 CDI BlueEfficiency AMG Sport Plus G-Tronic+ Euro 5 (s/s) 2dr Coupe,"8,290",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"75,294 miles",Diesel,Automatic,Red,Coupe,53.3 mpg
+/ad/30651462,Mercedes-Benz A Class,1.5 A180 CDI ECO SE 5d 109 BHP 6SP ECO DIESEL HATCH Hatchback,"8,295",2014,Manual,Tax: n/a,2014,1.5L,"82,000 miles",Diesel,Manual,Hatchback,,,
+/ad/30252719,Mercedes-Benz M Class,3.0 ML300 CDI V6 BlueEfficiency Grand Edition G-Tronic 4WD Euro 5 5dr FULL BLACK LEATHER TRIM SUV,"8,295",2010,Automatic,31.0 mpg,Diesel,2010,2987cc,"95,000 miles",Diesel,Automatic,Black,SUV,31 mpg
+/ad/30719499,Mercedes-Benz E Class,2.1 E220 CDI SE G-Tronic+ Euro 5 (s/s) 2dr Coupe,"8,295",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"104,778 miles",Diesel,Automatic,Silver,Coupe,58.9 mpg
+/ad/29731552,Mercedes-Benz E Class,Saloon,"8,295",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"108,448 miles",Diesel,Automatic,Grey,Saloon,58.9 mpg
+/ad/30959946,Mercedes-Benz A Class,A180 BlueEFFICIENCY Sport 5dr Hatchback,"8,295",2013,Manual,49.6 mpg,Petrol,2013,1595cc,"59,000 miles",Petrol,Manual,Silver,Hatchback,49.6 mpg
+/ad/30792017,Mercedes-Benz B Class,1.5 B180 CDI BLUEEFFICIENCY SE 5d 107 BHP IN BLACK WITH 64,"8,299",2014,Automatic,68.9 mpg,Diesel,2014,1461cc,"64,000 miles",Diesel,Automatic,BLACK,MPV,68.9 mpg
+/ad/30949341,Mercedes-Benz A Class,1.8 A200 CDI Sport Hatchback,"8,299",2014,Manual,62.8 mpg,Diesel,2014,1796cc,"85,420 miles",Diesel,Manual,Grey,Hatchback,62.8 mpg
+/ad/30939503,Mercedes-Benz C Class,2.0 C200 SE Saloon,"8,300",2015,Automatic,53.3 mpg,Petrol,2015,1991cc,"73,000 miles",Petrol,Automatic,Black,Saloon,53.3 mpg
+/ad/30577354,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT PLUS 4d 168 BHP Saloon,"8,300",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"86,000 miles",Diesel,Automatic,SILVER,Saloon,54.3 mpg
+/ad/30838837,Mercedes-Benz C Class,1.6 C180 BlueEfficiency AMG Sport G-Tronic+ Euro 5 (s/s) 5dr Estate,"8,300",2012,Automatic,44.1 mpg,Petrol,2012,1595cc,"87,170 miles",Petrol,Automatic,Black,Estate,44.1 mpg
+/ad/30451610,Mercedes-Benz B Class,B200 CDI BlueEFFICIENCY Sport 5dr Auto Hatchback,"8,390",2014,Automatic,60.1 mpg,Diesel,2014,1800cc,"73,400 miles",Diesel,Automatic,Black,Hatchback,60.1 mpg
+/ad/30103273,Mercedes-Benz B Class,B180 Cdi Blueefficiency Sport 1.8 Other,"8,395",2012,Automatic,64.2 mpg,Diesel,2012,1800cc,"69,760 miles",Diesel,Automatic,Silver,Other,64.2 mpg
+/ad/30949137,Mercedes-Benz C Class,DIESEL SALOON Saloon,"8,395",2015,Automatic,65.7 mpg,Diesel,2015,2143cc,"117,000 miles",Diesel,Automatic,Silver,Saloon,65.7 mpg
+/ad/30924917,Mercedes-Benz E Class,Se Cdi Auto Saloon,"8,399",2013,Automatic,57.7 mpg,Diesel,2013,2143cc,"94,226 miles",Diesel,Automatic,Blue,Saloon,57.7 mpg
+/ad/30754723,Mercedes-Benz A Class,1.6 A180 Sport Euro 6 (s/s) 5dr Hatchback,"8,400",2014,Manual,49.6 mpg,Petrol,2014,1595cc,"72,000 miles",Petrol,Manual,Red,Hatchback,49.6 mpg
+/ad/30924200,Mercedes-Benz A Class,1.5 A180 CDI SE 7G-DCT Euro 5 (s/s) 5dr Hatchback,"8,400",2015,Automatic,70.6 mpg,Diesel,2015,1461cc,"99,683 miles",Diesel,Automatic,White,Hatchback,70.6 mpg
+/ad/30356440,Mercedes-Benz B Class,MPV,"8,423",2014,Automatic,68.9 mpg,Diesel,2014,1461cc,"61,900 miles",Diesel,Automatic,Grey,MPV,68.9 mpg
+/ad/30845393,Mercedes-Benz E Class,2.1 E250 CDI AMG SPORT 2d 204 BHP Coupe,"8,449",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"124,898 miles",Diesel,Automatic,SILVER,Coupe,57.7 mpg
+/ad/30330040,Mercedes-Benz SLK,1.8 SLK,"8,450",2011,Automatic,43.5 mpg,Petrol,2011,1796cc,"40,000 miles",Petrol,Automatic,BLACK,Convertible,43.5 mpg
+/ad/30513752,Mercedes-Benz E Class,Coupe,"8,450",2013,Automatic,55.4 mpg,Diesel,2013,2143cc,"70,931 miles",Diesel,Automatic,Red,Coupe,55.4 mpg
+/ad/30451345,Mercedes-Benz C Class,Saloon,"8,450",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"75,000 miles",Diesel,Automatic,Grey,Saloon,56.5 mpg
+/ad/30040742,Mercedes-Benz B Class,1.5 B180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP PAN ROOF FULL LEATHERS MPV,"8,450",2014,Manual,61.4 mpg,Diesel,2014,1461cc,"79,000 miles",Diesel,Manual,WHITE,MPV,61.4 mpg
+/ad/30735778,Mercedes-Benz E Class,E250 CDI BLUEEFFICIENCY SPORT 2-Door Convertible,"8,450",2012,Automatic,53.5 mpg,Diesel,2012,2143cc,"79,906 miles",Diesel,Automatic,Silver,Convertible,53.5 mpg
+/ad/30550708,Mercedes-Benz C Class,DIESEL SALOON Saloon,"8,450",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"81,000 miles",Diesel,Automatic,Grey,Saloon,56.5 mpg
+/ad/30703935,Mercedes-Benz C Class,2.1L C220 CDI AMG SPORT EDITION 2d AUTO 168 BHP Coupe,"8,450",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"81,000 miles",Diesel,Automatic,SILVER,Coupe,53.3 mpg
+/ad/28776655,Mercedes-Benz E Class,Convertible,"8,450",2011,Automatic,45.6 mpg,Diesel,2011,2143cc,"90,000 miles",Diesel,Automatic,Red,Convertible,45.6 mpg
+/ad/30244311,Mercedes-Benz SL Class,Convertible,"8,450",2005,Automatic,23.3 mpg,Petrol,2005,4966cc,"98,865 miles",Petrol,Automatic,Black,Convertible,23.3 mpg
+/ad/27521917,Mercedes-Benz M Class,BLUE-CY SPORT CDI A Other,"8,450",2009,Automatic,30.4 mpg,Diesel,2009,2987cc,"115,000 miles",Diesel,Automatic,Silver,Other,30.4 mpg
+/ad/30951016,Mercedes-Benz C Class,C250 AMG Sport Edition Premium CDi Auto Saloon,"8,450",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"86,733 miles",Diesel,Automatic,White,Saloon,56.5 mpg
+/ad/30545217,Mercedes-Benz C Class,2.1 C220 D SE 5d 170 BHP Estate,"8,488",2016,Manual,65.7 mpg,Diesel,2016,2143cc,"119,243 miles",Diesel,Manual,SILVER,Estate,65.7 mpg
+/ad/29857009,Mercedes-Benz 200,A D SPORT DIESEL Hatchback,"8,489",2016,Manual,65.7 mpg,Diesel,2016,2143cc,"100,000 miles",Diesel,Manual,BLUE,Hatchback,65.7 mpg
+/ad/30007946,Mercedes-Benz SLK,2.1 SLK,"8,490",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"62,750 miles",Diesel,Automatic,BLACK,Convertible,56.5 mpg
+/ad/30332052,Mercedes-Benz E Class,2.1 E220 CDI BLUEEFFICIENCY S/S SPORT 4d 170 BHP Saloon,"8,490",2013,Automatic,57.6 mpg,Diesel,2013,2143cc,"66,000 miles",Diesel,Automatic,SILVER,Saloon,57.6 mpg
+/ad/30927772,Mercedes-Benz A Class,1.8 A180 CDI BlueEfficiency Sport 7G-DCT Euro 5 (s/s) 5dr Hatchback,"8,490",2012,Automatic,65.7 mpg,Diesel,2012,1796cc,"70,832 miles",Diesel,Automatic,Grey,Hatchback,65.7 mpg
+/ad/30079880,Mercedes-Benz E Class,Convertible,"8,490",2010,Automatic,39.2 mpg,Diesel,2010,2987cc,"75,894 miles",Diesel,Automatic,Blue,Convertible,39.2 mpg
+/ad/30464923,Mercedes-Benz SLK,Convertible,"8,490",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"93,000 miles",Diesel,Automatic,White,Convertible,56.5 mpg
+/ad/30839449,Mercedes-Benz A Class,2.1 A200 CDI Sport Euro 6 (s/s) 5dr Hatchback,"8,490",2015,Manual,64.2 mpg,Diesel,2015,2143cc,"99,000 miles",Diesel,Manual,White,Hatchback,64.2 mpg
+/ad/30191641,Mercedes-Benz E Class,Convertible,"8,490",2012,Automatic,53.5 mpg,Diesel,2012,2143cc,"99,632 miles",Diesel,Automatic,White,Convertible,53.5 mpg
+/ad/30112808,Mercedes-Benz E Class,E250 CDI BlueEFFICIENCY Sport 2dr Tip Auto Other,"8,490",2012,Automatic,53.5 mpg,Diesel,2012,2143cc,"104,800 miles",Diesel,Automatic,Black,Other,53.5 mpg
+/ad/30775271,Mercedes-Benz CLA Class,1.6 CLA180 SPORT 4d 122 BHP Coupe,"8,490",2014,Manual,50.4 mpg,Petrol,2014,1595cc,"105,000 miles",Petrol,Manual,WHITE,Coupe,50.4 mpg
+/ad/29968825,Mercedes-Benz E Class,2.1 E220 CDI AMG SPORT 2d 170 BHP Coupe,"8,490",2013,Automatic,58.9 mpg,Diesel,2013,2.1L,"115,420 miles",Diesel,Automatic,Silver,Coupe,58.9 mpg
+/ad/30348177,Mercedes-Benz E Class,2.1 E220 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 2dr Coupe,"8,490",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"118,000 miles",Diesel,Automatic,Black,Coupe,58.9 mpg
+/ad/30439978,Mercedes-Benz GL Class,Estate,"8,490",2009,Automatic,29.4 mpg,Diesel,2009,2987cc,"123,933 miles",Diesel,Automatic,Silver,Estate,29.4 mpg
+/ad/30916663,Mercedes-Benz E Class,E250 CDI AMG Line 2dr 7G-Tronic Coupe,"8,490",2015,Automatic,57.7 mpg,Diesel,2015,2143cc,"124,221 miles",Diesel,Automatic,Grey,Coupe,57.7 mpg
+/ad/29906823,Mercedes-Benz E Class,E220 BLUETEC SE Saloon,"8,490",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"126,000 miles",Diesel,Automatic,BLUE,Saloon,64.2 mpg
+/ad/30924205,Mercedes-Benz C Class,2.1 C220 CDI Executive SE G-Tronic+ Euro 5 (s/s) 4dr Saloon,"8,490",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"53,000 miles",Diesel,Automatic,Silver,Saloon,64.2 mpg
+/ad/30570474,Mercedes-Benz SL Class,5.0L SL500 2d AUTO 306 BHP Convertible,"8,495",2003,Automatic,22.2 mpg,Petrol,2003,4966cc,"45,000 miles",Petrol,Automatic,BLACK,Convertible,22.2 mpg
+/ad/30232530,Mercedes-Benz SLK,1.8 SLK,"8,495",2012,Automatic,43.5 mpg,Petrol,2012,1796cc,"46,000 miles",Petrol,Automatic,SILVER,Convertible,43.5 mpg
+/ad/30567984,Mercedes-Benz A Class,1.7 A180 AVANTGARDE SE 5-Door *AUTOMATC & SAT NAV* Hatchback,"8,495",2011,Automatic,42.8 mpg,Petrol,2011,1699cc,"50,000 miles",Petrol,Automatic,Silver,Hatchback,42.8 mpg
+/ad/29914045,Mercedes-Benz E Class,E250 Cdi Blueefficiency SE 2.2 Other,"8,495",2010,Automatic,45.6 mpg,Diesel,2010,2200cc,"53,000 miles",Diesel,Automatic,Silver,Other,45.6 mpg
+/ad/30456100,Mercedes-Benz SLK,Convertible,"8,495",2010,Automatic,34.4 mpg,Petrol,2010,1796cc,"59,000 miles",Petrol,Automatic,Black,Convertible,34.4 mpg
+/ad/30921035,Mercedes-Benz B Class,B180 CDI BlueEFFICIENCY Sport 5dr Auto MPV,"8,495",2012,Automatic,64.2 mpg,Diesel,2012,1796cc,"59,000 miles",Diesel,Automatic,BLUE,MPV,64.2 mpg
+/ad/30598711,Mercedes-Benz SL Class,SL350 2-Door Convertible,"8,495",2005,Automatic,24.1 mpg,Petrol,2005,3724cc,"59,877 miles",Petrol,Automatic,Black,Convertible,24.1 mpg
+/ad/30638560,Mercedes-Benz SLK,DIESEL ROADSTER Convertible,"8,495",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"60,000 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30847057,Mercedes-Benz C Class,2.2CDI BLUEEFFICIENCY SPORT AMG SPEC-SILVER-FSH-LUXURY AUTO CRUISER-LOW MILES Saloon,"8,495",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"61,420 miles",Diesel,Automatic,SILVER,Saloon,56.5 mpg
+/ad/30360468,Mercedes-Benz B Class,B200 CDI BLUEEFFICIENCY SPORT ONLY 64,"8,495",2012,Automatic,60.1 mpg,Diesel,2012,1796cc,"64,000 miles",Diesel,Automatic,Grey,MPV,60.1 mpg
+/ad/30228929,Mercedes-Benz SLK,2.1 SLK,"8,495",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"64,061 miles",Diesel,Automatic,BLUE,Convertible,56.5 mpg
+/ad/30434587,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP Hatchback,"8,495",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"75,000 miles",Diesel,Manual,SILVER,Hatchback,72.4 mpg
+/ad/29954058,Mercedes-Benz SLK,2.1 SLK,"8,495",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"77,100 miles",Diesel,Automatic,BLACK,Convertible,56.5 mpg
+/ad/30732001,Mercedes-Benz E Class,2.1 E220 CDI BLUEEFFICIENCY SPORT 2d 170 BHP Convertible,"8,495",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"78,000 miles",Diesel,Automatic,WHITE,Convertible,53.3 mpg
+/ad/30892657,Mercedes-Benz E Class,2.1 E250 CDI BlueEfficiency Sport Cabriolet G-Tronic+ Euro 5 (s/s) 2dr Convertible,"8,495",2012,Automatic,53.5 mpg,Diesel,2012,2143cc,"79,000 miles",Diesel,Automatic,Black,Convertible,53.5 mpg
+/ad/30877096,Mercedes-Benz A Class,1.6 A180 BLUEEFFICIENCY SPORT 5d 122 BHP DAB RADIO,"8,495",2013,Manual,49.6 mpg,Petrol,2013,1595cc,"79,060 miles",Petrol,Manual,Silver,Hatchback,49.6 mpg
+/ad/30455879,Mercedes-Benz SLK,2.1 SLK,"8,495",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"80,618 miles",Diesel,Automatic,GREY,Convertible,56.5 mpg
+/ad/30805141,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT 2d 204 BHP Coupe,"8,495",2012,Manual,52.3 mpg,Diesel,2012,2.1L,"81,548 miles",Diesel,Manual,White,Coupe,52.3 mpg
+/ad/30172837,Mercedes-Benz E Class,DIESEL COUPE Coupe,"8,495",2009,Automatic,41.5 mpg,Diesel,2009,2987cc,"82,000 miles",Diesel,Automatic,Grey,Coupe,41.5 mpg
+/ad/30718455,Mercedes-Benz E Class,3.0 E350 CDI V6 BlueEfficiency Sport Cabriolet 2dr Diesel G-Tronic Euro 5 (231 ps) Convertible,"8,495",2011,Automatic,39.2 mpg,Diesel,2011,2987cc,"87,000 miles",Diesel,Automatic,Black,Convertible,39.2 mpg
+/ad/30484147,Mercedes-Benz E Class,Coupe,"8,495",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"88,556 miles",Diesel,Automatic,Black,Coupe,58.9 mpg
+/ad/30701175,Mercedes-Benz C Class,2.1 C220 CDI AMG SPORT EDITION PREMIUM 2d 168 BHP Coupe,"8,495",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"89,300 miles",Diesel,Automatic,SILVER,Coupe,53.3 mpg
+/ad/30607252,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT 4d 168 BHP Saloon,"8,495",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"90,312 miles",Diesel,Automatic,BLACK,Saloon,56.5 mpg
+/ad/30856148,Mercedes-Benz SLK,2.1 SLK,"8,495",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"91,057 miles",Diesel,Automatic,White,Convertible,56.5 mpg
+/ad/29045379,Mercedes-Benz SLK,SLK,"8,495",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"95,000 miles",Diesel,Automatic,Silver,Convertible,56.5 mpg
+/ad/30674036,Mercedes-Benz E Class,2.1 E250 Cdi Amg Sport Coupe,"8,495",2013,Automatic,57.7 mpg,Diesel,2013,2.143L,"99,000 miles",Diesel,Automatic,Silver,Coupe,57.7 mpg
+/ad/30143018,Mercedes-Benz E Class,E350 CDI BlueEFFICIENCY Sport 2dr Tip Auto Other,"8,495",2011,Automatic,39.2 mpg,Diesel,2011,2987cc,"100,921 miles",Diesel,Automatic,Black,Other,39.2 mpg
+/ad/30845171,Mercedes-Benz E Class,2.1 E220 CDI BlueEfficiency Sport Cabriolet G-Tronic+ Euro 5 (s/s) 2dr Convertible,"8,495",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"101,000 miles",Diesel,Automatic,Black,Convertible,53.3 mpg
+/ad/30461842,Mercedes-Benz 180,Hatchback,"8,495",2015,Manual,72.4 mpg,Diesel,2015,1461cc,"103,205 miles",Diesel,Manual,Silver,Hatchback,72.4 mpg
+/ad/30931239,Mercedes-Benz B Class,1.6 B180 BLUEEFFICIENCY SE 5d 122 BHP MPV,"8,495",2013,Automatic,47.9 mpg,Petrol,2013,1.6L,"103,250 miles",Petrol,Automatic,White,MPV,47.9 mpg
+/ad/30885417,Mercedes-Benz B Class,DIESEL HATCHBACK MPV,"8,495",2014,Manual,74.3 mpg,Diesel,2014,1461cc,"105,000 miles",Diesel,Manual,White,MPV,74.3 mpg
+/ad/30220164,Mercedes-Benz A Class,Hatchback,"8,495",2012,Manual,62.8 mpg,Diesel,2012,1800cc,"106,000 miles",Diesel,Manual,White,Hatchback,62.8 mpg
+/ad/30800931,Mercedes-Benz A Class,1.5 A 180 D SPORT 5d 107 BHP Hatchback,"8,495",2016,Manual,72.4 mpg,Diesel,2016,1461cc,"106,500 miles",Diesel,Manual,White,Hatchback,72.4 mpg
+/ad/30786541,Mercedes-Benz R Class,3.0 R350L CDI MPV,"8,495",2013,Automatic,33.2 mpg,Diesel,2013,2987cc,"133,000 miles",Diesel,Automatic,Black,MPV,33.2 mpg
+/ad/30835292,Mercedes-Benz A Class,1.8 A200 CDI BLUEEFFICIENCY SPORT 5d 136 BHP Hatchback,"8,495",2013,Manual,62.8 mpg,Diesel,2013,1.8L,"88,200 miles",Diesel,Manual,Red,Hatchback,62.8 mpg
+/ad/29608676,Mercedes-Benz C Class,1.8 C250 BlueEfficiency AMG Sport G-Tronic+ Euro 5 (s/s) 2dr Coupe,"8,495",2011,Automatic,40.4 mpg,Petrol,2011,1.8L,"82,639 miles",Petrol,Automatic,White,Coupe,40.4 mpg
+/ad/30388643,Mercedes-Benz A Class,Hatchback,"8,499",2015,Automatic,68.9 mpg,Diesel,2015,1461cc,"112,000 miles",Diesel,Automatic,Blue,Hatchback,68.9 mpg
+/ad/30579839,Mercedes-Benz E Class,2.1 E250 CDI AMG Sport Coupe,"8,499",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"127,500 miles",Diesel,Auto,Silver,Coupe,57.7 mpg
+/ad/30372825,Mercedes-Benz B Class,1.6 B200 BlueEfficiency Sport Euro 5 (s/s) 5dr MPV,"8,500",2008,Manual,45.6 mpg,Petrol,2008,1595cc,"49,878 miles",Petrol,Manual,Blue,MPV,45.6 mpg
+/ad/30674337,Mercedes-Benz B Class,1.6 B180 Sport Euro 6 (s/s) 5dr MPV,"8,500",2014,Manual,45.6 mpg,Petrol,2014,1595cc,"67,100 miles",Petrol,Manual,Black,MPV,45.6 mpg
+/ad/30894908,Mercedes-Benz C Class,1.8 C180 BlueEfficiency AMG Sport G-Tronic+ Euro 5 (s/s) 2dr Coupe,"8,500",2012,Automatic,40.4 mpg,Petrol,2012,1796cc,"69,545 miles",Petrol,Automatic,Black,Coupe,40.4 mpg
+/ad/30768316,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT 5d 168 BHP Estate,"8,500",2012,Automatic,54.3 mpg,Diesel,2012,2143cc,"84,000 miles",Diesel,Automatic,GREY,Estate,54.3 mpg
+/ad/30372032,Mercedes-Benz S Class,3.0 S320 L CDI 4d 231 BHP Saloon,"8,500",2007,Automatic,33.6 mpg,Diesel,2007,2987cc,"89,000 miles",Diesel,Automatic,GREY,Saloon,33.6 mpg
+/ad/30869513,Mercedes-Benz C Class,DIESEL ESTATE Estate,"8,500",2013,Manual,65.7 mpg,Diesel,2013,2143cc,"92,600 miles",Diesel,Manual,White,Estate,65.7 mpg
+/ad/30411761,Mercedes-Benz S Class,Saloon,"8,500",2013,Automatic,41.5 mpg,Diesel,2013,2987cc,"133,000 miles",Diesel,Automatic,Silver,Saloon,41.5 mpg
+/ad/30936998,Mercedes-Benz CLA Class,2.1 CLA200d AMG Line Shooting Brake Euro 6 (s/s) 5dr SVC HISTORY PARKING SENSORS! Estate,"8,500",2017,Manual,65.7 mpg,Diesel,2017,2143cc,"184,750 miles",Diesel,Manual,Red,Estate,65.7 mpg
+/ad/30925860,Mercedes-Benz C Class,2.1 C220 CDI Executive SE G-Tronic+ Euro 5 (s/s) 2dr Coupe,"8,500",2015,Automatic,57.7 mpg,Diesel,2015,2143cc,"60,000 miles",Diesel,Automatic,Silver,Coupe,57.7 mpg
+/ad/30899750,Mercedes-Benz C Class,C220 CDI Executive SE 2dr Auto Coupe,"8,558",2015,Semi-Auto,57.7 mpg,Diesel,2015,2.1L,"88,374 miles",Diesel,Semiauto,Silver,Coupe,57.7 mpg
+/ad/28807552,Mercedes-Benz CLK,2.1 CLK,"8,566",2008,Automatic,43.5 mpg,Diesel,2008,2148cc,"35,095 miles",Diesel,Automatic,SILVER,Coupe,43.5 mpg
+/ad/29990375,Mercedes-Benz E Class,E350 CDI EDITION 125 BLUEEFFICIENCY SPORT 265 BHP ESTATE F1 AUTO/TIPT 7 SEAT FINANCE PARTX Estate,"8,590",2011,Automatic,43.5 mpg,Diesel,2011,2987cc,"130,000 miles",Diesel,Automatic,SILVER,Estate,43.5 mpg
+/ad/30293976,Mercedes-Benz B Class,B180 BLUEEFFICIENCY SE MPV,"8,595",2014,Manual,47.9 mpg,Petrol,2014,1595cc,"64,874 miles",Petrol,Manual,Black,MPV,47.9 mpg
+/ad/30861440,Mercedes-Benz CLS Class,2.1 CLS250 CDI Shooting Brake G-Tronic+ Euro 5 (s/s) 5dr Estate,"8,595",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"132,556 miles",Diesel,Automatic,Silver,Estate,53.3 mpg
+/ad/30539261,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT 5d 202 BHP Estate,"8,600",2013,Manual,55.4 mpg,Diesel,2013,2143cc,"83,000 miles",Diesel,Manual,SILVER,Estate,55.4 mpg
+/ad/30933340,Mercedes-Benz SLK,2.1 SLK,"8,629",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"79,405 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30640565,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"8,650",2013,Manual,72.4 mpg,Diesel,2013,1461cc,"68,521 miles",Diesel,Manual,White,Hatchback,72.4 mpg
+/ad/30587310,Mercedes-Benz A Class,1.5 A180 CDI Sport Hatchback 5dr Diesel Manual (start/stop) Hatchback,"8,650",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"74,266 miles",Diesel,Manual,BLUE,Hatchback,72.4 mpg
+/ad/30586035,Mercedes-Benz C Class,1.6 C180 Executive SE Saloon,"8,650",2013,Automatic,47.9 mpg,Petrol,2013,1595cc,"82,413 miles",Petrol,Automatic,Grey,Saloon,47.9 mpg
+/ad/30915195,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport Plus G-Tronic+ Euro 5 (s/s) 5dr Estate,"8,650",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"86,900 miles",Diesel,Automatic,White,Estate,53.3 mpg
+/ad/30678634,Mercedes-Benz E Class,3.0 E350 CDI BLUEEFFICIENCY SPORT 2d 265 BHP Coupe,"8,651",2012,Automatic,47.1 mpg,Diesel,2012,2987cc,"88,056 miles",Diesel,Automatic,WHITE,Coupe,47.1 mpg
+/ad/30670660,Mercedes-Benz E Class,2.1 CDI AMG Sport Coupe 2dr Diesel G-Tronic+ Euro 5 (s/s) (204 ps) Coupe,"8,690",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"90,000 miles",Diesel,Automatic,Black,Coupe,57.7 mpg
+/ad/30822019,Mercedes-Benz C Class,C180 1.6 SE EXECUTIVE SALOON AUTOMATIC 84K SERV HIST PAN ROOF SAT NAV GREY Saloon,"8,690",2013,Automatic,47.9 mpg,Petrol,2013,1600cc,"84,000 miles",Petrol,Automatic,Grey,Saloon,47.9 mpg
+/ad/30182344,Mercedes-Benz E Class,3.0 E350 CDI BLUEEFFICIENCY SPORT Saloon,"8,695",2010,Automatic,39.8 mpg,Diesel,2010,2987cc,"59,000 miles",Diesel,Automatic,Grey,Saloon,39.8 mpg
+/ad/30249426,Mercedes-Benz B Class,1.8 B180 CDI Sport 7G-DCT Euro 5 (s/s) 5dr MPV,"8,695",2013,Automatic,64.2 mpg,Diesel,2013,1796cc,"71,800 miles",Diesel,Automatic,White,MPV,64.2 mpg
+/ad/30513750,Mercedes-Benz A Class,1.5 A180 CDI Sport Edition Euro 6 (s/s) 5dr Hatchback,"8,695",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"85,209 miles",Diesel,Manual,Blue,Hatchback,70.6 mpg
+/ad/29935011,Mercedes-Benz E Class,2.1 E220 CDI BLUEEFFICIENCY EXECUTIVE SE 4d 170 BHP Saloon,"8,695",2012,Automatic,57.6 mpg,Diesel,2012,2143cc,"72,002 miles",Diesel,Automatic,SILVER,Saloon,57.6 mpg
+/ad/30513750,Mercedes-Benz A Class,1.5 A180 CDI Sport Edition Euro 6 (s/s) 5dr Hatchback,"8,695",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"85,209 miles",Diesel,Manual,Blue,Hatchback,70.6 mpg
+/ad/30387841,Mercedes-Benz C Class,Coupe,"8,695",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"99,000 miles",Diesel,Automatic,Red,Coupe,53.3 mpg
+/ad/29492442,Mercedes-Benz E Class,Estate,"8,695",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"104,000 miles",Diesel,Automatic,Silver,Estate,53.3 mpg
+/ad/30625577,Mercedes-Benz C Class,Saloon,"8,695",2014,Automatic,54.3 mpg,Diesel,2014,2143cc,"113,953 miles",Diesel,Automatic,Black,Saloon,54.3 mpg
+/ad/29754665,Mercedes-Benz SLK,Convertible,"8,700",2011,Automatic,42.8 mpg,Petrol,2011,1800cc,"104,760 miles",Petrol,Automatic,Red,Convertible,42.8 mpg
+/ad/30913251,Mercedes-Benz SLK,2.1 SLK,"8,700",2012,Automatic,56.5 mpg,Diesel,2012,2.1L,"75,113 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30740692,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"8,749",2014,Manual,70.6 mpg,Diesel,2014,1461cc,"94,898 miles",Diesel,Manual,WHITE,Hatchback,70.6 mpg
+/ad/30875990,Mercedes-Benz E Class,3.0 E350 CDI V6 BlueEfficiency Sport Cabriolet G-Tronic Euro 5 2dr Convertible,"8,750",2010,Automatic,39.2 mpg,Diesel,2010,2987cc,"50,479 miles",Diesel,Automatic,Silver,Convertible,39.2 mpg
+/ad/30634985,Mercedes-Benz C Class,DIESEL SALOON Saloon,"8,750",2013,Automatic,64.2 mpg,Diesel,2013,2143cc,"68,555 miles",Diesel,Automatic,Black,Saloon,64.2 mpg
+/ad/30882031,Mercedes-Benz A Class,A200 [2.1] CDI Sport 5dr Hatchback,"8,750",2014,Manual,64.2 mpg,Diesel,2014,2143cc,"83,530 miles",Diesel,Manual,Blue,Hatchback,64.2 mpg
+/ad/30407173,Mercedes-Benz C Class,DIESEL COUPE Coupe,"8,750",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"92,759 miles",Diesel,Automatic,Blue,Coupe,53.3 mpg
+/ad/30919376,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"8,750",2014,Manual,70.6 mpg,Diesel,2014,1461cc,"98,000 miles",Diesel,Manual,Red,Hatchback,70.6 mpg
+/ad/30639482,Mercedes-Benz SLK,250 Other,"8,750",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"105,075 miles",Diesel,Automatic,Black,Other,56.5 mpg
+/ad/30834745,Mercedes-Benz A Class,1.5 A 180 D SE EXECUTIVE 5d 107 BHP Hatchback,"8,750",2016,Manual,80.7 mpg,Diesel,2016,1461cc,"113,000 miles",Diesel,Manual,RED,Hatchback,80.7 mpg
+/ad/30561778,Mercedes-Benz E Class,2.1 E250 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 4dr Saloon,"8,750",2014,Automatic,54.3 mpg,Diesel,2014,2143cc,"101,778 miles",Diesel,Automatic,Silver,Saloon,54.3 mpg
+/ad/30875990,Mercedes-Benz E Class,3.0 E350 CDI V6 BlueEfficiency Sport Cabriolet G-Tronic Euro 5 2dr Convertible,"8,750",2010,Automatic,39.2 mpg,Diesel,2010,2987cc,"50,479 miles",Diesel,Automatic,Silver,Convertible,39.2 mpg
+/ad/30873823,Mercedes-Benz B Class,1.8 B200 CDI BlueEfficiency Sport 7G-DCT Euro 5 (s/s) 5dr MPV,"8,790",2013,Automatic,60.1 mpg,Diesel,2013,1796cc,"57,369 miles",Diesel,Automatic,Silver,MPV,60.1 mpg
+/ad/30782446,Mercedes-Benz SLK,1.8 SLK,"8,790",2011,Automatic,42.8 mpg,Petrol,2011,1796cc,"71,883 miles",Petrol,Automatic,RED,Convertible,42.8 mpg
+/ad/30901670,Mercedes-Benz B Class,1.5 B180d SE (Executive) Euro 6 (s/s) 5dr MPV,"8,790",2017,Manual,70.6 mpg,Diesel,2017,1461cc,"97,000 miles",Diesel,Manual,Black,MPV,70.6 mpg
+/ad/30632414,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"8,790",2013,Automatic,64.2 mpg,Diesel,2013,2143cc,"125,000 miles",Diesel,Automatic,Silver,Hatchback,64.2 mpg
+/ad/30839443,Mercedes-Benz C Class,1.6 C180 BlueEfficiency Executive SE Saloon,"8,790",2012,Automatic,47.9 mpg,Petrol,2012,1595cc,"64,000 miles",Petrol,Automatic,Silver,Saloon,47.9 mpg
+/ad/30668154,Mercedes-Benz A Class,A180 BLUEEFFICIENCY SPORT NIGHT PACKAGE Hatchback,"8,790",2014,Manual,49.6 mpg,Petrol,2014,1595cc,"64,000 miles",Petrol,Manual,SILVER,Hatchback,49.6 mpg
+/ad/30004227,Mercedes-Benz A Class,A180 BlueEFFICIENCY SE 5dr Auto Hatchback,"8,795",2013,Automatic,52.3 mpg,Petrol,2013,1600cc,"92,000 miles",Petrol,Automatic,White,Hatchback,52.3 mpg
+/ad/30719453,Mercedes-Benz A Class,2.1 A200d Sport Hatchback,"8,795",2017,Automatic,70.6 mpg,Diesel,2017,2143cc,"148,400 miles",Diesel,Automatic,Black,Hatchback,70.6 mpg
+/ad/30792293,Mercedes-Benz SLK,2.1 SLK,"8,795",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"81,402 miles",Diesel,Automatic,SILVER,Convertible,56.5 mpg
+/ad/30943837,Mercedes-Benz C Class,DIESEL COUPE Coupe,"8,795",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"74,000 miles",Diesel,Automatic,Silver,Coupe,53.3 mpg
+/ad/30821715,Mercedes-Benz E Class,2.1 E220 CDI SE G-Tronic+ Euro 5 (s/s) 2dr Coupe,"8,799",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"69,724 miles",Diesel,Automatic,Red,Coupe,58.9 mpg
+/ad/30717335,Mercedes-Benz C Class,C350 CDI BlueEFFICIENCY Sport Ed 125 4dr Auto Saloon,"8,800",2011,Automatic,47.1 mpg,Diesel,2011,2987cc,"101,000 miles",Diesel,Automatic,Black,Saloon,47.1 mpg
+/ad/28801947,Mercedes-Benz C Class,Coupe,"8,830",2013,Automatic,57.7 mpg,Diesel,2013,2143cc,"70,723 miles",Diesel,Automatic,Black,Coupe,57.7 mpg
+/ad/30821954,Mercedes-Benz A Class,1.8 A180 CDI BlueEfficiency Sport 7G-DCT Euro 5 (s/s) 5dr Hatchback,"8,840",2013,Automatic,65.7 mpg,Diesel,2013,1796cc,"74,275 miles",Diesel,Automatic,Black,Hatchback,65.7 mpg
+/ad/30821114,Mercedes-Benz C Class,2.1 C250 CDI AMG SPORT EDITION PREMIUM PLUS 2DR Automatic Coupe,"8,850",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"90,000 miles",Diesel,Automatic,Red,Coupe,53.3 mpg
+/ad/30637649,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"8,850",2014,Automatic,70.6 mpg,Diesel,2014,1461cc,Diesel,Automatic,SILVER,Hatchback,70.6 mpg,
+/ad/30414845,Mercedes-Benz SLK,2.1 SLK,"8,890",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"88,864 miles",Diesel,Automatic,SILVER,Convertible,56.5 mpg
+/ad/30926178,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 4dr Saloon,"8,895",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"62,324 miles",Diesel,Automatic,Silver,Saloon,56.5 mpg
+/ad/30561141,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport Edition Estate,"8,895",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"104,253 miles",Diesel,Automatic,White,Estate,56.5 mpg
+/ad/30842735,Mercedes-Benz A Class,1.8 A180 CDI SE 7G-DCT Euro 5 (s/s) 5dr Hatchback,"8,899",2014,Automatic,68.9 mpg,Diesel,2014,1.8L,"85,483 miles",Diesel,Automatic,Black,Hatchback,68.9 mpg
+/ad/30781978,Mercedes-Benz C Class,2.1 C250 CDI AMG SPORT EDITION PREMIUM PLUS 2d 202 BHP Coupe,"8,900",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"100,000 miles",Diesel,Automatic,GREY,Coupe,53.3 mpg
+/ad/30529049,Mercedes-Benz C Class,C220 CDI AMG SPORT FINAL EDITION 5d 168 BHP Estate,"8,900",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"102,000 miles",Diesel,Automatic,BLACK,Estate,56.5 mpg
+/ad/29736989,Mercedes-Benz V Class,Other,"8,945",2014,Automatic,Tax: £290,2014,2287cc,"121,000 miles",Diesel,Automatic,White,Other,,
+/ad/30413069,Mercedes-Benz B Class,1.6 B180 BLUEEFFICIENCY SE 5d 122 BHP MPV,"8,950",2012,Manual,47.9 mpg,Petrol,2012,1595cc,"32,000 miles",Petrol,Manual,GREY,MPV,47.9 mpg
+/ad/27049944,Mercedes-Benz SLK,DIESEL ROADSTER Convertible,"8,950",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"75,398 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30844320,Mercedes-Benz C Class,DIESEL COUPE Coupe,"8,950",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"80,000 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30813359,Mercedes-Benz C Class,C220 Cdi Blueefficiency Amg Sport 2.1 Other,"8,950",2013,Automatic,54.3 mpg,Diesel,2013,2100cc,"82,000 miles",Diesel,Automatic,Silver,Other,54.3 mpg
+/ad/30943870,Mercedes-Benz A Class,1.5 A 180 D SPORT EXECUTIVE 5d 107 BHP Hatchback,"8,950",2015,Manual,72.4 mpg,Diesel,2015,1461cc,"87,000 miles",Diesel,Manual,White,Hatchback,72.4 mpg
+/ad/30951431,Mercedes-Benz M Class,Ml350 Cdi Blueefficiency Sport 3 Other,"8,950",2011,Automatic,32.5 mpg,Diesel,2011,3000cc,"88,000 miles",Diesel,Automatic,Black,Other,32.5 mpg
+/ad/27973850,Mercedes-Benz E Class,DIESEL SALOON Saloon,"8,950",2012,Automatic,Tax: n/a,2012,2143cc,"90,000 miles",Diesel,Automatic,Silver,Saloon,,
+/ad/30273959,Mercedes-Benz A Class,1.8 A200 CDI BLUEEFFICIENCY AMG SPORT 5d 136 BHP Hatchback,"8,950",2014,Manual,61.4 mpg,Diesel,2014,1796cc,"92,315 miles",Diesel,Manual,RED,Hatchback,61.4 mpg
+/ad/28626323,Mercedes-Benz SL Class,SL 350 SPORT EDITION Convertible,"8,950",2008,Automatic,27.4 mpg,Petrol,2008,3498cc,"118,550 miles",Petrol,Automatic,Silver,Convertible,27.4 mpg
+/ad/28138243,Mercedes-Benz 220,E220,"8,950",1997,Automatic,Tax: £280,1997,2199cc,"130,325 miles",Petrol,Automatic,Azurite Blue Metallic With Mushroom Leather,Convertible,,
+/ad/29713786,Mercedes-Benz E Class,E220 CDI BLUEEFFICIENCY SS SE Saloon,"8,950",2012,Automatic,57.6 mpg,Diesel,2012,2143cc,"136,000 miles",Diesel,Automatic,Black,Saloon,57.6 mpg
+/ad/28446411,Mercedes-Benz S Class,4.2 420 SE 4d AUTO 232 BHP Saloon,"8,975",1990,Automatic,Tax: £280,1990,4196cc,"58,202 miles",Petrol,Automatic,RED,Saloon,,
+/ad/30747993,Mercedes-Benz A Class,A180 BlueEFFICIENCY Sport 5dr ++ HALF LEATHER / ULEZ / SENSORS ++ Hatchback,"8,975",2013,Manual,49.6 mpg,Petrol,2013,1595cc,"75,000 miles",Petrol,Manual,Mountain Grey,Hatchback,49.6 mpg
+/ad/30717069,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT PLUS 4d 202 BHP Saloon,"8,975",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"77,483 miles",Diesel,Automatic,WHITE,Saloon,54.3 mpg
+/ad/30951177,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"8,975",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"82,334 miles",Diesel,Manual,Blue,Hatchback,70.6 mpg
+/ad/30951177,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"8,975",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"82,334 miles",Diesel,Manual,Blue,Hatchback,70.6 mpg
+/ad/30070534,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP Hatchback,"8,977",2013,Manual,72.4 mpg,Diesel,2013,1.5L,"69,000 miles",Diesel,Manual,Black,Hatchback,72.4 mpg
+/ad/30808461,Mercedes-Benz SL Class,3.2 SL320 2d 221 BHP Convertible,"8,980",1999,Automatic,24.6 mpg,Petrol,1999,3199cc,"91,447 miles",Petrol,Automatic,SILVER,Convertible,24.6 mpg
+/ad/30447290,Mercedes-Benz CLS Class,3.0TD (265bhp) CLS350 BlueEFFICIENCY Coupe 4d 2987cc 7G-Tronic Plus,"8,981",2013,Automatic,Tax: n/a,2013,2987cc,"116,975 miles",Diesel,Automatic,Black,Saloon,,
+/ad/28646343,Mercedes-Benz A Class,2.1 A220 Cdi Blueefficiency Amg Sport Hatchback 2.1 Other,"8,981",2013,Automatic,64.2 mpg,Diesel,2013,2100cc,"123,519 miles",Diesel,Automatic,Red,Other,64.2 mpg
+/ad/30440241,Mercedes-Benz C Class,1.6 C180 BLUEEFFICIENCY AMG SPORT 2d AUTO 154 BHP Coupe,"8,984",2012,Automatic,44.8 mpg,Petrol,2012,1595cc,"87,989 miles",Petrol,Automatic,BLACK,Coupe,44.8 mpg
+/ad/30544693,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY SPORT 5d 170 BHP Estate,"8,990",2011,Automatic,44.8 mpg,Diesel,2011,2143cc,"32,000 miles",Diesel,Automatic,BLACK,Estate,44.8 mpg
+/ad/30457681,Mercedes-Benz S Class,SL350 Convertible,"8,990",2007,Automatic,24.1 mpg,Petrol,2007,3724cc,"40,150 miles",Petrol,Automatic,SILVER,Convertible,24.1 mpg
+/ad/30739718,Mercedes-Benz SLK,2.3 SLK,"8,990",2002,Automatic,30.0 mpg,Petrol,2002,2295cc,"46,000 miles",Petrol,Automatic,Black,Convertible,30 mpg
+/ad/30392638,Mercedes-Benz E Class,CDI BLUEEFFICIENCY S/S SPORT AUTO E CLASS SALOON Saloon,"8,990",2012,Automatic,57.6 mpg,Diesel,2012,2143cc,"51,147 miles",Diesel,Automatic,Silver,Saloon,57.6 mpg
+/ad/30849882,Mercedes-Benz C Class,C220 CDI BlueEFFICIENCY Executive SE 4dr Auto Saloon,"8,990",2013,Automatic,64.2 mpg,Diesel,2013,2143cc,"66,000 miles",Diesel,Automatic,White,Saloon,64.2 mpg
+/ad/30358913,Mercedes-Benz E Class,E350 CDI BLUEEFFICIENCY SPORT Convertible,"8,990",2011,Automatic,39.2 mpg,Diesel,2011,2987cc,"73,000 miles",Diesel,Automatic,Black,Convertible,39.2 mpg
+/ad/30715940,Mercedes-Benz A Class,1.6 A180 BLUEEFFICIENCY SPORT 5d 122 BHP Hatchback,"8,990",2013,Manual,49.6 mpg,Petrol,2013,1595cc,"73,000 miles",Petrol,Manual,RED,Hatchback,49.6 mpg
+/ad/29567851,Mercedes-Benz SL Class,3.7 SL350 Convertible 2d 3724cc auto BEST COLOUR,"8,990",2004,Automatic,24.1 mpg,Petrol,2004,3724cc,"76,000 miles",Petrol,Automatic,Silver,Convertible,24.1 mpg
+/ad/30724318,Mercedes-Benz E Class,2.1 E250 CDI SE G-Tronic+ Euro 5 (s/s) 5dr Estate,"8,990",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"77,151 miles",Diesel,Automatic,Grey,Estate,53.3 mpg
+/ad/29938619,Mercedes-Benz CL Class,5.4 CL55 AMG 2d 360 BHP Coupe,"8,990",2002,Automatic,21.1 mpg,Petrol,2002,5439cc,"90,000 miles",Petrol,Automatic,SILVER,Coupe,21.1 mpg
+/ad/30724342,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport Edition G-Tronic+ Euro 5 (s/s) 2dr Coupe,"8,990",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"91,000 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30471900,Mercedes-Benz B Class,1.6 B200 BlueEfficiency Sport 7G-DCT Euro 5 (s/s) 5dr MPV,"8,990",2013,Automatic,45.6 mpg,Petrol,2013,1595cc,"91,050 miles",Petrol,Automatic,Red,MPV,45.6 mpg
+/ad/30545695,Mercedes-Benz C Class,2.1 C250 CDI AMG SPORT EDITION PREMIUM 2d 202 BHP Coupe,"8,990",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"91,578 miles",Diesel,Automatic,SILVER,Coupe,53.3 mpg
+/ad/30284535,Mercedes-Benz E Class,Estate,"8,990",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"93,000 miles",Diesel,Automatic,Grey,Estate,53.3 mpg
+/ad/30861236,Mercedes-Benz E Class,E250 CDI BlueEFFICIENCY Sport 2dr Tip Auto Convertible,"8,990",2013,Automatic,53.5 mpg,Diesel,2013,2143cc,"94,000 miles",Diesel,Automatic,Red,Convertible,53.5 mpg
+/ad/30134065,Mercedes-Benz E Class,E220 CDI SE 4dr 7G-Tronic Saloon,"8,990",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"95,537 miles",Diesel,Automatic,Silver,Saloon,58.9 mpg
+/ad/30504687,Mercedes-Benz SLK,SLK,"8,990",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"100,000 miles",Diesel,Automatic,Metallic Silver,Convertible,56.5 mpg
+/ad/30844933,Mercedes-Benz E Class,2.1 E220 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 5dr Estate,"8,990",2013,Automatic,52.3 mpg,Diesel,2013,2143cc,"100,000 miles",Diesel,Automatic,Black,Estate,52.3 mpg
+/ad/30807915,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT PLUS 2d 168 BHP Coupe,"8,990",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"107,567 miles",Diesel,Automatic,WHITE,Coupe,53.3 mpg
+/ad/30541231,Mercedes-Benz GLA Class,2.1 GLA200 CDI AMG LINE EXECUTIVE 5d 136 BHP Estate,"8,990",2014,Manual,62.8 mpg,Diesel,2014,2143cc,"124,377 miles",Diesel,Manual,GREY,Estate,62.8 mpg
+/ad/30868920,Mercedes-Benz E Class,2.1 CDI AMG Line G-Tronic+ Euro 5 (s/s) 2dr Coupe,"8,990",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"130,000 miles",Diesel,Automatic,Grey,Coupe,57.7 mpg
+/ad/30959027,Mercedes-Benz C Class,2.1 C250 CDI BlueEfficiency AMG Sport G-Tronic+ Euro 5 (s/s) 4dr Saloon,"8,990",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"43,000 miles",Diesel,Automatic,Black,Saloon,56.5 mpg
+/ad/30955096,Mercedes-Benz SLK,2.1 SLK,"8,990",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"69,074 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30861003,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"8,990",2014,Manual,78.5 mpg,Diesel,2014,1461cc,"69,425 miles",Diesel,Manual,Blue,Hatchback,78.5 mpg
+/ad/30924465,Mercedes-Benz C Class,2.1 C250 CDI BlueEfficiency AMG Sport Plus G-Tronic+ Euro 5 (s/s) 5dr Estate,"8,990",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"105,000 miles",Diesel,Automatic,White,Estate,53.3 mpg
+/ad/30301692,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT 5d 202 BHP Estate,"8,990",2013,Automatic,54.3 mpg,Diesel,2013,2.1L,"82,427 miles",Diesel,Automatic,Silver,Estate,54.3 mpg
+/ad/30926343,Mercedes-Benz SLK,1.8 SLK,"8,991",2012,Automatic,43.5 mpg,Petrol,2012,1.8L,"79,156 miles",Petrol,Automatic,White,Convertible,43.5 mpg
+/ad/29434989,Mercedes-Benz E Class,E350 CDI BLUEEFFICIENCY SPORT Convertible,"8,993",2010,Automatic,39.2 mpg,Diesel,2010,2987cc,"65,000 miles",Diesel,Automatic,Black,Convertible,39.2 mpg
+/ad/27028571,Mercedes-Benz SL Class,SL500 Convertible,"8,994",2003,Automatic,22.2 mpg,Petrol,2003,4966cc,"70,000 miles",Petrol,Automatic,Silver,Convertible,22.2 mpg
+/ad/29635059,Mercedes-Benz E Class,E220 CDI AMG Sport 2dr 7G-Tronic Coupe,"8,994",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"119,396 miles",Diesel,Automatic,Silver,Coupe,58.9 mpg
+/ad/29699974,Mercedes-Benz C Class,2.1TD (168bhp) C220 SE BlueTEC (s/s) Saloon 4d 2143cc,"8,994",2015,Manual,Tax: n/a,2015,2143cc,"139,000 miles",Diesel,Manual,White,Saloon,,
+/ad/30904039,Mercedes-Benz CLA Class,2.1 CLA220 CDI Sport Coupe 7G-DCT Euro 6 (s/s) 4dr Saloon,"8,994",2015,Automatic,62.8 mpg,Diesel,2015,2143cc,"104,700 miles",Diesel,Automatic,Grey,Saloon,62.8 mpg
+/ad/30895294,Mercedes-Benz C Class,2.1 C300dh Sport G-Tronic+ Euro 6 (s/s) 5dr Estate,"8,994",2015,Automatic,76.4 mpg,Diesel,2015,2143cc,"117,850 miles",Diesel,Automatic,Grey,Estate,76.4 mpg
+/ad/30796823,Mercedes-Benz SLK,SLK,"8,995",2009,Manual,36.2 mpg,Petrol,2009,1796cc,"21,000 miles",Petrol,Manual,White,Convertible,36.2 mpg
+/ad/30172866,Mercedes-Benz SLK,230 Kompressor R170 Convertible,"8,995",2003,Automatic,30.0 mpg,Petrol,2003,2295cc,"24,000 miles",Petrol,Automatic,Silver,Convertible,30 mpg
+/ad/30895174,Mercedes-Benz SLK,2.3 SLK,"8,995",2000,Automatic,30.0 mpg,Petrol,2000,2295cc,"29,110 miles",Petrol,Automatic,Silver,Convertible,30 mpg
+/ad/27963990,Mercedes-Benz SLK,SLK,"8,995",2008,Automatic,32.1 mpg,Petrol,2008,1796cc,"46,487 miles",Petrol,Automatic,Silver,Convertible,32.1 mpg
+/ad/30944326,Mercedes-Benz B Class,1.5 B180 CDI Sport MPV,"8,995",2014,Automatic,64.2 mpg,Diesel,2014,1461cc,"47,000 miles",Diesel,Automatic,Blue,MPV,64.2 mpg
+/ad/30075813,Mercedes-Benz B Class,1.6 B180 BLUEEFFICIENCY SPORT 5d 122 BHP MPV,"8,995",2012,Manual,45.6 mpg,Petrol,2012,1.6L,"48,300 miles",Petrol,Manual,Silver,MPV,45.6 mpg
+/ad/30545403,Mercedes-Benz SLK,2.1 SLK,"8,995",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"52,000 miles",Diesel,Automatic,SILVER,Convertible,56.5 mpg
+/ad/28935409,Mercedes-Benz E Class,2.1 E220 Cdi Blueefficiency Sport Cabriolet 2.1 Other,"8,995",2012,Automatic,53.3 mpg,Diesel,2012,2100cc,"52,856 miles",Diesel,Automatic,White,Other,53.3 mpg
+/ad/30671310,Mercedes-Benz A Class,1.5 A180 CDI ECO SE 5d 109 BHP Hatchback,"8,995",2014,Manual,78.5 mpg,Diesel,2014,1461cc,"62,700 miles",Diesel,Manual,Black,Hatchback,78.5 mpg
+/ad/28001388,Mercedes-Benz E Class,E220 CDI SE 2dr 7G-Tronic Coupe,"8,995",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"63,653 miles",Diesel,Automatic,Black,Coupe,58.9 mpg
+/ad/29970211,Mercedes-Benz A Class,A 180 1.5 D SE Hatchback,"8,995",2015,Manual,80.7 mpg,Diesel,2015,1461cc,"64,288 miles",Diesel,Manual,Blue,Hatchback,80.7 mpg
+/ad/30638167,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT 4d 202 BHP Saloon,"8,995",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"64,700 miles",Diesel,Automatic,Black,Saloon,56.5 mpg
+/ad/27959685,Mercedes-Benz C Class,C250 CDI BLUEEFFICIENCY AMG SPORT 2DR COUPE Coupe,"8,995",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"68,000 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30936690,Mercedes-Benz A Class,1.6 A180 BLUEEFFICIENCY SPORT 5d 122 BHP Hatchback,"8,995",2014,Manual,49.6 mpg,Petrol,2014,1.6L,"68,650 miles",Petrol,Manual,Red,Hatchback,49.6 mpg
+/ad/30538166,Mercedes-Benz E Class,E220 CDI BlueEFFICIENCY Executive SE 5dr Tip Auto Estate,"8,995",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"69,000 miles",Diesel,Automatic,Silver,Estate,53.3 mpg
+/ad/30719347,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 4dr Saloon,"8,995",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"70,705 miles",Diesel,Automatic,Grey,Saloon,56.5 mpg
+/ad/29991389,Mercedes-Benz 190,1.8 E 1.8 4d 108 BHP Saloon,"8,995",1990,Automatic,Tax: £325,1990,1797cc,"75,522 miles",Petrol,Automatic,CREAM,Saloon,,
+/ad/30677459,Mercedes-Benz C Class,C220 CDI BlueEFFICIENCY AMG Sport 5dr Estate,"8,995",2013,Manual,57.7 mpg,Diesel,2013,2143cc,"75,710 miles",Diesel,Manual,Silver,Estate,57.7 mpg
+/ad/30791388,Mercedes-Benz C Class,1.8 C180 BlueEfficiency SE G-Tronic+ Euro 5 (s/s) 5dr Estate,"8,995",2013,Automatic,42.8 mpg,Petrol,2013,1796cc,"77,000 miles",Petrol,Automatic,Black,Estate,42.8 mpg
+/ad/29523719,Mercedes-Benz CL Class,5.5 CL 500 2DR Automatic Coupe,"8,995",2007,Automatic,23.3 mpg,Petrol,2007,5461cc,"78,710 miles",Petrol,Automatic,Silver,Coupe,23.3 mpg
+/ad/30534039,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT PLUS 4d 168 BHP Saloon,"8,995",2012,Automatic,54.3 mpg,Diesel,2012,2143cc,"79,219 miles",Diesel,Automatic,BLACK,Saloon,54.3 mpg
+/ad/30592445,Mercedes-Benz SL Class,3.5 SL350 7G-Tronic 2dr Convertible,"8,995",2007,Automatic,27.4 mpg,Petrol,2007,3498cc,"80,000 miles",Petrol,Automatic,Black,Convertible,27.4 mpg
+/ad/30538218,Mercedes-Benz SLK,SLK,"8,995",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"80,000 miles",Diesel,Automatic,Black,Other,56.5 mpg
+/ad/30671317,Mercedes-Benz A Class,1.5 A180 CDI ECO SE 5d 109 BHP Hatchback,"8,995",2014,Manual,78.5 mpg,Diesel,2014,1461cc,"80,100 miles",Diesel,Manual,White,Hatchback,78.5 mpg
+/ad/30497951,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT 5d 168 BHP Estate,"8,995",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"81,000 miles",Diesel,Automatic,BLUE,Estate,54.3 mpg
+/ad/29193238,Mercedes-Benz C Class,C220 CDI Sport 5dr Auto Estate,"8,995",2008,Automatic,41.5 mpg,Diesel,2008,2148cc,"81,996 miles",Diesel,Automatic,Silver,Estate,41.5 mpg
+/ad/30807241,Mercedes-Benz SLK,SLK,"8,995",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"82,000 miles",Diesel,Automatic,White,Convertible,56.5 mpg
+/ad/30672674,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP Hatchback,"8,995",2015,Manual,72.4 mpg,Diesel,2015,1461cc,"82,562 miles",Diesel,Manual,PURPLE,Hatchback,72.4 mpg
+/ad/29818711,Mercedes-Benz C Class,2.1 C220 CDI AMG SPORT EDITION 2d 168 BHP ** DIESEL.......COUPE......AUTOMATIC 7 SPEED.......YES ONL Coupe,"8,995",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"83,149 miles",Diesel,Automatic,BLACK,Coupe,53.3 mpg
+/ad/30100749,Mercedes-Benz B Class,B180 CDI BlueEFFICIENCY Sport 5dr Auto MPV,"8,995",2013,Automatic,64.2 mpg,Diesel,2013,1796cc,"84,000 miles",Diesel,Automatic,Black,MPV,64.2 mpg
+/ad/26963359,Mercedes-Benz CL Class,5.4 CL55 AMG 2dr Coupe,"8,995",2002,Automatic,21.1 mpg,Petrol,2002,5439cc,"85,000 miles",Petrol,Automatic,SILVER,Coupe,21.1 mpg
+/ad/30932523,Mercedes-Benz SLK,1.8 SLK,"8,995",2011,Automatic,43.5 mpg,Petrol,2011,1796cc,"85,000 miles",Petrol,Automatic,GREY,Convertible,43.5 mpg
+/ad/30289701,Mercedes-Benz A Class,1.5 A180 CDI Sport 7G-DCT Euro 5 (s/s) 5dr Hatchback,"8,995",2014,Automatic,68.9 mpg,Diesel,2014,1461cc,"85,158 miles",Diesel,Automatic,Silver,Hatchback,68.9 mpg
+/ad/30715152,Mercedes-Benz E Class,3.0 E350 CDI BLUEEFFICIENCY SPORT 2d 265 BHP Convertible,"8,995",2012,Automatic,47.1 mpg,Diesel,2012,2987cc,"85,368 miles",Diesel,Automatic,WHITE,Convertible,47.1 mpg
+/ad/30745705,Mercedes-Benz C Class,2.1TD (201bhp) C250 CDI AMG Sport Plus (COM) Coupe 2d 2143cc 7G-Tronic Plus,"8,995",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"85,666 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30739257,Mercedes-Benz SLK,2.1 SLK,"8,995",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"86,000 miles",Diesel,Automatic,WHITE,Convertible,56.5 mpg
+/ad/29353299,Mercedes-Benz C Class,1.6 C180 AMG SPORT EDITION 2d 154 BHP Coupe,"8,995",2014,Automatic,44.8 mpg,Petrol,2014,1595cc,"86,195 miles",Petrol,Automatic,RED,Coupe,44.8 mpg
+/ad/30673164,Mercedes-Benz A Class,1.5 A180 CDI AMG Sport Hatchback,"8,995",2013,Manual,70.6 mpg,Diesel,2013,1461cc,"86,290 miles",Diesel,Manual,Grey,Hatchback,70.6 mpg
+/ad/29252525,Mercedes-Benz E Class,E220 CDI BLUEEFFICIENCY SE Convertible,"8,995",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"87,000 miles",Diesel,Automatic,Silver,Convertible,53.3 mpg
+/ad/30850504,Mercedes-Benz E Class,E250 CDI BlueEFFICIENCY Sport 2dr Tip Auto Coupe,"8,995",2013,Automatic,55.4 mpg,Diesel,2013,2143cc,"88,000 miles",Diesel,Automatic,Silver,Coupe,55.4 mpg
+/ad/29898075,Mercedes-Benz B Class,B180 CDI Sport 5dr MPV,"8,995",2014,Manual,61.4 mpg,Diesel,2014,1461cc,"89,000 miles",Diesel,Manual,Black,MPV,61.4 mpg
+/ad/29611701,Mercedes-Benz A Class,2.1 A200 CDI AMG SPORT 5d 136 BHP Hatchback,"8,995",2014,Automatic,68.9 mpg,Diesel,2014,2143cc,"89,000 miles",Diesel,Automatic,BLUE,Hatchback,68.9 mpg
+/ad/29373544,Mercedes-Benz C Class,1.6 C180 AMG SPORT EDITION 2d 154 BHP Coupe,"8,995",2014,Automatic,44.8 mpg,Petrol,2014,1595cc,"89,000 miles",Petrol,Automatic,RED,Coupe,44.8 mpg
+/ad/30798744,Mercedes-Benz CLA Class,1.6 CLA180 SPORT 4d 122 BHP Coupe,"8,995",2013,Manual,50.4 mpg,Petrol,2013,1595cc,"90,000 miles",Petrol,Manual,GREY,Coupe,50.4 mpg
+/ad/30638164,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SE 5d 109 BHP Hatchback,"8,995",2015,Manual,74.3 mpg,Diesel,2015,1461cc,"92,800 miles",Diesel,Manual,Grey,Hatchback,74.3 mpg
+/ad/30683205,Mercedes-Benz C Class,2.1 C220 CDI Executive SE Saloon,"8,995",2014,Manual,68.9 mpg,Diesel,2014,2143cc,"93,000 miles",Diesel,Manual,Black,Saloon,68.9 mpg
+/ad/29781747,Mercedes-Benz A Class,Hatchback,"8,995",2013,Automatic,65.7 mpg,Diesel,2013,1800cc,"93,650 miles",Diesel,Automatic,Silver,Hatchback,65.7 mpg
+/ad/30489882,Mercedes-Benz A Class,A180 CDI BLUEEFFICIENCY SE Hatchback,"8,995",2014,Automatic,70.6 mpg,Diesel,2014,1461cc,"93,714 miles",Diesel,Automatic,Silver,Hatchback,70.6 mpg
+/ad/30382424,Mercedes-Benz E Class,E320 7 SEATER 3.2 5d 217 BHP Estate,"8,995",1995,Automatic,Tax: £325,1995,3199cc,"94,000 miles",Petrol,Automatic,SILVER,Estate,,
+/ad/29666865,Mercedes-Benz E Class,5.4 E55 AMG 4d 354 BHP Saloon,"8,995",1998,Automatic,23.3 mpg,Petrol,1998,5439cc,"95,000 miles",Petrol,Automatic,SILVER,Saloon,23.3 mpg
+/ad/30566461,Mercedes-Benz A Class,1.5 A180d Sport Hatchback,"8,995",2016,Manual,72.4 mpg,Diesel,2016,1461cc,"95,000 miles",Diesel,Manual,Silver,Hatchback,72.4 mpg
+/ad/27021263,Mercedes-Benz SL Class,Convertible,"8,995",1995,Automatic,Tax: £280,1995,3199cc,"96,000 miles",Petrol,Automatic,Green,Convertible,,
+/ad/28190579,Mercedes-Benz S Class,S350 BLUETEC Saloon,"8,995",2010,Automatic,41.5 mpg,Diesel,2010,2987cc,"98,000 miles",Diesel,Automatic,Silver,Saloon,41.5 mpg
+/ad/28765997,Mercedes-Benz SLK,1.8 SLK,"8,995",2012,Automatic,43.5 mpg,Petrol,2012,1796cc,"98,646 miles",Petrol,Automatic,BLACK,Convertible,43.5 mpg
+/ad/30566635,Mercedes-Benz A Class,Hatchback,"8,995",2016,Manual,80.7 mpg,Diesel,2016,1461cc,"102,461 miles",Diesel,Manual,Grey,Hatchback,80.7 mpg
+/ad/27960308,Mercedes-Benz SL Class,Convertible,"8,995",1996,Automatic,28.2 mpg,Petrol,1996,3199cc,"104,403 miles",Petrol,Automatic,Blue,Convertible,28.2 mpg
+/ad/30538857,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT PLUS 5d 202 BHP Estate,"8,995",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"106,568 miles",Diesel,Automatic,BLACK,Estate,53.3 mpg
+/ad/30404726,Mercedes-Benz CLA Class,(65Reg)200 CDI Sport 5dr Shooting Brake £35 Tax ULEZ Estate,"8,995",2015,Manual,65.7 mpg,Diesel,2015,2143cc,"109,000 miles",Diesel,Manual,White,Estate,65.7 mpg
+/ad/30716910,Mercedes-Benz E Class,2.1 E220 CDI AMG SPORT 2d 170 BHP Convertible,"8,995",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"110,000 miles",Diesel,Automatic,GREY,Convertible,57.7 mpg
+/ad/29975703,Mercedes-Benz A Class,2.1 A220 CDI BlueEfficiency AMG Sport 7G-DCT Euro 6 (s/s) 5dr Hatchback,"8,995",2013,Automatic,64.2 mpg,Diesel,2013,2.14L,"112,761 miles",Diesel,Automatic,Black,Hatchback,64.2 mpg
+/ad/29524542,Mercedes-Benz C Class,DIESEL COUPE Coupe,"8,995",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"113,000 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30906630,Mercedes-Benz CLA Class,DIESEL COUPE Saloon,"8,995",2013,Automatic,62.8 mpg,Diesel,2013,2143cc,"113,000 miles",Diesel,Automatic,Silver,Saloon,62.8 mpg
+/ad/30529871,Mercedes-Benz E Class,2.1 E220 CDI SE 5d 168 BHP Estate,"8,995",2014,Automatic,Tax: n/a,2014,2143cc,"113,529 miles",Diesel,Automatic,BLACK,Estate,,
+/ad/30873036,Mercedes-Benz CLS Class,Coupe,"8,995",2013,Automatic,55.0 mpg,Diesel,2013,2143cc,"115,000 miles",Diesel,Automatic,Blue,Coupe,55 mpg
+/ad/29524542,Mercedes-Benz C Class,DIESEL COUPE Coupe,"8,995",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"113,000 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30906630,Mercedes-Benz CLA Class,DIESEL COUPE Saloon,"8,995",2013,Automatic,62.8 mpg,Diesel,2013,2143cc,"113,000 miles",Diesel,Automatic,Silver,Saloon,62.8 mpg
+/ad/30529871,Mercedes-Benz E Class,2.1 E220 CDI SE 5d 168 BHP Estate,"8,995",2014,Automatic,Tax: n/a,2014,2143cc,"113,529 miles",Diesel,Automatic,BLACK,Estate,,
+/ad/30873036,Mercedes-Benz CLS Class,Coupe,"8,995",2013,Automatic,55.0 mpg,Diesel,2013,2143cc,"115,000 miles",Diesel,Automatic,Blue,Coupe,55 mpg
+/ad/30556385,Mercedes-Benz E Class,2.1 E220 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 4dr Saloon,"8,995",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"118,797 miles",Diesel,Automatic,Silver,Saloon,58.9 mpg
+/ad/30634032,Mercedes-Benz C Class,DIESEL COUPE Coupe,"8,995",2012,Automatic,Tax: n/a,2012,2143cc,"119,000 miles",Diesel,Automatic,Black,Coupe,,
+/ad/30671294,Mercedes-Benz SLK,DIESEL ROADSTER Convertible,"8,995",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"120,000 miles",Diesel,Automatic,Silver,Convertible,56.5 mpg
+/ad/30580235,Mercedes-Benz CLS Class,CLS350 CDI BLUEEFFICIENCY Coupe,"8,995",2013,Automatic,46.3 mpg,Diesel,2013,2987cc,"121,000 miles",Diesel,Automatic,Black,Coupe,46.3 mpg
+/ad/29157428,Mercedes-Benz E Class,2.1 E300dh BlueTEC SE G-Tronic+ Euro 5 (s/s) 4dr lovely motor|2 Keys Saloon,"8,995",2014,Automatic,68.9 mpg,Hybrid,2014,2143cc,"127,500 miles",Diesel Hybrid,Automatic,Grey,Saloon,68.9 mpg
+/ad/30232226,Mercedes-Benz CLS Class,2.1 CLS250 CDI BlueEfficiency AMG Sport Estate,"8,995",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"141,000 miles",Diesel,Automatic,Black,Estate,53.3 mpg
+/ad/27968830,Mercedes-Benz SL Class,SL320 AUTO Convertible,"8,995",1995,Automatic,28.2 mpg,Petrol,1995,3199cc,"150,000 miles",Petrol,Automatic,Red,Convertible,28.2 mpg
+/ad/30914119,Mercedes-Benz CLS Class,CLS350 CDI BLUEEFFICIENCY AMG SPORT Estate,"8,995",2013,Automatic,47.1 mpg,Diesel,2013,2987cc,"152,487 miles",Diesel,Automatic,Blue,Estate,47.1 mpg
+/ad/27028645,Mercedes-Benz E Class,Ref 8390 - In Transit - Confirmed Sale - Mercedes W211 E Class,"8,995",2007,Automatic,48.7 mpg,Diesel,2007,Diesel,Automatic,Black,Estate,48.7 mpg,,
+/ad/27400812,Mercedes-Benz E Class,Ref 8383 - SALE AGREED AWAITING UK REGISTRATION - Mercedes W211 E Class,"8,995",2008,Automatic,44.8 mpg,Diesel,2008,Diesel,Automatic,Silver,Estate,44.8 mpg,,
+/ad/30699039,Mercedes-Benz E Class,E350 CDI BLUEEFFICIENCY SPORT Estate,"8,995",2011,Automatic,43.5 mpg,Diesel,2011,2987cc,Diesel,Automatic,Silver,Estate,43.5 mpg,
+/ad/30928544,Mercedes-Benz A Class,A180 (1.5) CDI Sport (Air Cond Hatchback,"8,995",2014,Automatic,68.9 mpg,Diesel,2014,1.5L,"72,077 miles",Diesel,Automatic,Juniper Red Gloss,Hatchback,68.9 mpg
+/ad/30634032,Mercedes-Benz C Class,DIESEL COUPE Coupe,"8,995",2012,Automatic,Tax: n/a,2012,2143cc,"119,000 miles",Diesel,Automatic,Black,Coupe,,
+/ad/30075813,Mercedes-Benz B Class,1.6 B180 BLUEEFFICIENCY SPORT 5d 122 BHP MPV,"8,995",2012,Manual,45.6 mpg,Petrol,2012,1.6L,"48,300 miles",Petrol,Manual,Silver,MPV,45.6 mpg
+/ad/30914119,Mercedes-Benz CLS Class,CLS350 CDI BLUEEFFICIENCY AMG SPORT Estate,"8,995",2013,Automatic,47.1 mpg,Diesel,2013,2987cc,"152,487 miles",Diesel,Automatic,Blue,Estate,47.1 mpg
+/ad/30962533,Mercedes-Benz A Class,A180 CDI BLUEEFFICIENCY AMG SPORT Hatchback,"8,995",2014,Manual,70.6 mpg,Diesel,2014,1461cc,"70,732 miles",Diesel,Manual,Black,Hatchback,70.6 mpg
+/ad/30962534,Mercedes-Benz C Class,C220 CDI BLUEEFFICIENCY SPORT Estate,"8,995",2012,Automatic,54.3 mpg,Diesel,2012,2143cc,"80,932 miles",Diesel,Automatic,Black,Estate,54.3 mpg
+/ad/30624458,Mercedes-Benz SL Class,3.5 SL350 Convertible 2d 3498cc 7G-Tronic,"8,999",2007,Automatic,Tax: n/a,2007,3498cc,"50,000 miles",Petrol,Automatic,Silver /Blue,Convertible,,
+/ad/30847026,Mercedes-Benz B Class,1.8 BlueEfficiency Sport 7G-DCT Euro 5 (s/s) 5dr MPV,"8,999",2012,Automatic,60.1 mpg,Diesel,2012,1796cc,"66,230 miles",Diesel,Automatic,Silver,MPV,60.1 mpg
+/ad/28082238,Mercedes-Benz SL Class,5.0 SL500 2d 306 BHP Convertible,"8,999",2002,Automatic,22.2 mpg,Petrol,2002,4966cc,"66,626 miles",Petrol,Automatic,BLACK,Convertible,22.2 mpg
+/ad/28082238,Mercedes-Benz SL Class,5.0 SL500 2d 306 BHP Convertible,"8,999",2002,Automatic,22.2 mpg,Petrol,2002,4966cc,"66,626 miles",Petrol,Automatic,BLACK,Convertible,22.2 mpg
+/ad/30449167,Mercedes-Benz B Class,B180 [1.5] CDI Sport 5dr Auto Hatchback,"8,999",2014,Automatic,64.2 mpg,Diesel,2014,1461cc,"68,900 miles",Diesel,Automatic,Purple,Hatchback,64.2 mpg
+/ad/30383724,Mercedes-Benz SL Class,5.0 SL500 Convertible 2d 4966cc auto,"8,999",2004,Automatic,Tax: n/a,2004,4966cc,"69,000 miles",Petrol,Automatic,Silver,Convertible,,
+/ad/30202929,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT PLUS 4d 202 BHP Saloon,"8,999",2012,Automatic,54.3 mpg,Diesel,2012,2143cc,"71,916 miles",Diesel,Automatic,SILVER,Saloon,54.3 mpg
+/ad/29699271,Mercedes-Benz S Class,S350 CDi BlueEFFICIENCY 4dr Auto Saloon,"8,999",2010,Automatic,37.2 mpg,Diesel,2010,2987cc,"72,000 miles",Diesel,Automatic,Silver,Saloon,37.2 mpg
+/ad/29134194,Mercedes-Benz E Class,2.1 CDI AMG Sport Saloon 4dr Diesel G-Tronic+ Euro 5 (s/s) (170 ps) Saloon,"8,999",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"75,067 miles",Diesel,Automatic,Blue,Saloon,58.9 mpg
+/ad/30299288,Mercedes-Benz E Class,3.0 E350 CDI V6 BlueEfficiency Sport Convertible,"8,999",2011,Automatic,39.2 mpg,Diesel,2011,2987cc,"79,000 miles",Diesel,Automatic,White,Convertible,39.2 mpg
+/ad/30614086,Mercedes-Benz A Class,1.8 A200 CDI BLUEEFFICIENCY AMG SPORT 5d 136 BHP Hatchback,"8,999",2014,Manual,61.4 mpg,Diesel,2014,1796cc,"79,570 miles",Diesel,Manual,BLACK,Hatchback,61.4 mpg
+/ad/29620046,Mercedes-Benz SLK,SLK,"8,999",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"83,240 miles",Diesel,Automatic,Grey,Convertible,56.5 mpg
+/ad/27282099,Mercedes-Benz SL Class,SL 280 Convertible,"8,999",1996,Automatic,28.5 mpg,Petrol,1996,2799cc,"86,000 miles",Petrol,Automatic,Black,Convertible,28.5 mpg
+/ad/29733753,Mercedes-Benz C Class,2.1 C200 CDI BLUEEFFICIENCY AMG SPORT 4d 135 BHP Saloon,"8,999",2013,Automatic,55.4 mpg,Diesel,2013,2.1L,"94,935 miles",Diesel,Automatic,Black,Saloon,55.4 mpg
+/ad/30383725,Mercedes-Benz SL Class,5.0 SL500 Convertible 2d 4973cc auto,"8,999",1996,Automatic,Tax: n/a,1996,4973cc,"100,000 miles",Petrol,Automatic,Red,Convertible,,
+/ad/29959278,Mercedes-Benz E Class,2.1 CDI AMG Line Saloon 4dr Diesel G-Tronic+ Euro 5 (s/s) (204 ps) Saloon,"8,999",2015,Automatic,55.4 mpg,Diesel,2015,2143cc,"104,256 miles",Diesel,Automatic,Diamond Silver Metallic,Saloon,55.4 mpg
+/ad/30597628,Mercedes-Benz R Class,3.0 R350L CDI MPV,"8,999",2012,Automatic,33.2 mpg,Diesel,2012,2987cc,"113,000 miles",Diesel,Automatic,White,MPV,33.2 mpg
+/ad/30550906,Mercedes-Benz C Class,2.1 C220 BLUETEC SE EXECUTIVE 4d 170 BHP Saloon,"8,999",2015,Manual,70.6 mpg,Diesel,2015,2143cc,"113,700 miles",Diesel,Manual,BLACK,Saloon,70.6 mpg
+/ad/30713674,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SE 5d 109 BHP Hatchback,"9,000",2013,Manual,74.3 mpg,Diesel,2013,1461cc,"57,000 miles",Diesel,Manual,SILVER,Hatchback,74.3 mpg
+/ad/30394433,Mercedes-Benz B Class,MPV,"9,000",2014,Automatic,64.2 mpg,Diesel,2014,1796cc,"60,000 miles",Diesel,Automatic,Grey,MPV,64.2 mpg
+/ad/30495895,Mercedes-Benz C Class,C250 CDI AMG Sport Plus 4dr Auto Saloon,"9,000",2012,Automatic,54.3 mpg,Diesel,2012,2143cc,"75,039 miles",Diesel,Automatic,Black,Saloon,54.3 mpg
+/ad/30883530,Mercedes-Benz SLK,1.8 SLK,"9,000",2012,Automatic,43.5 mpg,Petrol,2012,1796cc,"76,000 miles",Petrol,Automatic,Black,Convertible,43.5 mpg
+/ad/30838838,Mercedes-Benz E Class,1.8 E200 BlueEfficiency Sport Cabriolet G-Tronic+ Euro 5 (s/s) 2dr Convertible,"9,000",2012,Automatic,42.2 mpg,Petrol,2012,1796cc,"78,110 miles",Petrol,Automatic,White,Convertible,42.2 mpg
+/ad/30726402,Mercedes-Benz SLK,1.8 SLK,"9,000",2012,Automatic,43.5 mpg,Petrol,2012,1796cc,"85,950 miles",Petrol,Automatic,BLACK,Convertible,43.5 mpg
+/ad/30524124,Mercedes-Benz C Class,C180 AMG Sport Edition 2dr Auto [Premium] Coupe,"9,000",2014,Automatic,44.8 mpg,Petrol,2014,1595cc,"86,483 miles",Petrol,Automatic,Silver,Coupe,44.8 mpg
+/ad/30433766,Mercedes-Benz B Class,B180 CDI BLUEEFFICIENCY SPORT MPV,"9,000",2014,Automatic,64.2 mpg,Diesel,2014,1461cc,"86,996 miles",Diesel,Automatic,Grey,MPV,64.2 mpg
+/ad/30871830,Mercedes-Benz CLS Class,CLS350 CDI BLUEEFFICIENCY Coupe,"9,000",2013,Automatic,46.3 mpg,Diesel,2013,2987cc,"98,000 miles",Diesel,Automatic,SILVER,Coupe,46.3 mpg
+/ad/29788960,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"9,000",2014,Manual,70.6 mpg,Diesel,2014,1461cc,"99,000 miles",Diesel,Manual,White,Hatchback,70.6 mpg
+/ad/30719226,Mercedes-Benz E Class,2.1 E250 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 2dr Coupe,"9,000",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"119,876 miles",Diesel,Automatic,Silver,Coupe,57.7 mpg
+/ad/30537226,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT 2d 204 BHP Coupe,"9,000",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"73,000 miles",Diesel,Automatic,SILVER,Coupe,53.3 mpg
+/ad/30838838,Mercedes-Benz E Class,1.8 E200 BlueEfficiency Sport Cabriolet G-Tronic+ Euro 5 (s/s) 2dr Convertible,"9,000",2012,Automatic,42.2 mpg,Petrol,2012,1796cc,"78,110 miles",Petrol,Automatic,White,Convertible,42.2 mpg
+/ad/30925199,Mercedes-Benz A Class,A200 CDI SPORT Hatchback,"9,000",2014,Automatic,68.9 mpg,Diesel,2014,2143cc,"83,000 miles",Diesel,Automatic,SILVER,Hatchback,68.9 mpg
+/ad/30699398,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport Edition G-Tronic+ Euro 5 (s/s) 5dr Estate,"9,045",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"100,000 miles",Diesel,Automatic,Silver,Estate,56.5 mpg
+/ad/28961728,Mercedes-Benz B Class,1.5 B180 CDI BLUEEFFICIENCY SE 5d 107 BHP MPV,"9,125",2014,Automatic,68.9 mpg,Diesel,2014,1461cc,"53,124 miles",Diesel,Automatic,BLUE,MPV,68.9 mpg
+/ad/30651500,Mercedes-Benz A Class,A180 CDI BlueEFFICIENCY AMG Sport 5dr ++ 20 TAX / MERCEDES HISTORY ++ Hatchback,"9,175",2013,Manual,70.6 mpg,Diesel,2013,1461cc,"74,000 miles",Diesel,Manual,South Seas Blue,Hatchback,70.6 mpg
+/ad/30852412,Mercedes-Benz C Class,1.8 C250 BlueEfficiency Sport G-Tronic+ Euro 5 (s/s) 5dr Estate,"9,179",2011,Automatic,40.9 mpg,Petrol,2011,1796cc,"75,000 miles",Petrol,Automatic,Silver,Estate,40.9 mpg
+/ad/30844867,Mercedes-Benz C Class,1.8 C180 BlueEfficiency Sport Edition 125 G-Tronic+ Euro 5 (s/s) 4dr Saloon,"9,195",2011,Automatic,42.2 mpg,Petrol,2011,1796cc,"56,418 miles",Petrol,Automatic,White,Saloon,42.2 mpg
+/ad/30921891,Mercedes-Benz A Class,1.5 A180 CDI Sport Hatchback 5dr Diesel Manual Euro 5 (s/s) (109 ps) Hatchback,"9,195",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"64,812 miles",Diesel,Manual,Grey,Hatchback,72.4 mpg
+/ad/30642016,Mercedes-Benz C Class,2.1 CDI AMG Sport Estate 5dr Diesel G-Tronic+ Euro 5 (s/s) (170 ps) Estate,"9,195",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"87,780 miles",Diesel,Automatic,Silver,Estate,54.3 mpg
+/ad/30544418,Mercedes-Benz C Class,1.6 C180 BLUEEFFICIENCY AMG SPORT 2d 154 BHP Coupe,"9,195",2014,Automatic,44.8 mpg,Petrol,2014,1595cc,"90,443 miles",Petrol,Automatic,SILVER,Coupe,44.8 mpg
+/ad/30668001,Mercedes-Benz B Class,B200 CDI 1.8 Diesel Sport Automatic 5-Door From £9,"9,195",2014,Automatic,60.1 mpg,Diesel,2014,1796cc,"99,000 miles",Diesel,Automatic,White,MPV,60.1 mpg
+/ad/30915621,Mercedes-Benz A Class,2.1 A220 CDI AMG Sport 7G-DCT Euro 6 (s/s) 5dr Hatchback,"9,195",2013,Automatic,64.2 mpg,Diesel,2013,2143cc,"100,745 miles",Diesel,Automatic,White,Hatchback,64.2 mpg
+/ad/30797072,Mercedes-Benz A Class,1.5 A180d Se Hatchback 5dr Diesel Manual Euro 6 (s/s) (109 Ps) Hatchback,"9,200",2016,Manual,80.7 mpg,Diesel,2016,"99,084 miles",Diesel,Manual,White,Hatchback,80.7 mpg,
+/ad/29275663,Mercedes-Benz M Class,ML350 BLUETEC SPORT Estate,"9,200",2012,Automatic,39.2 mpg,Diesel,2012,2987cc,"138,000 miles",Diesel,Automatic,Silver,Estate,39.2 mpg
+/ad/28063911,Mercedes-Benz M Class,3.0 ML350 CDI BLUEEFFICIENCY SPORT 5d 231 BHP Estate,"9,249",2011,Automatic,32.5 mpg,Diesel,2011,2987cc,"116,432 miles",Diesel,Automatic,GREY,Estate,32.5 mpg
+/ad/27959838,Mercedes-Benz E Class,DIESEL SALOON Saloon,"9,250",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"65,000 miles",Diesel,Automatic,Black,Saloon,53.3 mpg
+/ad/30714185,Mercedes-Benz C Class,1.6 C180 BlueEfficiency AMG Sport Estate 5dr Petrol G-Tronic+ (s/s) Estate,"9,250",2013,Automatic,44.1 mpg,Petrol,2013,1595cc,"78,671 miles",Petrol,Automatic,BLACK,Estate,44.1 mpg
+/ad/30791100,Mercedes-Benz A Class,1.5 A180 CDI Sport Euro 5 (s/s) 5dr Hatchback,"9,250",2015,Manual,72.4 mpg,Diesel,2015,1461cc,"86,341 miles",Diesel,Manual,White,Hatchback,72.4 mpg
+/ad/30786885,Mercedes-Benz A Class,1.5 SE (Executive) Euro 6 (s/s) 5dr Hatchback,"9,250",2017,Manual,80.7 mpg,Diesel,2017,1461cc,"100,000 miles",Diesel,Manual,Red,Hatchback,80.7 mpg
+/ad/30224503,Mercedes-Benz CLA Class,2.1 CLA220 CDI AMG Sport Coupe 7G-DCT Euro 6 (s/s) 4dr Saloon,"9,250",2014,Automatic,62.8 mpg,Diesel,2014,2.14L,"111,270 miles",Diesel,Automatic,Grey,Saloon,62.8 mpg
+/ad/30904684,Mercedes-Benz E Class,2.1 E250 CDI AMG Line G-Tronic+ Euro 5 (s/s) 2dr Heated Leather + DAB + AMG Coupe,"9,250",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"119,213 miles",Diesel,Automatic,Red,Coupe,57.7 mpg
+/ad/30899219,Mercedes-Benz E Class,2.1 E220 BlueTEC SE G-Tronic+ Euro 6 (s/s) 5dr Estate,"9,250",2014,Automatic,60.1 mpg,Diesel,2014,2143cc,"122,352 miles",Diesel,Automatic,Silver,Estate,60.1 mpg
+/ad/30583885,Mercedes-Benz C Class,C180 BLUEEFFICIENCY AMG SPORT Coupe,"9,290",2012,Automatic,44.8 mpg,Petrol,2012,1595cc,"68,000 miles",Petrol,Automatic,WHITE,Coupe,44.8 mpg
+/ad/30166634,Mercedes-Benz B Class,MPV,"9,295",2014,Automatic,60.1 mpg,Diesel,2014,1800cc,"52,500 miles",Diesel,Automatic,Black,MPV,60.1 mpg
+/ad/30839487,Mercedes-Benz SLK,1.8 SLK,"9,295",2012,Automatic,43.5 mpg,Petrol,2012,1796cc,"68,283 miles",Petrol,Automatic,Black,Convertible,43.5 mpg
+/ad/28852638,Mercedes-Benz B Class,B180 BLUEEFFICIENCY SPORT MPV,"9,295",2012,Automatic,45.6 mpg,Petrol,2012,1595cc,"83,000 miles",Petrol,Automatic,Silver,MPV,45.6 mpg
+/ad/30944078,Mercedes-Benz A Class,1.5 A180 CDI Sport 7G-DCT Euro 5 (s/s) 5dr Hatchback,"9,295",2014,Automatic,68.9 mpg,Diesel,2014,1461cc,"71,000 miles",Diesel,Automatic,Silver,Hatchback,68.9 mpg
+/ad/29667080,Mercedes-Benz SLK,2.1 SLK,"9,300",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"60,005 miles",Diesel,Automatic,GREY,Convertible,56.5 mpg
+/ad/29624981,Mercedes-Benz A Class,1.8 A200 CDI BLUEEFFICIENCY AMG SPORT 5DR DIESEL 136 BHP Hatchback,"9,330",2013,Manual,61.4 mpg,Diesel,2013,1796cc,"118,000 miles",Diesel,Manual,BLUE,Hatchback,61.4 mpg
+/ad/30669712,Mercedes-Benz C Class,2.0 C200 SE EXECUTIVE 4d 184 BHP Saloon,"9,377",2015,Automatic,53.3 mpg,Petrol,2015,1991cc,"144,158 miles",Petrol,Automatic,GREY,Saloon,53.3 mpg
+/ad/30924077,Mercedes-Benz SLK,2.1 SLK,"9,390",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"54,000 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30788752,Mercedes-Benz SLK,SLK,"9,390",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"75,000 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30873779,Mercedes-Benz S Class,3.0 S350L V6 BlueTEC G-Tronic+ Euro 6 4dr Saloon,"9,390",2011,Automatic,41.5 mpg,Diesel,2011,2987cc,"111,000 miles",Diesel,Automatic,Silver,Saloon,41.5 mpg
+/ad/30677303,Mercedes-Benz E Class,2.1 CDI BlueEfficiency Sport Cabriolet 2dr Diesel Manual Euro 5 (s/s) (204 ps) Convertible,"9,395",2012,Manual,55.4 mpg,Diesel,2012,2143cc,"72,944 miles",Diesel,Manual,Blue,Convertible,55.4 mpg
+/ad/30730509,Mercedes-Benz C Class,DIESEL COUPE Coupe,"9,395",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"83,284 miles",Diesel,Automatic,Silver,Coupe,53.3 mpg
+/ad/30839004,Mercedes-Benz E Class,1.8 E200 BlueEfficiency Sport Cabriolet G-Tronic+ Euro 5 (s/s) 2dr Convertible,"9,395",2013,Automatic,42.2 mpg,Petrol,2013,1796cc,"92,000 miles",Petrol,Automatic,Silver,Convertible,42.2 mpg
+/ad/30905131,Mercedes-Benz B Class,1.6 B180 BlueEfficiency Sport 7G-DCT Euro 5 (s/s) 5dr SVC HISTORY REVERSING CAMERA MPV,"9,400",2012,Automatic,45.6 mpg,Petrol,2012,1595cc,"51,000 miles",Petrol,Automatic,Blue,MPV,45.6 mpg
+/ad/30539259,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY EXECUTIVE SE 5d 168 BHP Estate,"9,400",2013,Automatic,55.4 mpg,Diesel,2013,2143cc,"61,000 miles",Diesel,Automatic,SILVER,Estate,55.4 mpg
+/ad/29849416,Mercedes-Benz E Class,2.1 E220 CDI BLUEEFFICIENCY SPORT ED125 2DR Automatic Convertible,"9,425",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"62,555 miles",Diesel,Automatic,IRIDIUM SILVER METALLIC,Convertible,53.3 mpg
+/ad/30915407,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP Hatchback,"9,450",2013,Manual,72.4 mpg,Diesel,2013,1461cc,"52,000 miles",Diesel,Manual,White,Hatchback,72.4 mpg
+/ad/30838209,Mercedes-Benz A Class,1.5 A180 CDI Sport 7G-DCT Euro 5 (s/s) 5dr Hatchback,"9,450",2014,Automatic,68.9 mpg,Diesel,2014,1461cc,"76,197 miles",Diesel,Automatic,Silver,Hatchback,68.9 mpg
+/ad/29211092,Mercedes-Benz C Class,C220 Cdi Blueefficiency Amg Sport Plus 2.2 Other,"9,450",2013,Automatic,54.3 mpg,Diesel,2013,2200cc,"84,000 miles",Diesel,Automatic,Silver,Other,54.3 mpg
+/ad/30932657,Mercedes-Benz 350,C350,"9,450",2016,Automatic,134.5 mpg,Hybrid,2016,1991cc,"100,000 miles",Hybrid,Automatic,White,Estate,134.5 mpg
+/ad/30767528,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"9,450",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"111,000 miles",Diesel,Manual,Blue,Hatchback,70.6 mpg
+/ad/30807376,Mercedes-Benz E Class,2.1 E220 CDI BlueEfficiency Sport Cabriolet G-Tronic+ Euro 5 (s/s) 2dr Convertible,"9,450",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"57,000 miles",Diesel,Automatic,White,Convertible,53.3 mpg
+/ad/30949382,Mercedes-Benz E Class,2.1 E220 CDI BlueEfficiency Sport G-Tronic+ Euro 5 (s/s) 2dr Coupe,"9,450",2013,Automatic,55.4 mpg,Diesel,2013,2143cc,"61,219 miles",Diesel,Automatic,White,Coupe,55.4 mpg
+/ad/30915706,Mercedes-Benz SLK,2.1 SLK,"9,450",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"83,050 miles",Diesel,Automatic,White,Convertible,56.5 mpg
+/ad/30898720,Mercedes-Benz E Class,DIESEL SALOON Saloon,"9,450",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"100,000 miles",Diesel,Automatic,Silver,Saloon,58.9 mpg
+/ad/30203043,Mercedes-Benz E Class,E250 CDI BLUEEFFICIENCY SPORT Convertible,"9,480",2013,Automatic,53.5 mpg,Diesel,2013,2143cc,"79,000 miles",Diesel,Automatic,Black,Convertible,53.5 mpg
+/ad/30926198,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport Plus G-Tronic+ Euro 5 (s/s) 4dr Saloon,"9,485",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"60,000 miles",Diesel,Automatic,Silver,Saloon,54.3 mpg
+/ad/30672129,Mercedes-Benz SL Class,5.0 SL500 2d 306 BHP Convertible,"9,489",2003,Automatic,22.2 mpg,Petrol,2003,4966cc,"59,000 miles",Petrol,Automatic,TURQUOISE,Convertible,22.2 mpg
+/ad/30634639,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT PLUS 4d 168 BHP Saloon,"9,489",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"65,000 miles",Diesel,Automatic,BLACK,Saloon,54.3 mpg
+/ad/30932220,Mercedes-Benz C Class,2.1 C250 CDI BlueEfficiency AMG Sport Plus G-Tronic+ Euro 5 (s/s) 4dr Saloon,"9,489",2012,Automatic,54.3 mpg,Diesel,2012,2143cc,"57,000 miles",Diesel,Automatic,Black,Saloon,54.3 mpg
+/ad/30718567,Mercedes-Benz B Class,1.8 B180 CDI Sport 7G-DCT Euro 5 (s/s) 5dr MPV,"9,490",2013,Automatic,64.2 mpg,Diesel,2013,1796cc,"43,500 miles",Diesel,Automatic,Silver,MPV,64.2 mpg
+/ad/30861377,Mercedes-Benz B Class,1.8 B200 CDI Sport 7G-DCT Euro 5 (s/s) 5dr MPV,"9,490",2014,Automatic,60.1 mpg,Diesel,2014,1796cc,"51,500 miles",Diesel,Automatic,Black,MPV,60.1 mpg
+/ad/29644176,Mercedes-Benz C Class,DIESEL SALOON Saloon,"9,490",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"56,000 miles",Diesel,Automatic,White,Saloon,56.5 mpg
+/ad/30471078,Mercedes-Benz C Class,2.1 C250 CDI BlueEfficiency AMG Sport G-Tronic+ Euro 5 (s/s) 4dr Saloon,"9,490",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"64,000 miles",Diesel,Automatic,White,Saloon,56.5 mpg
+/ad/29955276,Mercedes-Benz SLK,2.1 SLK,"9,490",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"66,000 miles",Diesel,Automatic,BLACK,Convertible,56.5 mpg
+/ad/29609948,Mercedes-Benz C Class,2.1 C220 CDI AMG SPORT EDITION 2d 168 BHP Coupe,"9,490",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"69,500 miles",Diesel,Automatic,BLACK,Coupe,53.3 mpg
+/ad/30421098,Mercedes-Benz B Class,1.8 B180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP MPV,"9,490",2014,Automatic,64.2 mpg,Diesel,2014,1796cc,"70,000 miles",Diesel,Automatic,GREY,MPV,64.2 mpg
+/ad/30878375,Mercedes-Benz E Class,E220 CDI AMG Sport 4dr 7G-Tronic -FULL SERVICE HISTORY- Saloon,"9,490",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"74,000 miles",Diesel,Automatic,Silver,Saloon,58.9 mpg
+/ad/30500336,Mercedes-Benz A Class,1.5 A 180 D SE 5d 107 BHP Hatchback,"9,490",2016,Manual,80.7 mpg,Diesel,2016,1.5L,"91,465 miles",Diesel,Manual,Silver,Hatchback,80.7 mpg
+/ad/30782275,Mercedes-Benz A Class,1.5 A 180 D SPORT EXECUTIVE 5d 107 BHP Hatchback,"9,490",2016,Manual,72.4 mpg,Diesel,2016,1461cc,"104,777 miles",Diesel,Manual,RED,Hatchback,72.4 mpg
+/ad/30880297,Mercedes-Benz C Class,2.1 C220 BlueTEC Sport Saloon,"9,490",2014,Automatic,68.9 mpg,Diesel,2014,2143cc,"126,993 miles",Diesel,Automatic,Grey,Saloon,68.9 mpg
+/ad/27589141,Mercedes-Benz E Class,E300 BLUETEC HYBRID SE Saloon,"9,490",2014,Automatic,68.9 mpg,Petrol,2014,2143cc,"132,101 miles",Petrol,Automatic,Silver,Saloon,68.9 mpg
+/ad/30727878,Mercedes-Benz C Class,C300h Sport Premium Plus 4dr Auto Saloon,"9,490",2016,Automatic,76.4 mpg,Diesel,2016,2143cc,"156,373 miles",Diesel,Automatic,Silver,Saloon,76.4 mpg
+/ad/30061352,Mercedes-Benz CLA Class,1.6 CLA180 SPORT 4d 122 BHP Coupe,"9,490",2013,Manual,50.4 mpg,Petrol,2013,1595cc,"76,000 miles",Petrol,Manual,SILVER,Coupe,50.4 mpg
+/ad/30690994,Mercedes-Benz AMG,E350 BLUETEC LINE NAV Convertible,"9,493",2014,Automatic,51.4 mpg,Diesel,2014,2987cc,"147,000 miles",Diesel,Automatic,Grey,Convertible,51.4 mpg
+/ad/30924707,Mercedes-Benz C Class,1.6 C200 BlueTEC Sport Euro 6 (s/s) 4dr Saloon,"9,494",2015,Manual,70.6 mpg,Diesel,2015,1598cc,"83,000 miles",Diesel,Manual,Grey,Saloon,70.6 mpg
+/ad/29996537,Mercedes-Benz SLK,1.8 SLK,"9,495",2012,Automatic,43.5 mpg,Petrol,2012,1796cc,"54,000 miles",Petrol,Automatic,BLUE,Convertible,43.5 mpg
+/ad/30900424,Mercedes-Benz C Class,C180 BlueEFFICIENCY Executive SE 4dr Auto Saloon,"9,495",2014,Automatic,47.9 mpg,Petrol,2014,1595cc,"55,310 miles",Petrol,Automatic,SILVER,Saloon,47.9 mpg
+/ad/30210957,Mercedes-Benz SLK,SLK,"9,495",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"58,258 miles",Diesel,Automatic,Obsidian Black Metallic,Convertible,56.5 mpg
+/ad/30659075,Mercedes-Benz C Class,2.1 C200 CDI BlueEfficiency Sport G-Tronic+ Euro 5 (s/s) 5dr Estate,"9,495",2011,Automatic,53.3 mpg,Diesel,2011,2143cc,"59,000 miles",Diesel,Automatic,Silver,Estate,53.3 mpg
+/ad/30706983,Mercedes-Benz SLK,2.1 SLK,"9,495",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"60,000 miles",Diesel,Automatic,BLACK,Convertible,56.5 mpg
+/ad/30369584,Mercedes-Benz E Class,2.1 CDI BlueEfficiency Sport Cabriolet 2dr Diesel G-Tronic+ Euro 5 (s/s) (170 ps) Convertible,"9,495",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"60,573 miles",Diesel,Automatic,Black,Convertible,53.3 mpg
+/ad/30551444,Mercedes-Benz A Class,1.5L A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"9,495",2014,Manual,70.6 mpg,Diesel,2014,1461cc,"63,140 miles",Diesel,Manual,BLUE,Hatchback,70.6 mpg
+/ad/30869650,Mercedes-Benz SLK,SLK,"9,495",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"67,000 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30455103,Mercedes-Benz C Class,2.1 C250 Cdi Blueefficiency Amg Sport Plus Saloon,"9,495",2012,Automatic,54.3 mpg,Diesel,2012,2.143L,"71,000 miles",Diesel,Automatic,Black,Saloon,54.3 mpg
+/ad/29796632,Mercedes-Benz E Class,DIESEL CABRIOLET Convertible,"9,495",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"72,000 miles",Diesel,Automatic,White,Convertible,53.3 mpg
+/ad/30435031,Mercedes-Benz E Class,3.0 E350 CDI BLUEEFFICIENCY SPORT 2d 231 BHP Convertible,"9,495",2010,Automatic,39.2 mpg,Diesel,2010,2987cc,"80,558 miles",Diesel,Automatic,WHITE,Convertible,39.2 mpg
+/ad/30479468,Mercedes-Benz E Class,3.0 CDI V6 BlueEfficiency Sport Cabriolet 2dr Diesel G-Tronic Euro 5 (231 ps) Convertible,"9,495",2011,Automatic,39.2 mpg,Diesel,2011,2987cc,"81,498 miles",Diesel,Automatic,Black,Convertible,39.2 mpg
+/ad/30800809,Mercedes-Benz A Class,A200 CDI SPORT 5-Door Hatchback,"9,495",2015,Automatic,68.9 mpg,Diesel,2015,2143cc,"100,000 miles",Diesel,Automatic,Red,Hatchback,68.9 mpg
+/ad/29920719,Mercedes-Benz E Class,2.1 E300dh BlueTEC SE G-Tronic+ Euro 5 (s/s) 4dr Saloon,"9,495",2000,Automatic,68.9 mpg,Diesel,2000,2143cc,"118,294 miles",Diesel,Automatic,Black,Saloon,68.9 mpg
+/ad/30161743,Mercedes-Benz C Class,C220 BLUETEC SPORT Saloon,"9,495",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"119,904 miles",Diesel,Automatic,Silver,Saloon,64.2 mpg
+/ad/28342103,Mercedes-Benz E Class,Convertible,"9,495",2012,Automatic,47.1 mpg,Diesel,2012,2987cc,"124,000 miles",Diesel,Automatic,White,Convertible,47.1 mpg
+/ad/30371331,Mercedes-Benz E Class,E220 CDI SE Estate,"9,495",2013,Automatic,52.3 mpg,Diesel,2013,2143cc,"126,703 miles",Diesel,Automatic,Silver,Estate,52.3 mpg
+/ad/29672548,Mercedes-Benz E Class,2.1 E220 BLUETEC AMG NIGHT EDITION 5DR Automatic Estate,"9,495",2015,Automatic,56.5 mpg,Diesel,2015,2143cc,"135,500 miles",Diesel,Automatic,White,Estate,56.5 mpg
+/ad/30947553,Mercedes-Benz SLK,SLK,"9,495",2013,Manual,Tax: n/a,2013,1.8L,"55,048 miles",Petrol,Manual,Black,Convertible,,
+/ad/29016083,Mercedes-Benz E Class,2.1L E220 CDI BLUEEFFICIENCY SPORT 2d AUTO 170 BHP Coupe,"9,495",2012,Automatic,55.4 mpg,Diesel,2012,2.1L,"56,500 miles",Diesel,Automatic,Silver,Coupe,55.4 mpg
+/ad/30869650,Mercedes-Benz SLK,SLK,"9,495",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"67,000 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30953236,Mercedes-Benz E Class,E220 CDi AMG Sport Auto - Saloon,"9,495",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"94,000 miles",Diesel,Automatic,Silver,Saloon,58.9 mpg
+/ad/30901420,Mercedes-Benz E Class,2.1 E250 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 4dr Saloon,"9,495",2014,Automatic,54.3 mpg,Diesel,2014,2143cc,"98,312 miles",Diesel,Automatic,Silver,Saloon,54.3 mpg
+/ad/30128753,Mercedes-Benz E Class,E220 CDI AMG Sport 2dr 7G-Tronic Coupe,"9,495",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"100,000 miles",Diesel,Automatic,Grey,Coupe,58.9 mpg
+/ad/30706983,Mercedes-Benz SLK,2.1 SLK,"9,495",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"60,000 miles",Diesel,Automatic,BLACK,Convertible,56.5 mpg
+/ad/30721363,Mercedes-Benz CLA Class,1.8 CLA200 CDI Sport Coupe Euro 5 (s/s) 4dr Saloon,"9,495",2014,Manual,64.2 mpg,Diesel,2014,1.8L,"83,000 miles",Diesel,Manual,Grey,Saloon,64.2 mpg
+/ad/30882218,Mercedes-Benz SLK,1.8 SLK,"9,499",2012,Automatic,43.5 mpg,Petrol,2012,1.8L,"63,014 miles",Petrol,Automatic,Black,Convertible,43.5 mpg
+/ad/30144815,Mercedes-Benz C Class,2.1 C220 CDI AMG SPORT EDITION PREMIUM PLUS 2d 168 BHP Coupe,"9,499",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"77,232 miles",Diesel,Automatic,SILVER,Coupe,53.3 mpg
+/ad/30402898,Mercedes-Benz E Class,2.1 E220 CDI SE 4d 168 BHP Saloon,"9,500",2013,Automatic,58.9 mpg,Diesel,2013,2.1L,"48,924 miles",Diesel,Automatic,Silver,Saloon,58.9 mpg
+/ad/29703801,Mercedes-Benz C Class,Saloon,"9,500",2013,Automatic,47.9 mpg,Petrol,2013,1595cc,"67,138 miles",Petrol,Automatic,Black,Saloon,47.9 mpg
+/ad/30814180,Mercedes-Benz A Class,1.6 A180 BLUEEFFICIENCY SPORT 5d 122 BHP Hatchback,"9,500",2013,Automatic,50.4 mpg,Petrol,2013,1595cc,"83,401 miles",Petrol,Automatic,SILVER,Hatchback,50.4 mpg
+/ad/30897564,Mercedes-Benz A Class,1.5 A180d AMG Line Euro 6 (s/s) 5dr PARKING SENSORS REVERSE CAMERA Hatchback,"9,500",2017,Manual,68.9 mpg,Diesel,2017,1461cc,"119,630 miles",Diesel,Manual,White,Hatchback,68.9 mpg
+/ad/30669660,Mercedes-Benz M Class,3.0 ML350 V6 BlueTEC Sport SUV,"9,500",2012,Automatic,34.9 mpg,Diesel,2012,2987cc,"147,119 miles",Diesel,Automatic,Black,SUV,34.9 mpg
+/ad/30497980,Mercedes-Benz E Class,2.1CDI (228bhp) E300 SE BlueTec Hybrid Saloon 4d 2143cc 7G-Tronic Plus,"9,581",2013,Automatic,Tax: n/a,2013,2143cc,"100,257 miles",Hybrid,Automatic,Grey,Saloon,,
+/ad/29662400,Mercedes-Benz C Class,Saloon,"9,590",2014,Manual,68.9 mpg,Diesel,2014,2143cc,"104,193 miles",Diesel,Manual,Blue,Saloon,68.9 mpg
+/ad/30008021,Mercedes-Benz E Class,DIESEL ESTATE Estate,"9,595",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"95,000 miles",Diesel,Automatic,Silver,Estate,53.3 mpg
+/ad/30113950,Mercedes-Benz A Class,A180 BLUEEFFICIENCY SPORT Hatchback,"9,595",2015,Manual,72.4 mpg,Diesel,2015,1461cc,"61,000 miles",Diesel,Manual,BLUE,Hatchback,72.4 mpg
+/ad/29961152,Mercedes-Benz C Class,C220 CDI AMG Sport Edition 2dr Auto Coupe,"9,597",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"86,317 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30232900,Mercedes-Benz C Class,2.1 C250 CDI BlueEfficiency AMG Sport Edition 125 Coupe G-Tronic+ [PAN ROOF] Coupe,"9,600",2011,Automatic,53.3 mpg,Diesel,2011,2143cc,"44,760 miles",Diesel,Automatic,WHITE,Coupe,53.3 mpg
+/ad/30519184,Mercedes-Benz E Class,2.1 E250 CDI BlueEfficiency Sport Edition 125 Estate,"9,600",2011,Automatic,53.3 mpg,Diesel,2011,2143cc,"83,126 miles",Diesel,Automatic,Black,Estate,53.3 mpg
+/ad/30634315,Mercedes-Benz E Class,E250 CDI AMG Sport 5dr 7G-Tronic Estate,"9,600",2014,Automatic,51.4 mpg,Diesel,2014,2143cc,"120,000 miles",Diesel,Automatic,Silver,Estate,51.4 mpg
+/ad/30792794,Mercedes-Benz C Class,2.1 C250 CDI AMG SPORT EDITION PREMIUM 4d 202 BHP Saloon,"9,650",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"62,195 miles",Diesel,Automatic,SILVER,Saloon,56.5 mpg
+/ad/30821391,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"9,650",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"77,899 miles",Diesel,Manual,White,Hatchback,72.4 mpg
+/ad/30528178,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT PLUS 4d 168 BHP Saloon,"9,650",2012,Automatic,54.3 mpg,Diesel,2012,2143cc,"81,104 miles",Diesel,Automatic,WHITE,Saloon,54.3 mpg
+/ad/30268681,Mercedes-Benz C Class,2.1 C220 BLUETEC SPORT 4d 170 BHP Saloon,"9,650",2015,Manual,68.9 mpg,Diesel,2015,2143cc,"103,500 miles",Diesel,Manual,SILVER,Saloon,68.9 mpg
+/ad/30821806,Mercedes-Benz C Class,2.1 C220 CDI Executive SE G-Tronic+ Euro 5 (s/s) 4dr Saloon,"9,690",2013,Automatic,64.2 mpg,Diesel,2013,2143cc,"37,000 miles",Diesel,Automatic,White,Saloon,64.2 mpg
+/ad/30670129,Mercedes-Benz C Class,2.1 C220 BlueTEC SE Euro 6 (s/s) 4dr Saloon,"9,690",2015,Manual,70.6 mpg,Diesel,2015,2143cc,"91,000 miles",Diesel,Manual,White,Saloon,70.6 mpg
+/ad/30894903,Mercedes-Benz A Class,1.5 A180 CDI AMG Sport Euro 6 (s/s) 5dr Hatchback,"9,690",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"75,000 miles",Diesel,Manual,Red,Hatchback,70.6 mpg
+/ad/29284942,Mercedes-Benz C Class,2.1 C220 Cdi Amg Sport Plus Coupe 2.1 Other,"9,695",2014,Automatic,53.3 mpg,Diesel,2014,2100cc,"70,000 miles",Diesel,Automatic,Silver,Other,53.3 mpg
+/ad/30873344,Mercedes-Benz A Class,1.5 A180 CDI ECO SE 5d 109 BHP Hatchback,"9,695",2015,Manual,78.5 mpg,Diesel,2015,1461cc,"72,700 miles",Diesel,Manual,Grey,Hatchback,78.5 mpg
+/ad/30806169,Mercedes-Benz E Class,3.0 E350 CDI V6 BlueEfficiency Sport Cabriolet 2dr Diesel G-Tronic Euro 5 (265 ps) Convertible,"9,695",2012,Automatic,47.1 mpg,Diesel,2012,2987cc,"94,605 miles",Diesel,Automatic,White,Convertible,47.1 mpg
+/ad/30712117,Mercedes-Benz C Class,C250 CDI AMG Sport Edition 2dr Auto [Premium] Coupe,"9,695",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"95,389 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30519357,Mercedes-Benz E Class,E200 BlueEFFICIENCY Sport 2dr Tip Auto Convertible,"9,695",2012,Automatic,42.2 mpg,Petrol,2012,1796cc,"99,750 miles",Petrol,Automatic,Grey,Convertible,42.2 mpg
+/ad/30926202,Mercedes-Benz C Class,2.1 C220 BlueTEC AMG Line Euro 6 (s/s) 5dr Estate,"9,695",2014,Manual,64.2 mpg,Diesel,2014,2143cc,"106,000 miles",Diesel,Manual,Black,Estate,64.2 mpg
+/ad/30945745,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SE 5d 109 BHP Hatchback,"9,699",2014,Automatic,70.6 mpg,Diesel,2014,1461cc,"54,226 miles",Diesel,Automatic,SILVER,Hatchback,70.6 mpg
+/ad/30713687,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT 4d 168 BHP Saloon,"9,700",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"40,000 miles",Diesel,Automatic,SILVER,Saloon,56.5 mpg
+/ad/30713680,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT 5d 202 BHP Estate,"9,700",2012,Automatic,54.3 mpg,Diesel,2012,2143cc,"78,000 miles",Diesel,Automatic,SILVER,Estate,54.3 mpg
+/ad/30792093,Mercedes-Benz A Class,2.1 A 200 D AMG LINE 5d 134 BHP Hatchback,"9,700",2016,Manual,62.8 mpg,Diesel,2016,2143cc,"108,659 miles",Diesel,Manual,WHITE,Hatchback,62.8 mpg
+/ad/30888167,Mercedes-Benz A Class,2.1 A200d Sport (Executive) Hatchback 5dr Diesel Manual Euro 6 (s/s) (136 ps) Hatchback,"9,730",2015,Manual,65.7 mpg,Diesel,2015,2143cc,"70,847 miles",Diesel,Manual,Black,Hatchback,65.7 mpg
+/ad/30637058,Mercedes-Benz C Class,DIESEL SALOON Saloon,"9,745",2014,Manual,68.9 mpg,Diesel,2014,2143cc,"124,000 miles",Diesel,Manual,White,Saloon,68.9 mpg
+/ad/29662395,Mercedes-Benz E Class,2.1 E250 CDI AMG SPORT 2d 204 BHP Coupe,"9,748",2013,Automatic,57.7 mpg,Diesel,2013,2143cc,"70,000 miles",Diesel,Automatic,SILVER,Coupe,57.7 mpg
+/ad/30873569,Mercedes-Benz SLK,2.1 SLK,"9,750",2015,Automatic,56.5 mpg,Diesel,2015,2143cc,"62,049 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30760926,Mercedes-Benz A Class,1.5 A180 CDI SE Hatchback 5dr Diesel 7G-DCT (s/s) Hatchback,"9,750",2014,Automatic,70.6 mpg,Diesel,2014,1461cc,"64,400 miles",Diesel,Automatic,RED,Hatchback,70.6 mpg
+/ad/29091693,Mercedes-Benz SL Class,SL320 Limited Edition 2dr Auto Other,"9,750",1997,Automatic,28.2 mpg,Petrol,1997,3199cc,"110,000 miles",Petrol,Automatic,Silver,Other,28.2 mpg
+/ad/29091692,Mercedes-Benz SL Class,SL 320 3.2 2d 228 BHP Convertible,"9,750",1997,Automatic,28.2 mpg,Petrol,1997,3199cc,"110,000 miles",Petrol,Automatic,SILVER,Convertible,28.2 mpg
+/ad/29941003,Mercedes-Benz A Class,1.5 A180d Sport (Premium) Hatchback 5dr Diesel Manual Euro 6 (start/stop) Hatchback,"9,750",2015,Manual,72.4 mpg,Diesel,2015,1461cc,"80,887 miles",Diesel,Manual,BLUE,Hatchback,72.4 mpg
+/ad/30889336,Mercedes-Benz E Class,3.0 E350 CDI V6 BlueEfficiency Sport Cabriolet 2dr Diesel G-Tronic Euro 5 (265 ps) Convertible,"9,780",2012,Automatic,47.1 mpg,Diesel,2012,2987cc,"69,200 miles",Diesel,Automatic,White,Convertible,47.1 mpg
+/ad/30901665,Mercedes-Benz E Class,2.1 E250 CDI SE G-Tronic+ Euro 5 (s/s) 4dr Saloon,"9,790",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"75,000 miles",Diesel,Automatic,Black,Saloon,57.7 mpg
+/ad/30671315,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SE 5d 109 BHP Hatchback,"9,795",2015,Manual,74.3 mpg,Diesel,2015,1461cc,"73,700 miles",Diesel,Manual,Grey,Hatchback,74.3 mpg
+/ad/30561524,Mercedes-Benz E Class,2.1 E220 CDI SE 5d 168 BHP Estate,"9,795",2013,Automatic,52.3 mpg,Diesel,2013,2143cc,"98,000 miles",Diesel,Automatic,BLUE,Estate,52.3 mpg
+/ad/30944105,Mercedes-Benz B Class,1.6 B180 BlueEfficiency SE 7G-DCT Euro 5 (s/s) 5dr MPV,"9,800",2013,Automatic,47.9 mpg,Petrol,2013,1595cc,"40,050 miles",Petrol,Automatic,Black,MPV,47.9 mpg
+/ad/30713685,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT PLUS 4d 202 BHP Saloon,"9,800",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"68,000 miles",Diesel,Automatic,SILVER,Saloon,54.3 mpg
+/ad/30864543,Mercedes-Benz SL Class,3.5 7G-Tronic 2dr Convertible,"9,800",2008,Automatic,29.1 mpg,Petrol,2008,3498cc,"97,000 miles",Petrol,Automatic,Silver,Convertible,29.1 mpg
+/ad/30959041,Mercedes-Benz C Class,2.1 C220 BlueTEC Sport G-Tronic+ Euro 6 (s/s) 4dr Saloon,"9,800",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"125,119 miles",Diesel,Automatic,Black,Saloon,64.2 mpg
+/ad/30760708,Mercedes-Benz A Class,2.1 A200 CDI SPORT 5 DOOR DIESEL BLACK LOW TAX Hatchback,"9,827",2015,Manual,64.2 mpg,Diesel,2015,2143cc,"61,000 miles",Diesel,Manual,BLACK,Hatchback,64.2 mpg
+/ad/30537499,Mercedes-Benz E Class,2.1 E250 CDI AMG LINE 2d 201 BHP Convertible,"9,849",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"109,000 miles",Diesel,Automatic,WHITE,Convertible,57.7 mpg
+/ad/30331387,Mercedes-Benz C Class,2.1 C250 CDI AMG Sport Edition Coupe Diesel G-Tronic+(s/s) [PAN ROOF] [PREM PLUS] Coupe,"9,850",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"69,282 miles",Diesel,Automatic,SILVER,Coupe,53.3 mpg
+/ad/30626338,Mercedes-Benz A Class,1.5 A180d SE Hatchback 5dr Diesel Manual Euro 6 (stop/start) Hatchback,"9,850",2015,Manual,80.7 mpg,Diesel,2015,1461cc,"69,626 miles",Diesel,Manual,SILVER,Hatchback,80.7 mpg
+/ad/30913998,Mercedes-Benz CLS Class,Amg Sport Saloon,"9,850",2014,Automatic,54.3 mpg,Diesel,2014,2143cc,"79,889 miles",Diesel,Automatic,Silver,Saloon,54.3 mpg
+/ad/30922824,Mercedes-Benz B Class,B180d SE 5dr MPV,"9,857",2017,Manual,70.6 mpg,Diesel,2017,1.5L,"67,079 miles",Diesel,Manual,Blue,MPV,70.6 mpg
+/ad/29850739,Mercedes-Benz C Class,2.1 C250 BLUETEC SPORT 4d 204 BHP Saloon,"9,875",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"127,403 miles",Diesel,Automatic,SILVER,Saloon,64.2 mpg
+/ad/30154199,Mercedes-Benz C Class,1.6 C180 BLUEEFFICIENCY EXECUTIVE SE 4d 154 BHP Saloon,"9,890",2014,Automatic,47.9 mpg,Petrol,2014,1595cc,"44,321 miles",Petrol,Automatic,BLACK,Saloon,47.9 mpg
+/ad/30241746,Mercedes-Benz SLK,SLK,"9,895",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"72,000 miles",Diesel,Automatic,Silver,Convertible,56.5 mpg
+/ad/30473922,Mercedes-Benz C Class,C250 CDI AMG Sport Plus 2dr Auto Coupe,"9,900",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"77,000 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30813158,Mercedes-Benz C Class,2.1 C220d AMG Line Saloon,"9,900",2016,Automatic,64.2 mpg,Diesel,2016,2143cc,"79,000 miles",Diesel,Automatic,Black,Saloon,64.2 mpg
+/ad/30471910,Mercedes-Benz A Class,1.5 A180d Sport 7G-DCT Euro 6 (s/s) 5dr Hatchback,"9,900",2016,Automatic,74.3 mpg,Diesel,2016,1461cc,"102,790 miles",Diesel,Automatic,White,Hatchback,74.3 mpg
+/ad/30839164,Mercedes-Benz C Class,2.1 C220d SE Saloon,"9,900",2016,Automatic,65.7 mpg,Diesel,2016,2143cc,"106,000 miles",Diesel,Automatic,Black,Saloon,65.7 mpg
+/ad/30651878,Mercedes-Benz CLA Class,2.1 CLA200d Sport Shooting Brake Euro 6 (s/s) 5dr PARKING SENSORS SVC HISTORY Estate,"9,900",2018,Manual,65.7 mpg,Diesel,2018,2143cc,"113,110 miles",Diesel,Manual,Red,Estate,65.7 mpg
+/ad/26959891,Mercedes-Benz S Class,Saloon,"9,911",2006,Automatic,24.1 mpg,Petrol,2006,5461cc,"78,911 miles",Petrol,Automatic,Silver,Saloon,24.1 mpg
+/ad/30573621,Mercedes-Benz A Class,A180d AMG Line Premium Plus 5dr Auto Hatchback,"9,923",2017,Automatic,74.3 mpg,Diesel,2017,1461cc,"140,000 miles",Diesel,Automatic,RED,Hatchback,74.3 mpg
+/ad/27976239,Mercedes-Benz SLK,1.8 SLK,"9,944",2012,Automatic,Tax: n/a,2012,1796cc,"56,000 miles",Petrol,Automatic,SILVER,Convertible,,
+/ad/28845460,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"9,945",2014,Manual,78.5 mpg,Diesel,2014,1461cc,"88,654 miles",Diesel,Manual,Blue,Hatchback,78.5 mpg
+/ad/30672607,Mercedes-Benz SLK,1.8 SLK,"9,950",2004,Automatic,32.1 mpg,Petrol,2004,1796cc,"11,021 miles",Petrol,Automatic,Silver,Convertible,32.1 mpg
+/ad/30889224,Mercedes-Benz S Class,3.5 S350 V6 G-Tronic Euro 4 4dr Saloon,"9,950",2009,Automatic,28.0 mpg,Petrol,2009,3498cc,"39,938 miles",Petrol,Automatic,Grey,Saloon,28 mpg
+/ad/30841760,Mercedes-Benz SLK,2.1 SLK,"9,950",2012,Automatic,56.5 mpg,Diesel,2012,2.1L,"43,777 miles",Diesel,Automatic,Blue,Convertible,56.5 mpg
+/ad/30746163,Mercedes-Benz E Class,E350 CDI BlueEFFICIENCY [265] Sport 4dr Tip Auto Saloon,"9,950",2011,Automatic,44.1 mpg,Diesel,2011,2987cc,"47,000 miles",Diesel,Automatic,Grey,Saloon,44.1 mpg
+/ad/30911444,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"9,950",2014,Manual,78.5 mpg,Diesel,2014,1461cc,"52,000 miles",Diesel,Manual,White,Hatchback,78.5 mpg
+/ad/30894632,Mercedes-Benz B Class,DIESEL HATCHBACK MPV,"9,950",2013,Automatic,64.2 mpg,Diesel,2013,1796cc,"63,824 miles",Diesel,Automatic,White,MPV,64.2 mpg
+/ad/30237412,Mercedes-Benz SL Class,SL 320 Convertible,"9,950",1996,Automatic,28.2 mpg,Petrol,1996,3199cc,"91,000 miles",Petrol,Automatic,Blue,Convertible,28.2 mpg
+/ad/30894545,Mercedes-Benz CLA Class,DIESEL COUPE Saloon,"9,950",2016,Manual,67.3 mpg,Diesel,2016,2143cc,"96,000 miles",Diesel,Manual,Red,Saloon,67.3 mpg
+/ad/30165267,Mercedes-Benz SL Class,3.2 2dr Convertible,"9,950",1996,Automatic,28.2 mpg,Petrol,1996,3199cc,"97,027 miles",Petrol,Automatic,Blue,Convertible,28.2 mpg
+/ad/30875127,Mercedes-Benz CLA Class,CLA200 CDI SPORT Saloon,"9,950",2015,Manual,64.2 mpg,Diesel,2015,2143cc,"100,000 miles",Diesel,Manual,WHITE,Saloon,64.2 mpg
+/ad/29211057,Mercedes-Benz E Class,E220 Cdi Se 2.2 Other,"9,950",2013,Automatic,52.3 mpg,Diesel,2013,2200cc,"106,000 miles",Diesel,Automatic,Grey,Other,52.3 mpg
+/ad/30702981,Mercedes-Benz CLA Class,1.6 CLA180 Sport Saloon,"9,950",2016,Manual,51.4 mpg,Petrol,2016,1595cc,"115,000 miles",Petrol,Manual,White,Saloon,51.4 mpg
+/ad/30958574,Mercedes-Benz A Class,1.5 A180 CDI Sport Hatchback,"9,950",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"52,000 miles",Diesel,Manual,Grey,Hatchback,72.4 mpg
+/ad/29304615,Mercedes-Benz E Class,DIESEL CABRIOLET Convertible,"9,950",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"72,600 miles",Diesel,Automatic,Silver,Convertible,53.3 mpg
+/ad/30662621,Mercedes-Benz CLA Class,220 CDI Sport 4dr Tip Auto Coupe,"9,961",2014,Automatic,62.8 mpg,Diesel,2014,2143cc,"80,809 miles",Diesel,Automatic,Silver,Coupe,62.8 mpg
+/ad/30882207,Mercedes-Benz B Class,1.8 B200 CDI BLUEEFFICIENCY SPORT 5d AUTO 136 BHP MPV,"9,970",2014,Automatic,60.1 mpg,Diesel,2014,1.8L,"54,505 miles",Diesel,Automatic,Black,MPV,60.1 mpg
+/ad/30867493,Mercedes-Benz A Class,A200 2.1 CDI Sport 5dr Auto ++ NIGHT PACK / 18 INCH ALLOYS / ULEZ / 20 TAX Hatchback,"9,975",2014,Automatic,68.9 mpg,Diesel,2014,2143cc,"65,000 miles",Diesel,Automatic,Obsidian Black,Hatchback,68.9 mpg
+/ad/30821627,Mercedes-Benz A Class,1.6 A180 BlueEfficiency SE Euro 6 (s/s) 5dr Hatchback,"9,980",2013,Manual,51.4 mpg,Petrol,2013,1595cc,"40,000 miles",Petrol,Manual,Black,Hatchback,51.4 mpg
+/ad/30913017,Mercedes-Benz E Class,E220 BlueTEC AMG Line 2dr 7G-Tronic Leather Trim Sat Nav Coupe,"9,980",2015,Automatic,58.9 mpg,Diesel,2015,2143cc,"77,570 miles",Diesel,Automatic,Grey,Coupe,58.9 mpg
+/ad/30536792,Mercedes-Benz A Class,A180 CDI Sport Edition 5dr Hatchback,"9,980",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"78,495 miles",Diesel,Manual,Red,Hatchback,70.6 mpg
+/ad/30388660,Mercedes-Benz SL Class,3.2 SL320 2DR Automatic Convertible,"9,980",1997,Automatic,28.2 mpg,Petrol,1997,3199cc,"85,000 miles",Petrol,Automatic,Black,Convertible,28.2 mpg
+/ad/30954752,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP Hatchback,"9,980",2015,Automatic,68.9 mpg,Diesel,2015,1.5L,"67,500 miles",Diesel,Automatic,Silver,Hatchback,68.9 mpg
+/ad/30860814,Mercedes-Benz A Class,1.6 A180 BLUEEFFICIENCY SPORT 5DR Manual Hatchback,"9,985",2015,Manual,49.6 mpg,Petrol,2015,1595cc,"72,106 miles",Petrol,Manual,White,Hatchback,49.6 mpg
+/ad/30860813,Mercedes-Benz A Class,1.5 A 180 D SE 5DR Manual Hatchback,"9,985",2015,Manual,80.7 mpg,Diesel,2015,1461cc,"76,964 miles",Diesel,Manual,Red,Hatchback,80.7 mpg
+/ad/30538530,Mercedes-Benz E Class,E350 CDI BlueEFFICIENCY Sport 4dr Tip Auto Saloon,"9,989",2012,Automatic,47.1 mpg,Diesel,2012,2987cc,"36,000 miles",Diesel,Automatic,Silver,Saloon,47.1 mpg
+/ad/30509634,Mercedes-Benz C Class,C250 2.1 CDI 204 BHP BLUEEFFICIENCY AMG SPORT AUTOMATIC 5DR Estate,"9,989",2013,Automatic,54.3 mpg,Diesel,2013,2.1L,"77,000 miles",Diesel,Automatic,Black,Estate,54.3 mpg
+/ad/29937601,Mercedes-Benz B Class,DIESEL HATCHBACK MPV,"9,990",2014,Manual,61.4 mpg,Diesel,2014,1461cc,"41,000 miles",Diesel,Manual,Black,MPV,61.4 mpg
+/ad/30835215,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY SPORT 4d 168 BHP Saloon,"9,990",2012,Automatic,56.5 mpg,Diesel,2012,2.1L,"44,364 miles",Diesel,Automatic,Black,Saloon,56.5 mpg
+/ad/29816719,Mercedes-Benz C Class,C220 CDI BlueEFFICIENCY AMG Sport 4dr Auto - 1/2 LEATHER - NAV - E/F/ MIRRORS BLUETOOTH Saloon,"9,990",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"45,190 miles",Diesel,Automatic,Black,Saloon,56.5 mpg
+/ad/30919903,Mercedes-Benz SLK,SLK,"9,990",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"49,000 miles",Diesel,Automatic,Silver,Convertible,56.5 mpg
+/ad/30399534,Mercedes-Benz SL Class,SL350 3.7 CABRIO Convertible,"9,990",2006,Automatic,24.1 mpg,Petrol,2006,3724cc,"52,000 miles",Petrol,Automatic,Silver,Convertible,24.1 mpg
+/ad/30541575,Mercedes-Benz SLK,2.1 SLK,"9,990",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"52,000 miles",Diesel,Automatic,WHITE,Convertible,56.5 mpg
+/ad/30405956,Mercedes-Benz SLK,2.1 SLK,"9,990",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"53,000 miles",Diesel,Automatic,Silver,Convertible,56.5 mpg
+/ad/30102321,Mercedes-Benz E Class,E300 BlueTEC Hybrid 4dr Auto Saloon,"9,990",2013,Automatic,65.7 mpg,Other,2013,2143cc,"53,000 miles",Other,Automatic,White,Saloon,65.7 mpg
+/ad/30854430,Mercedes-Benz A Class,A180 [1.5] CDI Sport 5dr Auto Hatchback,"9,990",2014,Automatic,Tax: n/a,2014,1461cc,"53,652 miles",Diesel,Automatic,Red,Hatchback,,
+/ad/30791690,Mercedes-Benz A Class,A180 1.6 PETROL BLUE-EFF SE HATCH 6 SPD MAN ONLY 56K FSH SAT NAV Hatchback,"9,990",2013,Manual,51.4 mpg,Petrol,2013,1600cc,"56,000 miles",Petrol,Manual,Black,Hatchback,51.4 mpg
+/ad/30420335,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"9,990",2013,Manual,70.6 mpg,Diesel,2013,1461cc,"58,391 miles",Diesel,Manual,RED,Hatchback,70.6 mpg
+/ad/30551287,Mercedes-Benz E Class,2.1 E220 CDI SE 4d 168 BHP Saloon,"9,990",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"59,315 miles",Diesel,Automatic,SILVER,Saloon,58.9 mpg
+/ad/29396377,Mercedes-Benz C Class,C250 CDI BLUEEFFICIENCY AMG SPORT Coupe,"9,990",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"59,800 miles",Diesel,Automatic,Silver,Coupe,53.3 mpg
+/ad/30471871,Mercedes-Benz E Class,2.1 E220 CDI AMG Sport Cabriolet G-Tronic+ Euro 5 (s/s) 2dr Convertible,"9,990",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"60,390 miles",Diesel,Automatic,White,Convertible,57.7 mpg
+/ad/30609909,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"9,990",2013,Manual,70.6 mpg,Diesel,2013,1.5L,"61,286 miles",Diesel,Manual,Black,Hatchback,70.6 mpg
+/ad/30849565,Mercedes-Benz C Class,C220 CDI BlueEFFICIENCY AMG Sport Plus 4dr Auto Saloon,"9,990",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"64,000 miles",Diesel,Automatic,Red,Saloon,54.3 mpg
+/ad/30800460,Mercedes-Benz E Class,E280 ELEGANCE V6 FULL LEATHER,"9,990",2002,Automatic,25.5 mpg,Petrol,2002,2799cc,"65,000 miles",Petrol,Automatic,Silver,Estate,25.5 mpg
+/ad/30876297,Mercedes-Benz SLK,2.1 SLK,"9,990",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"66,507 miles",Diesel,Automatic,BLACK,Convertible,56.5 mpg
+/ad/30294022,Mercedes-Benz A Class,Hatchback,"9,990",2013,Manual,51.4 mpg,Petrol,2013,1600cc,"68,000 miles",Petrol,Manual,Grey,Hatchback,51.4 mpg
+/ad/30688926,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport Edition Coupe,"9,990",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"71,000 miles",Diesel,Auto,Silver,Coupe,53.3 mpg
+/ad/30583261,Mercedes-Benz 300,300,"9,990",1992,Automatic,Tax: £325,1992,3199cc,"74,000 miles",Petrol,Automatic,White,Saloon,,
+/ad/29174694,Mercedes-Benz E Class,3.0 E350 CDI BLUEEFFICIENCY SPORT 5d 265 BHP Estate,"9,990",2011,Automatic,43.5 mpg,Diesel,2011,2987cc,"76,849 miles",Diesel,Automatic,BLACK,Estate,43.5 mpg
+/ad/30791699,Mercedes-Benz C Class,2.1 C250 CDI AMG Sport Edition G-Tronic+ Euro 5 (s/s) 5dr Estate,"9,990",2014,Automatic,54.3 mpg,Diesel,2014,2143cc,"78,000 miles",Diesel,Automatic,Black,Estate,54.3 mpg
+/ad/29853396,Mercedes-Benz C Class,Saloon,"9,990",2014,Automatic,56.5 mpg,Diesel,2014,2200cc,"79,000 miles",Diesel,Automatic,Silver,Saloon,56.5 mpg
+/ad/30846387,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SE 5d 109 BHP Hatchback,"9,990",2015,Automatic,70.6 mpg,Diesel,2015,1.5L,"79,948 miles",Diesel,Automatic,Black,Hatchback,70.6 mpg
+/ad/30150673,Mercedes-Benz SL Class,2.8 SL280 2d 197 BHP Convertible,"9,990",1995,Automatic,Tax: £325,1995,2799cc,"80,000 miles",Petrol,Automatic,RED,Convertible,,
+/ad/30112831,Mercedes-Benz E Class,E350 CDI BlueTEC Avantgarde 5dr Tip Auto Estate,"9,990",2012,Automatic,39.0 mpg,Diesel,2012,2987cc,"81,850 miles",Diesel,Automatic,Black,Estate,39 mpg
+/ad/30182299,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP Hatchback,"9,990",2015,Automatic,68.9 mpg,Diesel,2015,1461cc,"82,810 miles",Diesel,Automatic,SILVER,Hatchback,68.9 mpg
+/ad/30850894,Mercedes-Benz C Class,2.1 C220 BlueTEC Sport Euro 6 (s/s) 4dr Saloon,"9,990",2015,Manual,68.9 mpg,Diesel,2015,2143cc,"83,000 miles",Diesel,Manual,Grey,Saloon,68.9 mpg
+/ad/30640538,Mercedes-Benz SLK,DIESEL ROADSTER Convertible,"9,990",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"86,000 miles",Diesel,Automatic,Red,Convertible,56.5 mpg
+/ad/30894901,Mercedes-Benz C Class,2.1 C250 CDI AMG Sport Edition G-Tronic+ Euro 5 (s/s) 5dr Estate,"9,990",2014,Automatic,54.3 mpg,Diesel,2014,2143cc,"87,000 miles",Diesel,Automatic,Black,Estate,54.3 mpg
+/ad/28235891,Mercedes-Benz E Class,2.1 E220 CDI SE 2d 170 BHP Coupe,"9,990",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"91,792 miles",Diesel,Automatic,SILVER,Coupe,58.9 mpg
+/ad/30537093,Mercedes-Benz B Class,2.1 B 200 D SE 5d 134 BHP MPV,"9,990",2016,Automatic,70.6 mpg,Diesel,2016,2143cc,"93,750 miles",Diesel,Automatic,GREY,MPV,70.6 mpg
+/ad/30724295,Mercedes-Benz E Class,3.0 E350d V6 BlueTEC AMG Sport G-Tronic+ Euro 6 (s/s) 2dr Coupe,"9,990",2014,Automatic,49.6 mpg,Diesel,2014,2987cc,"96,000 miles",Diesel,Automatic,Silver,Coupe,49.6 mpg
+/ad/30781299,Mercedes-Benz E Class,2.1 E250 CDI AMG Sport G-Tronic+ ss 4dr Saloon,"9,990",2014,Automatic,58.9 mpg,Diesel,2014,"97,000 miles",Diesel,Automatic,Black,Saloon,58.9 mpg,
+/ad/29666596,Mercedes-Benz A Class,1.5 A 180 D SPORT 5d 107 BHP Hatchback,"9,990",2016,Manual,72.4 mpg,Diesel,2016,1461cc,"99,019 miles",Diesel,Manual,BLUE,Hatchback,72.4 mpg
+/ad/30724304,Mercedes-Benz E Class,2.1 E250 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 5dr Estate,"9,990",2014,Automatic,51.4 mpg,Diesel,2014,2143cc,"100,000 miles",Diesel,Automatic,Black,Estate,51.4 mpg
+/ad/30471888,Mercedes-Benz CLA Class,1.6 CLA180 AMG Sport Coupe Euro 6 (s/s) 4dr Saloon,"9,990",2013,Manual,50.4 mpg,Petrol,2013,1595cc,"103,950 miles",Petrol,Manual,Grey,Saloon,50.4 mpg
+/ad/30541575,Mercedes-Benz SLK,2.1 SLK,"9,990",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"52,000 miles",Diesel,Automatic,WHITE,Convertible,56.5 mpg
+/ad/30924204,Mercedes-Benz E Class,1.8 E200 BlueEfficiency Sport G-Tronic+ Euro 5 (s/s) 2dr Coupe,"9,990",2013,Automatic,42.2 mpg,Petrol,2013,1796cc,"69,000 miles",Petrol,Automatic,Black,Coupe,42.2 mpg
+/ad/30926124,Mercedes-Benz C Class,2.1 C250 CDI AMG Sport Edition G-Tronic+ Euro 5 (s/s) 2dr Coupe,"9,990",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"75,123 miles",Diesel,Automatic,White,Coupe,53.3 mpg
+/ad/30944095,Mercedes-Benz E Class,2.1 E220 BlueTEC SE G-Tronic+ Euro 6 (s/s) 4dr Saloon,"9,990",2015,Automatic,64.2 mpg,Diesel,2015,2143cc,"86,000 miles",Diesel,Automatic,Blue,Saloon,64.2 mpg
+/ad/30958696,Mercedes-Benz CLA Class,DIESEL COUPE Saloon,"9,990",2013,Automatic,62.8 mpg,Diesel,2013,2143cc,"93,219 miles",Diesel,Automatic,White,Saloon,62.8 mpg
+/ad/30144374,Mercedes-Benz E Class,2.1 E250 CDI AMG LINE 2d 201 BHP Coupe,"9,990",2015,Automatic,57.7 mpg,Diesel,2015,2143cc,"96,000 miles",Diesel,Automatic,WHITE,Coupe,57.7 mpg
+/ad/30911389,Mercedes-Benz SLK,1.8 SLK,"9,990",2011,Automatic,43.5 mpg,Petrol,2011,1796cc,"56,000 miles",Petrol,Automatic,Black,Convertible,43.5 mpg
+/ad/30924150,Mercedes-Benz A Class,1.5 A180 CDI AMG Sport Euro 6 (s/s) 5dr Hatchback,"9,990",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"95,187 miles",Diesel,Manual,Black,Hatchback,70.6 mpg
+/ad/28906328,Mercedes-Benz CLS Class,250 CDi BLUe Effic Sport A,"9,994",2013,Automatic,Tax: n/a,2013,2143cc,"136,000 miles",Diesel,Automatic,Metallic,Coupe,,
+/ad/30871191,Mercedes-Benz SLK,SLK,"9,994",2014,Automatic,56.5 mpg,Petrol,2014,2143cc,"53,444 miles",Petrol,Automatic,Blue,Roadster,56.5 mpg
+/ad/30359079,Mercedes-Benz E Class,E200K Avantgarde 5dr Tip Auto Estate,"9,995",2002,Automatic,28.0 mpg,Petrol,2002,1998cc,"20,000 miles",Petrol,Automatic,Silver,Estate,28 mpg
+/ad/30923794,Mercedes-Benz B Class,B180 BLUEEFFICIENCY SE AUTOMATIC MPV,"9,995",2012,Automatic,47.9 mpg,Petrol,2012,1595cc,"26,700 miles",Petrol,Automatic,Black,MPV,47.9 mpg
+/ad/30382292,Mercedes-Benz SLK,280  Convertible,"9,995",2006,Manual,28.5 mpg,Petrol,2006,2996cc,"34,000 miles",Petrol,Manual,Silver,Convertible,28.5 mpg
+/ad/30166780,Mercedes-Benz B Class,MPV,"9,995",2013,Automatic,60.1 mpg,Diesel,2013,1796cc,"35,000 miles",Diesel,Automatic,Blue,MPV,60.1 mpg
+/ad/30177910,Mercedes-Benz SLK,SLK,"9,995",2008,Automatic,32.1 mpg,Petrol,2008,1796cc,"35,438 miles",Petrol,Automatic,Silver,Convertible,32.1 mpg
+/ad/30937751,Mercedes-Benz SLK,1.8 (184BHP) AMG Sport Convertible Convertible,"9,995",2012,Automatic,43.5 mpg,Petrol,2012,1796cc,"37,895 miles",Petrol,Automatic,Black,Convertible,43.5 mpg
+/ad/30195610,Mercedes-Benz A Class,1.6 A180 BLUEEFFICIENCY SE 5d 122 BHP Hatchback,"9,995",2014,Manual,51.4 mpg,Petrol,2014,1595cc,"40,000 miles",Petrol,Manual,BLACK,Hatchback,51.4 mpg
+/ad/30835474,Mercedes-Benz C Class,CDI BLUEEFFICIENCY ELEGANCE Saloon,"9,995",2011,Automatic,51.4 mpg,Diesel,2011,2.2L,"41,000 miles",Diesel,Automatic,Midnight Blue Metallic,Saloon,51.4 mpg
+/ad/30913572,Mercedes-Benz A Class,AVANTGARDE SE AUTOMATIC Hatchback,"9,995",2012,Automatic,41.5 mpg,Petrol,2012,1.5L,"42,000 miles",Petrol,Automatic,Indium Grey Metallic,Hatchback,41.5 mpg
+/ad/30350070,Mercedes-Benz C Class,Saloon,"9,995",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"46,264 miles",Diesel,Automatic,Silver,Saloon,56.5 mpg
+/ad/30793803,Mercedes-Benz CLK,3.0 CLK,"9,995",2006,Automatic,36.7 mpg,Diesel,2006,3L,"47,470 miles",Diesel,Automatic,Black,Coupe,36.7 mpg
+/ad/30128843,Mercedes-Benz SLK,SLK,"9,995",2015,Automatic,56.5 mpg,Diesel,2015,2143cc,"49,000 miles",Diesel,Automatic,White,Convertible,56.5 mpg
+/ad/30020551,Mercedes-Benz A Class,1.5 A180 CDI AMG Sport Euro 5 (s/s) 5dr Hatchback,"9,995",2013,Manual,70.6 mpg,Diesel,2013,1461cc,"49,165 miles",Diesel,Manual,Silver,Hatchback,70.6 mpg
+/ad/30288681,Mercedes-Benz E Class,Convertible,"9,995",2010,Manual,48.7 mpg,Diesel,2010,2143cc,"52,000 miles",Diesel,Manual,Grey,Convertible,48.7 mpg
+/ad/30867822,Mercedes-Benz C Class,C220 CDI AMG Sport Edition 2dr Auto [Premium Plus] Coupe,"9,995",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"52,000 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30539035,Mercedes-Benz C Class,2.1L C220 CDI AMG SPORT EDITION PREMIUM PLUS 2d AUTO 168 BHP Coupe,"9,995",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"52,500 miles",Diesel,Automatic,RED,Coupe,53.3 mpg
+/ad/30725479,Mercedes-Benz M Class,3.0 ML300 CDI BLUEEFFICIENCY SPORT 5d 204 BHP Estate,"9,995",2011,Automatic,32.5 mpg,Diesel,2011,2987cc,"53,000 miles",Diesel,Automatic,SILVER,Estate,32.5 mpg
+/ad/30901373,Mercedes-Benz A Class,A180 BlueEfficiency Sport CDi Hatchback,"9,995",2015,Manual,72.4 mpg,Diesel,2015,1461cc,"53,826 miles",Diesel,Manual,Blue,Hatchback,72.4 mpg
+/ad/30044268,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP Hatchback,"9,995",2015,Manual,72.4 mpg,Diesel,2015,1461cc,"55,723 miles",Diesel,Manual,RED,Hatchback,72.4 mpg
+/ad/30704491,Mercedes-Benz C Class,1.6 C180 BLUEEFFICIENCY EXECUTIVE SE 4d 154 BHP Saloon,"9,995",2013,Automatic,47.9 mpg,Petrol,2013,1595cc,"57,344 miles",Petrol,Automatic,WHITE,Saloon,47.9 mpg
+/ad/30001773,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT PLUS 4d 168 BHP Saloon,"9,995",2013,Automatic,54.3 mpg,Diesel,2013,2.1L,"58,200 miles",Diesel,Automatic,White,Saloon,54.3 mpg
+/ad/30206754,Mercedes-Benz E Class,3.0 E350 CDI BLUEEFFICIENCY SPORT 2d 231 BHP convertible  Convertible,"9,995",2011,Automatic,39.2 mpg,Diesel,2011,2987cc,"59,000 miles",Diesel,Automatic,WHITE,Convertible,39.2 mpg
+/ad/30036238,Mercedes-Benz A Class,2.1 A200 CDI SPORT 5d 136 BHP Hatchback,"9,995",2014,Manual,64.2 mpg,Diesel,2014,2143cc,"59,000 miles",Diesel,Manual,GREY,Hatchback,64.2 mpg
+/ad/30364794,Mercedes-Benz SL Class,3.7 2dr Convertible,"9,995",2003,Automatic,24.1 mpg,Petrol,2003,3724cc,"61,985 miles",Petrol,Automatic,Silver,Convertible,24.1 mpg
+/ad/30951166,Mercedes-Benz A Class,1.5 A180 CDI AMG Sport 7G-DCT Euro 5 (s/s) 5dr Hatchback,"9,995",2014,Automatic,65.7 mpg,Diesel,2014,1461cc,"59,160 miles",Diesel,Automatic,Blue,Hatchback,65.7 mpg
+/ad/30726225,Mercedes-Benz SLK,2.1 SLK,"9,995",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"61,000 miles",Diesel,Automatic,BLUE,Convertible,56.5 mpg
+/ad/30364794,Mercedes-Benz SL Class,3.7 2dr Convertible,"9,995",2003,Automatic,24.1 mpg,Petrol,2003,3724cc,"61,985 miles",Petrol,Automatic,Silver,Convertible,24.1 mpg
+/ad/30638172,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SE 5d 109 BHP Hatchback,"9,995",2015,Manual,74.3 mpg,Diesel,2015,1461cc,"63,000 miles",Diesel,Manual,Black,Hatchback,74.3 mpg
+/ad/30423121,Mercedes-Benz SLS,3.5 SL350 AUTOMATIC CONVERTIBLE V6 2d 272 BHP Convertible,"9,995",2006,Automatic,27.4 mpg,Petrol,2006,3.5L,"64,231 miles",Petrol,Automatic,Blue,Convertible,27.4 mpg
+/ad/30423126,Mercedes-Benz SLS,3.5 SL350 AUTOMATIC CONVERTIBLE V6 2d 272 BHP Convertible,"9,995",2006,Automatic,27.4 mpg,Petrol,2006,3.5L,"64,231 miles",Petrol,Automatic,Blue,Convertible,27.4 mpg
+/ad/29851908,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT 4DR Automatic Saloon,"9,995",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"65,000 miles",Diesel,Automatic,Silver,Saloon,56.5 mpg
+/ad/30931233,Mercedes-Benz A Class,2.1 A200 CDI AMG SPORT 5d 136 BHP Hatchback,"9,995",2014,Manual,62.8 mpg,Diesel,2014,2.1L,"66,350 miles",Diesel,Manual,Blue,Hatchback,62.8 mpg
+/ad/29815325,Mercedes-Benz SLK,1.8 SLK,"9,995",2011,Automatic,43.5 mpg,Petrol,2011,1796cc,"67,000 miles",Petrol,Automatic,Red,Convertible,43.5 mpg
+/ad/27083509,Mercedes-Benz SL Class,SL 500 AUTO Convertible,"9,995",2002,Automatic,22.2 mpg,Petrol,2002,4966cc,"68,000 miles",Petrol,Automatic,Black,Convertible,22.2 mpg
+/ad/30440035,Mercedes-Benz E Class,2.1 E220 CDI BLUEEFFICIENCY SPORT 2d 170 BHP Convertible,"9,995",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"69,000 miles",Diesel,Automatic,WHITE,Convertible,53.3 mpg
+/ad/29275004,Mercedes-Benz SLK,2.1 SLK,"9,995",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"69,000 miles",Diesel,Automatic,Grey,Convertible,56.5 mpg
+/ad/29308862,Mercedes-Benz SLK,SLK,"9,995",2011,Automatic,43.5 mpg,Petrol,2011,1.8L,"70,000 miles",Petrol,Automatic,Grey,Convertible,43.5 mpg
+/ad/30651231,Mercedes-Benz C Class,C250 CDI AMG Sport Edition 2dr Auto Coupe,"9,995",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"71,300 miles",Diesel,Automatic,Silver,Coupe,53.3 mpg
+/ad/30218772,Mercedes-Benz B Class,1.5 B180 CDI SE 5d ULEZ COMPLIANT,"9,995",2015,Automatic,70.6 mpg,Diesel,2015,1461cc,"71,307 miles",Diesel,Automatic,BLUE,MPV,70.6 mpg
+/ad/30502380,Mercedes-Benz A Class,A180 [1.5] CDI Sport 5dr Auto Hatchback,"9,995",2014,Automatic,68.9 mpg,Diesel,2014,1461cc,"72,000 miles",Diesel,Automatic,Grey,Hatchback,68.9 mpg
+/ad/30865929,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport Edition G-Tronic+ Euro 5 (s/s) 2dr Coupe,"9,995",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"72,480 miles",Diesel,Automatic,White,Coupe,53.3 mpg
+/ad/30873376,Mercedes-Benz A Class,2.1 A200 CDI AMG Sport Hatchback,"9,995",2015,Manual,62.8 mpg,Diesel,2015,2143cc,"78,401 miles",Diesel,Manual,Black,Hatchback,62.8 mpg
+/ad/30884303,Mercedes-Benz C Class,C200 BlueTEC SE Executive 4dr Saloon,"9,995",2015,Manual,72.4 mpg,Diesel,2015,1.6L,"79,044 miles",Diesel,Manual,Black,Saloon,72.4 mpg
+/ad/27022679,Mercedes-Benz SL Class,5.0 Convertible 2dr Petrol Automatic (292 g/km,"9,995",2004,Automatic,23.3 mpg,Petrol,2004,4966cc,"79,642 miles",Petrol,Automatic,Brilliant Silver Metallic,Convertible,23.3 mpg
+/ad/29285045,Mercedes-Benz E Class,E250 CGI 204 SPORT CONVERTIBLE NAV RED LTHR FMBSH 2KEYS XENONS VERY ATTRACTIVE CAR Convertible,"9,995",2011,Automatic,34.4 mpg,Petrol,2011,1796cc,"81,896 miles",Petrol,Automatic,White,Convertible,34.4 mpg
+/ad/30869726,Mercedes-Benz A Class,1.5 A180d SE Euro 6 (s/s) 5dr Hatchback,"9,995",2016,Manual,80.7 mpg,Diesel,2016,1461cc,"84,000 miles",Diesel,Manual,Grey,Hatchback,80.7 mpg
+/ad/29492202,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SE 5d 109 BHP **DIESEL....6 SPEED.....£0 ROAD TAX.......74 Hatchback,"9,995",2015,Manual,74.3 mpg,Diesel,2015,1461cc,"84,393 miles",Diesel,Manual,SILVER,Hatchback,74.3 mpg
+/ad/30449127,Mercedes-Benz S Class,Saloon,"9,995",2007,Automatic,34.0 mpg,Diesel,2007,2987cc,"85,429 miles",Diesel,Automatic,Silver,Saloon,34 mpg
+/ad/30718435,Mercedes-Benz C Class,C250 BlueTEC Sport Premium Plus 4dr Auto Saloon,"9,995",2015,Automatic,64.2 mpg,Diesel,2015,2143cc,"86,426 miles",Diesel,Automatic,Silver,Saloon,64.2 mpg
+/ad/30489915,Mercedes-Benz C Class,Estate,"9,995",2011,Automatic,45.6 mpg,Diesel,2011,2987cc,"87,700 miles",Diesel,Automatic,Red,Estate,45.6 mpg
+/ad/30736327,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"9,995",2014,Manual,70.6 mpg,Diesel,2014,1461cc,"89,000 miles",Diesel,Manual,BLUE,Hatchback,70.6 mpg
+/ad/29285045,Mercedes-Benz E Class,E250 CGI 204 SPORT CONVERTIBLE NAV RED LTHR FMBSH 2KEYS XENONS VERY ATTRACTIVE CAR Convertible,"9,995",2011,Automatic,34.4 mpg,Petrol,2011,1796cc,"81,896 miles",Petrol,Automatic,White,Convertible,34.4 mpg
+/ad/30951336,Mercedes-Benz C Class,2.1 C220 BlueTEC Sport Saloon,"9,995",2014,Manual,68.9 mpg,Diesel,2014,2143cc,"82,670 miles",Diesel,Manual,Black,Saloon,68.9 mpg
+/ad/30924615,Mercedes-Benz E Class,1.8 E200 BlueEfficiency Sport Edition 125 Convertible,"9,995",2012,Automatic,35.8 mpg,Petrol,2012,1796cc,"82,805 miles",Petrol,Automatic,Silver,Convertible,35.8 mpg
+/ad/30869726,Mercedes-Benz A Class,1.5 A180d SE Euro 6 (s/s) 5dr Hatchback,"9,995",2016,Manual,80.7 mpg,Diesel,2016,1461cc,"84,000 miles",Diesel,Manual,Grey,Hatchback,80.7 mpg
+/ad/29492202,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SE 5d 109 BHP **DIESEL....6 SPEED.....£0 ROAD TAX.......74 Hatchback,"9,995",2015,Manual,74.3 mpg,Diesel,2015,1461cc,"84,393 miles",Diesel,Manual,SILVER,Hatchback,74.3 mpg
+/ad/30449127,Mercedes-Benz S Class,Saloon,"9,995",2007,Automatic,34.0 mpg,Diesel,2007,2987cc,"85,429 miles",Diesel,Automatic,Silver,Saloon,34 mpg
+/ad/30718435,Mercedes-Benz C Class,C250 BlueTEC Sport Premium Plus 4dr Auto Saloon,"9,995",2015,Automatic,64.2 mpg,Diesel,2015,2143cc,"86,426 miles",Diesel,Automatic,Silver,Saloon,64.2 mpg
+/ad/30489915,Mercedes-Benz C Class,Estate,"9,995",2011,Automatic,45.6 mpg,Diesel,2011,2987cc,"87,700 miles",Diesel,Automatic,Red,Estate,45.6 mpg
+/ad/30736327,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"9,995",2014,Manual,70.6 mpg,Diesel,2014,1461cc,"89,000 miles",Diesel,Manual,BLUE,Hatchback,70.6 mpg
+/ad/27970469,Mercedes-Benz S Class,DIESEL SALOON Saloon,"9,995",2012,Automatic,41.5 mpg,Diesel,2012,3000cc,"90,000 miles",Diesel,Automatic,Iridium Silver Metaic,Saloon,41.5 mpg
+/ad/30672672,Mercedes-Benz A Class,1.8 A200 CDI BLUEEFFICIENCY AMG SPORT 5d 136 BHP Hatchback,"9,995",2013,Automatic,64.2 mpg,Diesel,2013,1796cc,"90,557 miles",Diesel,Automatic,BLUE,Hatchback,64.2 mpg
+/ad/30808588,Mercedes-Benz A Class,1.5 A 180 D SE 5d 107 BHP Hatchback,"9,995",2016,Manual,80.7 mpg,Diesel,2016,1461cc,"91,126 miles",Diesel,Manual,BLUE,Hatchback,80.7 mpg
+/ad/28976368,Mercedes-Benz C Class,C180 BlueEFFICIENCY SE 5dr Auto Estate,"9,995",2012,Automatic,42.8 mpg,Petrol,2012,1796cc,"91,250 miles",Petrol,Automatic,Silver,Estate,42.8 mpg
+/ad/29360994,Mercedes-Benz A Class,2.1 A200 CDI SPORT Hatchback,"9,995",2015,Manual,64.2 mpg,Diesel,2015,2143cc,"92,100 miles",Diesel,Manual,Blue,Hatchback,64.2 mpg
+/ad/30498372,Mercedes-Benz A Class,Hatchback,"9,995",2014,Automatic,68.9 mpg,Diesel,2014,2143cc,"92,741 miles",Diesel,Automatic,Silver,Hatchback,68.9 mpg
+/ad/30437894,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"9,995",2015,Manual,74.3 mpg,Diesel,2015,1461cc,"92,777 miles",Diesel,Manual,White,Hatchback,74.3 mpg
+/ad/27032003,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SE 5d 109 BHP Hatchback,"9,995",2013,Manual,74.3 mpg,Diesel,2013,1461cc,"94,688 miles",Diesel,Manual,BLACK,Hatchback,74.3 mpg
+/ad/30916908,Mercedes-Benz E Class,1.8 E250 CGI BLUEEFFICIENCY S/S SPORT 2d 204 BHP Coupe,"9,995",2013,Automatic,42.2 mpg,Petrol,2013,1.8L,"95,000 miles",Petrol,Automatic,White,Coupe,42.2 mpg
+/ad/30043006,Mercedes-Benz E Class,3.0 E350 CDI BLUEEFFICIENCY SPORT 5d 265 BHP Estate,"9,995",2011,Automatic,43.5 mpg,Diesel,2011,3L,"96,700 miles",Diesel,Automatic,Black,Estate,43.5 mpg
+/ad/28685243,Mercedes-Benz SL Class,SL280 AUTO CONVERTIBLE ABSOLUTLEY STUNNING EXAMPLE RARE FIND Convertible,"9,995",1994,Automatic,Tax: £280,1994,2799cc,"96,750 miles",Petrol,Automatic,Grey,Convertible,,
+/ad/27521903,Mercedes-Benz E Class,DIESEL SALOON Saloon,"9,995",2012,Automatic,57.6 mpg,Diesel,2012,2143cc,"98,000 miles",Diesel,Automatic,Silver,Saloon,57.6 mpg
+/ad/30691786,Mercedes-Benz E Class,E220 CDI SE 5-Door Estate,"9,995",2014,Automatic,52.3 mpg,Diesel,2014,2143cc,"98,271 miles",Diesel,Automatic,Black,Estate,52.3 mpg
+/ad/20636747,Mercedes-Benz S Class,S350 Blue effic L cdi A,"9,995",2010,Automatic,Tax: n/a,2010,"3,00 cc","101,000 miles",Diesel,Automatic,Silver,Saloon,,
+/ad/30556458,Mercedes-Benz CL Class,CL500 V8 AUTO COUPE Other,"9,995",1998,Automatic,18.3 mpg,Petrol,1998,4973cc,"102,000 miles",Petrol,Automatic,Silver,Other,18.3 mpg
+/ad/30948815,Mercedes-Benz C Class,2.1 C220 BlueTEC AMG Line Saloon,"9,995",2014,Manual,68.9 mpg,Diesel,2014,2143cc,"103,773 miles",Diesel,Manual,Silver,Saloon,68.9 mpg
+/ad/30751024,Mercedes-Benz M Class,ML500 SE 5dr Tip Auto Estate,"9,995",2006,Automatic,21.1 mpg,Petrol,2006,4999cc,"103,920 miles",Petrol,Automatic,Silver,Estate,21.1 mpg
+/ad/28552482,Mercedes-Benz M Class,ML350 CDi BlueEFFICIENCY [231] Sport 5dr Tip Auto Estate,"9,995",2011,Automatic,32.5 mpg,Diesel,2011,2987cc,"104,704 miles",Diesel,Automatic,Silver,Estate,32.5 mpg
+/ad/30740394,Mercedes-Benz E Class,2.1 E250 CDI AMG Line G-Tronic+ Euro 5 (s/s) 4dr Saloon,"9,995",2015,Automatic,55.4 mpg,Diesel,2015,2143cc,"105,000 miles",Diesel,Automatic,Black,Saloon,55.4 mpg
+/ad/30542117,Mercedes-Benz E Class,3.0 E350 BLUETEC AMG LINE 2d AUTOMATIC 255 BHP Coupe,"9,995",2014,Automatic,54.3 mpg,Diesel,2014,2987cc,"122,152 miles",Diesel,Automatic,PURPLE,Coupe,54.3 mpg
+/ad/30725803,Mercedes-Benz SL Class,3.5 SL350 2d 315 BHP Convertible,"9,995",2009,Automatic,29.1 mpg,Petrol,2009,3498cc,"123,659 miles",Petrol,Automatic,BLACK,Convertible,29.1 mpg
+/ad/30730207,Mercedes-Benz C Class,DIESEL SALOON Saloon,"9,995",2015,Automatic,64.2 mpg,Diesel,2015,2143cc,"129,000 miles",Diesel,Automatic,Black,Saloon,64.2 mpg
+/ad/28711096,Mercedes-Benz E Class,Convertible,"9,995",2012,Automatic,30.6 mpg,Diesel,2012,2143cc,"139,738 miles",Diesel,Automatic,Grey,Convertible,30.6 mpg
+/ad/30537737,Mercedes-Benz GLA Class,2.1 GLA220 CDI 4MATIC AMG LINE 5d 168 BHP Estate,"9,995",2014,Automatic,55.4 mpg,Diesel,2014,2143cc,"148,904 miles",Diesel,Automatic,WHITE,Estate,55.4 mpg
+/ad/29374301,Mercedes-Benz C Class,2.1 C250 BLUETEC AMG LINE 4d 204 BHP Saloon,"9,995",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"179,000 miles",Diesel,Automatic,SILVER,Saloon,64.2 mpg
+/ad/30529920,Mercedes-Benz SLK,1.8 SLK,"9,995",2013,Manual,41.5 mpg,Petrol,2013,1796cc,"34,989 miles",Petrol,Manual,GREY,Convertible,41.5 mpg
+/ad/30855981,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"9,995",2016,Manual,68.9 mpg,Diesel,2016,1461cc,"120,000 miles",Diesel,Manual,Grey,Hatchback,68.9 mpg
+/ad/30542117,Mercedes-Benz E Class,3.0 E350 BLUETEC AMG LINE 2d AUTOMATIC 255 BHP Coupe,"9,995",2014,Automatic,54.3 mpg,Diesel,2014,2987cc,"122,152 miles",Diesel,Automatic,PURPLE,Coupe,54.3 mpg
+/ad/30725803,Mercedes-Benz SL Class,3.5 SL350 2d 315 BHP Convertible,"9,995",2009,Automatic,29.1 mpg,Petrol,2009,3498cc,"123,659 miles",Petrol,Automatic,BLACK,Convertible,29.1 mpg
+/ad/30730207,Mercedes-Benz C Class,DIESEL SALOON Saloon,"9,995",2015,Automatic,64.2 mpg,Diesel,2015,2143cc,"129,000 miles",Diesel,Automatic,Black,Saloon,64.2 mpg
+/ad/28711096,Mercedes-Benz E Class,Convertible,"9,995",2012,Automatic,30.6 mpg,Diesel,2012,2143cc,"139,738 miles",Diesel,Automatic,Grey,Convertible,30.6 mpg
+/ad/29196293,Mercedes-Benz S Class,S350L 3.0 CDi Diesel BlueEFFICIENCY Auto From £9,"9,995",2010,Automatic,36.7 mpg,Diesel,2010,2987cc,"143,000 miles",Diesel,Automatic,Silver,Saloon,36.7 mpg
+/ad/30537737,Mercedes-Benz GLA Class,2.1 GLA220 CDI 4MATIC AMG LINE 5d 168 BHP Estate,"9,995",2014,Automatic,55.4 mpg,Diesel,2014,2143cc,"148,904 miles",Diesel,Automatic,WHITE,Estate,55.4 mpg
+/ad/29374301,Mercedes-Benz C Class,2.1 C250 BLUETEC AMG LINE 4d 204 BHP Saloon,"9,995",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"179,000 miles",Diesel,Automatic,SILVER,Saloon,64.2 mpg
+/ad/30812508,Mercedes-Benz A Class,1.5 A180 CDI SPORT EDITION 5DR Manual Hatchback,"9,995",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"66,562 miles",Diesel,Manual,Grey,Hatchback,70.6 mpg
+/ad/30529920,Mercedes-Benz SLK,1.8 SLK,"9,995",2013,Manual,41.5 mpg,Petrol,2013,1796cc,"34,989 miles",Petrol,Manual,GREY,Convertible,41.5 mpg
+/ad/27407998,Mercedes-Benz A Class,A Class,"9,998",2014,Manual,78.5 mpg,Diesel,2014,0L,"71,517 miles",Diesel,Manual,WHITE,Hatchback,78.5 mpg
+/ad/30874902,Mercedes-Benz B Class,1.5 B180 CDI BLUEEFFICIENCY SPORT 5d 107 BHP MPV,"9,999",2014,Automatic,64.2 mpg,Diesel,2014,1.5L,"25,458 miles",Diesel,Automatic,Silver,MPV,64.2 mpg
+/ad/28961231,Mercedes-Benz C Class,C220 CDI BLUEEFFICIENCY AMG SPORT ED125 2-Door Coupe,"9,999",2011,Automatic,53.3 mpg,Diesel,2011,2143cc,"45,000 miles",Diesel,Automatic,Red,Coupe,53.3 mpg
+/ad/30719400,Mercedes-Benz A Class,1.5 A180 CDI Sport Euro 5 (s/s) 5dr Hatchback,"9,999",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"47,850 miles",Diesel,Manual,Black,Hatchback,72.4 mpg
+/ad/30719409,Mercedes-Benz CLS Class,2.1 CLS250 CDI BlueEfficiency Coupe G-Tronic+ Euro 5 (s/s) 4dr Saloon,"9,999",2013,Automatic,55.0 mpg,Diesel,2013,2143cc,"49,000 miles",Diesel,Automatic,Silver,Saloon,55 mpg
+/ad/30864517,Mercedes-Benz E Class,3.0 CDI V6 BlueEfficiency Sport Coupe 2dr Diesel G-Tronic Euro 5 (265 ps) Coupe,"9,999",2012,Automatic,47.1 mpg,Diesel,2012,2987cc,"52,500 miles",Diesel,Automatic,Red,Coupe,47.1 mpg
+/ad/30757256,Mercedes-Benz C Class,2.1 C250 CDI AMG SPORT EDITION PREMIUM 2d 202 BHP Coupe,"9,999",2014,Automatic,53.3 mpg,Diesel,2014,2.1L,"58,901 miles",Diesel,Automatic,Silver,Coupe,53.3 mpg
+/ad/30677523,Mercedes-Benz E Class,CDI SE Coupe,"9,999",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"65,000 miles",Diesel,Automatic,BLACK,Coupe,58.9 mpg
+/ad/30029482,Mercedes-Benz C Class,C220 D SE Saloon,"9,999",2015,Manual,70.6 mpg,Diesel,2015,2143cc,"79,001 miles",Diesel,Manual,Black,Saloon,70.6 mpg
+/ad/30723702,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport Edition G-Tronic+ Euro 5 (s/s) 5dr Estate,"9,999",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"92,000 miles",Diesel,Automatic,Silver,Estate,56.5 mpg
+/ad/29653466,Mercedes-Benz A Class,Hatchback,"9,999",2013,Manual,70.6 mpg,Diesel,2013,1461cc,"95,000 miles",Diesel,Manual,Blue,Hatchback,70.6 mpg
+/ad/30244463,Mercedes-Benz E Class,3.0 E350 CDI V6 BlueEfficiency Sport Estate,"9,999",2012,Automatic,44.8 mpg,Diesel,2012,2987cc,"113,250 miles",Diesel,Automatic,Silver,Estate,44.8 mpg
+/ad/20902509,Mercedes-Benz SL CLASS,SL500,"9,999",2001,Automatic,Tax: n/a,2001,5L,"122,000 miles",Petrol,Automatic,Silver,Convertible,,
+/ad/29295351,Mercedes-Benz SLK,2.1 SLK,"9,999",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"63,000 miles",Diesel,Automatic,BLACK,Convertible,56.5 mpg
+/ad/30473243,Mercedes-Benz B Class,B180 [1.5] CDI SE 5dr Auto Hatchback,"10,000",2014,Automatic,68.9 mpg,Diesel,2014,1461cc,"35,000 miles",Diesel,Automatic,Black,Hatchback,68.9 mpg
+/ad/29703800,Mercedes-Benz C Class,Saloon,"10,000",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"41,448 miles",Diesel,Automatic,Black,Saloon,64.2 mpg
+/ad/30770040,Mercedes-Benz A Class,A180 BLUEEFFICIENCY SPORT Hatchback,"10,000",2014,Manual,72.4 mpg,Diesel,2014,1461cc,"50,000 miles",Diesel,Manual,Blue,Hatchback,72.4 mpg
+/ad/30850907,Mercedes-Benz CLS Class,2.1 CLS250 CDI BlueEfficiency Coupe G-Tronic+ Euro 5 (s/s) 4dr Saloon,"10,000",2012,Automatic,55.0 mpg,Diesel,2012,2143cc,"50,618 miles",Diesel,Automatic,Silver,Saloon,55 mpg
+/ad/30713676,Mercedes-Benz C Class,2.1 C220 CDI BLUEEFFICIENCY AMG SPORT 5d 168 BHP Estate,"10,000",2012,Automatic,54.3 mpg,Diesel,2012,2143cc,"61,000 miles",Diesel,Automatic,BLUE,Estate,54.3 mpg
+/ad/30481809,Mercedes-Benz C Class,C250 CDI AMG Sport Edition 5dr Auto Estate,"10,000",2014,Automatic,54.3 mpg,Diesel,2014,2143cc,"63,053 miles",Diesel,Automatic,Silver,Estate,54.3 mpg
+/ad/30359104,Mercedes-Benz C Class,C220 CDI AMG Sport Edition 2dr Auto Coupe,"10,000",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"67,558 miles",Diesel,Automatic,Silver,Coupe,53.3 mpg
+/ad/30414963,Mercedes-Benz C Class,C350 CDI BlueEFFICIENCY Sport 4dr Auto Saloon,"10,000",2011,Automatic,47.1 mpg,Diesel,2011,2987cc,"70,000 miles",Diesel,Automatic,Silver,Saloon,47.1 mpg
+/ad/30471301,Mercedes-Benz SLK,2.1 SLK,"10,000",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"83,000 miles",Diesel,Automatic,Blue,Convertible,56.5 mpg
+/ad/30775334,Mercedes-Benz E Class,2.1 E220 CDI AMG SPORT 4d 168 BHP Saloon,"10,000",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"84,453 miles",Diesel,Automatic,WHITE,Saloon,58.9 mpg
+/ad/30471301,Mercedes-Benz SLK,2.1 SLK,"10,000",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"83,000 miles",Diesel,Automatic,Blue,Convertible,56.5 mpg
+/ad/30775334,Mercedes-Benz E Class,2.1 E220 CDI AMG SPORT 4d 168 BHP Saloon,"10,000",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"84,453 miles",Diesel,Automatic,WHITE,Saloon,58.9 mpg
+/ad/29393193,Mercedes-Benz SL Class,3.2 SL320 2d 228 BHP Convertible,"10,000",1997,Automatic,28.2 mpg,Petrol,1997,3199cc,"88,000 miles",Petrol,Automatic,SILVER,Convertible,28.2 mpg
+/ad/30839314,Mercedes-Benz A Class,1.5 A180d AMG Line (Premium) Euro 6 (s/s) 5dr Hatchback,"10,000",2016,Manual,68.9 mpg,Diesel,2016,1461cc,"88,030 miles",Diesel,Manual,Red,Hatchback,68.9 mpg
+/ad/30332310,Mercedes-Benz CLS Class,3.0 CLS350 CDI BLUEEFFICIENCY AMG SPORT 5d 262 BHP Estate,"10,000",2013,Automatic,47.1 mpg,Diesel,2013,2987cc,"90,000 miles",Diesel,Automatic,SILVER,Estate,47.1 mpg
+/ad/30539272,Mercedes-Benz E Class,2.1 E250 CDI AMG SPORT 2d 204 BHP Coupe,"10,000",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"93,000 miles",Diesel,Automatic,WHITE,Coupe,57.7 mpg
+/ad/29529512,Mercedes-Benz E Class,E350 CGI BlueEFFICIENCY Avantgarde 4dr Tip Auto Saloon,"10,000",2010,Automatic,32.8 mpg,Petrol,2010,3500cc,"109,885 miles",Petrol,Automatic,Blue,Saloon,32.8 mpg
+/ad/30943660,Mercedes-Benz C Class,2.1 C250 CDI AMG Sport Edition Coupe,"10,000",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"70,676 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30954996,Mercedes-Benz CLA Class,2.1 CLA200d AMG Line Coupe 7G-DCT Euro 6 (s/s) 4dr SVC HISTORY PARKING SENSORS Saloon,"10,000",2018,Automatic,70.6 mpg,Diesel,2018,2143cc,"139,950 miles",Diesel,Automatic,Silver,Saloon,70.6 mpg
+/ad/30766765,Mercedes-Benz C Class,2.1 C250 CDI BlueEfficiency AMG Sport Plus G-Tronic+ Euro 5 (s/s) 5dr Full service History Estate,"10,000",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"77,236 miles",Diesel,Automatic,Red,Estate,53.3 mpg
+/ad/30714168,Mercedes-Benz A Class,2.1 A200 CDI AMG Sport Hatchback 5dr Diesel Manual Euro 6 (s/s) Hatchback,"10,000",2015,Manual,62.8 mpg,Diesel,2015,2143cc,"71,562 miles",Diesel,Manual,BLACK,Hatchback,62.8 mpg
+/ad/30712256,Mercedes-Benz A Class,A180 BlueEFFICIENCY SE 5dr Hatchback,"10,100",2014,Manual,51.4 mpg,Petrol,2014,1600cc,"60,467 miles",Petrol,Manual,White,Hatchback,51.4 mpg
+/ad/30844253,Mercedes-Benz C Class,SALOON Saloon,"10,115",2013,Automatic,44.8 mpg,Petrol,2013,1595cc,"67,657 miles",Petrol,Automatic,Black,Saloon,44.8 mpg
+/ad/30736039,Mercedes-Benz A Class,1.6 A180 Sport Hatchback,"10,118",2016,Manual,50.4 mpg,Petrol,2016,1595cc,"105,586 miles",Petrol,Manual,White,Hatchback,50.4 mpg
+/ad/30539263,Mercedes-Benz A Class,1.8 A200 CDI BLUEEFFICIENCY AMG SPORT 5d 136 BHP Hatchback,"10,150",2014,Automatic,64.2 mpg,Diesel,2014,1796cc,"90,000 miles",Diesel,Automatic,BLUE,Hatchback,64.2 mpg
+/ad/28821891,Mercedes-Benz A Class,A180 CDI BLUEEFFICIENCY AMG SPORT Hatchback,"10,195",2013,Manual,70.6 mpg,Diesel,2013,1461cc,"80,000 miles",Diesel,Manual,Blue,Hatchback,70.6 mpg
+/ad/30699713,Mercedes-Benz C Class,1.6 C200 BlueTEC Sport G-Tronic+ Euro 6 (s/s) 4dr * Warranty & Breakdown * Saloon,"10,195",2015,Automatic,65.7 mpg,Diesel,2015,1598cc,"102,000 miles",Diesel,Automatic,Silver,Saloon,65.7 mpg
+/ad/30699436,Mercedes-Benz CLS Class,2.1 CLS250 CDI BLUEEFFICIENCY AMG SPORT 5d 202 BHP Estate,"10,199",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"111,357 miles",Diesel,Automatic,BLACK,Estate,53.3 mpg
+/ad/30922294,Mercedes-Benz SLK,1.8 SLK,"10,200",2011,Automatic,43.5 mpg,Petrol,2011,1796cc,"23,570 miles",Petrol,Automatic,Grey,Convertible,43.5 mpg
+/ad/30724254,Mercedes-Benz A Class,1.5 A180 CDI AMG Sport 7G-DCT Euro 6 (s/s) 5dr Hatchback,"10,200",2015,Automatic,68.9 mpg,Diesel,2015,1461cc,"107,163 miles",Diesel,Automatic,White,Hatchback,68.9 mpg
+/ad/30458822,Mercedes-Benz A Class,1.5 A180d AMG Line Euro 6 (s/s) 5dr Hatchback,"10,245",2016,Manual,68.9 mpg,Diesel,2016,1.46L,"84,000 miles",Diesel,Manual,Black,Hatchback,68.9 mpg
+/ad/30770172,Mercedes-Benz E Class,2.1 E220 CDI SE 4d 168 BHP Saloon,"10,250",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"46,182 miles",Diesel,Automatic,GREY,Saloon,58.9 mpg
+/ad/30601225,Mercedes-Benz E Class,2.1 E250 CDI BLUEEFFICIENCY S/S SPORT 2d 204 BHP RED DAKOTA LEATHERS PAN ROOF Coupe,"10,250",2013,Automatic,55.4 mpg,Diesel,2013,2143cc,"63,420 miles",Diesel,Automatic,WHITE,Coupe,55.4 mpg
+/ad/30036176,Mercedes-Benz SLK,2.1 SLK,"10,250",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"72,800 miles",Diesel,Automatic,WHITE,Convertible,56.5 mpg
+/ad/30294311,Mercedes-Benz S Class,S350L CDi BlueEFFICIENCY 4dr Auto Saloon,"10,250",2010,Automatic,36.7 mpg,Diesel,2010,2987cc,"74,500 miles",Diesel,Automatic,Black,Saloon,36.7 mpg
+/ad/30865558,Mercedes-Benz E Class,2.1 E220 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 5dr Estate,"10,250",2014,Automatic,52.3 mpg,Diesel,2014,2143cc,"97,568 miles",Diesel,Automatic,White,Estate,52.3 mpg
+/ad/30713450,Mercedes-Benz E Class,3.0 E350 BLUETEC AMG SPORT 2d 252 BHP Coupe,"10,250",2014,Automatic,49.6 mpg,Diesel,2014,2987cc,"115,000 miles",Diesel,Automatic,WHITE,Coupe,49.6 mpg
+/ad/30716049,Mercedes-Benz C Class,1.6 C200 BLUETEC SPORT 4d 136 BHP Saloon,"10,290",2015,Manual,70.6 mpg,Diesel,2015,1598cc,"95,725 miles",Diesel,Manual,BLACK,Saloon,70.6 mpg
+/ad/30569304,Mercedes-Benz B Class,1.5 B180 CDI Sport 7G-DCT Euro 5 (s/s) 5dr * Warranty & Breakdown Cover * MPV,"10,295",2015,Automatic,64.2 mpg,Diesel,2015,1461cc,"40,000 miles",Diesel,Automatic,Blue,MPV,64.2 mpg
+/ad/30586798,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY AMG SPORT 4d 202 BHP Saloon,"10,295",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"49,554 miles",Diesel,Automatic,BLACK,Saloon,56.5 mpg
+/ad/30809346,Mercedes-Benz M Class,3.0 ML300 CDI BLUEEFFICIENCY SPORT 5d AUTO 204 BHP Estate,"10,295",2011,Automatic,32.5 mpg,Diesel,2011,3L,"66,000 miles",Diesel,Automatic,Silver,Estate,32.5 mpg
+/ad/29593530,Mercedes-Benz A Class,1.8 A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"10,295",2013,Automatic,64.2 mpg,Diesel,2013,1796cc,"90,190 miles",Diesel,Automatic,WHITE,Hatchback,64.2 mpg
+/ad/30275545,Mercedes-Benz CLA Class,1.6 CLA180 AMG Sport Coupe Euro 6 (s/s) 4dr Saloon,"10,295",2014,Manual,50.4 mpg,Petrol,2014,1.6L,"99,532 miles",Petrol,Manual,White,Saloon,50.4 mpg
+/ad/30437610,Mercedes-Benz E Class,2.1 E250 CDI AMG NIGHT EDITION 4d 201 BHP Saloon,"10,295",2015,Automatic,55.4 mpg,Diesel,2015,2143cc,"101,150 miles",Diesel,Automatic,GREY,Saloon,55.4 mpg
+/ad/30620436,Mercedes-Benz C Class,2.1 C220 CDI AMG SPORT EDITION PREMIUM PLUS 2d 168 BHP Coupe,"10,299",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"57,300 miles",Diesel,Automatic,RED,Coupe,53.3 mpg
+/ad/30825662,Mercedes-Benz A Class,A180d Sport Executive 5dr Hatchback,"10,299",2015,Manual,72.4 mpg,Diesel,2015,1.5L,"78,000 miles",Diesel,Manual,Grey,Hatchback,72.4 mpg
+/ad/30718940,Mercedes-Benz C Class,2.1 C220d Sport Euro 6 (s/s) 5dr Estate,"10,300",2015,Manual,65.7 mpg,Diesel,2015,2143cc,"98,000 miles",Diesel,Manual,Black,Estate,65.7 mpg
+/ad/30923684,Mercedes-Benz GLA Class,2.1 GLA200 CDI AMG Line Euro 6 (s/s) 5dr SUV,"10,350",2014,Manual,62.8 mpg,Diesel,2014,2143cc,"82,663 miles",Diesel,Manual,White,SUV,62.8 mpg
+/ad/30335567,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"10,350",2016,Manual,80.7 mpg,Diesel,2016,1461cc,"83,471 miles",Diesel,Manual,Cosmos Black Metallic,Hatchback,80.7 mpg
+/ad/30604360,Mercedes-Benz CL Class,5.5 CL500 2dr ULEZ COMPLIANT Coupe,"10,395",2010,Automatic,23.0 mpg,Petrol,2010,5461cc,"93,000 miles",Petrol,Automatic,Black,Coupe,23 mpg
+/ad/30284774,Mercedes-Benz SLK,1.8 SLK,"10,425",2012,Automatic,43.5 mpg,Petrol,2012,1796cc,"54,000 miles",Petrol,Automatic,Grey,Convertible,43.5 mpg
+/ad/29424303,Mercedes-Benz SLK,SLK,"10,450",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"72,000 miles",Diesel,Automatic,White,Convertible,56.5 mpg
+/ad/30767356,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"10,450",2015,Automatic,68.9 mpg,Diesel,2015,1461cc,"79,000 miles",Diesel,Automatic,Blue,Hatchback,68.9 mpg
+/ad/30716550,Mercedes-Benz A Class,1.5 A 180 D SE 5d 107 BHP Hatchback,"10,450",2018,Manual,80.7 mpg,Diesel,2018,1461cc,"85,000 miles",Diesel,Manual,WHITE,Hatchback,80.7 mpg
+/ad/30685852,Mercedes-Benz AMG,C350 CDI BLUEEFFICIENCY SPORT PLUS Estate,"10,450",2012,Automatic,45.6 mpg,Diesel,2012,2987cc,"87,000 miles",Diesel,Automatic,White,Estate,45.6 mpg
+/ad/30933070,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"10,450",2014,Automatic,65.7 mpg,Diesel,2014,1461cc,"99,000 miles",Diesel,Automatic,Black,Hatchback,65.7 mpg
+/ad/30953130,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"10,450",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"76,681 miles",Diesel,Manual,Black,Hatchback,70.6 mpg
+/ad/30594994,Mercedes-Benz C Class,2.1 C250 BLUETEC AMG LINE 4DR 204 BHP Saloon,"10,470",2014,Automatic,64.2 mpg,Diesel,2014,2.1L,"108,866 miles",Diesel,Automatic,Black,Saloon,64.2 mpg
+/ad/30736815,Mercedes-Benz GLA Class,2.1 GLA200 CDI AMG LINE 5d 136 BHP Estate,"10,480",2015,Manual,62.8 mpg,Diesel,2015,2143cc,"89,031 miles",Diesel,Manual,RED,Estate,62.8 mpg
+/ad/30378681,Mercedes-Benz B Class,MPV,"10,485",2016,Manual,68.9 mpg,Diesel,2016,1461cc,"70,000 miles",Diesel,Manual,Black,MPV,68.9 mpg
+/ad/30045637,Mercedes-Benz SL Class,3.5 SL350 2d 272 BHP Convertible,"10,489",2007,Automatic,27.4 mpg,Petrol,2007,3498cc,"64,000 miles",Petrol,Automatic,SILVER,Convertible,27.4 mpg
+/ad/30280062,Mercedes-Benz E Class,2.1 E220 CDI BLUEEFFICIENCY SPORT 2DR Automatic Convertible,"10,489",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"45,530 miles",Diesel,Automatic,ALUMINIUM SILVER METALLIC,Convertible,53.3 mpg
+/ad/30847924,Mercedes-Benz SLK,1.8 SLK,"10,490",2013,Manual,41.5 mpg,Petrol,2013,1796cc,"34,000 miles",Petrol,Manual,Black,Convertible,41.5 mpg
+/ad/30809410,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY SPORT 5d 109 BHP Hatchback,"10,490",2013,Manual,72.4 mpg,Diesel,2013,1.5L,"51,115 miles",Diesel,Manual,Black,Hatchback,72.4 mpg
+/ad/30100952,Mercedes-Benz SLK,1.8 SLK,"10,490",2012,Automatic,43.5 mpg,Petrol,2012,1.8L,"54,510 miles",Petrol,Automatic,White,Convertible,43.5 mpg
+/ad/30724338,Mercedes-Benz A Class,1.5 A180 CDI Sport 7G-DCT Euro 5 (s/s) 5dr Hatchback,"10,490",2014,Automatic,68.9 mpg,Diesel,2014,1461cc,"58,000 miles",Diesel,Automatic,Silver,Hatchback,68.9 mpg
+/ad/30858094,Mercedes-Benz C Class,C250 CDI BlueEFFICIENCY AMG Sport 5dr Auto Estate,"10,490",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"64,000 miles",Diesel,Automatic,White,Estate,54.3 mpg
+/ad/30331882,Mercedes-Benz E Class,E220 CDI SE 4dr 7G-Tronic Saloon,"10,490",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"68,000 miles",Diesel,Automatic,Black,Saloon,58.9 mpg
+/ad/30706601,Mercedes-Benz E Class,2.1 E300 BLUETEC HYBRID SE 4d 202 BHP Saloon,"10,490",2013,Automatic,68.9 mpg,Other,2013,2143cc,"69,583 miles",Other,Automatic,BLACK,Saloon,68.9 mpg
+/ad/30561395,Mercedes-Benz C Class,C180 1.6 AMG SPORT COUPE AUTO ONLY 70K FMBSH PAN ROOF SAT NAV Coupe,"10,490",2012,Automatic,44.8 mpg,Petrol,2012,1600cc,"70,000 miles",Petrol,Automatic,Other,Coupe,44.8 mpg
+/ad/30835213,Mercedes-Benz E Class,2.1 E220 CDI AMG SPORT 4d 168 BHP Saloon,"10,490",2013,Automatic,58.9 mpg,Diesel,2013,2.1L,"70,184 miles",Diesel,Automatic,Grey,Saloon,58.9 mpg
+/ad/30839445,Mercedes-Benz C Class,2.1 C250 CDI AMG Sport Edition G-Tronic+ Euro 5 (s/s) 2dr Coupe,"10,490",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"75,000 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30781234,Mercedes-Benz C Class,C180 1.6 AMG SPORT PLUS SALOON AUTOMATIC 77K SERV HIST SAT NAV HEATED SEATS BLACK Saloon,"10,490",2013,Automatic,44.8 mpg,Petrol,2013,1600cc,"77,000 miles",Petrol,Automatic,Black,Saloon,44.8 mpg
+/ad/30455449,Mercedes-Benz E Class,2.1 E220 CDI AMG Sport 2dr Coupe,"10,490",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"77,000 miles",Diesel,Automatic,Red,Coupe,58.9 mpg
+/ad/30798239,Mercedes-Benz C Class,2.1 C220 D SPORT 4d 170 BHP Saloon,"10,490",2016,Manual,68.9 mpg,Diesel,2016,2143cc,"89,494 miles",Diesel,Manual,BLUE,Saloon,68.9 mpg
+/ad/30465205,Mercedes-Benz A Class,2.1 A200 CDI AMG Night Edition 7G-DCT Euro 6 (s/s) 5dr Hatchback,"10,490",2015,Automatic,68.9 mpg,Diesel,2015,2143cc,"102,174 miles",Diesel,Automatic,White,Hatchback,68.9 mpg
+/ad/30028740,Mercedes-Benz GLA Class,2.1 GLA200 CDI SPORT 5d 136 BHP Estate,"10,490",2015,Automatic,62.8 mpg,Diesel,2015,2143cc,"103,067 miles",Diesel,Automatic,BLUE,Estate,62.8 mpg
+/ad/30726329,Mercedes-Benz C Class,2.1 C220 CDI EXECUTIVE SE 4d 168 BHP Saloon,"10,495",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"27,000 miles",Diesel,Automatic,BLACK,Saloon,64.2 mpg
+/ad/30724300,Mercedes-Benz SLK,2.1 SLK,"10,495",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"54,000 miles",Diesel,Automatic,Grey,Convertible,56.5 mpg
+/ad/30461886,Mercedes-Benz C Class,Coupe,"10,495",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"62,000 miles",Diesel,Automatic,White,Coupe,53.3 mpg
+/ad/30681822,Mercedes-Benz C Class,2.1 CDI AMG Sport Edition Coupe 2dr Diesel G-Tronic+ Euro 5 (s/s) (170 ps) Coupe,"10,495",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"63,610 miles",Diesel,Automatic,White,Coupe,53.3 mpg
+/ad/30869411,Mercedes-Benz B Class,1.5 B180 CDI BLUEEFFICIENCY SPORT 5d 107 BHP MPV,"10,495",2014,Automatic,64.2 mpg,Diesel,2014,1461cc,"64,000 miles",Diesel,Automatic,Blue,MPV,64.2 mpg
+/ad/30494927,Mercedes-Benz C Class,Saloon,"10,495",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"67,000 miles",Diesel,Automatic,White,Saloon,54.3 mpg
+/ad/30932945,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"10,495",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"67,000 miles",Diesel,Manual,Black,Hatchback,70.6 mpg
+/ad/28906297,Mercedes-Benz C Class,Coupe,"10,495",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"71,100 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30915776,Mercedes-Benz C Class,1.8 C250 BlueEfficiency Sport Saloon,"10,495",2012,Automatic,40.9 mpg,Petrol,2012,1796cc,"73,299 miles",Petrol,Automatic,Silver,Saloon,40.9 mpg
+/ad/30471992,Mercedes-Benz E Class,2.1 E220 CDI AMG SPORT Coupe,"10,495",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"75,500 miles",Diesel,Automatic,White,Coupe,58.9 mpg
+/ad/30864981,Mercedes-Benz A Class,1.5 A180d SE Hatchback,"10,495",2015,Automatic,76.4 mpg,Diesel,2015,1461cc,"78,000 miles",Diesel,Automatic,Silver,Hatchback,76.4 mpg
+/ad/30864981,Mercedes-Benz A Class,1.5 A180d SE Hatchback,"10,495",2015,Automatic,76.4 mpg,Diesel,2015,1461cc,"78,000 miles",Diesel,Automatic,Silver,Hatchback,76.4 mpg
+/ad/30690182,Mercedes-Benz E Class,DIESEL SALOON Saloon,"10,495",2013,Automatic,57.6 mpg,Diesel,2013,2143cc,"79,000 miles",Diesel,Automatic,Silver,Saloon,57.6 mpg
+/ad/29649461,Mercedes-Benz E Class,E220 CDI AMG SPORT Saloon,"10,495",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"80,000 miles",Diesel,Automatic,Silver,Saloon,58.9 mpg
+/ad/30736977,Mercedes-Benz E Class,3.0 E350 BLUETEC AMG SPORT 4d 249 BHP Saloon,"10,495",2014,Automatic,47.1 mpg,Diesel,2014,2987cc,"83,845 miles",Diesel,Automatic,BLACK,Saloon,47.1 mpg
+/ad/30444001,Mercedes-Benz A Class,Hatchback,"10,495",2013,Automatic,64.2 mpg,Diesel,2013,1796cc,"84,000 miles",Diesel,Automatic,White,Hatchback,64.2 mpg
+/ad/30939561,Mercedes-Benz A Class,1.5 A 180 D SPORT 5d 107 BHP Hatchback,"10,495",2016,Automatic,74.3 mpg,Diesel,2016,1461cc,"85,781 miles",Diesel,Automatic,BLUE,Hatchback,74.3 mpg
+/ad/30716484,Mercedes-Benz E Class,3.0 E350 CDI BLUEEFFICIENCY SPORT 2d 265 BHP Convertible,"10,495",2013,Automatic,47.1 mpg,Diesel,2013,2987cc,"87,000 miles",Diesel,Automatic,WHITE,Convertible,47.1 mpg
+/ad/28739715,Mercedes-Benz C Class,C220 CDI AMG SPORT EDITION Coupe,"10,495",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"89,000 miles",Diesel,Automatic,Silver,Coupe,53.3 mpg
+/ad/29310149,Mercedes-Benz SLK,Convertible,"10,495",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"89,894 miles",Diesel,Automatic,Blue,Convertible,56.5 mpg
+/ad/30931830,Mercedes-Benz C Class,DIESEL SALOON Saloon,"10,495",2015,Automatic,65.7 mpg,Diesel,2015,2143cc,"91,854 miles",Diesel,Automatic,White,Saloon,65.7 mpg
+/ad/30730755,Mercedes-Benz CLA Class,1.6 CLA180 AMG Sport Coupe Euro 6 (s/s) 4dr Saloon,"10,495",2015,Manual,50.4 mpg,Petrol,2015,1595cc,"93,000 miles",Petrol,Manual,Grey,Saloon,50.4 mpg
+/ad/30348521,Mercedes-Benz CLS Class,Coupe,"10,495",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"94,900 miles",Diesel,Automatic,Black,Coupe,54.3 mpg
+/ad/30519071,Mercedes-Benz C Class,3.0 C350 CDI V6 BlueEfficiency AMG Sport Plus G-Tronic+ Euro 5 (s/s) 5dr Estate,"10,495",2013,Automatic,45.6 mpg,Diesel,2013,2987cc,"96,000 miles",Diesel,Automatic,White,Estate,45.6 mpg
+/ad/30765768,Mercedes-Benz A Class,1.5 A180d SE EXECUTIVE Hatchback,"10,495",2017,Manual,80.7 mpg,Diesel,2017,1461cc,"96,255 miles",Diesel,Manual,Silver,Hatchback,80.7 mpg
+/ad/30363184,Mercedes-Benz CLS Class,3.0 CLS350 CDI BLUEEFFICIENCY AMG SPORT 4d 265 BHP Coupe,"10,495",2013,Automatic,46.3 mpg,Diesel,2013,3L,"98,500 miles",Diesel,Automatic,Silver,Coupe,46.3 mpg
+/ad/30713169,Mercedes-Benz C Class,1.6 C200 D SPORT 5d 136 BHP Estate,"10,495",2017,Manual,65.7 mpg,Diesel,2017,1598cc,"98,896 miles",Diesel,Manual,WHITE,Estate,65.7 mpg
+/ad/30632496,Mercedes-Benz E Class,DIESEL COUPE Coupe,"10,495",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"104,000 miles",Diesel,Automatic,White,Coupe,58.9 mpg
+/ad/30759964,Mercedes-Benz C Class,2.1 C220d Sport Euro 6 (s/s) 5dr Estate,"10,495",2017,Manual,65.7 mpg,Diesel,2017,2143cc,"105,000 miles",Diesel,Manual,Blue,Estate,65.7 mpg
+/ad/30453344,Mercedes-Benz A Class,Hatchback,"10,495",2016,Manual,62.8 mpg,Diesel,2016,2143cc,"105,600 miles",Diesel,Manual,White,Hatchback,62.8 mpg
+/ad/30947958,Mercedes-Benz SLK,2.1 SLK,"10,495",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"57,830 miles",Diesel,Automatic,White,Convertible,56.5 mpg
+/ad/30724300,Mercedes-Benz SLK,2.1 SLK,"10,495",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"54,000 miles",Diesel,Automatic,Grey,Convertible,56.5 mpg
+/ad/30082415,Mercedes-Benz C Class,2.1 CDI AMG Sport Edition Coupe 2dr Diesel G-Tronic+ Euro 5 (s/s) (170 ps) Coupe,"10,499",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"55,100 miles",Diesel,Automatic,Fire Opal Non-Metallic,Coupe,53.3 mpg
+/ad/30911903,Mercedes-Benz A Class,1.5 A180d SE Hatchback,"10,499",2016,Manual,80.7 mpg,Diesel,2016,1461cc,"63,835 miles",Diesel,Manual,Grey,Hatchback,80.7 mpg
+/ad/30807318,Mercedes-Benz A Class,1.5 A180d Sport Hatchback,"10,499",2017,Manual,72.4 mpg,Diesel,2017,1461cc,"80,417 miles",Diesel,Manual,White,Hatchback,72.4 mpg
+/ad/29796150,Mercedes-Benz A Class,2.1 CDI AMG Sport Hatchback 5dr Diesel 7G-DCT Euro 6 (s/s) (170 ps) Hatchback,"10,499",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"80,886 miles",Diesel,Automatic,Sleek Silver Metallic,Hatchback,64.2 mpg
+/ad/30790256,Mercedes-Benz C Class,2.1 C220d AMG Line Saloon 4dr Diesel 7G-Tronic+ Euro 6 (s/s) (170 ps) Saloon,"10,499",2015,Automatic,64.2 mpg,Diesel,2015,2143cc,"118,488 miles",Diesel,Automatic,Reflex Silver Metallic,Saloon,64.2 mpg
+/ad/30924552,Mercedes-Benz A Class,A180 Cdi Blueefficiency Sport 1.5 Other,"10,499",2014,Automatic,68.9 mpg,Diesel,2014,1500cc,"48,500 miles",Diesel,Automatic,Blue,Other,68.9 mpg
+/ad/30932286,Mercedes-Benz CLS Class,3.0 CLS350 CDI V6 BlueEfficiency Sport Coupe G-Tronic+ Euro 5 4dr Saloon,"10,499",2011,Automatic,46.3 mpg,Diesel,2011,2987cc,"66,250 miles",Diesel,Automatic,Black,Saloon,46.3 mpg
+/ad/30607407,Mercedes-Benz A Class,2.1 A220 CDI BLUEEFFICIENCY AMG SPORT 5d AUTO 170 BHP Hatchback,"10,499",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"81,550 miles",Diesel,Automatic,BLUE,Hatchback,64.2 mpg
+/ad/30889690,Mercedes-Benz E Class,2.1 E250 CDI BlueEfficiency Sport Cabriolet Euro 5 (s/s) 2dr Convertible,"10,500",2012,Manual,55.4 mpg,Diesel,2012,2143cc,"28,450 miles",Diesel,Manual,Red,Convertible,55.4 mpg
+/ad/30607502,Mercedes-Benz C Class,2.1 C220 CDI AMG SPORT EDITION 2d 168 BHP Coupe,"10,500",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"59,000 miles",Diesel,Automatic,SILVER,Coupe,53.3 mpg
+/ad/30254692,Mercedes-Benz CLS Class,2.1 CLS250 CDI BLUEEFFICIENCY AMG SPORT 4d 204 BHP Coupe,"10,500",2013,Automatic,54.3 mpg,Diesel,2013,2143cc,"67,000 miles",Diesel,Automatic,SILVER,Coupe,54.3 mpg
+/ad/30498143,Mercedes-Benz C Class,Coupe,"10,500",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"69,000 miles",Diesel,Automatic,White,Coupe,53.3 mpg
+/ad/30592953,Mercedes-Benz E Class,2.1 E220 CDI AMG SPORT 2d 170 BHP Coupe,"10,500",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"80,000 miles",Diesel,Automatic,GREY,Coupe,58.9 mpg
+/ad/30436088,Mercedes-Benz GLA Class,2.1 GLA220 CDI 4MATIC AMG LINE PREMIUM PLUS 5d 168 BHP Estate,"10,500",2015,Automatic,55.4 mpg,Diesel,2015,2143cc,"132,000 miles",Diesel,Automatic,RED,Estate,55.4 mpg
+/ad/30360328,Mercedes-Benz E Class,2.1 E250 CDI AMG SPORT 4d 202 BHP Saloon,"10,595",2014,Automatic,54.3 mpg,Diesel,2014,2143cc,"62,200 miles",Diesel,Automatic,SILVER,Saloon,54.3 mpg
+/ad/30873801,Mercedes-Benz E Class,2.1 E220 CDI AMG Sport Saloon,"10,599",2014,Automatic,58.9 mpg,Diesel,2014,2143cc,"71,700 miles",Diesel,Automatic,Silver,Saloon,58.9 mpg
+/ad/30869536,Mercedes-Benz CLA Class,COUPE Saloon,"10,650",2013,Manual,50.4 mpg,Petrol,2013,1595cc,"77,000 miles",Petrol,Manual,Grey,Saloon,50.4 mpg
+/ad/30444003,Mercedes-Benz SLK,1.8 SLK,"10,665",2013,Manual,41.5 mpg,Petrol,2013,1796cc,"41,000 miles",Petrol,Manual,Black,Convertible,41.5 mpg
+/ad/30486861,Mercedes-Benz A Class,A180 CDI BlueEFFICIENCY Sport 5dr ++ 20 TAX / HALF LEATHER / 8 SERVICES ++ Hatchback,"10,675",2015,Manual,72.4 mpg,Diesel,2015,1461cc,"60,000 miles",Diesel,Manual,Obsidian Black,Hatchback,72.4 mpg
+/ad/30931937,Mercedes-Benz SLK,SLK,"10,690",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"71,394 miles",Diesel,Automatic,ALANITE GREY PEARL,Convertible,56.5 mpg
+/ad/30321039,Mercedes-Benz B Class,1.5 B180 CDI Sport 7G-DCT Euro 5 (s/s) 5dr MPV,"10,695",2014,Automatic,64.2 mpg,Diesel,2014,1461cc,"27,390 miles",Diesel,Automatic,Grey,MPV,64.2 mpg
+/ad/30737867,Mercedes-Benz E Class,E350 CDI BlueEFFICIENCY Sport 4dr Tip Auto Saloon,"10,695",2010,Automatic,39.8 mpg,Diesel,2010,2987cc,"45,000 miles",Diesel,Automatic,Black,Saloon,39.8 mpg
+/ad/28911046,Mercedes-Benz E Class,2.1 E220 CDI SE Cabriolet G-Tronic+ Euro 5 (s/s) 2dr Convertible,"10,695",2014,Automatic,57.7 mpg,Diesel,2014,2143cc,"64,567 miles",Diesel,Automatic,Grey,Convertible,57.7 mpg
+/ad/30715055,Mercedes-Benz E Class,3.0 E350 BLUETEC AMG LINE PREMIUM 4d 255 BHP Saloon,"10,695",2015,Automatic,53.3 mpg,Diesel,2015,2987cc,"109,000 miles",Diesel,Automatic,SILVER,Saloon,53.3 mpg
+/ad/30618977,Mercedes-Benz CLS Class,2.1 CLS250 CDI BLUEEFFICIENCY AMG SPORT 4d 204 BHP Coupe,"10,695",2014,Automatic,54.3 mpg,Diesel,2014,2143cc,"51,900 miles",Diesel,Automatic,SILVER,Coupe,54.3 mpg
+/ad/30961498,Mercedes-Benz M Class,2.1 ML250 BlueTEC Sport G-Tronic 4WD Euro 6 (s/s) 5dr 4X4,"10,699",2012,Automatic,44.8 mpg,Diesel,2012,2.14L,"106,040 miles",Diesel,Automatic,White,4X4,44.8 mpg
+/ad/30745940,Mercedes-Benz C Class,C220 CDI BlueEFFICIENCY AMG Sport 2dr Auto Coupe,"10,700",2013,Automatic,53.3 mpg,Diesel,2013,2143cc,"48,000 miles",Diesel,Automatic,White,Coupe,53.3 mpg
+/ad/30927707,Mercedes-Benz A Class,1.5 A180d Sport Euro 6 (s/s) 5dr Hatchback,"10,700",2015,Manual,72.4 mpg,Diesel,2015,1461cc,"65,574 miles",Diesel,Manual,Grey,Hatchback,72.4 mpg
+/ad/30959227,Mercedes-Benz A Class,1.5 A180 CDI SE 7G-DCT Euro 5 (s/s) 5dr Hatchback,"10,744",2015,Automatic,68.9 mpg,Diesel,2015,1461cc,"50,150 miles",Diesel,Automatic,Black,Hatchback,68.9 mpg
+/ad/30134803,Mercedes-Benz C Class,2.1 C220 CDI AMG SPORT EDITION PREMIUM PLUS 2d 168 BHP Coupe,"10,750",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"58,000 miles",Diesel,Automatic,SILVER,Coupe,53.3 mpg
+/ad/30047964,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"10,750",2016,Manual,72.4 mpg,Diesel,2016,1461cc,"86,000 miles",Diesel,Manual,Blue,Hatchback,72.4 mpg
+/ad/30959915,Mercedes-Benz A Class,1.5 A180 CDI SPORT EDITION 5d 107 BHP Hatchback,"10,750",2015,Semi-Auto,68.9 mpg,Diesel,2015,1.5L,"61,700 miles",Diesel,Semi Automatic,Grey,Hatchback,68.9 mpg
+/ad/30431599,Mercedes-Benz SLK,SLK,"10,750",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"57,066 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30826352,Mercedes-Benz A Class,1.6 A 160 SPORT EDITION 5d 102 BHP Hatchback,"10,750",2018,Manual,51.4 mpg,Petrol,2018,1.6L,"66,000 miles",Petrol,Manual,Red,Hatchback,51.4 mpg
+/ad/30595153,Mercedes-Benz A Class,A200 [2.1] CDI Sport 5dr Auto + ZERO DEPOSIT 262 P/MTH / ULEZ / 20 TAX + Hatchback,"10,775",2014,Automatic,68.9 mpg,Diesel,2014,2143cc,"45,000 miles",Diesel,Automatic,Obsidian Black,Hatchback,68.9 mpg
+/ad/30648752,Mercedes-Benz C Class,1.8 C180 BLUEEFFICIENCY Elegance Edition 125 Saloon,"10,785",2011,Automatic,43.5 mpg,Petrol,2011,1796cc,"40,000 miles",Petrol,Automatic,SILVER,Saloon,43.5 mpg
+/ad/30138936,Mercedes-Benz SLK,1.8 SLK,"10,790",2010,Automatic,34.4 mpg,Petrol,2010,1796cc,"34,000 miles",Petrol,Automatic,SILVER,Convertible,34.4 mpg
+/ad/30591925,Mercedes-Benz C Class,2.1 C220 D SE 4d 170 BHP Saloon,"10,790",2016,Manual,70.6 mpg,Diesel,2016,2143cc,"68,346 miles",Diesel,Manual,BLUE,Saloon,70.6 mpg
+/ad/30901666,Mercedes-Benz A Class,1.5 A180d AMG Line Euro 6 (s/s) 5dr Hatchback,"10,790",2016,Manual,68.9 mpg,Diesel,2016,1461cc,"100,000 miles",Diesel,Manual,Grey,Hatchback,68.9 mpg
+/ad/30311569,Mercedes-Benz C Class,2.1 C250 CDI AMG Sport Edition 2dr - Panoramic Roof - Elec Seats - Reverse Cam Coupe,"10,790",2015,Automatic,53.3 mpg,Diesel,2015,2143cc,"73,000 miles",Diesel,Automatic,White,Coupe,53.3 mpg
+/ad/30321575,Mercedes-Benz SLK,2.1 SLK,"10,795",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"35,000 miles",Diesel,Automatic,BLACK,Convertible,56.5 mpg
+/ad/30484510,Mercedes-Benz B Class,B180 CDI Sport 5dr Auto Hatchback,"10,795",2015,Automatic,68.9 mpg,Diesel,2015,1461cc,"52,818 miles",Diesel,Automatic,White,Hatchback,68.9 mpg
+/ad/30873915,Mercedes-Benz A Class,2.1 A220 CDI AMG Sport Hatchback,"10,795",2013,Automatic,64.2 mpg,Diesel,2013,2143cc,"75,000 miles",Diesel,Automatic,Black,Hatchback,64.2 mpg
+/ad/30071854,Mercedes-Benz SLK,Convertible,"10,800",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"48,333 miles",Diesel,Automatic,Silver,Convertible,56.5 mpg
+/ad/30750754,Mercedes-Benz C Class,C250 CDI AMG Sport Edition 2dr Auto [Premium Plus] Coupe,"10,800",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"68,000 miles",Diesel,Automatic,Red,Coupe,53.3 mpg
+/ad/30905129,Mercedes-Benz C Class,2.1 C220d AMG Line Euro 6 (s/s) 4dr PARKING SENSORS DUAL CLIMATE Saloon,"10,800",2015,Manual,68.9 mpg,Diesel,2015,2143cc,"97,860 miles",Diesel,Manual,White,Saloon,68.9 mpg
+/ad/30936993,Mercedes-Benz C Class,2.0 C200 AMG Line Euro 6 (s/s) 4dr SVC HISTORY REVERSING CAMERA Saloon,"10,800",2016,Manual,51.4 mpg,Petrol,2016,1991cc,"109,610 miles",Petrol,Manual,Black,Saloon,51.4 mpg
+/ad/30849561,Mercedes-Benz C Class,2.1 C220 BlueTEC Sport G-Tronic+ Euro 6 (s/s) 4dr Saloon,"10,800",2015,Automatic,64.2 mpg,Diesel,2015,2143cc,"87,791 miles",Diesel,Automatic,Silver,Saloon,64.2 mpg
+/ad/30399770,Mercedes-Benz SLK,2.1 SLK,"10,880",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"32,337 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30838948,Mercedes-Benz A Class,2.1 A200d AMG Line (Premium) Euro 6 (s/s) 5dr Hatchback,"10,890",2016,Manual,62.8 mpg,Diesel,2016,2143cc,"80,251 miles",Diesel,Manual,White,Hatchback,62.8 mpg
+/ad/30902935,Mercedes-Benz A Class,A180 CDI Sport Edition 5dr Hatchback,"10,899",2015,Manual,70.6 mpg,Diesel,2015,1.5L,"49,000 miles",Diesel,Manual,Black,Hatchback,70.6 mpg
+/ad/29501764,Mercedes-Benz CLA Class,2.1 Sport Coupe 4dr Diesel 7G-DCT Euro 6 (s/s) (170 ps) Saloon,"10,899",2014,Automatic,62.8 mpg,Diesel,2014,2143cc,"115,174 miles",Diesel,Automatic,Polar Silver Metallic,Saloon,62.8 mpg
+/ad/30714158,Mercedes-Benz SLK,2.1 SLK,"10,900",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"37,328 miles",Diesel,Automatic,WHITE,Convertible,56.5 mpg
+/ad/30122807,Mercedes-Benz E Class,E250 Cdi Amg Sport 2.2 Other,"10,900",2014,Automatic,54.3 mpg,Diesel,2014,2200cc,"60,000 miles",Diesel,Automatic,White,Other,54.3 mpg
+/ad/30440729,Mercedes-Benz E Class,2.1 E220 CDI SE 5d 168 BHP Estate,"10,900",2014,Automatic,52.3 mpg,Diesel,2014,2143cc,"72,998 miles",Diesel,Automatic,BLACK,Estate,52.3 mpg
+/ad/30901354,Mercedes-Benz A Class,2.1 A200 CDI AMG SPORT 5d 136 BHP Hatchback,"10,900",2015,Manual,62.8 mpg,Diesel,2015,2143cc,"83,100 miles",Diesel,Manual,White,Hatchback,62.8 mpg
+/ad/30906706,Mercedes-Benz A Class,1.5 A180d Sport 7G-DCT Euro 6 (s/s) 5dr Hatchback,"10,925",2016,Automatic,74.3 mpg,Diesel,2016,1461cc,"71,372 miles",Diesel,Automatic,Grey,Hatchback,74.3 mpg
+/ad/30683121,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"10,950",2015,Manual,74.3 mpg,Diesel,2015,1461cc,"55,000 miles",Diesel,Manual,Blue,Hatchback,74.3 mpg
+/ad/29949665,Mercedes-Benz SLK,1.8 SLK,"10,950",2012,Automatic,42.8 mpg,Petrol,2012,1796cc,"58,000 miles",Petrol,Automatic,BLACK,Convertible,42.8 mpg
+/ad/30474567,Mercedes-Benz A Class,1.5L A 180 D SE 5d 107 BHP Hatchback,"10,950",2017,Manual,80.7 mpg,Diesel,2017,1461cc,"58,000 miles",Diesel,Manual,SILVER,Hatchback,80.7 mpg
+/ad/30420941,Mercedes-Benz A Class,DIESEL HATCHBACK Hatchback,"10,950",2017,Manual,80.7 mpg,Diesel,2017,1461cc,"73,000 miles",Diesel,Manual,Grey,Hatchback,80.7 mpg
+/ad/30865045,Mercedes-Benz E Class,2.1 E220 BlueTEC SE Cabriolet G-Tronic+ Euro 6 (s/s) 2dr Convertible,"10,950",2015,Automatic,57.7 mpg,Diesel,2015,2143cc,"73,195 miles",Diesel,Automatic,White,Convertible,57.7 mpg
+/ad/30377144,Mercedes-Benz C Class,C220 CDI AMG Sport Edition 2dr Auto [Premium Plus] Coupe,"10,950",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"83,865 miles",Diesel,Automatic,Black,Coupe,53.3 mpg
+/ad/30864942,Mercedes-Benz E Class,3.0 E350 BLUETEC AMG SPORT 5DR Automatic Estate,"10,950",2013,Automatic,45.6 mpg,Diesel,2013,2987cc,"95,000 miles",Diesel,Automatic,Silver,Estate,45.6 mpg
+/ad/30949113,Mercedes-Benz GLA Class,DIESEL HATCHBACK Estate,"10,950",2014,Automatic,62.8 mpg,Diesel,2014,2143cc,"98,500 miles",Diesel,Automatic,White,Estate,62.8 mpg
+/ad/30740470,Mercedes-Benz M Class,3.0 ML350 BLUETEC SPORT 5d 258 BHP Estate,"10,950",2012,Automatic,39.2 mpg,Diesel,2012,2987cc,"118,000 miles",Diesel,Automatic,BLACK,Estate,39.2 mpg
+/ad/30955742,Mercedes-Benz C Class,DIESEL SALOON Saloon,"10,950",2016,Automatic,65.7 mpg,Diesel,2016,2143cc,"65,000 miles",Diesel,Automatic,Grey,Saloon,65.7 mpg
+/ad/30949113,Mercedes-Benz GLA Class,DIESEL HATCHBACK Estate,"10,950",2014,Automatic,62.8 mpg,Diesel,2014,2143cc,"98,500 miles",Diesel,Automatic,White,Estate,62.8 mpg
+/ad/30675220,Mercedes-Benz C Class,C200 SE 4dr Saloon,"10,957",2016,Manual,53.3 mpg,Petrol,2016,2L,"65,503 miles",Petrol,Manual,Black,Saloon,53.3 mpg
+/ad/30511080,Mercedes-Benz A Class,1.5 A180 CDI BLUEEFFICIENCY AMG SPORT 5d 109 BHP Hatchback,"10,965",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"79,999 miles",Diesel,Manual,BLACK,Hatchback,70.6 mpg
+/ad/30659546,Mercedes-Benz A Class,2.1 A 200 D SPORT PREMIUM 5d 134 BHP Hatchback,"10,975",2015,Manual,65.7 mpg,Diesel,2015,2143cc,"67,000 miles",Diesel,Manual,WHITE,Hatchback,65.7 mpg
+/ad/30950843,Mercedes-Benz A Class,A180d AMG Line 5dr + ZERO DEPOSIT 267 P/MTH / SAT NAV / ULEZ + Hatchback,"10,975",2016,Manual,68.9 mpg,Diesel,2016,1461cc,"75,000 miles",Diesel,Manual,South Seas Blue,Hatchback,68.9 mpg
+/ad/30286755,Mercedes-Benz C Class,2.1 C220 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 4dr Leather & PanRoof & Navigation Saloon,"10,977",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"26,720 miles",Diesel,Automatic,Black,Saloon,56.5 mpg
+/ad/30850625,Mercedes-Benz SLK,SLK,"10,977",2015,Automatic,70.6 mpg,Diesel,2015,2143cc,"42,022 miles",Diesel,Automatic,Black,Convertible,70.6 mpg
+/ad/30831417,Mercedes-Benz SLK,BLUEEFFICIENCY AMG SPORT ED125 COMAND HEAD SCARF HEATED SEATS CRUISE SAT NAV BLUETOOTH F+R PDC Convertible,"10,980",2012,Automatic,42.8 mpg,Petrol,2012,1796cc,"60,596 miles",Petrol,Automatic,CALCITE WHITE,Convertible,42.8 mpg
+/ad/30949324,Mercedes-Benz A Class,1.5 A180d Sport (Executive) Euro 6 (s/s) 5dr Hatchback,"10,980",2016,Manual,72.4 mpg,Diesel,2016,1461cc,"46,099 miles",Diesel,Manual,Red,Hatchback,72.4 mpg
+/ad/30117716,Mercedes-Benz C Class,2.1 C220 CDI BlueEfficiency Sport G-Tronic+ Euro 5 (s/s) 5dr Estate,"10,985",2012,Automatic,54.3 mpg,Diesel,2012,2143cc,"49,000 miles",Diesel,Automatic,Black,Estate,54.3 mpg
+/ad/29581097,Mercedes-Benz C Class,1.6 C200 BLUETEC SPORT 4d 136 BHP Saloon,"10,989",2014,Manual,70.6 mpg,Diesel,2014,1598cc,"50,000 miles",Diesel,Manual,SILVER,Saloon,70.6 mpg
+/ad/30894878,Mercedes-Benz CLA Class,1.6 CLA180 AMG Sport Saloon,"10,989",2014,Manual,50.4 mpg,Petrol,2014,1595cc,"80,000 miles",Petrol,Manual,White,Saloon,50.4 mpg
+/ad/30953281,Mercedes-Benz C Class,2.1 C 220 D SE EXECUTIVE EDITION 4d 170 BHP Saloon,"10,989",2017,Automatic,64.2 mpg,Diesel,2017,2143cc,"128,000 miles",Diesel,Automatic,BLACK,Saloon,64.2 mpg
+/ad/30635477,Mercedes-Benz C Class,2.0 C200 SPORT 4d 184 BHP Saloon,"10,989",2014,Automatic,52.3 mpg,Petrol,2014,1991cc,"99,998 miles",Petrol,Automatic,SILVER,Saloon,52.3 mpg
+/ad/30906937,Mercedes-Benz SLK,2.1 SLK,"10,990",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"36,000 miles",Diesel,Automatic,WHITE,Convertible,56.5 mpg
+/ad/30886490,Mercedes-Benz A Class,A180 BlueEFFICIENCY SE 5dr Auto Hatchback,"10,990",2014,Automatic,52.3 mpg,Petrol,2014,1595cc,"40,000 miles",Petrol,Automatic,Silver,Hatchback,52.3 mpg
+/ad/30944376,Mercedes-Benz C Class,1.6 C180 AMG SPORT EDITION PREMIUM 2d 154 BHP Coupe,"10,990",2014,Automatic,44.8 mpg,Petrol,2014,1595cc,"43,000 miles",Petrol,Automatic,RED,Coupe,44.8 mpg
+/ad/30822129,Mercedes-Benz SLK,SLK,"10,990",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"48,000 miles",Diesel,Automatic,Silver,Convertible,56.5 mpg
+/ad/29666801,Mercedes-Benz C Class,C220 CDI AMG Sport Edition 2dr Auto -1 FORMER KEEPER + FULL SERVICE HISTORY- Coupe,"10,990",2014,Automatic,53.3 mpg,Diesel,2014,2143cc,"49,000 miles",Diesel,Automatic,Silver,Coupe,53.3 mpg
+/ad/30698490,Mercedes-Benz SLK,SLK,"10,990",2013,Manual,41.5 mpg,Petrol,2013,1796cc,"50,679 miles",Petrol,Manual,Black,Convertible,41.5 mpg
+/ad/30063391,Mercedes-Benz SLK,SLK,"10,990",2015,Automatic,56.5 mpg,Diesel,2015,2143cc,"55,243 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30023895,Mercedes-Benz SL Class,5.0 SL500 2d 302 BHP Convertible,"10,990",2005,Automatic,23.3 mpg,Petrol,2005,4966cc,"58,000 miles",Petrol,Automatic,SILVER,Convertible,23.3 mpg
+/ad/30706396,Mercedes-Benz E Class,3.0 E350 CDI V6 BlueEfficiency Sport Cabriolet Diesel G-Tronic 2dr - Just 60,"10,990",2013,Automatic,47.1 mpg,Diesel,2013,2987cc,"60,098 miles",Diesel,Automatic,BLACK,Convertible,47.1 mpg
+/ad/30844932,Mercedes-Benz E Class,2.1 E220 CDI AMG Sport G-Tronic+ Euro 5 (s/s) 2dr Coupe,"10,990",2013,Automatic,58.9 mpg,Diesel,2013,2143cc,"61,000 miles",Diesel,Automatic,White,Coupe,58.9 mpg
+/ad/30850873,Mercedes-Benz SLK,1.8 SLK,"10,990",2012,Automatic,42.8 mpg,Petrol,2012,1796cc,"65,000 miles",Petrol,Automatic,Black,Convertible,42.8 mpg
+/ad/30947350,Mercedes-Benz E Class,1.8 E200 CGI BLUEEFFICIENCY S/S SE 2d 184 BHP Convertible,"10,990",2012,Automatic,42.2 mpg,Petrol,2012,1.8L,"66,000 miles",Petrol,Automatic,White,Convertible,42.2 mpg
+/ad/30901668,Mercedes-Benz E Class,2.1 E220 BlueTEC SE G-Tronic+ Euro 6 (s/s) 4dr Saloon,"10,990",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"68,000 miles",Diesel,Automatic,Blue,Saloon,64.2 mpg
+/ad/30718550,Mercedes-Benz E Class,2.1 E220 BlueTEC SE G-Tronic+ Euro 6 (s/s) 4dr Saloon,"10,990",2014,Automatic,64.2 mpg,Diesel,2014,2143cc,"69,000 miles",Diesel,Automatic,Silver,Saloon,64.2 mpg
+/ad/30908206,Mercedes-Benz E Class,E350 BLUETEC AMG SPORT // 2d // 3.0 252 BHP // px swap Coupe,"10,990",2014,Automatic,49.6 mpg,Diesel,2014,3L,"73,000 miles",Diesel,Automatic,Silver,Coupe,49.6 mpg
+/ad/30949206,Mercedes-Benz B Class,1.5 B180d Sport (Executive) 7G-DCT Euro 6 (s/s) 5dr MPV,"10,990",2017,Automatic,68.9 mpg,Diesel,2017,1461cc,"76,500 miles",Diesel,Automatic,Grey,MPV,68.9 mpg
+/ad/30619461,Mercedes-Benz A Class,1.5 A180 CDI SPORT EDITION 5d 107 BHP Hatchback,"10,990",2015,Manual,70.6 mpg,Diesel,2015,1461cc,"84,928 miles",Diesel,Manual,GREY,Hatchback,70.6 mpg
+/ad/30767644,Mercedes-Benz GLA Class,2.1 GLA200 CDI AMG Line Euro 6 (s/s) 5dr SUV,"10,990",2014,Manual,62.8 mpg,Diesel,2014,2143cc,"85,000 miles",Diesel,Manual,Grey,SUV,62.8 mpg
+/ad/30453202,Mercedes-Benz GLA Class,2.1 GLA200 CDI AMG LINE 5d 136 BHP Estate,"10,990",2015,Manual,62.8 mpg,Diesel,2015,2143cc,"86,373 miles",Diesel,Manual,WHITE,Estate,62.8 mpg
+/ad/30679386,Mercedes-Benz A Class,1.5 A 180 D SPORT 5d 107 BHP Hatchback,"10,990",2016,Manual,72.4 mpg,Diesel,2016,1.5L,"90,338 miles",Diesel,Manual,White,Hatchback,72.4 mpg
+/ad/30399296,Mercedes-Benz E Class,3.0 E350 BLUETEC AMG SPORT 4d 249 BHP Saloon,"10,990",2014,Automatic,47.1 mpg,Diesel,2014,2987cc,"91,000 miles",Diesel,Automatic,BLACK,Saloon,47.1 mpg
+/ad/29969856,Mercedes-Benz CLS Class,CLS350 CDI BLUEEFFICIENCY SPORT Coupe,"10,990",2011,Automatic,46.3 mpg,Diesel,2011,2987cc,"92,000 miles",Diesel,Automatic,SILVER,Coupe,46.3 mpg
+/ad/30767344,Mercedes-Benz C Class,2.1 C220d SE Executive Edition G-Tronic+ Euro 6 (s/s) 5dr Estate,"10,990",2017,Automatic,64.2 mpg,Diesel,2017,2143cc,"109,910 miles",Diesel,Automatic,Red,Estate,64.2 mpg
+/ad/30885369,Mercedes-Benz C Class,2.1 C220 BLUETEC AMG LINE 4d 170 BHP Saloon,"10,990",2014,Manual,68.9 mpg,Diesel,2014,2143cc,"113,453 miles",Diesel,Manual,White,Saloon,68.9 mpg
+/ad/30498201,Mercedes-Benz M Class,3.0 ML350 V6 BlueTEC AMG Sport SUV,"10,990",2013,Automatic,39.2 mpg,Diesel,2013,2987cc,"139,000 miles",Diesel,Automatic,Silver,SUV,39.2 mpg
+/ad/30944376,Mercedes-Benz C Class,1.6 C180 AMG SPORT EDITION PREMIUM 2d 154 BHP Coupe,"10,990",2014,Automatic,44.8 mpg,Petrol,2014,1595cc,"43,000 miles",Petrol,Automatic,RED,Coupe,44.8 mpg
+/ad/30911921,Mercedes-Benz A Class,1.5 A180d SE Euro 6 (s/s) 5dr Hatchback,"10,990",2016,Manual,80.7 mpg,Diesel,2016,1461cc,"62,857 miles",Diesel,Manual,Black,Hatchback,80.7 mpg
+/ad/30949206,Mercedes-Benz B Class,1.5 B180d Sport (Executive) 7G-DCT Euro 6 (s/s) 5dr MPV,"10,990",2017,Automatic,68.9 mpg,Diesel,2017,1461cc,"76,500 miles",Diesel,Automatic,Grey,MPV,68.9 mpg
+/ad/30063391,Mercedes-Benz SLK,SLK,"10,990",2015,Automatic,56.5 mpg,Diesel,2015,2143cc,"55,243 miles",Diesel,Automatic,Black,Convertible,56.5 mpg
+/ad/30947350,Mercedes-Benz E Class,1.8 E200 CGI BLUEEFFICIENCY S/S SE 2d 184 BHP Convertible,"10,990",2012,Automatic,42.2 mpg,Petrol,2012,1.8L,"66,000 miles",Petrol,Automatic,White,Convertible,42.2 mpg
+/ad/30911829,Mercedes-Benz E Class,1.8 E200 BlueEfficiency Sport Cabriolet G-Tronic+ Euro 5 (s/s) 2dr Convertible,"10,994",2013,Automatic,42.2 mpg,Petrol,2013,1796cc,"41,619 miles",Petrol,Automatic,Silver,Convertible,42.2 mpg
+/ad/30923792,Mercedes-Benz B Class,B180 CDI BLUEEFFICIENCY SPORT AUTOMATIC MPV,"10,995",2013,Automatic,64.2 mpg,Diesel,2013,1796cc,"18,100 miles",Diesel,Automatic,White,MPV,64.2 mpg
+/ad/30774454,Mercedes-Benz CLK,1.8 CLK,"10,995",2009,Automatic,32.5 mpg,Petrol,2009,1796cc,"28,144 miles",Petrol,Automatic,Black,Coupe,32.5 mpg
+/ad/30888935,Mercedes-Benz SLK,2.1 SLK,"10,995",2013,Automatic,56.5 mpg,Diesel,2013,2143cc,"31,598 miles",Diesel,Automatic,Silver,Convertible,56.5 mpg
+/ad/30932025,Mercedes-Benz AMG,C250 CDI BLUEEFFICIENCY SPORT Coupe,"10,995",2012,Automatic,53.3 mpg,Diesel,2012,2143cc,"38,000 miles",Diesel,Automatic,WHITE,Coupe,53.3 mpg
+/ad/30232910,Mercedes-Benz SLK,SLK,"10,995",2014,Automatic,56.5 mpg,Diesel,2014,2143cc,"38,000 miles",Diesel,Automatic,White,Convertible,56.5 mpg
+/ad/30798764,Mercedes-Benz C Class,2.1 C250 CDI BLUEEFFICIENCY SPORT 4d 202 BHP Saloon,"10,995",2012,Automatic,56.5 mpg,Diesel,2012,2143cc,"41,000 miles",Diesel,Automatic,WHITE,Saloon,56.5 mpg
+/ad/30494932,Mercedes-Benz B Class,MPV,"10,995",2013,Automatic,61.4 mpg,Diesel,2013,2143cc,"42,000 miles",Diesel,Automatic,Blue,MPV,61.4 mpg
+/ad/30506469,Mercedes-Benz SL Class,3.5 SL350 Convertible 2d 3498cc 7G-Tronic,"10,995",2008,Automatic,29.1 mpg,Petrol,2008,3498cc,"43,000 miles",Petrol,Automatic,Grey,Convertible,29.1 mpg
+/ad/30240028,Mercedes-Benz B Class,MPV,"10,995",2014,Automatic,60.1 mpg,Diesel,2014,1796cc,"43,196 miles",Diesel,Automatic,Blue,MPV,60.1 mpg
