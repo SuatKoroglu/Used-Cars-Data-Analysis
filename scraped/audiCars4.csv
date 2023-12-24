@@ -1,0 +1,979 @@
+url,name,model,price,1,2,3,6,7,8,9,10,11,12,13,14
+/ad/30941181,Audi A3,3 30 TFSI S Line 5dr Hatchback,"26,000",2023,Manual,48.7 mpg,Petrol,2023,1L,10 miles,Petrol,Manual,Blue,Hatchback,48.7 mpg
+/ad/30943378,Audi A1,30 TFSI 110 S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,300 miles,Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30943418,Audi A1,25 TFSI S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,44.1 mpg,Petrol,2023,1L,443 miles,Petrol,Semiauto,Blue,Hatchback,44.1 mpg
+/ad/30941880,Audi A1,35 TFSI S Line 5dr S Tronic Hatchback,"26,000",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,563 miles,Petrol,Semiauto,Red,Hatchback,44.8 mpg
+/ad/30943387,Audi A1,25 TFSI S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,44.1 mpg,Petrol,2023,1L,627 miles,Petrol,Semiauto,White,Hatchback,44.1 mpg
+/ad/30943355,Audi A1,25 TFSI S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,44.1 mpg,Petrol,2023,1L,800 miles,Petrol,Semiauto,Blue,Hatchback,44.1 mpg
+/ad/30943379,Audi A1,30 TFSI 110 S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,889 miles,Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30942021,Audi A1,30 TFSI 110 S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,"1,000 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30942296,Audi A1,25 TFSI S Line 5dr Hatchback,"26,000",2023,Manual,47.9 mpg,Petrol,2023,1L,"3,000 miles",Petrol,Manual,Black,Hatchback,47.9 mpg
+/ad/30942735,Audi A3,3 30 TFSI Technik 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,55.4 mpg,Petrol,2023,1L,"3,224 miles",Petrol,Semiauto,Grey,Hatchback,55.4 mpg
+/ad/30942313,Audi A1,25 TFSI S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,44.1 mpg,Petrol,2023,1L,"4,000 miles",Petrol,Semiauto,Black,Hatchback,44.1 mpg
+/ad/30942458,Audi A1,25 TFSI S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,44.1 mpg,Petrol,2023,1L,"4,500 miles",Petrol,Semiauto,White,Hatchback,44.1 mpg
+/ad/30942305,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,000",2022,Manual,45.6 mpg,Petrol,2022,1.5L,"6,000 miles",Petrol,Manual,Grey,Hatchback,45.6 mpg
+/ad/30942513,Audi A3,3 30 TFSI S Line 4dr S Tronic Saloon,"26,000",2022,Semi-Auto,52.3 mpg,Petrol,2022,1L,"6,058 miles",Petrol,Semiauto,Black,Saloon,52.3 mpg
+/ad/30826098,Audi A1,30 TFSI 110 Black Edition 5dr S Tronic Hatchback,"26,000",2022,Semi-Auto,46.3 mpg,Petrol,2022,1L,"6,800 miles",Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/30942731,Audi A1,25 TFSI Black Edition 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,45.6 mpg,Petrol,2023,1L,"8,000 miles",Petrol,Semiauto,Red,Hatchback,45.6 mpg
+/ad/30962274,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962298,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962157,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962197,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30942171,Audi A3,3 35 TDI S Line 4dr S Tronic Saloon,"26,000",2021,Semi-Auto,60.1 mpg,Diesel,2021,2L,"13,346 miles",Diesel,Semiauto,Black,Saloon,60.1 mpg
+/ad/30411681,Audi A4,35 TFSI Black Edition 5dr S Tronic Estate,"26,000",2019,Automatic,38.2 mpg,Other,2019,1984cc,"14,000 miles",Other,Automatic,Blue,Estate,38.2 mpg
+/ad/30393652,Audi A5,35 TFSI Sport 2dr S Tronic Convertible,"26,000",2021,Semi-Auto,40.4 mpg,Petrol,2021,2L,"14,650 miles",Petrol,Semiauto,White,Convertible,40.4 mpg
+/ad/30941110,Audi Q2,35 TFSI Black Edition 5dr S Tronic SUV,"26,000",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"14,658 miles",Petrol,Semiauto,White,SUV,44.1 mpg
+/ad/30942052,Audi A3,3 35 TDI S Line 5dr S Tronic Hatchback,"26,000",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"17,300 miles",Diesel,Semiauto,Black,Hatchback,58.9 mpg
+/ad/30642747,Audi A4,35 TFSI S Line 5dr S Tronic Estate,"26,000",2019,Automatic,38.2 mpg,Petrol,2019,1984cc,"21,900 miles",Petrol,Automatic,Grey,Estate,38.2 mpg
+/ad/30942907,Audi A3,3 S3 TFSI 300 Quattro 5dr S Tronic Hatchback,"26,000",2019,Semi-Auto,34.9 mpg,Petrol,2019,2L,"23,424 miles",Petrol,Semiauto,Blue,Hatchback,34.9 mpg
+/ad/30942545,Audi Q2,35 TDI Quattro Black Edition 5dr S Tronic SUV,"26,000",2020,Semi-Auto,44.8 mpg,Diesel,2020,2L,"24,700 miles",Diesel,Semiauto,Black,SUV,44.8 mpg
+/ad/30943423,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,000",2019,Semi-Auto,47.1 mpg,Diesel,2019,2L,"26,395 miles",Diesel,Semiauto,Grey,SUV,47.1 mpg
+/ad/30942654,Audi Q3,35 TFSI S Line 5dr SUV,"26,000",2020,Manual,40.9 mpg,Petrol,2020,1.5L,"27,638 miles",Petrol,Manual,Black,SUV,40.9 mpg
+/ad/30942272,Audi A3,3 40 TFSI e Sport 5dr S Tronic Hatchback,"26,000",2022,Semi-Auto,Tax: £170,2022,1.4L,"8,977 miles",Hybrid,Semiauto,Grey,Hatchback,,
+/ad/30942746,Audi A1,25 TFSI S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,44.1 mpg,Petrol,2023,1L,"9,000 miles",Petrol,Semiauto,Black,Hatchback,44.1 mpg
+/ad/30942088,Audi A1,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,000",2022,Semi-Auto,44.1 mpg,Petrol,2022,1.5L,"9,274 miles",Petrol,Semiauto,Yellow,Hatchback,44.1 mpg
+/ad/30942921,Audi Q2,40 TFSI Quattro Black Edition 5dr S Tronic SUV,"26,000",2020,Semi-Auto,34.0 mpg,Petrol,2020,2L,"10,381 miles",Petrol,Semiauto,White,SUV,34 mpg
+/ad/30939930,Audi A3,3 2.0 TDI 35 Edition 1 S Tronic Euro 6 (s/s) 4dr Saloon,"26,000",2000,Automatic,58.9 mpg,Diesel,2000,1968cc,"12,393 miles",Diesel,Automatic,Black,Saloon,58.9 mpg
+/ad/30942171,Audi A3,3 35 TDI S Line 4dr S Tronic Saloon,"26,000",2021,Semi-Auto,60.1 mpg,Diesel,2021,2L,"13,346 miles",Diesel,Semiauto,Black,Saloon,60.1 mpg
+/ad/30411681,Audi A4,35 TFSI Black Edition 5dr S Tronic Estate,"26,000",2019,Automatic,38.2 mpg,Other,2019,1984cc,"14,000 miles",Other,Automatic,Blue,Estate,38.2 mpg
+/ad/30941198,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,124 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30393652,Audi A5,35 TFSI Sport 2dr S Tronic Convertible,"26,000",2021,Semi-Auto,40.4 mpg,Petrol,2021,2L,"14,650 miles",Petrol,Semiauto,White,Convertible,40.4 mpg
+/ad/30849900,Audi Q5,2.0 TFSIe 50 Black Edition SUV 5dr Petrol Plug-in Hybrid S Tronic quattro Euro 6 (s/s) 14.1kWh (299 SUV,"26,000",2020,Automatic,117.7 mpg,Hybrid,2020,1984cc,"69,277 miles",Petrol Plug-in Hybrid,Automatic,Blue,SUV,117.7 mpg
+/ad/30962274,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962298,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962157,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962197,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30939930,Audi A3,3 2.0 TDI 35 Edition 1 S Tronic Euro 6 (s/s) 4dr Saloon,"26,000",2000,Automatic,58.9 mpg,Diesel,2000,1968cc,"12,393 miles",Diesel,Automatic,Black,Saloon,58.9 mpg
+/ad/30962733,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,55.4 mpg,Diesel,2020,2L,"14,668 miles",Diesel,Semiauto,Blue,Coupe,55.4 mpg
+/ad/30962843,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,55.4 mpg,Diesel,2020,2L,"14,668 miles",Diesel,Semiauto,Blue,Coupe,55.4 mpg
+/ad/30962964,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,55.4 mpg,Diesel,2020,2L,"14,668 miles",Diesel,Semiauto,Blue,Coupe,55.4 mpg
+/ad/30962980,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,55.4 mpg,Diesel,2020,2L,"14,668 miles",Diesel,Semiauto,Blue,Coupe,55.4 mpg
+/ad/30962995,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,55.4 mpg,Diesel,2020,2L,"14,668 miles",Diesel,Semiauto,Blue,Coupe,55.4 mpg
+/ad/30963088,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,55.4 mpg,Diesel,2020,2L,"14,668 miles",Diesel,Semiauto,Blue,Coupe,55.4 mpg
+/ad/30934030,Audi A4,4 35 TFSI Black Edition 5dr S Tronic Estate,"26,000",2019,Semi-Auto,38.2 mpg,Petrol,2019,2L,"17,100 miles",Petrol,Semiauto,Grey,Estate,38.2 mpg
+/ad/30941114,Audi Q3,35 TFSI S Line 5dr S Tronic SUV,"26,000",2019,Semi-Auto,38.2 mpg,Petrol,2019,1.5L,"29,887 miles",Petrol,Semiauto,Grey,SUV,38.2 mpg
+/ad/30942516,Audi A5,40 TFSI 204 S Line 2dr S Tronic Coupe,"26,000",2021,Semi-Auto,42.8 mpg,Petrol,2021,2L,"35,121 miles",Petrol,Semiauto,Grey,Coupe,42.8 mpg
+/ad/30701548,Audi A6,3.0 TDI V6 50 S line Saloon 4dr Diesel Tiptronic quattro Euro 6 (s/s) (286 ps) S Line Body Saloon,"26,000",2019,Automatic,39.8 mpg,Diesel,2019,2967cc,"35,276 miles",Diesel,Automatic,Black,Saloon,39.8 mpg
+/ad/30942305,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,000",2022,Manual,45.6 mpg,Petrol,2022,1.5L,"6,000 miles",Petrol,Manual,Grey,Hatchback,45.6 mpg
+/ad/30826098,Audi A1,30 TFSI 110 Black Edition 5dr S Tronic Hatchback,"26,000",2022,Semi-Auto,46.3 mpg,Petrol,2022,1L,"6,800 miles",Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/30962503,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962353,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962363,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30961990,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962000,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962024,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962084,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962314,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,000",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30942845,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,000",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"27,788 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30941198,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,000",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,124 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30942121,Audi Q3,35 TFSI Sport 5dr S Tronic SUV,"26,000",2021,Semi-Auto,42.8 mpg,Petrol,2021,1.5L,"42,000 miles",Petrol,Semiauto,White,SUV,42.8 mpg
+/ad/30849900,Audi Q5,2.0 TFSIe 50 Black Edition SUV 5dr Petrol Plug-in Hybrid S Tronic quattro Euro 6 (s/s) 14.1kWh (299 SUV,"26,000",2020,Automatic,117.7 mpg,Hybrid,2020,1984cc,"69,277 miles",Petrol Plug-in Hybrid,Automatic,Blue,SUV,117.7 mpg
+/ad/30941647,Audi A4,4 40 TDI Quattro Black Edition 4dr S Tronic Saloon,"26,000",2020,Semi-Auto,45.6 mpg,Diesel,2020,2L,"43,925 miles",Diesel,Semiauto,Blue,Saloon,45.6 mpg
+/ad/30570228,Audi Q7,3.0 TDI V6 SE Tiptronic quattro Euro 6 (s/s) 5dr SUV,"26,000",2016,Automatic,47.9 mpg,Diesel,2016,2967cc,"43,014 miles",Diesel,Automatic,Black,SUV,47.9 mpg
+/ad/30962032,Audi A3,3 S3 TFSI 300 Quattro 2dr S Tronic Convertible,"26,000",2019,Semi-Auto,33.2 mpg,Petrol,2019,2L,"19,515 miles",Petrol,Semiauto,Blue,Convertible,33.2 mpg
+/ad/30261400,Audi A3,3 1.4 SPORTBACK TFSI E S LINE 5d 202 BHP Hatchback,"26,040",2021,Automatic,235.4 mpg,Other,2021,1395cc,"34,476 miles",Other,Automatic,BLACK,Hatchback,235.4 mpg
+/ad/30962284,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962142,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962191,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962505,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962317,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962340,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962371,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30961996,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962008,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962025,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962080,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962305,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,050",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30966232,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966053,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30965914,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30965926,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30965967,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30965991,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966007,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966060,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966087,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966098,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966129,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966322,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,050",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30666593,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,090",2023,Manual,45.6 mpg,Petrol,2023,1.5L,"3,168 miles",Petrol,Manual,Black,Hatchback,45.6 mpg
+/ad/29629681,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,090",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"12,176 miles",Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/30883608,Audi e-tron,50 Technik SUV 5dr Electric Auto quattro 71.2kWh (11kW Charger) (313 ps) Other,"26,098",2021,Automatic,Tax: £0,2021,"29,164 miles",Electric,Automatic,Silver,Other,,,
+/ad/30441133,Audi A4,Avant 2.0 TDI 35 S line Estate 5dr Diesel S Tronic Euro 6 (s/s) (163 ps) Digital Cockpit,"26,100",2021,Automatic,52.3 mpg,Diesel,2021,1968cc,"9,210 miles",Diesel,Automatic,Black,Estate,52.3 mpg
+/ad/30969878,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,100",2020,Automatic,Tax: £0,2020,"16,612 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30962714,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,100",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962718,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,100",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962846,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,100",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962935,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,100",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30963077,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,100",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30972952,Audi A3,3 45 TFSI e S Line Competition 5dr S Tronic Hatchback,"26,100",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"35,013 miles",Hybrid,Semiauto,Black,Hatchback,235.4 mpg
+/ad/30972772,Audi A3,3 45 TFSI e S Line Competition 5dr S Tronic Hatchback,"26,100",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"35,013 miles",Hybrid,Semiauto,Black,Hatchback,235.4 mpg
+/ad/30816848,Audi A4,Avant 2.0 TFSI 40 Black Edition Estate 5dr Petrol S Tronic Euro 6 (s/s) (204 ps) Estate,"26,130",2020,Automatic,39.8 mpg,Petrol,2020,1984cc,"25,661 miles",Petrol,Automatic,White,Estate,39.8 mpg
+/ad/30934791,Audi Q5,2.0T FSI Quattro S Line 5dr S Tronic SUV,"26,149",2018,Semi-Auto,40.4 mpg,Petrol,2018,2L,"32,900 miles",Petrol,Semiauto,White,SUV,40.4 mpg
+/ad/30730400,Audi A5,DIESEL COUPE Coupe,"26,150",2021,Automatic,55.4 mpg,Diesel,2021,1968cc,"27,160 miles",Diesel,Automatic,White,Coupe,55.4 mpg
+/ad/30909754,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,150",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30909407,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,150",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30908408,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,150",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30908489,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,150",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30969828,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,150",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30908613,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,150",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30908714,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,150",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30908408,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,150",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30908489,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,150",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30909407,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,150",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30909754,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,150",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30730400,Audi A5,DIESEL COUPE Coupe,"26,150",2021,Automatic,55.4 mpg,Diesel,2021,1968cc,"27,160 miles",Diesel,Automatic,White,Coupe,55.4 mpg
+/ad/30969828,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,150",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30961186,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,157",2021,Semi-Auto,49.6 mpg,Diesel,2021,2L,"36,706 miles",Diesel,Semiauto,Black,SUV,49.6 mpg
+/ad/30534182,Audi Q3,1.5 TFSI SPORT 5d 148 BHP Heated Seats,"26,159",2019,Manual,40.9 mpg,Petrol,2019,1498cc,"19,601 miles",Petrol,Manual,WHITE,Estate,40.9 mpg
+/ad/30876935,Audi A4,4 35 TFSI Black Edition 5dr S Tronic Estate,"26,180",2020,Semi-Auto,39.8 mpg,Petrol,2020,2L,"18,529 miles",Petrol,Semiauto,Black,Estate,39.8 mpg
+/ad/30525847,Audi A3,3 30 TFSI S Line 4dr S Tronic Saloon,"26,190",2022,Semi-Auto,52.3 mpg,Petrol,2022,1L,25 miles,Petrol,Semiauto,Blue,Saloon,52.3 mpg
+/ad/30916464,Audi A1,30 TFSI Vorsprung 5dr S Tronic Hatchback,"26,190",2020,Semi-Auto,44.8 mpg,Petrol,2020,1L,"12,300 miles",Petrol,Semiauto,White,Hatchback,44.8 mpg
+/ad/30848944,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,190",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,153 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30848945,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,190",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,155 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30614435,Audi Q3,2.0 TDI S LINE VORSPRUNG 5d 148 BHP Estate,"26,190",2019,Automatic,45.6 mpg,Diesel,2019,1968cc,"44,000 miles",Diesel,Automatic,BLACK,Estate,45.6 mpg
+/ad/30732811,Audi A3,3 35 TFSI S Line 4dr Saloon,"26,199",2023,Manual,46.3 mpg,Petrol,2023,1.5L,"4,645 miles",Petrol,Manual,Black,Saloon,46.3 mpg
+/ad/30959512,Audi Q2,35 TFSI Black Edition 5dr SUV,"26,199",2021,Manual,44.8 mpg,Petrol,2021,1.5L,"8,327 miles",Petrol,Manual,Blue,SUV,44.8 mpg
+/ad/30853776,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,199",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"10,282 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30853915,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,199",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,090 miles",Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/30893326,Audi A3,3 S3 TFSI 300 Quattro Black Edition 5dr S Tronic Hatchback,"26,199",2019,Semi-Auto,34.9 mpg,Petrol,2019,2L,"34,778 miles",Petrol,Semiauto,Blue,Hatchback,34.9 mpg
+/ad/30615841,Audi A1,30 TFSI 110 Black Edition 5dr Hatchback,"26,200",2023,Manual,49.6 mpg,Petrol,2023,1L,"2,115 miles",Petrol,Manual,Grey,Hatchback,49.6 mpg
+/ad/30969827,Audi A3,3 45 TFSI e S Line Competition 5dr S Tronic Hatchback,"26,200",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"15,293 miles",Hybrid,Semiauto,Black,Hatchback,235.4 mpg
+/ad/30680794,Audi e-tron,50 Technik SUV 5dr Electric Auto quattro 71.2kWh (313 ps) Digital Cockpit,"26,200",2020,Automatic,Tax: £0,2020,"17,030 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30952547,Audi Q3,35 TFSI S Line 5dr S Tronic SUV,"26,200",2019,Semi-Auto,38.2 mpg,Petrol,2019,1.5L,"19,094 miles",Petrol,Semiauto,Grey,SUV,38.2 mpg
+/ad/30969293,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969324,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969585,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969654,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969775,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30906094,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30906224,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905515,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905531,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905629,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905662,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905757,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905767,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905839,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905863,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905869,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905890,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30785665,Audi A3,3 S3 TFSI 300 Quattro Black Edition 5dr S Tronic Hatchback,"26,200",2020,Semi-Auto,34.5 mpg,Petrol,2020,2L,"39,346 miles",Petrol,Semiauto,White,Hatchback,34.5 mpg
+/ad/30961641,Audi A5,40 TDI S Line 5dr S Tronic Hatchback,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"45,190 miles",Diesel,Semiauto,Black,Hatchback,50.4 mpg
+/ad/30961703,Audi A5,40 TDI S Line 5dr S Tronic Hatchback,"26,200",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"45,190 miles",Diesel,Semiauto,Black,Hatchback,50.4 mpg
+/ad/30972470,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972508,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972531,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972660,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972913,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972470,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972508,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972531,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972660,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972913,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972834,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972853,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972881,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,200",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30815465,Audi Q5,2.0 TFSI S line S Tronic quattro Euro 6 (s/s) 5dr Estate,"26,222",2018,Automatic,40.4 mpg,Petrol,2018,1984cc,"16,313 miles",Petrol,Automatic,Silver,Estate,40.4 mpg
+/ad/30934769,Audi Q2,35 TFSI Black Edition 5dr S Tronic SUV,"26,249",2020,Semi-Auto,42.2 mpg,Petrol,2020,1.5L,"11,500 miles",Petrol,Semiauto,White,SUV,42.2 mpg
+/ad/30962464,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962495,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962103,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30961974,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962060,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962203,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30934028,Audi A3,3 35 TFSI Edition 1 4dr Saloon,"26,250",2021,Manual,46.3 mpg,Petrol,2021,1.5L,"14,750 miles",Petrol,Manual,Black,Saloon,46.3 mpg
+/ad/30969305,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,250",2020,Automatic,Tax: £0,2020,"19,907 miles",Electric,Automatic,Black,SUV,,,
+/ad/30859569,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,250",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"46,604 miles",Diesel,Semiauto,Black,Hatchback,54.3 mpg
+/ad/30961974,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962060,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962203,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30969305,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,250",2020,Automatic,Tax: £0,2020,"19,907 miles",Electric,Automatic,Black,SUV,,,
+/ad/30969325,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,250",2020,Automatic,Tax: £0,2020,"19,907 miles",Electric,Automatic,Black,SUV,,,
+/ad/30969594,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,250",2020,Automatic,Tax: £0,2020,"19,907 miles",Electric,Automatic,Black,SUV,,,
+/ad/30969642,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,250",2020,Automatic,Tax: £0,2020,"19,907 miles",Electric,Automatic,Black,SUV,,,
+/ad/30969768,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,250",2020,Automatic,Tax: £0,2020,"19,907 miles",Electric,Automatic,Black,SUV,,,
+/ad/30966355,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,250",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"28,148 miles",Diesel,Semiauto,Black,SUV,38.2 mpg
+/ad/30626965,Audi A8,3.0 TDI QUATTRO MHEV 4d 282 BHP Saloon,"26,250",2019,Automatic,40.4 mpg,Diesel,2019,2967cc,"52,859 miles",Diesel,Automatic,WHITE,Saloon,40.4 mpg
+/ad/30939582,Audi e-tron,50 Technik SUV 5dr Electric Auto quattro 71.2kWh (313 ps) Other,"26,287",2020,Automatic,Tax: £0,2020,"25,268 miles",Electric,Automatic,Black,Other,,,
+/ad/30151482,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,290",2023,Manual,45.6 mpg,Petrol,2023,1.5L,"4,157 miles",Petrol,Manual,Blue,Hatchback,45.6 mpg
+/ad/30275834,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,290",2022,Manual,45.6 mpg,Petrol,2022,1.5L,"4,385 miles",Petrol,Manual,Black,Hatchback,45.6 mpg
+/ad/30151484,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,290",2023,Manual,45.6 mpg,Petrol,2023,1.5L,"4,575 miles",Petrol,Manual,Blue,Hatchback,45.6 mpg
+/ad/30841023,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,290",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"13,999 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30843760,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,290",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,154 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30882459,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,290",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,210 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30849310,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,290",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,346 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30841026,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,290",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,562 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30881003,Audi A6,40 TDI Sport 5dr S Tronic Estate,"26,290",2020,Semi-Auto,47.9 mpg,Diesel,2020,2L,"15,863 miles",Diesel,Semiauto,Blue,Estate,47.9 mpg
+/ad/29935993,Audi SQ5,3.0 TFSI V6 SUV 5dr Petrol Tiptronic quattro Euro 6 (s/s) (354 ps) SUV,"26,290",2017,Automatic,34.0 mpg,Petrol,2017,2995cc,"73,589 miles",Petrol,Automatic,Mythos Black,SUV,34 mpg
+/ad/30692410,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,290",2022,Semi-Auto,47.9 mpg,Petrol,2022,1.5L,"1,906 miles",Petrol,Semiauto,Grey,Saloon,47.9 mpg
+/ad/30442111,Audi A4,4 T FSi 45 Quattro S line [245] (GREAT CAR,"26,295",2019,Automatic,35.8 mpg,Petrol,2019,1984cc,"37,050 miles",Petrol,Automatic,Mythos Black,Estate,35.8 mpg
+/ad/30667083,Audi A3,3 35 TDI S Line 5dr S Tronic Hatchback,"26,299",2023,Semi-Auto,58.9 mpg,Diesel,2023,2L,"11,220 miles",Diesel,Semiauto,Black,Hatchback,58.9 mpg
+/ad/30756454,Audi A3,3 35 TFSI Edition 1 5dr S Tronic Hatchback,"26,299",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"19,492 miles",Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/30962469,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,300",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962496,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,300",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962112,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,300",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30963104,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,300",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962055,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,300",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30962193,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,300",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30963104,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,300",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30966212,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,300",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966220,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,300",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966264,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,300",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966019,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,300",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30965889,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,300",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30965947,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,300",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30962272,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962153,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962192,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962508,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962315,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962350,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962373,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30961998,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962010,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962027,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962082,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962302,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,300",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30685115,Audi A7,2.0 TDI 40 S line Sportback 5dr Diesel S Tronic Euro 6 (s/s) (204 ps) Digital Cockpit,"26,300",2019,Automatic,47.1 mpg,Diesel,2019,1968cc,"46,126 miles",Diesel,Automatic,Grey,Hatchback,47.1 mpg
+/ad/30904697,Audi A8,3.0 TDI V6 50 Saloon 4dr Diesel Tiptronic quattro Euro 6 (s/s) (286 ps) Digital Cockpit,"26,300",2018,Automatic,50.4 mpg,Diesel,2018,2967cc,"50,915 miles",Diesel,Automatic,Silver,Saloon,50.4 mpg
+/ad/30695129,Audi Q3,40 TFSI Quattro S Line 5dr S Tronic SUV,"26,340",2020,Semi-Auto,31.4 mpg,Petrol,2020,2L,"35,075 miles",Petrol,Semiauto,Grey,SUV,31.4 mpg
+/ad/30920454,Audi Q5,S line 40 TDI quattro 190 PS S tronic SUV,"26,344",2019,Automatic,55.4 mpg,Diesel,2019,1968cc,"31,255 miles",Diesel,Automatic,Black,SUV,55.4 mpg
+/ad/30509526,Audi A5,Hatchback,"26,350",2020,Automatic,54.3 mpg,Diesel,2020,1968cc,"15,681 miles",Diesel,Automatic,Black,Hatchback,54.3 mpg
+/ad/30010754,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,390",2023,Manual,45.6 mpg,Petrol,2023,1.5L,"3,900 miles",Petrol,Manual,Blue,Hatchback,45.6 mpg
+/ad/30487426,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,390",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"11,179 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30650656,Audi Q3,35 TFSI Sport 5dr S Tronic SUV,"26,390",2020,Semi-Auto,40.9 mpg,Petrol,2020,1.5L,"11,948 miles",Petrol,Semiauto,Grey,SUV,40.9 mpg
+/ad/29967415,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,390",2019,Semi-Auto,47.1 mpg,Diesel,2019,2L,"12,416 miles",Diesel,Semiauto,White,SUV,47.1 mpg
+/ad/30857525,Audi A6,40 TDI S Line 5dr S Tronic Estate,"26,390",2019,Semi-Auto,47.9 mpg,Diesel,2019,2L,"26,763 miles",Diesel,Semiauto,Silver,Estate,47.9 mpg
+/ad/30010754,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,390",2023,Manual,45.6 mpg,Petrol,2023,1.5L,"3,900 miles",Petrol,Manual,Blue,Hatchback,45.6 mpg
+/ad/30487426,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,390",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"11,179 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30888563,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,390",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"15,922 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30485176,Audi A1,35 TFSI S Line 5dr S Tronic Hatchback,"26,395",2023,Semi-Auto,47.9 mpg,Petrol,2023,1.5L,"3,000 miles",Petrol,Semiauto,Silver,Hatchback,47.9 mpg
+/ad/30856887,Audi A5,S5 Quattro 2dr Tiptronic Coupe,"26,399",2018,Semi-Auto,36.7 mpg,Petrol,2018,3L,"34,993 miles",Petrol,Semiauto,Blue,Coupe,36.7 mpg
+/ad/30818655,Audi A5,40 TFSI 204 S Line 2dr S Tronic Convertible,"26,399",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"35,359 miles",Petrol,Semiauto,Black,Convertible,39.2 mpg
+/ad/30859128,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,399",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"35,795 miles",Diesel,Semiauto,White,SUV,38.2 mpg
+/ad/30708235,Audi e-tron,50 Technik SUV 5dr Electric Auto quattro 71.2kWh (313 ps) Digital Cockpit,"26,400",2020,Automatic,Tax: £0,2020,"15,689 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30817974,Audi TT,2.0T FSI Quattro TT,"26,400",2017,Semi-Auto,40.9 mpg,Petrol,2017,2L,"29,355 miles",Petrol,Semiauto,Black,Coupe,40.9 mpg
+/ad/30651987,Audi Q3,2.0 TFSI 45 S line SUV 5dr Petrol S Tronic quattro Euro 6 (s/s) (230 ps) Digital Cockpit,"26,400",2019,Automatic,32.1 mpg,Petrol,2019,1984cc,"15,063 miles",Petrol,Automatic,Grey,SUV,32.1 mpg
+/ad/30962264,Audi A4,4 35 TFSI S Line 4dr S Tronic Saloon,"26,400",2022,Semi-Auto,41.5 mpg,Petrol,2022,2L,"21,547 miles",Petrol,Semiauto,Black,Saloon,41.5 mpg
+/ad/30962878,Audi A4,4 35 TFSI S Line 4dr S Tronic Saloon,"26,400",2022,Semi-Auto,41.5 mpg,Petrol,2022,2L,"21,547 miles",Petrol,Semiauto,Black,Saloon,41.5 mpg
+/ad/30969819,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,400",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30909269,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,400",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30909621,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,400",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30909331,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,400",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30907960,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,400",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30907714,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,400",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30908323,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,400",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30905838,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905854,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905874,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905889,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905753,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905768,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905630,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905664,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30906217,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905511,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905529,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30906092,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,400",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30972645,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30973034,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972473,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972492,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972519,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972569,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972645,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972735,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972819,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972841,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972890,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30973034,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,400",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30662819,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"26,402",2021,Semi-Auto,41.5 mpg,Petrol,2021,2L,"29,188 miles",Petrol,Semiauto,White,Hatchback,41.5 mpg
+/ad/30657575,Audi Q2,1.0 TFSI 30 Sport Euro 6 (s/s) 5dr SUV,"26,405",,Manual,Tax: n/a,999cc,15 miles,Petrol,Manual,Black,SUV,,,
+/ad/30945937,Audi e-tron,50 Technik SUV 5dr Electric Auto quattro 71.2kWh (313 ps) Other,"26,439",2020,Automatic,Tax: £0,2020,"20,601 miles",Electric,Automatic,Grey,Other,,,
+/ad/30922246,Audi A3,S3 TFSI 300 Quattro 2dr S Tronic Convertible,"26,445",2019,Automatic,33.2 mpg,Petrol,2019,1984cc,"11,300 miles",Petrol,Automatic,Red,Convertible,33.2 mpg
+/ad/29852287,Audi A3,30 TFSI S Line 4dr S Tronic Saloon,"26,450",2023,Automatic,52.3 mpg,Petrol,2023,1000cc,"6,451 miles",Petrol,Automatic,White,Saloon,52.3 mpg
+/ad/30463826,Audi A3,3 S3 TFSI 300 Quattro 5dr S Tronic Hatchback,"26,450",2019,Semi-Auto,34.5 mpg,Petrol,2019,2L,"22,275 miles",Petrol,Semiauto,Blue,Hatchback,34.5 mpg
+/ad/30906049,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,450",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30906059,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,450",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30906187,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,450",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905316,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,450",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905739,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,450",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905802,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"26,450",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30044622,Audi A4,Estate,"26,450",2019,Automatic,47.9 mpg,Diesel,2019,1968cc,"28,750 miles",Diesel,Automatic,Black,Estate,47.9 mpg
+/ad/30898672,Audi A5,SPORTBACK TDI S LINE MHEV 5d 161 BHP Hatchback,"26,450",2020,Automatic,51.4 mpg,Diesel,2020,1968cc,"32,000 miles",Diesel,Automatic,Blue,Hatchback,51.4 mpg
+/ad/30926001,Audi S3,2.0 TFSI Black Edition Hatchback,"26,450",2018,Automatic,44.1 mpg,Petrol,2018,1984cc,"37,000 miles",Petrol,Automatic,Grey,Hatchback,44.1 mpg
+/ad/30884028,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,450",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"45,800 miles",Diesel,Semiauto,White,SUV,38.2 mpg
+/ad/30707811,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,450",2018,Automatic,38.2 mpg,Diesel,2018,1968cc,"47,400 miles",Diesel,Automatic,Grey,SUV,38.2 mpg
+/ad/30838372,Audi Q3,DIESEL SPORTBACK SUV,"26,450",2020,Automatic,47.1 mpg,Diesel,2020,1968cc,"49,000 miles",Diesel,Automatic,Chronos Grey Pearl,SUV,47.1 mpg
+/ad/30972408,Audi A3,3 35 TFSI S Line 4dr Saloon,"26,450",2022,Manual,46.3 mpg,Petrol,2022,1.5L,"4,273 miles",Petrol,Manual,White,Saloon,46.3 mpg
+/ad/30972451,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,450",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972990,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,450",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30971645,Audi A4,4 40 TFSI S Line 4dr S Tronic Saloon,"26,450",2022,Automatic,41.5 mpg,Petrol,2022,1984cc,"25,540 miles",Petrol,Automatic,Daytona Grey,Saloon,41.5 mpg
+/ad/30972626,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,450",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972408,Audi A3,3 35 TFSI S Line 4dr Saloon,"26,450",2022,Manual,46.3 mpg,Petrol,2022,1.5L,"4,273 miles",Petrol,Manual,White,Saloon,46.3 mpg
+/ad/30972451,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,450",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972990,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,450",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/28683390,Audi A4,4 Black Edition Saloon,"26,475",2020,Automatic,50.4 mpg,Diesel,2020,1968cc,"24,500 miles",Diesel,Automatic,Blue,Saloon,50.4 mpg
+/ad/29860043,Audi Q5,2.0 TFSI QUATTRO S LINE 5d 248 BHP Estate,"26,488",2018,Automatic,40.4 mpg,Petrol,2018,1984cc,"54,000 miles",Petrol,Automatic,WHITE,Estate,40.4 mpg
+/ad/30668483,Audi A4,4 35 TFSI Technik 4dr S Tronic Saloon,"26,490",2023,Semi-Auto,45.6 mpg,Petrol,2023,2L,"2,950 miles",Petrol,Semiauto,White,Saloon,45.6 mpg
+/ad/27147806,Audi A4,4 2.0 AVANT TDI S LINE 5d 134 BHP Estate,"26,490",2020,Automatic,49.6 mpg,Diesel,2020,1968cc,"18,816 miles",Diesel,Automatic,BLUE,Estate,49.6 mpg
+/ad/30634375,Audi A5,2.0 TDI 35 S line Sportback S Tronic Euro 6 (s/s) 5dr Hatchback,"26,490",2020,Automatic,51.4 mpg,Diesel,2020,1968cc,"25,000 miles",Diesel,Automatic,Grey,Hatchback,51.4 mpg
+/ad/29893807,Audi A4,4 40 TFSI 204 Black Edition 5dr S Tronic Estate,"26,490",2021,Semi-Auto,39.8 mpg,Petrol,2021,2L,"29,950 miles",Petrol,Semiauto,White,Estate,39.8 mpg
+/ad/30725552,Audi A5,2.0 SPORTBACK TDI S LINE MHEV 5d 161 BHP Automatic,"26,490",2021,Automatic,54.3 mpg,Diesel,2021,1968cc,"31,240 miles",Diesel,Automatic,White,Hatchback,54.3 mpg
+/ad/30774428,Audi S3,2.0 TFSI Black Edition Quattro 5dr Hatchback,"26,490",2019,Automatic,34.9 mpg,Petrol,2019,1984cc,"36,000 miles",Petrol,Automatic,Black,Hatchback,34.9 mpg
+/ad/30895901,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,490",2020,Semi-Auto,47.1 mpg,Diesel,2020,2L,"41,314 miles",Diesel,Semiauto,Grey,SUV,47.1 mpg
+/ad/30705194,Audi A6,2.0L TDI S LINE MHEV 5d 202 BHP Estate,"26,490",2019,Automatic,47.9 mpg,Diesel,2019,1968cc,"43,000 miles",Diesel,Automatic,BLACK,Estate,47.9 mpg
+/ad/30895749,Audi A5,40 TDI Vorsprung 5dr S Tronic Hatchback,"26,490",2019,Semi-Auto,47.9 mpg,Diesel,2019,2L,"59,031 miles",Diesel,Semiauto,Grey,Hatchback,47.9 mpg
+/ad/30207889,Audi S4,3.0 AVANT TFSI QUATTRO S4,"26,490",2017,Automatic,37.7 mpg,Petrol,2017,2995cc,"71,660 miles",Petrol,Automatic,WHITE,Estate,37.7 mpg
+/ad/30885869,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,490",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"16,468 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30841170,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,490",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"12,827 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30853241,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,490",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"13,957 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30894318,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,490",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,198 miles",Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/30490213,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,490",2021,Semi-Auto,47.9 mpg,Petrol,2021,1.5L,"14,830 miles",Petrol,Semiauto,Blue,Saloon,47.9 mpg
+/ad/30462404,Audi TT,45 TFSI S Line 2dr S Tronic Coupe,"26,490",2021,Automatic,38.7 mpg,Petrol,2021,1984cc,"31,396 miles",Petrol,Automatic,Blue,Coupe,38.7 mpg
+/ad/30896111,Audi Q5,40 TDI Quattro Sport 5dr S Tronic SUV,"26,490",2020,Semi-Auto,39.2 mpg,Diesel,2020,2L,"31,826 miles",Diesel,Semiauto,Black,SUV,39.2 mpg
+/ad/30774428,Audi S3,2.0 TFSI Black Edition Quattro 5dr Hatchback,"26,490",2019,Automatic,34.9 mpg,Petrol,2019,1984cc,"36,000 miles",Petrol,Automatic,Black,Hatchback,34.9 mpg
+/ad/30895901,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,490",2020,Semi-Auto,47.1 mpg,Diesel,2020,2L,"41,314 miles",Diesel,Semiauto,Grey,SUV,47.1 mpg
+/ad/30705194,Audi A6,2.0L TDI S LINE MHEV 5d 202 BHP Estate,"26,490",2019,Automatic,47.9 mpg,Diesel,2019,1968cc,"43,000 miles",Diesel,Automatic,BLACK,Estate,47.9 mpg
+/ad/30895749,Audi A5,40 TDI Vorsprung 5dr S Tronic Hatchback,"26,490",2019,Semi-Auto,47.9 mpg,Diesel,2019,2L,"59,031 miles",Diesel,Semiauto,Grey,Hatchback,47.9 mpg
+/ad/30207889,Audi S4,3.0 AVANT TFSI QUATTRO S4,"26,490",2017,Automatic,37.7 mpg,Petrol,2017,2995cc,"71,660 miles",Petrol,Automatic,WHITE,Estate,37.7 mpg
+/ad/30825502,Audi A4,4 35 TFSI Sport Edition 4dr S Tronic Saloon,"26,490",2022,Semi-Auto,44.8 mpg,Petrol,2022,2L,"8,950 miles",Petrol,Semiauto,Blue,Saloon,44.8 mpg
+/ad/30878846,Audi A5,40 TFSI S Line 2dr S Tronic Convertible,"26,490",2019,Automatic,37.7 mpg,Petrol,2019,1984cc,"25,995 miles",Petrol,Automatic,Grey,Convertible,37.7 mpg
+/ad/30972177,Audi Q2,S line 35 TFSI 150 PS S tronic SUV,"26,490",2023,Automatic,44.8 mpg,Petrol,2023,1498cc,"14,243 miles",Petrol,Automatic,Black,SUV,44.8 mpg
+/ad/30968399,Audi Q2,S line 35 TFSI 150 PS S tronic SUV,"26,490",2023,Automatic,44.8 mpg,Petrol,2023,1498cc,"14,799 miles",Petrol,Automatic,Blue,SUV,44.8 mpg
+/ad/30884511,Audi Q3,35 TDI Sport 5dr S Tronic SUV,"26,491",2021,Semi-Auto,51.4 mpg,Diesel,2021,2L,"29,259 miles",Diesel,Semiauto,White,SUV,51.4 mpg
+/ad/30764719,Audi A4,4 35 TDI Black Edition 5dr S Tronic Estate,"26,493",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"42,204 miles",Diesel,Semiauto,Grey,Estate,52.3 mpg
+/ad/30935414,Audi A1,30 TFSI 110 Black Edition 5dr S Tronic Hatchback,"26,495",2022,Semi-Auto,46.3 mpg,Petrol,2022,1L,"7,010 miles",Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/30935977,Audi A3,3 40 TFSI e S Line 5dr S Tronic Hatchback,"26,495",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"7,900 miles",Hybrid,Semiauto,Blue,Hatchback,235.4 mpg
+/ad/30910810,Audi A4,4 35 TFSI Sport Edition 4dr S Tronic Saloon,"26,495",2022,Semi-Auto,44.8 mpg,Petrol,2022,2L,"12,159 miles",Petrol,Semiauto,Black,Saloon,44.8 mpg
+/ad/30806224,Audi TT,45 TFSI Quattro S Line 2dr S Tronic Coupe,"26,495",2020,Semi-Auto,34.9 mpg,Petrol,2020,2L,"22,000 miles",Petrol,Semiauto,White,Coupe,34.9 mpg
+/ad/30100109,Audi A6,Tdi S Line Mhev 2.0 TDi S Line MHEV Saloon,"26,495",2019,Automatic,50.4 mpg,Diesel,2019,2000cc,"22,422 miles",Diesel,Automatic,Black,Saloon,50.4 mpg
+/ad/30757792,Audi Q3,35 TFSI Sport 5dr S Tronic SUV,"26,495",2020,Semi-Auto,40.9 mpg,Petrol,2020,1.5L,"26,021 miles",Petrol,Semiauto,Black,SUV,40.9 mpg
+/ad/30034501,Audi S5,TFSI QUATTRO 350 BHP Coupe,"26,495",2018,Automatic,36.7 mpg,Petrol,2018,2995cc,"27,500 miles",Petrol,Automatic,BRILLIANT BLACK GLOSS,Coupe,36.7 mpg
+/ad/30875758,Audi S3,2.0 TFSI Black Edition Sportback 5dr Petrol S Tronic quattro Euro 6 (s/s) (300 ps) Hatchback,"26,495",2019,Automatic,34.9 mpg,Petrol,2019,1984cc,"28,000 miles",Petrol,Automatic,Grey,Hatchback,34.9 mpg
+/ad/30166077,Audi A4,4 DIESEL SALOON Saloon,"26,495",2021,Automatic,53.3 mpg,Diesel,2021,1968cc,"41,399 miles",Diesel,Automatic,Grey,Saloon,53.3 mpg
+/ad/30634482,Audi Q3,SPORTBACK SUV,"26,495",2020,Manual,40.9 mpg,Petrol,2020,1498cc,"42,441 miles",Petrol,Manual,TURBO BLUE,SUV,40.9 mpg
+/ad/30895127,Audi Q5,2.0 TFSI 45 Black Edition S Tronic quattro Euro 6 (s/s) 5dr SUV,"26,495",2019,Automatic,32.1 mpg,Petrol,2019,1984cc,"48,500 miles",Petrol,Automatic,Grey,SUV,32.1 mpg
+/ad/30031198,Audi S3,2.0 TFSI Black Edition Hatchback,"26,495",2018,Automatic,43.5 mpg,Petrol,2018,1984cc,"49,500 miles",Petrol,Automatic,Blue,Hatchback,43.5 mpg
+/ad/30017930,Audi Q7,3.0 TDI Quattro S Line 5dr Tip Auto Estate,"26,495",2015,Automatic,47.9 mpg,Diesel,2015,2967cc,"51,250 miles",Diesel,Automatic,Black,Estate,47.9 mpg
+/ad/30923680,Audi S4,3.0 TFSI V6 Tiptronic quattro Euro 6 (s/s) 5dr Estate,"26,495",2017,Automatic,37.7 mpg,Petrol,2017,2995cc,"53,000 miles",Petrol,Automatic,Red,Estate,37.7 mpg
+/ad/30692136,Audi RS3,2.5 TFSI Hatchback,"26,495",2016,Automatic,34.9 mpg,Petrol,2016,2480cc,"60,000 miles",Petrol,Automatic,Black,Hatchback,34.9 mpg
+/ad/30659738,Audi SQ5,3.0 SQ5,"26,495",2017,Automatic,34.0 mpg,Petrol,2017,2995cc,"92,450 miles",Petrol,Automatic,BLUE,Estate,34 mpg
+/ad/30939799,Audi A3,3 40 TFSI e S Line 5dr S Tronic Hatchback,"26,499",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"4,581 miles",Hybrid,Semiauto,Grey,Hatchback,235.4 mpg
+/ad/30940652,Audi A3,3 35 TFSI S Line 4dr Saloon,"26,499",2023,Manual,46.3 mpg,Petrol,2023,1.5L,"5,644 miles",Petrol,Manual,Blue,Saloon,46.3 mpg
+/ad/30667081,Audi A3,3 35 TDI S Line 5dr S Tronic Hatchback,"26,499",2023,Semi-Auto,58.9 mpg,Diesel,2023,2L,"9,275 miles",Diesel,Semiauto,Black,Hatchback,58.9 mpg
+/ad/30914773,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,499",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"13,901 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30732789,Audi A3,3 35 TFSI Edition 1 5dr Hatchback,"26,499",2022,Manual,44.8 mpg,Petrol,2022,1.5L,"14,238 miles",Petrol,Manual,Black,Hatchback,44.8 mpg
+/ad/30583794,Audi Q3,2.0 TDI QUATTRO SPORT 5d AUTO 148 BHP Estate,"26,499",2021,Semi-Auto,47.9 mpg,Diesel,2021,2L,"16,504 miles",Diesel,Semi Automatic,Orange,Estate,47.9 mpg
+/ad/30970541,Audi Q3,40 TFSI Quattro S Line 5dr S Tronic SUV,"26,499",2019,Semi-Auto,31.4 mpg,Petrol,2019,2L,"31,992 miles",Petrol,Semiauto,White,SUV,31.4 mpg
+/ad/30968043,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,499",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"55,200 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30942899,Audi A1,30 TFSI 110 S Line 5dr S Tronic Hatchback,"26,500",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,6 miles,Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/30942944,Audi Q2,30 TFSI Black Edition 5dr SUV,"26,500",2022,Manual,44.8 mpg,Petrol,2022,1L,"1,101 miles",Petrol,Manual,Black,SUV,44.8 mpg
+/ad/30293733,Audi A3,30 TFSI Sport 5dr S Tronic Hatchback,"26,500",2023,Automatic,53.3 mpg,Petrol,2023,999cc,"2,000 miles",Petrol,Automatic,Silver,Hatchback,53.3 mpg
+/ad/30225271,Audi TT,45 TFSI S Line 2dr Coupe,"26,500",2019,Manual,39.8 mpg,Petrol,2019,2L,"3,208 miles",Petrol,Manual,White,Coupe,39.8 mpg
+/ad/30010765,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,500",2023,Manual,45.6 mpg,Petrol,2023,1.5L,"5,000 miles",Petrol,Manual,Black,Hatchback,45.6 mpg
+/ad/30941574,Audi A1,25 TFSI S Line 5dr S Tronic Hatchback,"26,500",2023,Semi-Auto,44.1 mpg,Petrol,2023,1L,"7,691 miles",Petrol,Semiauto,Grey,Hatchback,44.1 mpg
+/ad/30947237,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,500",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"9,134 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/29263487,Audi A4,4 35 TFSI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,44.8 mpg,Petrol,2022,2L,"9,359 miles",Petrol,Semiauto,Black,Saloon,44.8 mpg
+/ad/30884020,Audi TT,40 TFSI Sport Edition 2dr S Tronic Coupe,"26,500",2021,Semi-Auto,41.5 mpg,Petrol,2021,2L,"12,350 miles",Petrol,Semiauto,White,Coupe,41.5 mpg
+/ad/30941932,Audi A3,3 40 TFSI e S Line 5dr S Tronic Hatchback,"26,500",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"13,553 miles",Hybrid,Semiauto,Red,Hatchback,235.4 mpg
+/ad/30942154,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,500",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,129 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30893985,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,500",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"16,566 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30941742,Audi A5,35 TFSI S Line 2dr S Tronic Coupe,"26,500",2021,Semi-Auto,42.8 mpg,Petrol,2021,2L,"16,967 miles",Petrol,Semiauto,White,Coupe,42.8 mpg
+/ad/30854325,Audi Q2,35 TFSI Black Edition 5dr S Tronic Estate,"26,500",2022,Automatic,44.1 mpg,Petrol,2022,1498cc,"17,000 miles",Petrol,Automatic,BLACK,Estate,44.1 mpg
+/ad/30942846,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,500",2021,Semi-Auto,47.9 mpg,Petrol,2021,1.5L,"18,305 miles",Petrol,Semiauto,Blue,Saloon,47.9 mpg
+/ad/30722434,Audi Q3,35 TFSI Sport 5dr S Tronic SUV,"26,500",2020,Semi-Auto,41.5 mpg,Petrol,2020,1.5L,"19,219 miles",Petrol,Semiauto,Blue,SUV,41.5 mpg
+/ad/30830942,Audi A4,Avant 2.0 TFSI 40 Black Edition Estate 5dr Petrol S Tronic Euro 6 (s/s) (190 ps) Digital Cockpit,"26,500",2020,Automatic,38.2 mpg,Petrol,2020,1984cc,"19,828 miles",Petrol,Automatic,Black,Estate,38.2 mpg
+/ad/29890548,Audi A6,40 TDI S Line 5dr S Tronic Estate,"26,500",2019,Semi-Auto,47.9 mpg,Diesel,2019,2L,"20,720 miles",Diesel,Semiauto,Grey,Estate,47.9 mpg
+/ad/30942397,Audi Q3,35 TFSI S Line 5dr S Tronic SUV,"26,500",2019,Semi-Auto,38.2 mpg,Petrol,2019,1.5L,"22,419 miles",Petrol,Semiauto,White,SUV,38.2 mpg
+/ad/30942790,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"26,500",2021,Semi-Auto,55.4 mpg,Diesel,2021,2L,"23,098 miles",Diesel,Semiauto,White,Coupe,55.4 mpg
+/ad/30865044,Audi Q5,40 TDI Quattro Sport 5dr S Tronic Estate,"26,500",2020,Automatic,39.2 mpg,Diesel,2020,1968cc,"28,559 miles",Diesel,Automatic,Ibis White,Estate,39.2 mpg
+/ad/30943326,Audi Q3,40 TDI Quattro Sport 5dr S Tronic SUV,"26,500",2019,Semi-Auto,40.9 mpg,Diesel,2019,2L,"29,888 miles",Diesel,Semiauto,Grey,SUV,40.9 mpg
+/ad/30942770,Audi A3,3 S3 TFSI 300 Quattro Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,34.9 mpg,Petrol,2019,2L,"30,526 miles",Petrol,Semiauto,Black,Hatchback,34.9 mpg
+/ad/30969609,Audi A3,3 40 TFSI e S Line 5dr S Tronic Hatchback,"26,500",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"16,733 miles",Hybrid,Semiauto,Grey,Hatchback,235.4 mpg
+/ad/30941742,Audi A5,35 TFSI S Line 2dr S Tronic Coupe,"26,500",2021,Semi-Auto,42.8 mpg,Petrol,2021,2L,"16,967 miles",Petrol,Semiauto,White,Coupe,42.8 mpg
+/ad/30854325,Audi Q2,35 TFSI Black Edition 5dr S Tronic Estate,"26,500",2022,Automatic,44.1 mpg,Petrol,2022,1498cc,"17,000 miles",Petrol,Automatic,BLACK,Estate,44.1 mpg
+/ad/30942846,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,500",2021,Semi-Auto,47.9 mpg,Petrol,2021,1.5L,"18,305 miles",Petrol,Semiauto,Blue,Saloon,47.9 mpg
+/ad/30722434,Audi Q3,35 TFSI Sport 5dr S Tronic SUV,"26,500",2020,Semi-Auto,41.5 mpg,Petrol,2020,1.5L,"19,219 miles",Petrol,Semiauto,Blue,SUV,41.5 mpg
+/ad/30830942,Audi A4,Avant 2.0 TFSI 40 Black Edition Estate 5dr Petrol S Tronic Euro 6 (s/s) (190 ps) Digital Cockpit,"26,500",2020,Automatic,38.2 mpg,Petrol,2020,1984cc,"19,828 miles",Petrol,Automatic,Black,Estate,38.2 mpg
+/ad/30942949,Audi A4,4 35 TDI Black Edition 4dr S Tronic Saloon,"26,500",2021,Semi-Auto,53.3 mpg,Diesel,2021,2L,"19,910 miles",Diesel,Semiauto,Grey,Saloon,53.3 mpg
+/ad/30965981,Audi A4,4 35 TFSI Black Edition 4dr S Tronic Saloon,"26,500",2021,Semi-Auto,40.9 mpg,Petrol,2021,2L,"20,552 miles",Petrol,Semiauto,Blue,Saloon,40.9 mpg
+/ad/29890548,Audi A6,40 TDI S Line 5dr S Tronic Estate,"26,500",2019,Semi-Auto,47.9 mpg,Diesel,2019,2L,"20,720 miles",Diesel,Semiauto,Grey,Estate,47.9 mpg
+/ad/30020250,Audi Q3,1.5 TFSi 35 S Line 5dr S Tronic Other,"26,500",2020,Automatic,39.8 mpg,Petrol,2020,1498cc,"21,177 miles",Petrol,Automatic,WHITE,Other,39.8 mpg
+/ad/30966205,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,500",2023,Semi-Auto,44.8 mpg,Petrol,2023,1.5L,"14,076 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966164,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,500",2023,Semi-Auto,44.8 mpg,Petrol,2023,1.5L,"14,106 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966079,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,500",2023,Semi-Auto,44.8 mpg,Petrol,2023,1.5L,"14,205 miles",Petrol,Semiauto,Grey,SUV,44.8 mpg
+/ad/30965981,Audi A4,4 35 TFSI Black Edition 4dr S Tronic Saloon,"26,500",2021,Semi-Auto,40.9 mpg,Petrol,2021,2L,"20,552 miles",Petrol,Semiauto,Blue,Saloon,40.9 mpg
+/ad/30020250,Audi Q3,1.5 TFSi 35 S Line 5dr S Tronic Other,"26,500",2020,Automatic,39.8 mpg,Petrol,2020,1498cc,"21,177 miles",Petrol,Automatic,WHITE,Other,39.8 mpg
+/ad/30957811,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,500",2019,Semi-Auto,47.1 mpg,Diesel,2019,2L,"22,178 miles",Diesel,Semiauto,Black,SUV,47.1 mpg
+/ad/30928552,Audi A3,S3 TFSI 300 Quattro Black Edit Hatchback,"26,500",2020,Automatic,34.5 mpg,Petrol,2020,2L,"35,704 miles",Petrol,Automatic,GREY,Hatchback,34.5 mpg
+/ad/30798020,Audi Q5,2.0 TFSI QUATTRO S LINE 5d 248 BHP Estate,"26,500",2018,Automatic,40.4 mpg,Petrol,2018,1984cc,"36,000 miles",Petrol,Automatic,BLACK,Estate,40.4 mpg
+/ad/30601536,Audi A8,3.0 TDI QUATTRO MHEV 4d 282 BHP Saloon,"26,500",2018,Automatic,50.4 mpg,Diesel,2018,2967cc,"42,000 miles",Diesel,Automatic,SILVER,Saloon,50.4 mpg
+/ad/30962428,Audi Q3,40 TFSI Quattro Sport 5dr S Tronic SUV,"26,500",2019,Semi-Auto,32.5 mpg,Petrol,2019,2L,"10,373 miles",Petrol,Semiauto,Black,SUV,32.5 mpg
+/ad/30962160,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,500",2023,Semi-Auto,44.8 mpg,Petrol,2023,1.5L,"12,103 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30962212,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,500",2023,Semi-Auto,44.8 mpg,Petrol,2023,1.5L,"13,601 miles",Petrol,Semiauto,White,SUV,44.8 mpg
+/ad/30961558,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961572,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961575,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961600,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961623,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961625,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961643,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961656,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961661,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961680,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961738,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961806,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,500",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30942329,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,500",2019,Semi-Auto,47.1 mpg,Diesel,2019,2L,"34,308 miles",Diesel,Semiauto,Blue,SUV,47.1 mpg
+/ad/30942422,Audi RS4,4.2 FSI Quattro 5dr S Tronic Estate,"26,500",2015,Semi-Auto,26.4 mpg,Petrol,2015,4.2L,"58,114 miles",Petrol,Semiauto,Black,Estate,26.4 mpg
+/ad/30969464,Audi A3,3 40 TFSI e S Line 5dr S Tronic Hatchback,"26,500",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"16,733 miles",Hybrid,Semiauto,Grey,Hatchback,235.4 mpg
+/ad/30969609,Audi A3,3 40 TFSI e S Line 5dr S Tronic Hatchback,"26,500",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"16,733 miles",Hybrid,Semiauto,Grey,Hatchback,235.4 mpg
+/ad/30942949,Audi A4,4 35 TDI Black Edition 4dr S Tronic Saloon,"26,500",2021,Semi-Auto,53.3 mpg,Diesel,2021,2L,"19,910 miles",Diesel,Semiauto,Grey,Saloon,53.3 mpg
+/ad/30941164,Audi Q3,35 TDI Sport 5dr S Tronic SUV,"26,500",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"21,501 miles",Diesel,Semiauto,Black,SUV,52.3 mpg
+/ad/30942422,Audi RS4,4.2 FSI Quattro 5dr S Tronic Estate,"26,500",2015,Semi-Auto,26.4 mpg,Petrol,2015,4.2L,"58,114 miles",Petrol,Semiauto,Black,Estate,26.4 mpg
+/ad/30907811,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30907845,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30907929,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30908040,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30908359,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30908402,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30908470,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30908551,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30908631,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30908722,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30909393,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30909783,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,500",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30616303,Audi A6,40 TDI S Line 5dr S Tronic Estate,"26,540",2019,Semi-Auto,47.9 mpg,Diesel,2019,2L,"25,500 miles",Diesel,Semiauto,Black,Estate,47.9 mpg
+/ad/30860256,Audi Q5,2.0 TDI 40 Black Edition S Tronic quattro Euro 6 (s/s) 5dr SUV,"26,540",2020,Automatic,38.2 mpg,Diesel,2020,1968cc,"56,258 miles",Diesel,Automatic,Grey,SUV,38.2 mpg
+/ad/30628676,Audi A5,40 TFSI Black Edition 2dr S Tronic Coupe,"26,545",2020,Automatic,39.8 mpg,Petrol,2020,1984cc,"15,000 miles",Petrol,Automatic,White,Coupe,39.8 mpg
+/ad/30962472,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,550",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962484,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,550",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962108,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,550",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30961968,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,550",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962059,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,550",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30962181,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,550",2020,Automatic,Tax: £0,2020,"33,036 miles",Electric,Automatic,White,SUV,,,
+/ad/30660186,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,564",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,550 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30926003,Audi A6,2.0 TDI 40 S line S Tronic quattro Euro 6 (s/s) 5dr Estate,"26,572",2020,Automatic,45.6 mpg,Diesel,2020,1968cc,"54,000 miles",Diesel,Automatic,Grey,Estate,45.6 mpg
+/ad/30914241,Audi e-tron,50 Technik SUV 5dr Electric Auto quattro 71.2kWh (313 ps) Other,"26,588",2020,Automatic,Tax: £0,2020,"22,351 miles",Electric,Automatic,Grey,Other,,,
+/ad/30771813,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,590",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"3,913 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30840847,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,590",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"11,712 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30894325,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,590",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"12,981 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30888670,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,590",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"13,900 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30894307,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,590",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"13,919 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30870193,Audi A4,4 35 TFSI Black Edition 5dr S Tronic Estate,"26,590",2020,Semi-Auto,38.2 mpg,Petrol,2020,2L,"19,836 miles",Petrol,Semiauto,Black,Estate,38.2 mpg
+/ad/30825932,Audi Q3,35 TFSI S Line 5dr S Tronic SUV,"26,590",2020,Semi-Auto,39.8 mpg,Petrol,2020,1.5L,"28,414 miles",Petrol,Semiauto,Black,SUV,39.8 mpg
+/ad/30323581,Audi A3,3 2.0 S3 SPORTBACK TFSI QUATTRO 5d 296 BHP Hatchback,"26,590",2020,Automatic,34.5 mpg,Petrol,2020,1984cc,"36,000 miles",Petrol,Automatic,WHITE,Hatchback,34.5 mpg
+/ad/30895866,Audi RS3,2.5 TFSI RS 3 Quattro 5dr S Tronic Hatchback,"26,590",2016,Semi-Auto,34.9 mpg,Petrol,2016,2.5L,"58,863 miles",Petrol,Semiauto,Blue,Hatchback,34.9 mpg
+/ad/30912300,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,599",2022,Manual,45.6 mpg,Petrol,2022,1.5L,"2,416 miles",Petrol,Manual,Grey,Hatchback,45.6 mpg
+/ad/30916114,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,599",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,095 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30818758,Audi A1,35 TFSI S Line 5dr S Tronic Hatchback,"26,600",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"5,587 miles",Petrol,Semiauto,Grey,Hatchback,44.8 mpg
+/ad/30888339,Audi Q5,45 TFSI Quattro S Line 5dr S Tronic SUV,"26,600",2020,Semi-Auto,32.1 mpg,Petrol,2020,2L,"49,230 miles",Petrol,Semiauto,Blue,SUV,32.1 mpg
+/ad/30896379,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,650",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"13,932 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30905307,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,650",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30906189,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,650",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905738,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,650",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30905799,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,650",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30906057,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,650",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30906039,Audi A6,40 TFSI Sport 4dr S Tronic Saloon,"26,650",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"27,349 miles",Petrol,Semiauto,Black,Saloon,39.2 mpg
+/ad/30969356,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969376,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969412,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969420,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969453,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969477,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969504,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969535,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969553,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969621,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969745,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969857,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,650",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30906166,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"26,650",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"16,071 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30972439,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,650",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972691,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,650",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972992,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,650",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972636,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,650",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30972679,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,650",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30973025,Audi e-tron,300kW 55 Quattro 95kWh 5dr Auto SUV,"26,650",2019,Automatic,Tax: £0,2019,"44,797 miles",Electric,Automatic,Grey,SUV,,,
+/ad/30863238,Audi A1,30 TFSI 110 S Line 5dr S Tronic Hatchback,"26,680",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,"1,000 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30872714,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,690",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"9,972 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30752944,Audi Q2,35 TFSI Black Edition 5dr S Tronic SUV,"26,690",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"12,694 miles",Petrol,Semiauto,White,SUV,44.1 mpg
+/ad/30884005,Audi Q5,45 TFSI Quattro S Line 5dr S Tronic SUV,"26,690",2019,Semi-Auto,32.1 mpg,Petrol,2019,2L,"26,664 miles",Petrol,Semiauto,White,SUV,32.1 mpg
+/ad/30741174,Audi Q3,40 TFSI Quattro S Line 5dr S Tronic SUV,"26,690",2020,Semi-Auto,31.4 mpg,Petrol,2020,2L,"26,775 miles",Petrol,Semiauto,Blue,SUV,31.4 mpg
+/ad/30964752,Audi Q3,40 TFSI Quattro S Line 5dr S Tronic SUV,"26,690",2020,Semi-Auto,31.4 mpg,Petrol,2020,2L,"43,810 miles",Petrol,Semiauto,Black,SUV,31.4 mpg
+/ad/30852643,Audi A4,AVANT 40 TFSI Black Edition 5dr S Tronic Estate,"26,699",2020,Other,38.2 mpg,Petrol,2020,1984cc,"28,255 miles",Petrol,N/A,White,Estate,38.2 mpg
+/ad/30941272,Audi Q5,40 TDI Quattro Sport 5dr S Tronic SUV,"26,699",2020,Semi-Auto,39.2 mpg,Diesel,2020,2L,"28,324 miles",Diesel,Semiauto,Grey,SUV,39.2 mpg
+/ad/30881011,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,699",2021,Semi-Auto,49.6 mpg,Diesel,2021,2L,"32,242 miles",Diesel,Semiauto,White,SUV,49.6 mpg
+/ad/30795226,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,699",2020,Semi-Auto,47.1 mpg,Diesel,2020,2L,"40,196 miles",Diesel,Semiauto,Black,SUV,47.1 mpg
+/ad/30568726,Audi A3,3 35 TFSI Edition 1 5dr Hatchback,"26,700",2022,Manual,44.8 mpg,Petrol,2022,1.5L,"12,027 miles",Petrol,Manual,Grey,Hatchback,44.8 mpg
+/ad/30686762,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,700",2023,Semi-Auto,44.8 mpg,Petrol,2023,1.5L,"14,525 miles",Petrol,Semiauto,Grey,SUV,44.8 mpg
+/ad/30961634,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"26,700",2020,Semi-Auto,52.3 mpg,Diesel,2020,2L,"18,080 miles",Diesel,Semiauto,White,Coupe,52.3 mpg
+/ad/30961697,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"26,700",2020,Semi-Auto,52.3 mpg,Diesel,2020,2L,"18,080 miles",Diesel,Semiauto,White,Coupe,52.3 mpg
+/ad/30935554,Audi A4,4 45 TFSI Quattro Black Edition 4dr S Tronic Saloon,"26,700",2020,Semi-Auto,36.2 mpg,Petrol,2020,2L,"29,105 miles",Petrol,Semiauto,White,Saloon,36.2 mpg
+/ad/30937047,Audi Q3,1.5 TFSI CoD 35 S line SUV 5dr Petrol S Tronic Euro 6 (s/s) (150 ps) Digital Cockpit,"26,700",2021,Automatic,40.4 mpg,Petrol,2021,1498cc,"31,116 miles",Petrol,Automatic,White,SUV,40.4 mpg
+/ad/30883298,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,700",2022,Semi-Auto,47.9 mpg,Petrol,2022,1.5L,"11,242 miles",Petrol,Semiauto,White,Saloon,47.9 mpg
+/ad/30826122,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,721",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"8,998 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30778909,Audi Q5,45 TFSI Quattro S Line 5dr S Tronic SUV,"26,727",2019,Semi-Auto,32.1 mpg,Petrol,2019,2L,"33,835 miles",Petrol,Semiauto,Blue,SUV,32.1 mpg
+/ad/30650661,Audi Q5,45 TFSI Quattro S Line 5dr S Tronic SUV,"26,730",2019,Semi-Auto,32.1 mpg,Petrol,2019,2L,"35,743 miles",Petrol,Semiauto,Red,SUV,32.1 mpg
+/ad/30843129,Audi e-tron,50 Technik SUV 5dr Electric Auto quattro 71.2kWh (313 ps) Other,"26,744",2020,Automatic,Tax: £0,2020,"12,951 miles",Electric,Automatic,Black,Other,,,
+/ad/30112476,Audi S3,Hatchback,"26,749",2019,Automatic,34.9 mpg,Petrol,2019,1984cc,"37,000 miles",Petrol,Automatic,Blue,Hatchback,34.9 mpg
+/ad/30942016,Audi A1,35 TFSI S Line 5dr S Tronic Hatchback,"26,750",2023,Semi-Auto,47.9 mpg,Petrol,2023,1.5L,"1,000 miles",Petrol,Semiauto,Blue,Hatchback,47.9 mpg
+/ad/30942135,Audi A1,30 TFSI 110 S Line 5dr S Tronic Hatchback,"26,750",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,"1,000 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30947242,Audi A1,35 TFSI S Line 5dr S Tronic Hatchback,"26,750",2023,Semi-Auto,47.9 mpg,Petrol,2023,1.5L,"1,173 miles",Petrol,Semiauto,Grey,Hatchback,47.9 mpg
+/ad/30942566,Audi TT,45 TFSI Quattro S Line 2dr S Tronic Convertible,"26,750",2019,Semi-Auto,34.0 mpg,Petrol,2019,2L,"7,623 miles",Petrol,Semiauto,Grey,Convertible,34 mpg
+/ad/30750803,Audi TT,2.0 TFSI SPORT EDITION 200 BHP S-TRONIC Coupe,"26,750",2021,Automatic,41.5 mpg,Other,2021,1984cc,"11,884 miles",Other,Automatic,Navarra Blue,Coupe,41.5 mpg
+/ad/30495698,Audi A6,40 TDI Sport 5dr S Tronic Estate,"26,750",2020,Semi-Auto,47.9 mpg,Diesel,2020,2L,"12,803 miles",Diesel,Semiauto,White,Estate,47.9 mpg
+/ad/30969301,Audi A3,3 45 TFSI e S Line Competition 5dr S Tronic Hatchback,"26,750",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"15,293 miles",Hybrid,Semiauto,Black,Hatchback,235.4 mpg
+/ad/30969313,Audi A3,3 45 TFSI e S Line Competition 5dr S Tronic Hatchback,"26,750",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"15,293 miles",Hybrid,Semiauto,Black,Hatchback,235.4 mpg
+/ad/30969584,Audi A3,3 45 TFSI e S Line Competition 5dr S Tronic Hatchback,"26,750",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"15,293 miles",Hybrid,Semiauto,Black,Hatchback,235.4 mpg
+/ad/30969643,Audi A3,3 45 TFSI e S Line Competition 5dr S Tronic Hatchback,"26,750",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"15,293 miles",Hybrid,Semiauto,Black,Hatchback,235.4 mpg
+/ad/30969773,Audi A3,3 45 TFSI e S Line Competition 5dr S Tronic Hatchback,"26,750",2021,Semi-Auto,235.4 mpg,Hybrid,2021,1.4L,"15,293 miles",Hybrid,Semiauto,Black,Hatchback,235.4 mpg
+/ad/30961535,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,750",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30962176,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30961535,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,750",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961587,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,750",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961606,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,750",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961718,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,750",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961726,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,750",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30961759,Audi A4,4 35 TDI Sport Edition 4dr S Tronic Saloon,"26,750",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"23,616 miles",Diesel,Semiauto,Grey,Saloon,58.9 mpg
+/ad/30962502,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962346,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962370,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962346,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962370,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30961991,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962007,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962022,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962089,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962310,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,750",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30942386,Audi A3,3 35 TDI Edition 1 4dr S Tronic Saloon,"26,750",2021,Semi-Auto,58.9 mpg,Diesel,2021,2L,"30,125 miles",Diesel,Semiauto,Black,Saloon,58.9 mpg
+/ad/30945153,Audi Q3,2.0 TDI 35 S line Sportback S Tronic Euro 6 (s/s) 5dr 19s,"26,750",2019,Automatic,47.1 mpg,Diesel,2019,1968cc,"39,020 miles",Diesel,Automatic,Grey,SUV,47.1 mpg
+/ad/30907723,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,750",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30908329,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,750",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30908606,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,750",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30909289,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,750",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30909334,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,750",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30909597,Audi A5,35 TFSI Black Edition 5dr S Tronic Hatchback,"26,750",2019,Semi-Auto,39.2 mpg,Petrol,2019,2L,"15,285 miles",Petrol,Semiauto,Grey,Hatchback,39.2 mpg
+/ad/30972594,Audi A6,40 TDI S Line 4dr S Tronic Saloon,"26,750",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"33,405 miles",Diesel,Semiauto,Black,Saloon,50.4 mpg
+/ad/30951917,Audi A4,Avant 2.0 TDI 40 Black Edition Estate 5dr Diesel S Tronic quattro Euro 6 (s/s) (204 ps) Estate,"26,775",2020,Automatic,48.7 mpg,Diesel,2020,1968cc,"31,163 miles",Diesel,Automatic,Blue,Estate,48.7 mpg
+/ad/30657586,Audi Q2,1.0 TFSI 30 Sport Euro 6 (s/s) 5dr SUV,"26,780",,Manual,Tax: n/a,999cc,33 miles,Petrol,Manual,Black,SUV,,,
+/ad/30964426,Audi A6,Avant S line 40 TDI 204 PS S tronic Estate,"26,780",2019,Automatic,47.9 mpg,Diesel,2019,1968cc,"17,866 miles",Diesel,Automatic,White,Estate,47.9 mpg
+/ad/30967900,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,786",2020,Semi-Auto,47.1 mpg,Diesel,2020,2L,"31,114 miles",Diesel,Semiauto,Black,SUV,47.1 mpg
+/ad/30576079,Audi Q3,35 TFSI Sport 5dr SUV,"26,787",2021,Manual,42.2 mpg,Petrol,2021,1498cc,"16,858 miles",Petrol,Manual,Grey,SUV,42.2 mpg
+/ad/30835116,Audi S3,2.0 S3,"26,790",2019,Semi-Auto,34.5 mpg,Petrol,2019,2L,"27,000 miles",Petrol,Semi Automatic,Blue,Saloon,34.5 mpg
+/ad/30618851,Audi A3,3 2.5 RS3 SPORTBACK QUATTRO 5d AUTO 362 BHP Hatchback,"26,790",2015,Automatic,34.9 mpg,Petrol,2015,2480cc,"42,166 miles",Petrol,Automatic,GREY,Hatchback,34.9 mpg
+/ad/30870570,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,790",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"10,444 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30886054,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,790",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"12,063 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30620758,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,790",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"12,118 miles",Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/30894308,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,790",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"12,343 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30895963,Audi Q3,35 TFSI S Line 5dr SUV,"26,790",2020,Manual,40.9 mpg,Petrol,2020,1.5L,"16,312 miles",Petrol,Manual,White,SUV,40.9 mpg
+/ad/30854118,Audi A4,4 35 TDI S Line 5dr S Tronic Estate,"26,790",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"23,000 miles",Diesel,Semiauto,Black,Estate,52.3 mpg
+/ad/30888560,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,790",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"11,818 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30943060,Audi Q3,40 TFSI Quattro S Line 5dr S Tronic SUV,"26,790",2020,Semi-Auto,31.4 mpg,Petrol,2020,2L,"38,904 miles",Petrol,Semiauto,Black,SUV,31.4 mpg
+/ad/30620759,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,790",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"7,598 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30720980,Audi Q3,TDI S line SUV,"26,795",2020,Automatic,47.1 mpg,Diesel,2020,2000cc,"45,330 miles",Diesel,Automatic,Black,SUV,47.1 mpg
+/ad/30896992,Audi e-tron,QUATTRO TECHNIK 5d AUTO 309 BHP Estate,"26,799",2021,Automatic,Tax: £0,2021,"23,500 miles",Other,Automatic,Blue,Estate,,,
+/ad/30963040,Audi Q3,40 TFSI Quattro S Line 5dr S Tronic SUV,"26,799",2019,Semi-Auto,31.7 mpg,Petrol,2019,2L,"25,299 miles",Petrol,Semiauto,Grey,SUV,31.7 mpg
+/ad/30853532,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,799",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"5,693 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30825847,Audi A3,3 35 TDI S Line 5dr S Tronic Hatchback,"26,799",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"9,429 miles",Diesel,Semiauto,Grey,Hatchback,58.9 mpg
+/ad/30818072,Audi Q2,35 TFSI Black Edition 5dr S Tronic SUV,"26,799",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"9,715 miles",Petrol,Semiauto,Red,SUV,44.1 mpg
+/ad/30867125,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,799",2023,Semi-Auto,44.8 mpg,Petrol,2023,1.5L,"13,559 miles",Petrol,Semiauto,Black,SUV,44.8 mpg
+/ad/30888340,Audi A3,3 S3 TFSI 300 Quattro Black Edition 5dr S Tronic Hatchback,"26,800",2020,Semi-Auto,34.5 mpg,Petrol,2020,2L,"35,218 miles",Petrol,Semiauto,White,Hatchback,34.5 mpg
+/ad/30790948,Audi A7,3.0 TDI V6 45 S line Sportback Tiptronic quattro Euro 6 (s/s) 5d Hatchback,"26,800",2000,Automatic,38.7 mpg,Diesel,2000,2967cc,"37,194 miles",Diesel,Automatic,Black,Hatchback,38.7 mpg
+/ad/30951880,Audi A6,2.0 TDI 40 Black Edition Estate 5dr Diesel S Tronic Euro 6 (s/s) (204 ps) S Line Body Styling,"26,800",2020,Automatic,47.9 mpg,Diesel,2020,1968cc,"46,089 miles",Diesel,Automatic,Grey,Estate,47.9 mpg
+/ad/30972399,Audi A6,40 TDI S Line 4dr S Tronic Saloon,"26,800",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"33,405 miles",Diesel,Semiauto,Black,Saloon,50.4 mpg
+/ad/30972424,Audi A6,40 TDI S Line 4dr S Tronic Saloon,"26,800",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"33,405 miles",Diesel,Semiauto,Black,Saloon,50.4 mpg
+/ad/30972922,Audi A6,40 TDI S Line 4dr S Tronic Saloon,"26,800",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"33,405 miles",Diesel,Semiauto,Black,Saloon,50.4 mpg
+/ad/30972959,Audi A6,40 TDI S Line 4dr S Tronic Saloon,"26,800",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"33,405 miles",Diesel,Semiauto,Black,Saloon,50.4 mpg
+/ad/30971493,Audi A6,2.0 TDI S LINE MHEV 5d 202 BHP Estate,"26,800",2020,Automatic,47.9 mpg,Diesel,2020,1968cc,"48,000 miles",Diesel,Automatic,Grey,Estate,47.9 mpg
+/ad/30973055,Audi A6,40 TDI S Line 4dr S Tronic Saloon,"26,800",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"33,405 miles",Diesel,Semiauto,Black,Saloon,50.4 mpg
+/ad/30893916,Audi A3,S line 35 TFSI 150 PS S tronic Hatchback,"26,803",2023,Automatic,46.3 mpg,Petrol,2023,1498cc,"5,739 miles",Petrol,Automatic,Blue,Hatchback,46.3 mpg
+/ad/30908334,Audi A6,40 TDI S Line 5dr S Tronic Estate,"26,825",2019,Semi-Auto,47.9 mpg,Diesel,2019,2L,"32,372 miles",Diesel,Semiauto,Black,Estate,47.9 mpg
+/ad/30830500,Audi A3,S line 35 TFSI 150 PS S tronic Saloon,"26,832",2023,Automatic,47.9 mpg,Petrol,2023,1498cc,"9,056 miles",Petrol,Automatic,Grey,Saloon,47.9 mpg
+/ad/30860262,Audi Q5,Sport 45 TFSI quattro 245 PS S tronic SUV,"26,834",2020,Automatic,33.2 mpg,Petrol,2020,1984cc,"20,887 miles",Petrol,Automatic,White,SUV,33.2 mpg
+/ad/30869174,Audi Q7,3.0 TDI V6 S line Tiptronic quattro Euro 6 (s/s) 5dr SUV,"26,840",2017,Automatic,48.7 mpg,Diesel,2017,2967cc,"55,776 miles",Diesel,Automatic,Black,SUV,48.7 mpg
+/ad/30527066,Audi SQ5,3.0 TFSI V6 Tiptronic quattro Euro 6 (s/s) 5dr SUV,"26,840",2017,Automatic,34.0 mpg,Petrol,2017,2995cc,"61,547 miles",Petrol,Automatic,Blue,SUV,34 mpg
+/ad/30785642,Audi TT,40 TFSI Black Edition 2dr S Tronic Coupe,"26,843",2020,Semi-Auto,40.9 mpg,Petrol,2020,2L,"19,964 miles",Petrol,Semiauto,Black,Coupe,40.9 mpg
+/ad/30925915,Audi Q2,35 TFSI S Line 5dr Estate,"26,850",2023,Manual,45.6 mpg,Petrol,2023,1498cc,"4,613 miles",Petrol,Manual,Pearl - Daytona Grey,Estate,45.6 mpg
+/ad/30804685,Audi A3,3 30 TFSI S Line 4dr S Tronic Saloon,"26,850",2023,Semi-Auto,52.3 mpg,Petrol,2023,1L,"7,500 miles",Petrol,Semiauto,Grey,Saloon,52.3 mpg
+/ad/30479365,Audi A3,3 S3 TFSI 300 Quattro 5dr S Tronic Hatchback,"26,850",2019,Semi-Auto,34.9 mpg,Petrol,2019,2L,"13,656 miles",Petrol,Semiauto,Black,Hatchback,34.9 mpg
+/ad/30790393,Audi Q5,2.0 TFSI 45 Black Edition S Tronic quattro Euro 6 (s/s) 5dr SUV,"26,850",2019,Automatic,32.1 mpg,Petrol,2019,1984cc,"45,523 miles",Petrol,Automatic,Grey,SUV,32.1 mpg
+/ad/30948128,Audi e-tron,50 Technik SUV 5dr Electric Auto quattro 71.2kWh (313 ps) Other,"26,877",2020,Automatic,Tax: £0,2020,"20,455 miles",Electric,Automatic,Blue,Other,,,
+/ad/30950861,Audi e-tron,50 Technik SUV 5dr Electric Auto quattro 71.2kWh (313 ps) Other,"26,881",2020,Automatic,Tax: £0,2020,"20,200 miles",Electric,Automatic,Grey,Other,,,
+/ad/30765808,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,890",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"4,611 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/29528809,Audi A3,3 35 TDI S line 5dr S Tronic Hatchback,"26,890",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"7,291 miles",Diesel,Semiauto,Blue,Hatchback,58.9 mpg
+/ad/30843210,Audi A3,3 35 TDI S Line 4dr S Tronic Saloon,"26,890",2022,Semi-Auto,60.1 mpg,Diesel,2022,2L,"9,030 miles",Diesel,Semiauto,White,Saloon,60.1 mpg
+/ad/30920766,Audi Q3,40 TFSI Quattro Sport 5dr S Tronic SUV,"26,890",2020,Semi-Auto,32.5 mpg,Petrol,2020,2L,"20,999 miles",Petrol,Semiauto,Black,SUV,32.5 mpg
+/ad/30893374,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,890",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"46,946 miles",Diesel,Semiauto,Black,SUV,38.2 mpg
+/ad/30585837,Audi A4,3.0 AVANT TFSI QUATTRO S4 5d 349 BHP Estate,"26,890",2000,Automatic,37.7 mpg,Petrol,2000,2995cc,"67,350 miles",Petrol,Automatic,BLACK,Estate,37.7 mpg
+/ad/29912871,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,895",2023,Semi-Auto,47.9 mpg,Petrol,2023,1.5L,"7,721 miles",Petrol,Semiauto,Black,Saloon,47.9 mpg
+/ad/30384788,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"26,895",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"11,901 miles",Petrol,Semiauto,Black,SUV,44.8 mpg
+/ad/30971580,Audi Q5,40 TDI QUATTRO S LINE VIRTUAL COCKPIT TECH PACK FULL AUDI SERVICE HISTORY Estate,"26,895",2020,Automatic,38.2 mpg,Diesel,2020,1968cc,"40,823 miles",Diesel,Automatic,Black,Estate,38.2 mpg
+/ad/30864207,Audi Q2,30 TFSI Black Edition 5dr SUV,"26,899",2022,Manual,44.8 mpg,Petrol,2022,1L,"9,118 miles",Petrol,Manual,White,SUV,44.8 mpg
+/ad/30899705,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,899",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"11,022 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30934585,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,899",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,002 miles",Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/30903333,Audi A1,35 TFSI Vorsprung 5dr S Tronic Hatchback,"26,899",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"20,684 miles",Petrol,Semiauto,Black,Hatchback,44.1 mpg
+/ad/30890166,Audi Q3,35 TFSI S Line 5dr S Tronic SUV,"26,899",2020,Semi-Auto,39.8 mpg,Petrol,2020,1.5L,"30,477 miles",Petrol,Semiauto,White,SUV,39.8 mpg
+/ad/30763531,Audi A5,40 TDI Vorsprung 5dr S Tronic Hatchback,"26,899",2019,Semi-Auto,47.9 mpg,Diesel,2019,2L,"56,884 miles",Diesel,Semiauto,Black,Hatchback,47.9 mpg
+/ad/30962814,Audi Q2,30 TFSI Sport 5dr SUV,"26,900",2023,Manual,48.7 mpg,Petrol,2023,1L,"2,280 miles",Petrol,Manual,Silver,SUV,48.7 mpg
+/ad/29365896,Audi Q3,35 TFSI Technik 5dr SUV,"26,900",2022,Manual,43.5 mpg,Petrol,2022,1.5L,"6,136 miles",Petrol,Manual,White,SUV,43.5 mpg
+/ad/29227984,Audi Q3,35 TFSI Technik 5dr SUV,"26,900",2022,Manual,43.5 mpg,Petrol,2022,1.5L,"8,630 miles",Petrol,Manual,Silver,SUV,43.5 mpg
+/ad/30947292,Audi Q3,35 TFSI Sport 5dr S Tronic SUV,"26,900",2020,Semi-Auto,41.5 mpg,Petrol,2020,1.5L,"12,238 miles",Petrol,Semiauto,White,SUV,41.5 mpg
+/ad/30653987,Audi Q3,35 TDI Sport 5dr S Tronic SUV,"26,900",2021,Semi-Auto,48.7 mpg,Diesel,2021,2L,"14,700 miles",Diesel,Semiauto,White,SUV,48.7 mpg
+/ad/30944747,Audi Q3,35 TFSI Sport 5dr S Tronic SUV,"26,900",2021,Semi-Auto,41.5 mpg,Petrol,2021,1.5L,"15,424 miles",Petrol,Semiauto,White,SUV,41.5 mpg
+/ad/30961858,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,900",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"16,426 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/29824361,Audi A5,2.0 SPORTBACK TFSI BLACK EDITION MHEV 5d 148 BHP Hatchback,"26,900",2020,Automatic,39.2 mpg,Petrol,2020,1984cc,"20,520 miles",Petrol,Automatic,BLUE,Hatchback,39.2 mpg
+/ad/30938025,Audi Q3,35 TFSI Sport 5dr S Tronic SUV,"26,900",2021,Semi-Auto,43.5 mpg,Petrol,2021,1.5L,"23,724 miles",Petrol,Semiauto,Black,SUV,43.5 mpg
+/ad/30969826,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,900",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30938021,Audi A3,3 35 TFSI Edition 1 5dr S Tronic Hatchback,"26,900",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"26,186 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30968106,Audi TT,45 TFSI S Line 2dr S Tronic Coupe,"26,900",2021,Semi-Auto,38.7 mpg,Petrol,2021,2L,"31,183 miles",Petrol,Semiauto,White,Coupe,38.7 mpg
+/ad/30967985,Audi TT,45 TFSI S Line 2dr S Tronic Coupe,"26,900",2021,Semi-Auto,38.7 mpg,Petrol,2021,2L,"31,183 miles",Petrol,Semiauto,White,Coupe,38.7 mpg
+/ad/30934853,Audi A3,3 35 TFSI Edition 1 5dr S Tronic Hatchback,"26,900",2022,Semi-Auto,46.3 mpg,Petrol,2022,1.5L,"31,882 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30969334,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,900",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969511,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,900",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969705,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,900",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969726,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,900",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969669,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,900",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969787,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,900",2022,Semi-Auto,54.3 mpg,Diesel,2022,2L,"39,777 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30919398,Audi Q5,2.0 TDI QUATTRO S LINE 5d 188 BHP Estate,"26,900",2020,Automatic,38.2 mpg,Diesel,2020,1968cc,"45,000 miles",Diesel,Automatic,White,Estate,38.2 mpg
+/ad/30873245,Audi A5,2.0 SPORTBACK TDI S LINE MHEV 5d 161 BHP Hatchback,"26,900",2021,Automatic,54.3 mpg,Diesel,2021,1968cc,"45,000 miles",Diesel,Automatic,Grey,Hatchback,54.3 mpg
+/ad/30847498,Audi A6,2.0 TDI S LINE MHEV 4d 202 BHP Saloon,"26,900",2021,Automatic,50.4 mpg,Diesel,2021,1968cc,"49,000 miles",Diesel,Automatic,Grey,Saloon,50.4 mpg
+/ad/30865081,Audi Q5,2.0 TDI QUATTRO S LINE 5d 188 BHP Estate,"26,900",2020,Automatic,38.2 mpg,Diesel,2020,1968cc,"51,000 miles",Diesel,Automatic,Blue,Estate,38.2 mpg
+/ad/30873246,Audi Q5,2.0 TDI QUATTRO S LINE 5d 188 BHP Estate,"26,900",2020,Automatic,38.2 mpg,Diesel,2020,1968cc,"53,000 miles",Diesel,Automatic,Grey,Estate,38.2 mpg
+/ad/30700302,Audi A5,2.0 SPORTBACK TDI S LINE MHEV 5d 161 BHP Hatchback,"26,900",2021,Automatic,54.3 mpg,Diesel,2021,1968cc,"53,000 miles",Diesel,Automatic,White,Hatchback,54.3 mpg
+/ad/29648152,Audi Q5,DIESEL ESTATE SUV,"26,900",2018,Automatic,55.4 mpg,Diesel,2018,1968cc,"66,232 miles",Diesel,Automatic,GLACIER WHITE MET,SUV,55.4 mpg
+/ad/30972779,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,900",2020,Semi-Auto,54.3 mpg,Diesel,2020,2L,"10,524 miles",Diesel,Semiauto,Black,Hatchback,54.3 mpg
+/ad/30972570,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,900",2020,Automatic,Tax: £0,2020,"20,274 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30723040,Audi A6,S Line 40 Tdi Quattro Saloon,"26,945",2020,Automatic,47.1 mpg,Diesel,2020,1968cc,"45,062 miles",Diesel,Automatic,Grey,Saloon,47.1 mpg
+/ad/30532580,Audi S3,TFSI QUATTRO SALOON S-TRONIC AUTO Saloon,"26,948",2020,Automatic,34.9 mpg,Petrol,2020,1984cc,"20,000 miles",Petrol,Automatic,White,Saloon,34.9 mpg
+/ad/30947105,Audi Q7,3.0 TDI QUATTRO S LINE 7 SEATER 8 SPEED AUTO Estate,"26,948",2017,Automatic,47.9 mpg,Diesel,2017,2967cc,"69,000 miles",Diesel,Automatic,Blue,Estate,47.9 mpg
+/ad/30771494,Audi Q2,35 TFSI S Line 5dr SUV,"26,950",2021,Manual,45.6 mpg,Petrol,2021,1498cc,"11,428 miles",Petrol,Manual,Grey,SUV,45.6 mpg
+/ad/29345843,Audi A3,35 TFSI Edition 1 4dr S Tronic Saloon,"26,950",2020,Automatic,47.9 mpg,Petrol,2020,1498cc,"12,000 miles",Petrol,Automatic,RED,Saloon,47.9 mpg
+/ad/30762531,Audi Q3,35 TFSI Sport 5dr SUV,"26,950",2020,Manual,41.5 mpg,Petrol,2020,1498cc,"17,054 miles",Petrol,Manual,Grey,SUV,41.5 mpg
+/ad/30961826,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"21,099 miles",Diesel,Semiauto,Black,SUV,38.2 mpg
+/ad/30969299,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30969312,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30969592,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30969648,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30969765,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30877781,Audi Q3,35 TFSI S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,39.8 mpg,Petrol,2020,1.5L,"27,937 miles",Petrol,Semiauto,Black,SUV,39.8 mpg
+/ad/30762531,Audi Q3,35 TFSI Sport 5dr SUV,"26,950",2020,Manual,41.5 mpg,Petrol,2020,1498cc,"17,054 miles",Petrol,Manual,Grey,SUV,41.5 mpg
+/ad/30961826,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"21,099 miles",Diesel,Semiauto,Black,SUV,38.2 mpg
+/ad/30877781,Audi Q3,35 TFSI S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,39.8 mpg,Petrol,2020,1.5L,"27,937 miles",Petrol,Semiauto,Black,SUV,39.8 mpg
+/ad/30969299,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30969312,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30969592,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30969648,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30969765,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,950",2020,Semi-Auto,38.2 mpg,Diesel,2020,2L,"24,346 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30639200,Audi Q5,2.0 TDI 40 S line S Tronic quattro Euro 6 (s/s) 5dr Estate,"26,950",2019,Automatic,38.2 mpg,Diesel,2019,1968cc,"48,581 miles",Diesel,Automatic,Blue,Estate,38.2 mpg
+/ad/30973066,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,950",2020,Automatic,Tax: £0,2020,"20,274 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30067356,Audi A4,Sport Edition 35 TFSI 150 PS S tronic Saloon,"26,950",2023,Automatic,44.8 mpg,Petrol,2023,1984cc,"7,189 miles",Petrol,Automatic,Black,Saloon,44.8 mpg
+/ad/30834246,Audi A3,Edition 1 35 TFSI 150 PS 6-speed Hatchback,"26,950",2022,Manual,44.8 mpg,Petrol,2022,1498cc,"14,943 miles",Petrol,Manual,Red,Hatchback,44.8 mpg
+/ad/30972386,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,950",2020,Automatic,Tax: £0,2020,"20,274 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972417,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,950",2020,Automatic,Tax: £0,2020,"20,274 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972916,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,950",2020,Automatic,Tax: £0,2020,"20,274 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972972,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,950",2020,Automatic,Tax: £0,2020,"20,274 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30825123,Audi TT,50 TFSI Quattro TT,"26,961",2020,Semi-Auto,35.3 mpg,Petrol,2020,2L,"52,512 miles",Petrol,Semiauto,Blue,Coupe,35.3 mpg
+/ad/30311152,Audi A4,4 35 TFSI Black Edition 5dr S Tronic Estate,"26,970",2021,Semi-Auto,39.8 mpg,Petrol,2021,2L,"12,526 miles",Petrol,Semiauto,Black,Estate,39.8 mpg
+/ad/29968402,Audi A7,3.0 SPORTBACK TDI QUATTRO S LINE MHEV 5d 228 BHP Hatchback,"26,980",2019,Automatic,38.7 mpg,Diesel,2019,3L,"61,716 miles",Diesel,Automatic,Black,Hatchback,38.7 mpg
+/ad/30151833,Audi A3,3 35 TDI Sport 5dr S Tronic Hatchback,"26,982",2023,Semi-Auto,60.1 mpg,Diesel,2023,2L,"6,002 miles",Diesel,Semiauto,Black,Hatchback,60.1 mpg
+/ad/30871410,Audi A5,2.0 TDI 35 Sport Sportback 5dr Diesel S Tronic Euro 6 (s/s) (163 ps) Hatchback,"26,982",2020,Automatic,54.3 mpg,Diesel,2020,1968cc,"34,602 miles",Diesel,Automatic,BLACK,Hatchback,54.3 mpg
+/ad/26966697,Audi TT,TFSI QUATT,"26,985",2017,Automatic,Tax: n/a,2017,1984cc,"6,900 miles",Petrol,Automatic,Black,Coupe,,
+/ad/30938686,Audi A6,50 TDI Quattro S Line 5dr Tip Auto Estate,"26,985",2019,Semi-Auto,39.2 mpg,Diesel,2019,3L,"45,295 miles",Diesel,Semiauto,Grey,Estate,39.2 mpg
+/ad/28370042,Audi A8,3.0 TDI V6 50 Tiptronic quattro Euro 6 (s/s) 4dr 1 OWNER FULL SERVICE HISTORY Saloon,"26,989",2018,Automatic,50.4 mpg,Diesel,2018,2967cc,"42,000 miles",Diesel,Automatic,Grey,Saloon,50.4 mpg
+/ad/30151924,Audi A3,3 35 TDI Sport 5dr S Tronic Hatchback,"26,990",2023,Semi-Auto,60.1 mpg,Diesel,2023,2L,"1,950 miles",Diesel,Semiauto,Black,Hatchback,60.1 mpg
+/ad/30317419,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,990",2022,Semi-Auto,47.9 mpg,Petrol,2022,1.5L,"7,000 miles",Petrol,Semiauto,Grey,Saloon,47.9 mpg
+/ad/29680099,Audi A4,Saloon,"26,990",2020,Automatic,41.5 mpg,Petrol,2020,1984cc,"11,511 miles",Petrol,Automatic,Grey,Saloon,41.5 mpg
+/ad/30923907,Audi Q2,35 TFSI S Line 5dr S Tronic Estate,"26,990",2023,Automatic,44.8 mpg,Petrol,2023,1498cc,"14,260 miles",Petrol,Automatic,Mythos Black,Estate,44.8 mpg
+/ad/30915132,Audi A3,3 35 TDI Sport 4dr S Tronic Saloon,"26,990",2022,Automatic,61.4 mpg,Diesel,2022,1968cc,"18,366 miles",Diesel,Automatic,Metallic - Mythos Black,Saloon,61.4 mpg
+/ad/30317419,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,990",2022,Semi-Auto,47.9 mpg,Petrol,2022,1.5L,"7,000 miles",Petrol,Semiauto,Grey,Saloon,47.9 mpg
+/ad/30649231,Audi A4,4 35 TFSI Black Edition 5dr S Tronic Estate,"26,990",2021,Semi-Auto,39.8 mpg,Petrol,2021,2L,"9,844 miles",Petrol,Semiauto,White,Estate,39.8 mpg
+/ad/30870497,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,990",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"10,517 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30950024,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,990",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"11,474 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/29680099,Audi A4,Saloon,"26,990",2020,Automatic,41.5 mpg,Petrol,2020,1984cc,"11,511 miles",Petrol,Automatic,Grey,Saloon,41.5 mpg
+/ad/30895603,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,990",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"12,508 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30923907,Audi Q2,35 TFSI S Line 5dr S Tronic Estate,"26,990",2023,Automatic,44.8 mpg,Petrol,2023,1498cc,"14,260 miles",Petrol,Automatic,Mythos Black,Estate,44.8 mpg
+/ad/30967000,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,990",2023,Automatic,46.3 mpg,Petrol,2023,1498cc,"14,829 miles",Petrol,Automatic,Mythos Black,Hatchback,46.3 mpg
+/ad/30915132,Audi A3,3 35 TDI Sport 4dr S Tronic Saloon,"26,990",2022,Automatic,61.4 mpg,Diesel,2022,1968cc,"18,366 miles",Diesel,Automatic,Metallic - Mythos Black,Saloon,61.4 mpg
+/ad/30892681,Audi Q2,40 TFSI Quattro Black Edition 5dr S Tronic SUV,"26,990",2020,Automatic,34.0 mpg,Petrol,2020,1984cc,"19,084 miles",Petrol,Automatic,Grey,SUV,34 mpg
+/ad/30411466,Audi RS3,2.5 TFSI QUATTRO S TRONIC Euro 6 5dr Hatchback,"26,990",2016,Automatic,34.9 mpg,Petrol,2016,2480cc,"75,000 miles",Petrol,Automatic,Black,Hatchback,34.9 mpg
+/ad/30465220,Audi Q7,3.0 TDI V6 S line Tiptronic quattro Euro 6 (s/s) 5dr SUV,"26,990",2016,Automatic,47.9 mpg,Diesel,2016,2967cc,"87,000 miles",Diesel,Automatic,Black,SUV,47.9 mpg
+/ad/30904851,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,990",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"4,536 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30945600,Audi Q2,30 TFSI S Line 5dr SUV,"26,990",2023,Manual,45.6 mpg,Petrol,2023,1L,"5,000 miles",Petrol,Manual,Black,SUV,45.6 mpg
+/ad/30895635,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,990",2020,Semi-Auto,47.1 mpg,Diesel,2020,2L,"19,440 miles",Diesel,Semiauto,Grey,SUV,47.1 mpg
+/ad/30589372,Audi A1,30 TFSI 110 Black Edition 5dr Hatchback,"26,990",2023,Manual,49.6 mpg,Petrol,2023,999cc,"2,187 miles",Petrol,Manual,Red,Hatchback,49.6 mpg
+/ad/30863360,Audi A1,30 TFSI 110 Black Edition 5dr Hatchback,"26,990",2023,Manual,49.6 mpg,Petrol,2023,1L,"5,555 miles",Petrol,Manual,Blue,Hatchback,49.6 mpg
+/ad/30649231,Audi A4,4 35 TFSI Black Edition 5dr S Tronic Estate,"26,990",2021,Semi-Auto,39.8 mpg,Petrol,2021,2L,"9,844 miles",Petrol,Semiauto,White,Estate,39.8 mpg
+/ad/30950024,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,990",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"11,474 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30895603,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,990",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"12,508 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30892681,Audi Q2,40 TFSI Quattro Black Edition 5dr S Tronic SUV,"26,990",2020,Automatic,34.0 mpg,Petrol,2020,1984cc,"19,084 miles",Petrol,Automatic,Grey,SUV,34 mpg
+/ad/30895779,Audi A3,3 S3 TFSI 300 Quattro Black Edition 4dr S Tronic Saloon,"26,990",2019,Semi-Auto,34.9 mpg,Petrol,2019,2L,"24,641 miles",Petrol,Semiauto,White,Saloon,34.9 mpg
+/ad/30969839,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,990",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"32,643 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30670861,Audi Q5,2.0 TDI QUATTRO S LINE 5d 188 BHP Estate,"26,990",2020,Automatic,38.2 mpg,Diesel,2020,1968cc,"45,053 miles",Diesel,Automatic,White,Estate,38.2 mpg
+/ad/30870497,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,990",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"10,517 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30967000,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,990",2023,Automatic,46.3 mpg,Petrol,2023,1498cc,"14,829 miles",Petrol,Automatic,Mythos Black,Hatchback,46.3 mpg
+/ad/30882805,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"26,990",2021,Automatic,54.3 mpg,Diesel,2021,1968cc,"29,267 miles",Diesel,Automatic,Blue,Hatchback,54.3 mpg
+/ad/30918583,Audi A5,S5 Quattro 5dr Tiptronic Hatchback,"26,990",2018,Semi-Auto,36.7 mpg,Petrol,2018,3L,"51,674 miles",Petrol,Semiauto,Blue,Hatchback,36.7 mpg
+/ad/30967445,Audi Q7,3.0 TDI V6 S line - ULEZ COMPLIANT SUV,"26,990",2016,Automatic,47.9 mpg,Diesel,2016,2967cc,"70,700 miles",Diesel,Automatic,Grey,SUV,47.9 mpg
+/ad/30938463,Audi A7,50 TDI Quattro S Line 5dr Tip Auto [Comfort+Sound] Hatchback,"26,990",2018,Automatic,38.2 mpg,Diesel,2018,2967cc,"39,699 miles",Diesel,Automatic,Grey,Hatchback,38.2 mpg
+/ad/30832974,Audi A5,40 TDI S Line 2dr S Tronic Convertible,"26,991",2020,Semi-Auto,47.1 mpg,Diesel,2020,2L,"14,312 miles",Diesel,Semiauto,Grey,Convertible,47.1 mpg
+/ad/30851689,Audi Q3,35 TFSI S Line 5dr S Tronic SUV,"26,991",2019,Semi-Auto,38.2 mpg,Petrol,2019,1.5L,"23,389 miles",Petrol,Semiauto,Blue,SUV,38.2 mpg
+/ad/30921004,Audi A4,4 TDI S LINE BLACK EDITION MHEV Saloon,"26,991",2021,Automatic,53.3 mpg,Diesel,2021,1968cc,"29,306 miles",Diesel,Automatic,Grey,Saloon,53.3 mpg
+/ad/30917809,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"26,991",2020,Semi-Auto,47.1 mpg,Diesel,2020,2L,"41,258 miles",Diesel,Semiauto,Grey,SUV,47.1 mpg
+/ad/30926393,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,991",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"41,328 miles",Diesel,Semiauto,White,SUV,38.2 mpg
+/ad/30764721,Audi TT,45 TFSI Quattro Black Edition 2dr S Tronic Coupe,"26,993",2020,Semi-Auto,34.9 mpg,Petrol,2020,2L,"25,450 miles",Petrol,Semiauto,Grey,Coupe,34.9 mpg
+/ad/30371147,Audi A4,4 2.0 TFSI S LINE BLACK EDITION MHEV 4d 148 BHP Saloon,"26,994",2020,Automatic,40.9 mpg,Petrol,2020,1984cc,"23,847 miles",Petrol,Automatic,WHITE,Saloon,40.9 mpg
+/ad/30859034,Audi Q2,30 TFSI Sport 5dr SUV,"26,995",2023,Manual,48.7 mpg,Petrol,2023,1L,"1,520 miles",Petrol,Manual,Black,SUV,48.7 mpg
+/ad/29633733,Audi A4,4 Saloon,"26,995",2020,Other,51.4 mpg,Diesel,2020,1968cc,"1,968 miles",Diesel,Other,Grey,Saloon,51.4 mpg
+/ad/30565630,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,995",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"2,650 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/27003747,Audi A5,S LINE BLACK ED 35 TDI Hatchback,"26,995",2019,Automatic,48.7 mpg,Diesel,2019,1968cc,"3,000 miles",Diesel,Automatic,Blue,Hatchback,48.7 mpg
+/ad/30964419,Audi A1,30 TFSI 110 Black Edition 5dr S Tronic Hatchback,"26,995",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,"3,000 miles",Petrol,Semiauto,Red,Hatchback,46.3 mpg
+/ad/30864259,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,995",2023,Manual,45.6 mpg,Petrol,2023,1.5L,"6,000 miles",Petrol,Manual,Black,Hatchback,45.6 mpg
+/ad/30957656,Audi A4,TDI S LINE BLACK EDITION,"26,995",2022,Semi-Auto,53.3 mpg,Diesel,2022,1968cc,"9,000 miles",Diesel,Semi Automatic,Blue,Saloon,53.3 mpg
+/ad/30948063,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,995",2023,Semi-Auto,47.9 mpg,Petrol,2023,1.5L,"10,000 miles",Petrol,Semiauto,Blue,Saloon,47.9 mpg
+/ad/30910769,Audi A4,4 40 TFSI Black Edition 4dr S Tronic Saloon,"26,995",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"10,969 miles",Petrol,Semiauto,Blue,Saloon,39.2 mpg
+/ad/30638828,Audi A4,SALOON Saloon,"26,995",2022,Manual,42.2 mpg,Petrol,2022,1984cc,"16,000 miles",Petrol,Manual,Red,Saloon,42.2 mpg
+/ad/30925947,Audi A4,4 2.0 TFSI 35 Black Edition Avant Auto Estate,"26,995",2021,Automatic,36.7 mpg,Petrol,2021,1984cc,"17,700 miles",Petrol,Automatic,Black,Estate,36.7 mpg
+/ad/30914659,Audi Q2,35 TFSI Black Edition 5dr S Tronic SUV,"26,995",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"22,123 miles",Petrol,Semiauto,White,SUV,44.1 mpg
+/ad/30038596,Audi TT,TFSI 45 QUATT,"26,995",2019,Automatic,34.0 mpg,Petrol,2019,1984cc,"23,000 miles",Petrol,Automatic,BRILLIANT BLACK GLOSS,Convertible,34 mpg
+/ad/29941171,Audi A4,4 Allroad 2.0 TFSI 250PS QUATTRO SPORT S-TRONIC Estate,"26,995",2018,Automatic,42.8 mpg,Petrol,2018,1984cc,"32,550 miles",Petrol,Automatic,Blue,Estate,42.8 mpg
+/ad/30792182,Audi A7,3.0 SPORTBACK TDI QUATTRO S LINE MHEV 5d 228 BHP Hatchback,"26,995",2018,Automatic,38.7 mpg,Diesel,2018,2967cc,"35,000 miles",Diesel,Automatic,GREY,Hatchback,38.7 mpg
+/ad/30888343,Audi A4,4 35 TDI Black Edition 5dr S Tronic Estate,"26,995",2020,Semi-Auto,49.6 mpg,Diesel,2020,2L,"35,000 miles",Diesel,Semiauto,White,Estate,49.6 mpg
+/ad/30921155,Audi Q3,35 TFSI Black Edition 5dr S Tronic Estate,"26,995",2021,Automatic,40.4 mpg,Petrol,2021,1498cc,"42,000 miles",Petrol,Automatic,Grey,Estate,40.4 mpg
+/ad/30875842,Audi Q3,2.0 TDI S LINE 5d 148 BHP Estate,"26,995",2021,Automatic,49.6 mpg,Diesel,2021,1968cc,"47,890 miles",Diesel,Automatic,Grey,Estate,49.6 mpg
+/ad/30707836,Audi A6,40 TDI S Line 5dr S Tronic Estate,"26,995",2019,Automatic,47.9 mpg,Diesel,2019,1968cc,"49,700 miles",Diesel,Automatic,Black,Estate,47.9 mpg
+/ad/29846545,Audi A6,19-Audi A6,"26,995",2019,Automatic,Tax: n/a,2019,2967cc,"58,000 miles",Diesel,Automatic,Black,Saloon,,
+/ad/30322730,Audi A6,S6 4.0 TFSI V8 QUATTRO BLACK EDITION 4d 444 BHP ONLY COVERED 59776 MILES Saloon,"26,995",2018,Automatic,30.1 mpg,Petrol,2018,3993cc,"59,776 miles",Petrol,Automatic,Black,Saloon,30.1 mpg
+/ad/29662499,Audi A8,L 55 TFSI Quattro S Line 4dr Tiptronic Saloon,"26,995",2018,Automatic,37.7 mpg,Petrol,2018,2995cc,"60,200 miles",Petrol,Automatic,Silver,Saloon,37.7 mpg
+/ad/30423604,Audi RS5,4.2 FSI V8 Limited Edition S Tronic quattro Euro 5 2dr Massive spec,"26,995",2015,Automatic,26.9 mpg,Petrol,2015,4163cc,"63,300 miles",Petrol,Automatic,Black,Coupe,26.9 mpg
+/ad/29372156,Audi Q7,3.0 TDI QUATTRO S LINE 5d 215 BHP Estate,"26,995",2016,Automatic,48.7 mpg,Diesel,2016,3L,"69,500 miles",Diesel,Automatic,Black,Estate,48.7 mpg
+/ad/30337032,Audi A6,Avant TDI Black Edition Estate,"26,995",2019,Automatic,47.9 mpg,Diesel,2019,2000cc,"69,500 miles",Diesel,Automatic,Blue,Estate,47.9 mpg
+/ad/30620321,Audi A4,4 3.0 AVANT TFSI QUATTRO S4 5d 349 BHP Estate,"26,995",2017,Automatic,37.7 mpg,Petrol,2017,2995cc,"69,826 miles",Petrol,Automatic,BLACK,Estate,37.7 mpg
+/ad/28018753,Audi A3,2.5 RS3 SPORTBACK QUATTRO NAV 5d 362 BHP Hatchback,"26,995",2016,Automatic,34.9 mpg,Petrol,2016,2480cc,"79,477 miles",Petrol,Automatic,GREY,Hatchback,34.9 mpg
+/ad/30735556,Audi Q7,DIESEL ESTATE SUV,"26,995",2017,Automatic,48.7 mpg,Diesel,2017,2967cc,"94,000 miles",Diesel,Automatic,White,SUV,48.7 mpg
+/ad/30948063,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,995",2023,Semi-Auto,47.9 mpg,Petrol,2023,1.5L,"10,000 miles",Petrol,Semiauto,Blue,Saloon,47.9 mpg
+/ad/30565630,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,995",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"2,650 miles",Petrol,Semiauto,Black,Hatchback,46.3 mpg
+/ad/30964419,Audi A1,30 TFSI 110 Black Edition 5dr S Tronic Hatchback,"26,995",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,"3,000 miles",Petrol,Semiauto,Red,Hatchback,46.3 mpg
+/ad/30864259,Audi A3,3 35 TFSI S Line 5dr Hatchback,"26,995",2023,Manual,45.6 mpg,Petrol,2023,1.5L,"6,000 miles",Petrol,Manual,Black,Hatchback,45.6 mpg
+/ad/30957656,Audi A4,TDI S LINE BLACK EDITION,"26,995",2022,Semi-Auto,53.3 mpg,Diesel,2022,1968cc,"9,000 miles",Diesel,Semi Automatic,Blue,Saloon,53.3 mpg
+/ad/30963306,Audi A5,2.0 TFSI S LINE EDITION 1 MHEV 2DR Automatic Coupe,"26,995",2021,Automatic,41.5 mpg,Petrol,2021,1984cc,"31,829 miles",Petrol,Automatic,Grey,Coupe,41.5 mpg
+/ad/30811816,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,995",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"38,900 miles",Diesel,Semiauto,Blue,SUV,38.2 mpg
+/ad/30925755,Audi A6,DIESEL SALOON Saloon,"26,995",2020,Automatic,50.4 mpg,Diesel,2020,1968cc,"47,000 miles",Diesel,Automatic,Grey,Saloon,50.4 mpg
+/ad/30969441,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"26,995",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"42,806 miles",Diesel,Semiauto,White,SUV,38.2 mpg
+/ad/30972167,Audi A4,S line 35 TFSI 150 PS S tronic Saloon,"26,995",2022,Automatic,41.5 mpg,Petrol,2022,1984cc,"4,222 miles",Petrol,Automatic,White,Saloon,41.5 mpg
+/ad/30393238,Audi Q3,40 TFSI Quattro S Line 5dr S Tronic SUV,"26,995",2019,Semi-Auto,31.7 mpg,Petrol,2019,2L,"21,815 miles",Petrol,Semiauto,Red,SUV,31.7 mpg
+/ad/30834259,Audi A3,1.0 TFSI 30 Sport Euro 6 (s/s) 4dr Saloon,"26,998",,Manual,Tax: n/a,999cc,10 miles,Petrol,Manual,Black,Saloon,,,
+/ad/30908699,Audi A1,35 TFSI S Line 5dr S Tronic Hatchback,"26,999",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,20 miles,Petrol,Semiauto,White,Hatchback,44.8 mpg
+/ad/30934780,Audi A3,3 35 TFSI S Line 4dr S Tronic Saloon,"26,999",2023,Semi-Auto,47.9 mpg,Petrol,2023,1.5L,"5,000 miles",Petrol,Semiauto,Grey,Saloon,47.9 mpg
+/ad/30905537,Audi A1,30 TFSI 110 Black Edition 5dr S Tronic Hatchback,"26,999",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,"5,810 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30920580,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,999",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"14,436 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30578733,Audi A5,2.0 SPORTBACK TDI QUATTRO BLACK EDITION 5d AUTO 188 BHP Hatchback,"26,999",2020,Semi-Auto,44.8 mpg,Diesel,2020,2L,"18,200 miles",Diesel,Semi Automatic,Black,Hatchback,44.8 mpg
+/ad/30571764,Audi SQ2,2.0 TFSI Black Edition SUV,"26,999",2020,Automatic,32.5 mpg,Petrol,2020,1984cc,"20,955 miles",Petrol,Automatic,Grey,SUV,32.5 mpg
+/ad/30921306,Audi Q3,2.0 SPORTBACK TDI S LINE 5d 148 BHP Hatchback,"26,999",2021,Manual,53.3 mpg,Diesel,2021,2L,"28,000 miles",Diesel,Manual,Black,Hatchback,53.3 mpg
+/ad/30934786,Audi A5,S5 Quattro 2dr Tiptronic Coupe,"26,999",2018,Semi-Auto,36.7 mpg,Petrol,2018,3L,"31,900 miles",Petrol,Semiauto,Black,Coupe,36.7 mpg
+/ad/30945008,Audi A8,3.0 TDI QUATTRO MHEV 4d AUTO 282 BHP Saloon,"26,999",2019,Automatic,50.4 mpg,Diesel,2019,3L,"47,463 miles",Diesel,Automatic,Black,Saloon,50.4 mpg
+/ad/30927695,Audi RS3,2.5 TFSI Sportback S Tronic quattro Euro 6 (s/s) 5dr (Nav) Hatchback,"26,999",2016,Automatic,34.9 mpg,Petrol,2016,2480cc,"48,400 miles",Petrol,Automatic,Red,Hatchback,34.9 mpg
+/ad/30633673,Audi Q5,2.0 TDI 40 S line S Tronic quattro Euro 6 (s/s) 5dr SUV,"26,999",2020,Automatic,38.2 mpg,Diesel,2020,1968cc,"49,970 miles",Diesel,Automatic,White,SUV,38.2 mpg
+/ad/30916066,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,999",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"11,621 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30899770,Audi A5,40 TFSI 204 S Line 2dr S Tronic Coupe,"26,999",2021,Semi-Auto,42.8 mpg,Petrol,2021,2L,"17,633 miles",Petrol,Semiauto,Black,Coupe,42.8 mpg
+/ad/30920329,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"26,999",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"13,109 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30962799,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"26,999",2020,Automatic,Tax: £0,2020,"20,400 miles",Electric,Automatic,Black,SUV,,,
+/ad/30920330,Audi A3,3 35 TFSI Edition 1 4dr S Tronic Saloon,"26,999",2021,Semi-Auto,47.9 mpg,Petrol,2021,1.5L,"24,776 miles",Petrol,Semiauto,White,Saloon,47.9 mpg
+/ad/30589358,Audi A5,40 TDI S Line 5dr S Tronic Hatchback,"26,999",2020,Automatic,50.4 mpg,Diesel,2020,1968cc,"35,332 miles",Diesel,Automatic,White,Hatchback,50.4 mpg
+/ad/30314238,Audi A6,50 TDI Quattro S Line 4dr Tip Auto Saloon,"26,999",2019,Automatic,39.8 mpg,Diesel,2019,2967cc,"42,200 miles",Diesel,Automatic,Blue,Saloon,39.8 mpg
+/ad/30862220,Audi A4,4 35 TFSI Sport Edition 4dr S Tronic Saloon,"26,999",2022,Semi-Auto,44.8 mpg,Petrol,2022,2L,"2,583 miles",Petrol,Semiauto,Grey,Saloon,44.8 mpg
+/ad/30832761,Audi A3,3 35 TDI S Line 5dr S Tronic Hatchback,"26,999",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"8,682 miles",Diesel,Semiauto,Grey,Hatchback,58.9 mpg
+/ad/30776469,Audi Q2,35 TFSI Black Edition 5dr S Tronic SUV,"26,999",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"17,079 miles",Petrol,Semiauto,White,SUV,44.1 mpg
+/ad/30927695,Audi RS3,2.5 TFSI Sportback S Tronic quattro Euro 6 (s/s) 5dr (Nav) Hatchback,"26,999",2016,Automatic,34.9 mpg,Petrol,2016,2480cc,"48,400 miles",Petrol,Automatic,Red,Hatchback,34.9 mpg
+/ad/30633673,Audi Q5,2.0 TDI 40 S line S Tronic quattro Euro 6 (s/s) 5dr SUV,"26,999",2020,Automatic,38.2 mpg,Diesel,2020,1968cc,"49,970 miles",Diesel,Automatic,White,SUV,38.2 mpg
+/ad/30951148,Audi Q3,1.4 TFSIe 45 S line S Tronic Euro 6 (s/s) 5dr 13kWh SUV,"26,999",2021,Automatic,141.3 mpg,Petrol,2021,1395cc,"22,000 miles",Petrol,Automatic,Black,SUV,141.3 mpg
+/ad/30920249,Audi Q5,40 TDI Quattro Sport 5dr S Tronic SUV,"26,999",2020,Semi-Auto,44.8 mpg,Diesel,2020,2L,"41,530 miles",Diesel,Semiauto,Black,SUV,44.8 mpg
+/ad/30391863,Audi A1,30 TFSI 110 Black Edition 5dr Hatchback,"27,000",2023,Manual,49.6 mpg,Petrol,2023,1L,"1,000 miles",Petrol,Manual,Grey,Hatchback,49.6 mpg
+/ad/30942432,Audi A1,25 TFSI S Line 5dr S Tronic Hatchback,"27,000",2023,Semi-Auto,44.1 mpg,Petrol,2023,1L,"4,000 miles",Petrol,Semiauto,Black,Hatchback,44.1 mpg
+/ad/30942409,Audi A1,35 TFSI S Line 5dr S Tronic Hatchback,"27,000",2023,Semi-Auto,47.9 mpg,Petrol,2023,1.5L,"4,000 miles",Petrol,Semiauto,Grey,Hatchback,47.9 mpg
+/ad/30941334,Audi A1,30 TFSI 110 Black Edition 5dr S Tronic Hatchback,"27,000",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,"4,034 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30943377,Audi A1,30 TFSI 110 Black Edition 5dr S Tronic Hatchback,"27,000",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,"5,774 miles",Petrol,Semiauto,Silver,Hatchback,46.3 mpg
+/ad/30943361,Audi A1,35 TFSI Vorsprung 5dr S Tronic Hatchback,"27,000",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"6,912 miles",Petrol,Semiauto,White,Hatchback,44.1 mpg
+/ad/30942864,Audi A1,35 TFSI S Line 5dr S Tronic Hatchback,"27,000",2023,Semi-Auto,47.9 mpg,Petrol,2023,1.5L,"7,755 miles",Petrol,Semiauto,Red,Hatchback,47.9 mpg
+/ad/30941921,Audi A3,3 35 TFSI Edition 1 5dr Hatchback,"27,000",2020,Manual,44.8 mpg,Petrol,2020,1.5L,"9,506 miles",Petrol,Manual,Red,Hatchback,44.8 mpg
+/ad/30942659,Audi A3,3 35 TDI S Line 5dr S Tronic Hatchback,"27,000",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"10,326 miles",Diesel,Semiauto,White,Hatchback,58.9 mpg
+/ad/30942383,Audi A3,3 35 TFSI S Line 4dr Saloon,"27,000",2021,Manual,46.3 mpg,Petrol,2021,1.5L,"10,972 miles",Petrol,Manual,Black,Saloon,46.3 mpg
+/ad/30966253,Audi Q2,35 TFSI Black Edition 5dr S Tronic SUV,"27,000",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"11,000 miles",Petrol,Semiauto,White,SUV,44.1 mpg
+/ad/30962875,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"27,000",2020,Semi-Auto,55.4 mpg,Diesel,2020,2L,"14,668 miles",Diesel,Semiauto,Blue,Coupe,55.4 mpg
+/ad/30963062,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"27,000",2020,Semi-Auto,55.4 mpg,Diesel,2020,2L,"14,668 miles",Diesel,Semiauto,Blue,Coupe,55.4 mpg
+/ad/30942394,Audi Q3,35 TFSI Sport 5dr S Tronic SUV,"27,000",2021,Semi-Auto,43.5 mpg,Petrol,2021,1.5L,"20,264 miles",Petrol,Semiauto,Black,SUV,43.5 mpg
+/ad/25197973,Audi A6,40 TDI S Line 5dr S Tronic Estate,"27,000",2019,Automatic,47.9 mpg,Diesel,2019,1968cc,"44,500 miles",Diesel,Automatic,Black,Estate,47.9 mpg
+/ad/30697106,Audi Q5,40 TDI Quattro Black Edition 5dr S Tronic SUV,"27,000",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"45,101 miles",Diesel,Semiauto,Blue,SUV,38.2 mpg
+/ad/30561373,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"27,000",2019,Automatic,38.2 mpg,Diesel,2019,1968cc,"57,300 miles",Diesel,Automatic,Grey,SUV,38.2 mpg
+/ad/30373115,Audi Q5,3.0 TDI V6 S line S Tronic quattro Euro 6 (s/s) 5dr SUV,"27,000",2018,Automatic,48.7 mpg,Diesel,2018,2967cc,"63,000 miles",Diesel,Automatic,White,SUV,48.7 mpg
+/ad/30956618,Audi A6,40 TFSI Sport 5dr S Tronic Coupe,"27,000",2021,Semi-Auto,38.2 mpg,Petrol,2021,2L,"23,330 miles",Petrol,Semiauto,Blue,Coupe,38.2 mpg
+/ad/30942383,Audi A3,3 35 TFSI S Line 4dr Saloon,"27,000",2021,Manual,46.3 mpg,Petrol,2021,1.5L,"10,972 miles",Petrol,Manual,Black,Saloon,46.3 mpg
+/ad/30966253,Audi Q2,35 TFSI Black Edition 5dr S Tronic SUV,"27,000",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"11,000 miles",Petrol,Semiauto,White,SUV,44.1 mpg
+/ad/30962875,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"27,000",2020,Semi-Auto,55.4 mpg,Diesel,2020,2L,"14,668 miles",Diesel,Semiauto,Blue,Coupe,55.4 mpg
+/ad/30963062,Audi A5,35 TDI S Line 2dr S Tronic Coupe,"27,000",2020,Semi-Auto,55.4 mpg,Diesel,2020,2L,"14,668 miles",Diesel,Semiauto,Blue,Coupe,55.4 mpg
+/ad/30942551,Audi A6,40 TDI Quattro Sport 4dr S Tronic Saloon,"27,000",2021,Semi-Auto,47.1 mpg,Diesel,2021,2L,"25,783 miles",Diesel,Semiauto,Blue,Saloon,47.1 mpg
+/ad/30962468,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,000",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962485,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,000",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962110,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,000",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30942576,Audi A6,40 TDI Black Edition 4dr S Tronic Saloon,"27,000",2019,Semi-Auto,50.4 mpg,Diesel,2019,2L,"32,000 miles",Diesel,Semiauto,Black,Saloon,50.4 mpg
+/ad/30966206,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"27,000",2019,Semi-Auto,47.1 mpg,Diesel,2019,2L,"38,234 miles",Diesel,Semiauto,Black,SUV,47.1 mpg
+/ad/30961973,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,000",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962061,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,000",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30962184,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,000",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"29,843 miles",Diesel,Semiauto,Blue,Hatchback,51.4 mpg
+/ad/30941334,Audi A1,30 TFSI 110 Black Edition 5dr S Tronic Hatchback,"27,000",2023,Semi-Auto,46.3 mpg,Petrol,2023,1L,"4,034 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30942989,Audi A4,4 S4 Quattro 4dr Tip Tronic Saloon,"27,000",2018,Semi-Auto,36.7 mpg,Petrol,2018,3L,"43,180 miles",Petrol,Semiauto,Black,Saloon,36.7 mpg
+/ad/25197973,Audi A6,40 TDI S Line 5dr S Tronic Estate,"27,000",2019,Automatic,47.9 mpg,Diesel,2019,1968cc,"44,500 miles",Diesel,Automatic,Black,Estate,47.9 mpg
+/ad/30697106,Audi Q5,40 TDI Quattro Black Edition 5dr S Tronic SUV,"27,000",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"45,101 miles",Diesel,Semiauto,Blue,SUV,38.2 mpg
+/ad/30561373,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"27,000",2019,Automatic,38.2 mpg,Diesel,2019,1968cc,"57,300 miles",Diesel,Automatic,Grey,SUV,38.2 mpg
+/ad/30373115,Audi Q5,3.0 TDI V6 S line S Tronic quattro Euro 6 (s/s) 5dr SUV,"27,000",2018,Automatic,48.7 mpg,Diesel,2018,2967cc,"63,000 miles",Diesel,Automatic,White,SUV,48.7 mpg
+/ad/30972576,Audi A6,40 TDI Black Edition 4dr S Tronic Saloon,"27,000",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"35,555 miles",Diesel,Semiauto,Grey,Saloon,50.4 mpg
+/ad/30914663,Audi A4,4 35 TFSI S Line 4dr S Tronic Saloon,"27,011",2022,Semi-Auto,41.5 mpg,Petrol,2022,2L,"11,114 miles",Petrol,Semiauto,White,Saloon,41.5 mpg
+/ad/30785640,Audi A3,3 S3 TFSI 300 Quattro Black Edition 5dr S Tronic Hatchback,"27,033",2019,Semi-Auto,34.9 mpg,Petrol,2019,2L,"31,596 miles",Petrol,Semiauto,Black,Hatchback,34.9 mpg
+/ad/30546266,Audi A7,50 TDI Quattro S Line 5dr Tip Auto Hatchback,"27,049",2019,Other,38.2 mpg,Diesel,2019,2967cc,"59,977 miles",Diesel,N/A,White,Hatchback,38.2 mpg
+/ad/30972395,Audi A6,40 TDI Black Edition 4dr S Tronic Saloon,"27,050",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"35,555 miles",Diesel,Semiauto,Grey,Saloon,50.4 mpg
+/ad/30972395,Audi A6,40 TDI Black Edition 4dr S Tronic Saloon,"27,050",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"35,555 miles",Diesel,Semiauto,Grey,Saloon,50.4 mpg
+/ad/30972419,Audi A6,40 TDI Black Edition 4dr S Tronic Saloon,"27,050",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"35,555 miles",Diesel,Semiauto,Grey,Saloon,50.4 mpg
+/ad/30972928,Audi A6,40 TDI Black Edition 4dr S Tronic Saloon,"27,050",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"35,555 miles",Diesel,Semiauto,Grey,Saloon,50.4 mpg
+/ad/30972967,Audi A6,40 TDI Black Edition 4dr S Tronic Saloon,"27,050",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"35,555 miles",Diesel,Semiauto,Grey,Saloon,50.4 mpg
+/ad/30971131,Audi Q3,40 TFSI Quattro S Line 5dr S Tronic SUV,"27,055",2019,Semi-Auto,31.4 mpg,Petrol,2019,2L,"30,615 miles",Petrol,Semiauto,Black,SUV,31.4 mpg
+/ad/30483837,Audi A5,40 TDI Quattro Black Edition 5dr S Tronic Hatchback,"27,058",2020,Semi-Auto,44.8 mpg,Diesel,2020,2L,"35,200 miles",Diesel,Semiauto,Black,Hatchback,44.8 mpg
+/ad/30877734,Audi Q3,35 TFSI S Line 5dr S Tronic SUV,"27,090",2020,Semi-Auto,39.8 mpg,Petrol,2020,1.5L,"26,426 miles",Petrol,Semiauto,Grey,SUV,39.8 mpg
+/ad/30941059,Audi A6,40 TDI S Line 4dr S Tronic Saloon,"27,090",2021,Semi-Auto,50.4 mpg,Diesel,2021,2L,"32,985 miles",Diesel,Semiauto,Grey,Saloon,50.4 mpg
+/ad/30399446,Audi Q7,3.0 TDI QUATTRO S LINE 5DR 215 BHP Estate,"27,096",2016,Automatic,48.7 mpg,Diesel,2016,2967cc,"57,725 miles",Diesel,Automatic,BLACK,Estate,48.7 mpg
+/ad/30948110,Audi A3,3 35 TDI Edition 1 4dr S Tronic Saloon,"27,099",2022,Semi-Auto,58.9 mpg,Diesel,2022,2L,"27,231 miles",Diesel,Semiauto,Black,Saloon,58.9 mpg
+/ad/30969892,Audi Q3,35 TDI Sport 5dr S Tronic SUV,"27,100",2020,Semi-Auto,51.4 mpg,Diesel,2020,2L,"21,395 miles",Diesel,Semiauto,Black,SUV,51.4 mpg
+/ad/30588283,Audi Q3,45 TFSI Quattro S Line 5dr S Tronic SUV,"27,124",2019,Semi-Auto,31.7 mpg,Petrol,2019,2L,"23,837 miles",Petrol,Semiauto,Grey,SUV,31.7 mpg
+/ad/30961047,Audi A6,50 TFSI e Quattro Sport 4dr S Tronic Saloon,"27,147",2021,Semi-Auto,188.3 mpg,Hybrid,2021,2L,"23,247 miles",Hybrid,Semiauto,Silver,Saloon,188.3 mpg
+/ad/29342322,Audi RS3,SPORTBACK QUATTRO NAV Hatchback,"27,147",2016,Automatic,34.9 mpg,Petrol,2016,2480cc,"37,545 miles",Petrol,Automatic,RED,Hatchback,34.9 mpg
+/ad/30969832,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,150",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"20,360 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30969818,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,150",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"25,963 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30961053,Audi A4,4 40 TFSI Black Edition 5dr S Tronic Estate,"27,157",2020,Semi-Auto,38.2 mpg,Petrol,2020,2L,"22,412 miles",Petrol,Semiauto,Blue,Estate,38.2 mpg
+/ad/30961175,Audi Q5,50 TFSI e Quattro S Line 5dr S Tronic SUV,"27,157",2020,Semi-Auto,117.7 mpg,Hybrid,2020,2L,"49,703 miles",Hybrid,Semiauto,Grey,SUV,117.7 mpg
+/ad/30874656,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"27,190",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"28,486 miles",Diesel,Semiauto,White,SUV,38.2 mpg
+/ad/30849101,Audi A3,3 35 TFSI Edition 1 5dr S Tronic Hatchback,"27,195",2021,Semi-Auto,46.3 mpg,Petrol,2021,1.5L,"19,656 miles",Petrol,Semiauto,Blue,Hatchback,46.3 mpg
+/ad/30746782,Audi Q3,40 Tfsi Quattro S Line 5Dr S Tronic SUV,"27,199",2020,Semi-Auto,31.4 mpg,Petrol,2020,2L,"27,250 miles",Petrol,Semiauto,Black,SUV,31.4 mpg
+/ad/30922422,Audi A4,Avant 2.0 TFSI 35 Sport Edition Estate 5dr Petrol S Tronic Euro 6 (s/s) (150 ps) Full Leather,"27,200",2022,Automatic,43.5 mpg,Petrol,2022,1984cc,"13,286 miles",Petrol,Automatic,Black,Estate,43.5 mpg
+/ad/30969855,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969308,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"20,360 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30969318,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"20,360 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30969598,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"20,360 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30969649,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"20,360 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30969761,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"20,360 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30969303,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"25,963 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969315,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"25,963 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969579,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"25,963 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969664,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"25,963 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969770,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"25,963 miles",Diesel,Semiauto,Blue,Hatchback,54.3 mpg
+/ad/30969370,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969372,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969406,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969424,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969451,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969534,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969507,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969565,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969624,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969746,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969855,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,200",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30905272,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"27,200",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"16,071 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30905284,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"27,200",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"16,071 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30905915,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"27,200",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"16,071 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30906026,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"27,200",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"16,071 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30906120,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"27,200",2021,Semi-Auto,39.2 mpg,Petrol,2021,2L,"16,071 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30653861,Audi Q5,45 TFSI Quattro S Line 5dr S Tronic SUV,"27,220",2020,Semi-Auto,32.1 mpg,Petrol,2020,2L,"45,610 miles",Petrol,Semiauto,Black,SUV,32.1 mpg
+/ad/30624913,Audi A6,50 TDI Quattro S Line 4dr Tip Auto Saloon,"27,220",2020,Semi-Auto,39.8 mpg,Diesel,2020,3L,"56,382 miles",Diesel,Semiauto,White,Saloon,39.8 mpg
+/ad/30534337,Audi A4,4 2.0 TFSI TECHNIK MHEV 4d 148 BHP Saloon,"27,240",2022,Automatic,45.6 mpg,Petrol,2022,1984cc,"9,425 miles",Petrol,Automatic,WHITE,Saloon,45.6 mpg
+/ad/29933846,Audi A4,4 2.0 AVANT TFSI S LINE 5d 148 BHP Estate,"27,240",2020,Automatic,38.2 mpg,Petrol,2020,1984cc,"33,067 miles",Petrol,Automatic,GREY,Estate,38.2 mpg
+/ad/30929222,Audi Q2,Black Edition 35 TFSI 150 PS 6-speed SUV,"27,240",2022,Manual,44.8 mpg,Petrol,2022,1498cc,"11,513 miles",Petrol,Manual,Black,SUV,44.8 mpg
+/ad/30685020,Audi Q2,1.5 TFSI CoD 35 S line S Tronic Euro 6 (s/s) 5dr 18s,"27,250",2023,Automatic,44.8 mpg,Petrol,2023,1498cc,"3,691 miles",Petrol,Automatic,Black,SUV,44.8 mpg
+/ad/30962255,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"27,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30962418,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"27,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30776880,Audi A5,35 TFSI S Line S Tronic Hatchback,"27,250",2021,Automatic,41.5 mpg,Petrol,2021,2L,"8,085 miles",Petrol,Automatic,WHITE,Hatchback,41.5 mpg
+/ad/30316578,Audi A6,DIESEL SALOON Saloon,"27,250",2020,Automatic,50.4 mpg,Diesel,2020,1968cc,"25,000 miles",Diesel,Automatic,Black,Saloon,50.4 mpg
+/ad/30908880,Audi Q5,2.0 TFSI 45 S line S Tronic quattro Euro 6 (s/s) 5dr 19s,"27,250",2020,Automatic,32.1 mpg,Petrol,2020,1984cc,"44,593 miles",Petrol,Automatic,Black,SUV,32.1 mpg
+/ad/30908881,Audi Q5,2.0 TFSI 45 S line S Tronic quattro Euro 6 (s/s) 5dr 19s,"27,250",2020,Automatic,32.1 mpg,Petrol,2020,1984cc,"45,641 miles",Petrol,Automatic,White,SUV,32.1 mpg
+/ad/30962255,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"27,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30968356,Audi A5,40 TFSI 204 S Line 2dr S Tronic Convertible,"27,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"19,875 miles",Petrol,Semiauto,White,Convertible,39.2 mpg
+/ad/30962418,Audi TT,45 TFSI Sport 2dr S Tronic Coupe,"27,250",2020,Semi-Auto,39.2 mpg,Petrol,2020,2L,"8,082 miles",Petrol,Semiauto,White,Coupe,39.2 mpg
+/ad/30972695,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"27,250",2020,Automatic,Tax: £0,2020,"11,809 miles",Electric,Automatic,Black,SUV,,,
+/ad/30779711,Audi A4,4 35 TDI Black Edition 5dr S Tronic Estate,"27,275",2020,Semi-Auto,49.6 mpg,Diesel,2020,2L,"27,799 miles",Diesel,Semiauto,White,Estate,49.6 mpg
+/ad/30640289,Audi A4,4 40 TFSI 204 Black Edition 4dr S Tronic Saloon,"27,286",2021,Semi-Auto,40.9 mpg,Petrol,2021,2L,"16,664 miles",Petrol,Semiauto,Blue,Saloon,40.9 mpg
+/ad/30161441,Audi Q7,3.0 TDI QUATTRO S LINE 5d 269 BHP Estate,"27,289",2016,Automatic,47.9 mpg,Diesel,2016,2967cc,"54,250 miles",Diesel,Automatic,WHITE,Estate,47.9 mpg
+/ad/30917458,Audi Q3,40 TFSI Quattro S Line 5dr S Tronic SUV,"27,299",2019,Semi-Auto,31.4 mpg,Petrol,2019,2L,"35,457 miles",Petrol,Semiauto,Grey,SUV,31.4 mpg
+/ad/30833965,Audi Q5,40 TDI Quattro S Line 5dr S Tronic SUV,"27,299",2019,Other,38.2 mpg,Diesel,2019,1968cc,"27,574 miles",Diesel,N/A,White,SUV,38.2 mpg
+/ad/30853782,Audi A3,3 40 TFSI e S Line 5dr S Tronic Hatchback,"27,299",2022,Semi-Auto,235.4 mpg,Hybrid,2022,1.4L,"9,311 miles",Hybrid,Semiauto,White,Hatchback,235.4 mpg
+/ad/30890324,Audi Q3,45 TFSI Quattro S Line 5dr S Tronic SUV,"27,299",2019,Semi-Auto,32.1 mpg,Petrol,2019,2L,"50,493 miles",Petrol,Semiauto,White,SUV,32.1 mpg
+/ad/30962254,Audi A5,35 TFSI S Line 5dr S Tronic Hatchback,"27,300",2019,Semi-Auto,39.8 mpg,Petrol,2019,2L,"5,723 miles",Petrol,Semiauto,Black,Hatchback,39.8 mpg
+/ad/30700213,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,300",2021,Automatic,54.3 mpg,Diesel,2021,1968cc,"12,000 miles",Diesel,Automatic,Grey,Hatchback,54.3 mpg
+/ad/30686760,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"27,300",2023,Semi-Auto,44.8 mpg,Petrol,2023,1.5L,"13,950 miles",Petrol,Semiauto,White,SUV,44.8 mpg
+/ad/30966049,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"27,300",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30966156,Audi Q2,35 TFSI S Line 5dr S Tronic SUV,"27,300",2022,Semi-Auto,44.8 mpg,Petrol,2022,1.5L,"29,354 miles",Petrol,Semiauto,Blue,SUV,44.8 mpg
+/ad/30679784,Audi A8,3.0 TDI V6 50 Saloon 4dr Diesel Tiptronic quattro Euro 6 (s/s) (286 ps) Digital Cockpit,"27,300",2019,Automatic,40.4 mpg,Diesel,2019,2967cc,"45,450 miles",Diesel,Automatic,Black,Saloon,40.4 mpg
+/ad/30679784,Audi A8,3.0 TDI V6 50 Saloon 4dr Diesel Tiptronic quattro Euro 6 (s/s) (286 ps) Digital Cockpit,"27,300",2019,Automatic,40.4 mpg,Diesel,2019,2967cc,"45,450 miles",Diesel,Automatic,Black,Saloon,40.4 mpg
+/ad/30676653,Audi A4,4 35 TFSI Black Edition 5dr S Tronic Estate,"27,300",2021,Semi-Auto,40.9 mpg,Petrol,2021,2L,"23,180 miles",Petrol,Semiauto,Black,Estate,40.9 mpg
+/ad/30790747,Audi A6,40 TDI S Line 4dr S Tronic Saloon,"27,349",,Automatic,50.4 mpg,Diesel,1968cc,"18,325 miles",Diesel,Automatic,White,Saloon,50.4 mpg,
+/ad/30963134,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962745,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962750,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962792,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962795,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962819,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962828,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30962884,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30963010,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30963027,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30963035,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/30963078,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,350",2021,Semi-Auto,54.3 mpg,Diesel,2021,2L,"26,611 miles",Diesel,Semiauto,White,Hatchback,54.3 mpg
+/ad/29468615,Audi A5,40 TDI Quattro S Line 2dr S Tronic Convertible,"27,350",2021,Semi-Auto,44.1 mpg,Diesel,2021,2L,"30,600 miles",Diesel,Semiauto,White,Convertible,44.1 mpg
+/ad/30867710,Audi Q3,35 TFSI S Line 5dr S Tronic SUV,"27,350",2020,Automatic,Tax: n/a,2020,1498cc,"19,222 miles",Petrol,Automatic,Grey,SUV,,
+/ad/30141679,Audi A3,3 2.0 S3 SPORTBACK TFSI QUATTRO BLACK EDITION 5d 296 BHP Hatchback,"27,390",2020,Automatic,34.5 mpg,Petrol,2020,1984cc,"27,450 miles",Petrol,Automatic,BLUE,Hatchback,34.5 mpg
+/ad/29580473,Audi A5,S5 Quattro 2dr Tiptronic Coupe,"27,391",2017,Automatic,38.2 mpg,Petrol,2017,2995cc,"42,300 miles",Petrol,Automatic,Blue,Coupe,38.2 mpg
+/ad/30892566,Audi Q5,40 TDI Quattro Black Edition 5dr S Tronic SUV,"27,394",2019,Semi-Auto,38.2 mpg,Diesel,2019,2L,"49,436 miles",Diesel,Semiauto,Grey,SUV,38.2 mpg
+/ad/30341120,Audi A4,4 TDI S LINE BLACK EDITION MHEV Saloon,"27,395",2022,Automatic,53.3 mpg,Diesel,2022,1968cc,"15,000 miles",Diesel,Automatic,Black,Saloon,53.3 mpg
+/ad/30732830,Audi Q2,35 TFSI S Line 5dr SUV,"27,399",2023,Manual,45.6 mpg,Petrol,2023,1.5L,"3,462 miles",Petrol,Manual,Grey,SUV,45.6 mpg
+/ad/30653938,Audi Q2,35 TFSI S Line 5dr SUV,"27,399",2023,Manual,45.6 mpg,Petrol,2023,1.5L,"3,664 miles",Petrol,Manual,Grey,SUV,45.6 mpg
+/ad/30920162,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"27,399",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"7,273 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30964562,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"27,399",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"8,252 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30818837,Audi Q2,35 TFSI Black Edition 5dr S Tronic SUV,"27,399",2021,Semi-Auto,44.1 mpg,Petrol,2021,1.5L,"18,512 miles",Petrol,Semiauto,Blue,SUV,44.1 mpg
+/ad/30956579,Audi Q5,40 TDI Quattro Sport 5dr S Tronic SUV,"27,399",2020,Semi-Auto,44.8 mpg,Diesel,2020,2L,"41,403 miles",Diesel,Semiauto,White,SUV,44.8 mpg
+/ad/30538534,Audi A4,4 2.0 TFSI S LINE BLACK EDITION MHEV 4d 148 BHP Estate,"27,399",2021,Automatic,40.9 mpg,Petrol,2021,1984cc,"18,500 miles",Petrol,Automatic,WHITE,Estate,40.9 mpg
+/ad/30608512,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"27,400",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"6,112 miles",Petrol,Semiauto,White,Hatchback,46.3 mpg
+/ad/29366125,Audi Q3,35 TFSI Technik 5dr SUV,"27,400",2022,Manual,43.5 mpg,Petrol,2022,1.5L,"6,520 miles",Petrol,Manual,Silver,SUV,43.5 mpg
+/ad/30909169,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"27,400",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30908704,Audi A3,3 35 TFSI S Line 5dr S Tronic Hatchback,"27,400",2020,Semi-Auto,46.3 mpg,Petrol,2020,1.5L,"26,468 miles",Petrol,Semiauto,Grey,Hatchback,46.3 mpg
+/ad/30516431,Audi A8,3.0 TDI V6 50 Saloon 4dr Diesel Tiptronic quattro Euro 6 (s/s) (286 ps) Digital Cockpit,"27,400",2018,Automatic,50.4 mpg,Diesel,2018,2967cc,"29,499 miles",Diesel,Automatic,Grey,Saloon,50.4 mpg
+/ad/30873242,Audi A5,2.0 SPORTBACK TDI S LINE MHEV 5d 161 BHP Hatchback,"27,400",2021,Automatic,54.3 mpg,Diesel,2021,1968cc,"34,000 miles",Diesel,Automatic,Blue,Hatchback,54.3 mpg
+/ad/30875380,Audi S3,Black Edition TFSI 300 PS S tronic Hatchback,"27,400",2020,Automatic,34.5 mpg,Petrol,2020,1984cc,"15,972 miles",Petrol,Automatic,Black,Hatchback,34.5 mpg
+/ad/30777541,Audi A4,Avant Avant Black Edition 35 TDI 163 PS S tronic Estate,"27,400",2021,Automatic,52.3 mpg,Diesel,2021,1968cc,"24,679 miles",Diesel,Automatic,White,Estate,52.3 mpg
+/ad/30511589,Audi A4,S line 35 TFSI 150 PS S tronic Saloon,"27,440",2023,Automatic,41.5 mpg,Petrol,2023,1984cc,"1,494 miles",Petrol,Automatic,White,Saloon,41.5 mpg
+/ad/30066490,Audi A3,30 TFSI S Line 5dr S Tronic Hatchback,"27,445",2023,Automatic,51.4 mpg,Petrol,2023,999cc,"5,137 miles",Petrol,Automatic,White,Hatchback,51.4 mpg
+/ad/30900690,Audi Q3,45 TFSI Quattro S Line 5dr S Tronic SUV,"27,445",2018,Automatic,32.1 mpg,Petrol,2018,1984cc,"18,616 miles",Petrol,Automatic,Blue,SUV,32.1 mpg
+/ad/30798463,Audi A3,3 2.0 S3 TFSI QUATTRO BLACK EDITION 4d 296 BHP Saloon,"27,449",2019,Automatic,34.9 mpg,Petrol,2019,1984cc,"33,500 miles",Petrol,Automatic,GREY,Saloon,34.9 mpg
+/ad/30102317,Audi A6,Saloon,"27,450",2019,Automatic,50.4 mpg,Diesel,2019,1968cc,"42,000 miles",Diesel,Automatic,Black,Saloon,50.4 mpg
+/ad/29810780,Audi Q5,DIESEL ESTATE SUV,"27,450",2020,Automatic,39.2 mpg,Diesel,2020,1968cc,"43,629 miles",Diesel,Automatic,IBIS White,SUV,39.2 mpg
+/ad/30812810,Audi A6,DIESEL SALOON Saloon,"27,450",2019,Automatic,50.4 mpg,Diesel,2019,1968cc,"49,000 miles",Diesel,Automatic,Grey,Saloon,50.4 mpg
+/ad/30477159,Audi Q2,35 TFSI Sport 5dr S Tronic SUV,"27,450",2023,Semi-Auto,46.3 mpg,Petrol,2023,1.5L,"1,278 miles",Petrol,Semiauto,Grey,SUV,46.3 mpg
+/ad/30969860,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"27,450",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969820,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"27,450",2020,Semi-Auto,47.1 mpg,Diesel,2020,2L,"26,477 miles",Diesel,Semiauto,Grey,SUV,47.1 mpg
+/ad/30969796,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,450",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969369,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"27,450",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969533,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"27,450",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969555,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"27,450",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969628,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"27,450",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969750,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"27,450",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969860,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"27,450",2020,Automatic,Tax: £0,2020,"23,764 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30969820,Audi Q3,35 TDI S Line 5dr S Tronic SUV,"27,450",2020,Semi-Auto,47.1 mpg,Diesel,2020,2L,"26,477 miles",Diesel,Semiauto,Grey,SUV,47.1 mpg
+/ad/30969332,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,450",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969508,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,450",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969703,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,450",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969724,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,450",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969332,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,450",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969508,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,450",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969703,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,450",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969724,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,450",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30969674,Audi A5,35 TDI S Line 5dr S Tronic Hatchback,"27,450",2021,Semi-Auto,52.3 mpg,Diesel,2021,2L,"32,232 miles",Diesel,Semiauto,Black,Hatchback,52.3 mpg
+/ad/30905818,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"27,450",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30905983,Audi A6,40 TDI Sport 4dr S Tronic Saloon,"27,450",2020,Semi-Auto,50.4 mpg,Diesel,2020,2L,"26,204 miles",Diesel,Semiauto,Blue,Saloon,50.4 mpg
+/ad/30972944,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"27,450",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30972770,Audi e-tron,230kW 50 Quattro 71kWh Technik 5dr Auto SUV,"27,450",2020,Automatic,Tax: £0,2020,"33,860 miles",Electric,Automatic,Blue,SUV,,,
+/ad/30957083,Audi A3,Edition 1 35 TFSI 150 PS 6-speed Hatchback,"27,450",2022,Manual,44.8 mpg,Petrol,2022,1498cc,"14,301 miles",Petrol,Manual,Grey,Hatchback,44.8 mpg
