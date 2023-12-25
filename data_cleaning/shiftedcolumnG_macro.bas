@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub DeleteRowsWithTax()
 
     Dim ws As Worksheet
@@ -6,7 +5,7 @@ Sub DeleteRowsWithTax()
     Dim i As Long
 
     ' Set the worksheet where you want to delete rows
-    Set ws = ThisWorkbook.Sheets("Sheet1") ' Change "Sheet1" to your actual sheet name
+    Set ws = ThisWorkbook.Sheets("all_cars")
     
     ' Find the last row in column G
     lastRow = ws.Cells(ws.Rows.Count, "G").End(xlUp).Row

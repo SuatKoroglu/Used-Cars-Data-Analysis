@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module2"
 Sub DeleteRowsWithEmptyP()
     Dim lastRow As Long
     Dim i As Long
